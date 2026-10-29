@@ -80,7 +80,8 @@ jobs:
           ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon 2>&1 | tee "$RUNNER_TEMP/gradle.log"
       - name: Gradle hata özeti
         if: failure()
-        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/gradle.log" error Gradle 'What went wrong|error:|e: file|FAILED|Could not|Unresolved|Caused by'
+        run: |
+          python3 scripts/ci_annotate.py "$RUNNER_TEMP/gradle.log" error Gradle 'What went wrong|error:|e: file|FAILED|Could not|Unresolved|Caused by'
       - run: cp android/app/build/outputs/apk/release/app-release.apk Voxa-${{ github.run_number }}.apk
       - uses: actions/upload-artifact@v4
         with:
@@ -111,7 +112,8 @@ jobs:
           npx expo prebuild --platform ios 2>&1 | tee "$RUNNER_TEMP/prebuild.log"
       - name: Prebuild hata özeti
         if: failure()
-        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/prebuild.log" error Prebuild
+        run: |
+          python3 scripts/ci_annotate.py "$RUNNER_TEMP/prebuild.log" error Prebuild
       - name: Xcode archive (imzasız)
         run: |
           WS=$(ls -d ios/*.xcworkspace | head -1)
@@ -124,7 +126,8 @@ jobs:
             CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" > "$RUNNER_TEMP/xcode.log" 2>&1
       - name: Xcode hata özeti
         if: failure()
-        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/xcode.log" error Xcode 'error:|fatal|FAILED|failed'
+        run: |
+          python3 scripts/ci_annotate.py "$RUNNER_TEMP/xcode.log" error Xcode 'error:|fatal|FAILED|failed'
       - name: IPA paketle
         run: |
           mkdir -p Payload
