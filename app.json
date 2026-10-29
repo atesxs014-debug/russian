@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Rusça",
+    "slug": "russian",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "backgroundColor": "#0D1120",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#0D1120"
+    },
+    "ios": {
+      "bundleIdentifier": "com.burak.russian",
+      "supportsTablet": false,
+      "infoPlist": {
+        "CFBundleDisplayName": "Rusça",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.burak.russian",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#0D1120"
+      }
+    },
+    "plugins": [
+      "expo-audio"
+    ]
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "units": [
+    {
+      "id": "u1",
+      "level": "baslangic",
+      "title": "Kiril Alfabesi",
+      "subtitle": "33 harf, 6 ders, 1 sınav",
+      "lessons": [
+        {
+          "id": "u1l1",
+          "kind": "letters",
+          "title": "Tanıdık dostlar",
+          "subtitle": "А К М О Т",
+          "intro": "Bu 5 harf hem görünüş hem ses olarak Türkçedekiyle aynı. Rusçaya en kolay giriş!",
+          "letters": [
+            { "id": "a", "upper": "А", "lower": "а", "name": "а", "sound": "a", "hint": "Türkçedeki 'a' ile aynı.", "words": [ { "ru": "ма́ма", "tr": "anne", "read": "mama" }, { "ru": "там", "tr": "orada", "read": "tam" } ] },
+            { "id": "k", "upper": "К", "lower": "к", "name": "ка", "sound": "k", "hint": "Türkçedeki 'k' ile aynı.", "words": [ { "ru": "кот", "tr": "kedi", "read": "kot" }, { "ru": "так", "tr": "böyle", "read": "tak" } ] },
+            { "id": "m", "upper": "М", "lower": "м", "name": "эм", "sound": "m", "hint": "Türkçedeki 'm' ile aynı.", "words": [ { "ru": "мак", "tr": "gelincik çiçeği", "read": "mak" }, { "ru": "ма́ма", "tr": "anne", "read": "mama" } ] },
+            { "id": "o", "upper": "О", "lower": "о", "name": "о", "sound": "o", "hint": "Vurgulu hecede 'o'. Vurgusuz hecede 'a' gibi okunur — bunu ileride çok göreceksin.", "words": [ { "ru": "ток", "tr": "elektrik akımı", "read": "tok" }, { "ru": "кот", "tr": "kedi", "read": "kot" } ] },
+            { "id": "t", "upper": "Т", "lower": "т", "name": "тэ", "sound": "t", "hint": "Türkçedeki 't' ile aynı.", "words": [ { "ru": "кто", "tr": "kim", "read": "kto" }, { "ru": "а́том", "tr": "atom", "read": "atam" } ] }
+          ]
+        },
+        {
+          "id": "u1l2",
+          "kind": "letters",
+          "title": "Aldatıcı harfler",
+          "subtitle": "В Е Н Р С У Х",
+          "intro": "Dikkat! Bu harfler Latin harflerine benziyor ama BAŞKA okunuyor. En çok hata burada yapılır.",
+          "letters": [
+            { "id": "v", "upper": "В", "lower": "в", "name": "вэ", "sound": "v", "hint": "B'ye benziyor ama 'v' okunur!", "words": [ { "ru": "вот", "tr": "işte", "read": "vot" }, { "ru": "ва́та", "tr": "pamuk", "read": "vata" } ] },
+            { "id": "ye", "upper": "Е", "lower": "е", "name": "е", "sound": "ye", "hint": "E'ye benziyor ama 'ye' okunur. Ünsüzden sonra gelince o ünsüzü inceltir.", "words": [ { "ru": "нет", "tr": "hayır", "read": "nyet" }, { "ru": "ве́тер", "tr": "rüzgâr", "read": "vyetir" } ] },
+            { "id": "n", "upper": "Н", "lower": "н", "name": "эн", "sound": "n", "hint": "H'ye benziyor ama 'n' okunur!", "words": [ { "ru": "нос", "tr": "burun", "read": "nos" }, { "ru": "он", "tr": "o (erkek)", "read": "on" } ] },
+            { "id": "r", "upper": "Р", "lower": "р", "name": "эр", "sound": "r", "hint": "P'ye benziyor ama 'r' okunur. Dil ucu titrer.", "words": [ { "ru": "рот", "tr": "ağız", "read": "rot" }, { "ru": "рука́", "tr": "el, kol", "read": "ruka" } ] },
+            { "id": "s", "upper": "С", "lower": "с", "name": "эс", "sound": "s", "hint": "C'ye benziyor ama 's' okunur!", "words": [ { "ru": "сок", "tr": "meyve suyu", "read": "sok" }, { "ru": "сон", "tr": "uyku, rüya", "read": "son" } ] },
+            { "id": "u", "upper": "У", "lower": "у", "name": "у", "sound": "u", "hint": "Y'ye benziyor ama 'u' okunur!", "words": [ { "ru": "у́тро", "tr": "sabah", "read": "utra" }, { "ru": "ум", "tr": "akıl", "read": "um" } ] },
+            { "id": "h", "upper": "Х", "lower": "х", "name": "ха", "sound": "h (gırtlak)", "hint": "X'e benziyor ama gırtlaktan, hırıltılı bir 'h' okunur.", "words": [ { "ru": "хор", "tr": "koro", "read": "hor" }, { "ru": "са́хар", "tr": "şeker", "read": "sahar" } ] }
+          ]
+        },
+        {
+          "id": "u1l3",
+          "kind": "letters",
+          "title": "Yeni harfler",
+          "subtitle": "Б Г Д З Л П Ф И Й Э",
+          "intro": "Şekilleri yeni ama sesleri Türkçede zaten var. Biraz görsel alışkanlık yeter.",
+          "letters": [
+            { "id": "b", "upper": "Б", "lower": "б", "name": "бэ", "sound": "b", "hint": "Türkçedeki 'b'. В ile karıştırma: Б = b, В = v.", "words": [ { "ru": "брат", "tr": "erkek kardeş", "read": "brat" }, { "ru": "банк", "tr": "banka", "read": "bank" } ] },
+            { "id": "g", "upper": "Г", "lower": "г", "name": "гэ", "sound": "g", "hint": "Ters L gibi; Türkçedeki 'g'. Kelime sonunda 'k' gibi okunur.", "words": [ { "ru": "го́род", "tr": "şehir", "read": "gorat" }, { "ru": "год", "tr": "yıl", "read": "got" } ] },
+            { "id": "d", "upper": "Д", "lower": "д", "name": "дэ", "sound": "d", "hint": "Türkçedeki 'd'. Kelime sonunda 't' gibi okunur.", "words": [ { "ru": "да", "tr": "evet", "read": "da" }, { "ru": "дом", "tr": "ev", "read": "dom" } ] },
+            { "id": "z", "upper": "З", "lower": "з", "name": "зэ", "sound": "z", "hint": "3 rakamına benziyor; 'z' okunur.", "words": [ { "ru": "зуб", "tr": "diş", "read": "zup" }, { "ru": "за́втра", "tr": "yarın", "read": "zavtra" } ] },
+            { "id": "l", "upper": "Л", "lower": "л", "name": "эль", "sound": "l", "hint": "Kalın 'l' — Türkçe 'kol' kelimesindeki gibi.", "words": [ { "ru": "стол", "tr": "masa", "read": "stol" }, { "ru": "ла́мпа", "tr": "lamba", "read": "lampa" } ] },
+            { "id": "p", "upper": "П", "lower": "п", "name": "пэ", "sound": "p", "hint": "Kapı gibi duran harf; 'p' okunur.", "words": [ { "ru": "па́па", "tr": "baba", "read": "papa" }, { "ru": "парк", "tr": "park", "read": "park" } ] },
+            { "id": "f", "upper": "Ф", "lower": "ф", "name": "эф", "sound": "f", "hint": "Türkçedeki 'f'.", "words": [ { "ru": "фо́то", "tr": "fotoğraf", "read": "fota" }, { "ru": "фрукт", "tr": "meyve", "read": "frukt" } ] },
+            { "id": "i", "upper": "И", "lower": "и", "name": "и", "sound": "i", "hint": "Ters N gibi görünür ama 'i' okunur!", "words": [ { "ru": "и", "tr": "ve", "read": "i" }, { "ru": "мир", "tr": "dünya, barış", "read": "mir" } ] },
+            { "id": "y", "upper": "Й", "lower": "й", "name": "и кра́ткое", "sound": "y (kısa)", "hint": "Şapkalı И. Kısa bir 'y'; genelde ünlüden sonra gelir.", "words": [ { "ru": "мой", "tr": "benim", "read": "moy" }, { "ru": "май", "tr": "mayıs", "read": "may" } ] },
+            { "id": "e", "upper": "Э", "lower": "э", "name": "э", "sound": "e", "hint": "Ters dönmüş e; açık 'e' okunur. Е'den farkı: 'y' sesi yok.", "words": [ { "ru": "э́то", "tr": "bu", "read": "eta" }, { "ru": "э́хо", "tr": "yankı", "read": "eha" } ] }
+          ]
+        },
+        {
+          "id": "u1l4",
+          "kind": "letters",
+          "title": "Hışırtılı sesler",
+          "subtitle": "Ж Ц Ч Ш Щ",
+          "intro": "Yabancılar burada zorlanır ama sen şanslısın: j, ç ve ş sesleri Türkçede zaten var.",
+          "letters": [
+            { "id": "zh", "upper": "Ж", "lower": "ж", "name": "жэ", "sound": "j", "hint": "Böcek gibi görünür; 'jale' kelimesindeki 'j'.", "words": [ { "ru": "журна́л", "tr": "dergi", "read": "jurnal" }, { "ru": "жена́", "tr": "eş (kadın)", "read": "jına" } ] },
+            { "id": "ts", "upper": "Ц", "lower": "ц", "name": "цэ", "sound": "ts", "hint": "Kuyruklu harf; 't' ve 's' birlikte, tek ses: 'ts'.", "words": [ { "ru": "цирк", "tr": "sirk", "read": "tsirk" }, { "ru": "у́лица", "tr": "sokak", "read": "ulitsa" } ] },
+            { "id": "ch", "upper": "Ч", "lower": "ч", "name": "че", "sound": "ç", "hint": "4 rakamına benzer; Türkçedeki 'ç'.", "words": [ { "ru": "чай", "tr": "çay", "read": "çay" }, { "ru": "час", "tr": "saat", "read": "ças" } ] },
+            { "id": "sh", "upper": "Ш", "lower": "ш", "name": "ша", "sound": "ş", "hint": "Tarak gibi; Türkçedeki 'ş' (kalın).", "words": [ { "ru": "шко́ла", "tr": "okul", "read": "şkola" }, { "ru": "ша́пка", "tr": "şapka", "read": "şapka" } ] },
+            { "id": "shch", "upper": "Щ", "lower": "щ", "name": "ща", "sound": "şş (yumuşak)", "hint": "Ш'nin kuyruklusu. Uzun ve ince bir 'ş'.", "words": [ { "ru": "щи", "tr": "lahana çorbası", "read": "şşi" }, { "ru": "борщ", "tr": "pancar çorbası", "read": "borşş" } ] }
+          ]
+        },
+        {
+          "id": "u1l5",
+          "kind": "letters",
+          "title": "Y'li ünlüler ve işaretler",
+          "subtitle": "Я Ё Ю Ы Ь Ъ",
+          "intro": "Son adım: 'y' ile başlayan ünlüler, Türkçe 'ı'ya benzeyen Ы ve hiç ses vermeyen iki işaret.",
+          "letters": [
+            { "id": "ya", "upper": "Я", "lower": "я", "name": "я", "sound": "ya", "hint": "Ters R gibi; 'ya' okunur. Tek başına 'ben' demektir.", "words": [ { "ru": "я", "tr": "ben", "read": "ya" }, { "ru": "моя́", "tr": "benim (dişil)", "read": "maya" } ] },
+            { "id": "yo", "upper": "Ё", "lower": "ё", "name": "ё", "sound": "yo", "hint": "İki noktalı Е; 'yo' okunur ve her zaman vurguludur.", "words": [ { "ru": "ёлка", "tr": "çam ağacı", "read": "yolka" }, { "ru": "лёд", "tr": "buz", "read": "lyot" } ] },
+            { "id": "yu", "upper": "Ю", "lower": "ю", "name": "ю", "sound": "yu", "hint": "I ve O yan yana gibi; 'yu' okunur.", "words": [ { "ru": "юг", "tr": "güney", "read": "yuk" }, { "ru": "ю́мор", "tr": "mizah", "read": "yumar" } ] },
+            { "id": "yi", "upper": "Ы", "lower": "ы", "name": "ы", "sound": "ı", "hint": "Türkçedeki 'ı'ya çok yakın, sadece biraz daha geriden çıkar.", "words": [ { "ru": "ты", "tr": "sen", "read": "tı" }, { "ru": "сыр", "tr": "peynir", "read": "sır" } ] },
+            { "id": "soft", "upper": "Ь", "lower": "ь", "name": "мя́гкий знак", "sound": "inceltir (ses yok)", "hint": "Yumuşatma işareti. Kendisi okunmaz; önündeki ünsüzü inceltir.", "words": [ { "ru": "соль", "tr": "tuz", "read": "sol'" }, { "ru": "день", "tr": "gün", "read": "dyen'" } ] },
+            { "id": "hard", "upper": "Ъ", "lower": "ъ", "name": "твёрдый знак", "sound": "ayırır (ses yok)", "hint": "Sertlik işareti. Okunmaz; ünsüz ile sonraki ünlü arasına kısa bir duraklama koyar. Nadirdir.", "words": [ { "ru": "подъе́зд", "tr": "apartman girişi", "read": "pad-yest" }, { "ru": "съесть", "tr": "yiyip bitirmek", "read": "s-yest'" } ] }
+          ]
+        },
+        {
+          "id": "u1l6",
+          "kind": "reading",
+          "title": "Okuma kuralları",
+          "subtitle": "Vurgu ve ses değişimleri",
+          "intro": "Harfleri biliyorsun. Şimdi Rusların gerçekte nasıl okuduğunu öğrenelim — yazıldığı gibi okunmayan 3 altın kural.",
+          "rules": [
+            { "title": "Vurgu her şeydir", "text": "Her kelimede tek bir vurgulu hece vardır ve yeri sabit değildir. Bu uygulamada vurgulu ünlünün üstünde ´ işareti göreceksin (ма́ма). Gerçek metinlerde bu işaret yazılmaz.", "examples": [ { "ru": "ма́ма", "tr": "anne", "read": "MA-ma" }, { "ru": "рука́", "tr": "el", "read": "ru-KA" } ] },
+            { "title": "Vurgusuz О → А", "text": "О harfi vurgulu değilse 'a' gibi okunur. Rusçanın en önemli okuma kuralıdır.", "examples": [ { "ru": "молоко́", "tr": "süt", "read": "malakó" }, { "ru": "вода́", "tr": "su", "read": "vadá" }, { "ru": "хорошо́", "tr": "iyi", "read": "haraşó" } ] },
+            { "title": "Vurgusuz Е, Я → İ", "text": "Е ve Я vurgusuz hecede kısa bir 'i' gibi okunur.", "examples": [ { "ru": "сестра́", "tr": "kız kardeş", "read": "sistrá" }, { "ru": "язы́к", "tr": "dil", "read": "yizık" } ] },
+            { "title": "Sonda sertleşme", "text": "Kelime sonundaki Б Д Г З В Ж sert okunur: б→p, д→t, г→k, з→s, в→f, ж→ş.", "examples": [ { "ru": "хлеб", "tr": "ekmek", "read": "hlyep" }, { "ru": "друг", "tr": "arkadaş", "read": "druk" }, { "ru": "раз", "tr": "kere", "read": "ras" } ] }
+          ],
+          "words": [
+            { "ru": "молоко́", "tr": "süt", "read": "malakó" },
+            { "ru": "вода́", "tr": "su", "read": "vadá" },
+            { "ru": "хорошо́", "tr": "iyi", "read": "haraşó" },
+            { "ru": "сестра́", "tr": "kız kardeş", "read": "sistrá" },
+            { "ru": "язы́к", "tr": "dil", "read": "yizık" },
+            { "ru": "хлеб", "tr": "ekmek", "read": "hlyep" },
+            { "ru": "друг", "tr": "arkadaş", "read": "druk" },
+            { "ru": "раз", "tr": "kere", "read": "ras" },
+            { "ru": "го́род", "tr": "şehir", "read": "gorat" },
+            { "ru": "окно́", "tr": "pencere", "read": "akno" }
+          ]
+        }
+      ]
+    }
+  ],
+  "upcoming": [
+    { "level": "baslangic", "title": "Selamlaşma ve tanışma" },
+    { "level": "baslangic", "title": "Sayılar ve zaman" },
+    { "level": "baslangic", "title": "Aile ve insanlar" },
+    { "level": "baslangic", "title": "Yemek ve alışveriş" },
+    { "level": "baslangic", "title": "Şimdiki zaman fiilleri" },
+    { "level": "orta", "title": "Haller (падежи) 1" },
+    { "level": "orta", "title": "Haller (падежи) 2" },
+    { "level": "orta", "title": "Geçmiş ve gelecek zaman" },
+    { "level": "orta", "title": "Fiil görünüşü" },
+    { "level": "orta", "title": "Günlük diyaloglar" },
+    { "level": "yuksek", "title": "Hareket fiilleri" },
+    { "level": "yuksek", "title": "Sıfat-fiiller ve zarf-fiiller" },
+    { "level": "yuksek", "title": "Metin okuma ve anlama" },
+    { "level": "yuksek", "title": "Serbest konuşma" }
+  ]
+}
