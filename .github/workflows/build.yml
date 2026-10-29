@@ -59,7 +59,8 @@ jobs:
       - run: npm install --no-audit --no-fund
       - run: npx expo install --fix
       - name: Type check (bilgi amaçlı)
-        run: npx tsc --noEmit
+        run: |
+          npx tsc --noEmit > "$RUNNER_TEMP/tsc.log" 2>&1 || python3 scripts/ci_annotate.py "$RUNNER_TEMP/tsc.log" warning TypeScript "error TS"
         continue-on-error: true
       - run: npx expo prebuild --platform android --no-install
       - name: Sabit imza anahtarı (güncellemeler veri silmeden kurulsun)
@@ -74,7 +75,12 @@ jobs:
           fi
       - name: Gradle build
         working-directory: android
-        run: ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon --stacktrace
+        run: |
+          set -o pipefail
+          ./gradlew assembleRelease -PreactNativeArchitectures=arm64-v8a,armeabi-v7a --no-daemon 2>&1 | tee "$RUNNER_TEMP/gradle.log"
+      - name: Gradle hata özeti
+        if: failure()
+        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/gradle.log" error Gradle 'What went wrong|error:|e: file|FAILED|Could not|Unresolved|Caused by'
       - run: cp android/app/build/outputs/apk/release/app-release.apk Voxa-${{ github.run_number }}.apk
       - uses: actions/upload-artifact@v4
         with:
@@ -99,7 +105,13 @@ jobs:
         run: sed -i.bak "s/export const BUILD = 0;/export const BUILD = ${{ github.run_number }};/" src/buildInfo.ts && cat src/buildInfo.ts
       - run: npm install --no-audit --no-fund
       - run: npx expo install --fix
-      - run: npx expo prebuild --platform ios
+      - name: Expo prebuild (iOS)
+        run: |
+          set -o pipefail
+          npx expo prebuild --platform ios 2>&1 | tee "$RUNNER_TEMP/prebuild.log"
+      - name: Prebuild hata özeti
+        if: failure()
+        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/prebuild.log" error Prebuild
       - name: Xcode archive (imzasız)
         run: |
           WS=$(ls -d ios/*.xcworkspace | head -1)
@@ -109,7 +121,10 @@ jobs:
           xcodebuild -workspace "$WS" -scheme "$SCHEME" -configuration Release \
             -sdk iphoneos -destination 'generic/platform=iOS' \
             -archivePath "$RUNNER_TEMP/App.xcarchive" archive \
-            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" | tail -n 80
+            CODE_SIGNING_ALLOWED=NO CODE_SIGNING_REQUIRED=NO CODE_SIGN_IDENTITY="" > "$RUNNER_TEMP/xcode.log" 2>&1
+      - name: Xcode hata özeti
+        if: failure()
+        run: python3 scripts/ci_annotate.py "$RUNNER_TEMP/xcode.log" error Xcode 'error:|fatal|FAILED|failed'
       - name: IPA paketle
         run: |
           mkdir -p Payload
