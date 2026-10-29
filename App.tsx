@@ -14,6 +14,8 @@ import ProfileScreen from './src/screens/ProfileScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import LessonsScreen from './src/screens/LessonsScreen';
 import ReviewTab from './src/screens/ReviewTab';
+import SpeakDebtScreen from './src/screens/SpeakDebtScreen';
+import { micPermission } from './src/speech/recorder';
 import TabBar, { Tab } from './src/components/TabBar';
 import { useFonts, Manrope_400Regular, Manrope_500Medium, Manrope_600SemiBold, Manrope_700Bold, Manrope_800ExtraBold } from '@expo-google-fonts/manrope';
 import LessonScreen from './src/screens/LessonScreen';
@@ -28,7 +30,8 @@ export type Route =
   | { name: 'review' }
   | { name: 'weak' }
   | { name: 'test'; unitId: string }
-  | { name: 'settings' };
+  | { name: 'settings' }
+  | { name: 'speak'; lessonId: string };
 
 function Root() {
   const { ready, profile, settings, progress } = useApp();
@@ -45,7 +48,8 @@ function Root() {
   useEffect(() => {
     initAudio();
     shouldShowWhatsNew().then(setWhatsNew);
-    ensurePermission(); // izinler ilk açılışta istenir
+    // izinler ilk açılışta istenir: bildirim, sonra mikrofon
+    ensurePermission().finally(() => micPermission());
   }, []);
 
   useEffect(() => {
@@ -94,7 +98,7 @@ function Root() {
   else
     switch (route.name) {
       case 'lesson':
-        screen = <LessonScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} />;
+        screen = <LessonScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} onSpeakDebt={(id) => setRoute({ name: 'speak', lessonId: id })} />;
         break;
       case 'review':
         screen = <PracticeScreen mode="review" onClose={home} />;
@@ -107,6 +111,9 @@ function Root() {
         break;
       case 'settings':
         screen = <SettingsScreen onClose={home} />;
+        break;
+      case 'speak':
+        screen = <SpeakDebtScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} />;
         break;
       default:
         screen = (

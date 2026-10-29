@@ -19,6 +19,8 @@ export type Progress = {
   xp: number;
   /** Lesson saved mid-way, to resume after the app is closed. */
   resume?: { lessonId: string; card: number };
+  /** Words whose speaking check was skipped ("Şu an konuşamam"); the lesson isn't passed until done. */
+  speakDebt?: Record<string, string[]>;
   updatedAt: string;
 };
 
@@ -105,10 +107,15 @@ function tally(p: Progress, firstTry: Record<string, boolean>) {
   });
 }
 
-export function applyLesson(course: Course, p: Progress, lessonId: string, score: number, firstTry: Record<string, boolean>): Progress {
+export function applyLesson(course: Course, p: Progress, lessonId: string, score: number, firstTry: Record<string, boolean>, skippedSpeech: string[] = []): Progress {
   const next = clone(p);
   const prev = next.lessons[lessonId] ?? { best: 0, attempts: 0 };
-  const passed = score >= PASS;
+  if (skippedSpeech.length) {
+    next.speakDebt = next.speakDebt ?? {};
+    next.speakDebt[lessonId] = [...new Set([...(next.speakDebt[lessonId] ?? []), ...skippedSpeech])];
+  }
+  const owes = (next.speakDebt?.[lessonId]?.length ?? 0) > 0;
+  const passed = score >= PASS && !owes;
   next.lessons[lessonId] = {
     best: Math.max(prev.best, score),
     attempts: prev.attempts + 1,
@@ -124,6 +131,25 @@ export function applyLesson(course: Course, p: Progress, lessonId: string, score
   next.xp += Math.round(score * 20) + (score === 1 ? 10 : 0);
   return touch(next);
 }
+
+/** Marks one skipped word as spoken; when none remain and the quiz was passed, the lesson is passed. */
+export function paySpeakDebt(course: Course, p: Progress, lessonId: string, word: string): Progress {
+  const next = clone(p);
+  const left = (next.speakDebt?.[lessonId] ?? []).filter((w) => w !== word);
+  if (next.speakDebt) {
+    if (left.length) next.speakDebt[lessonId] = left;
+    else delete next.speakDebt[lessonId];
+  }
+  const sc = next.lessons[lessonId];
+  if (!left.length && sc && sc.best >= PASS && !sc.passedAt) {
+    sc.passedAt = today();
+    const found = course.units.flatMap((u) => u.lessons).find((l) => l.id === lessonId);
+    if (found) enroll(next, lessonItems(found));
+  }
+  return touch(next);
+}
+
+export const speakDebtTotal = (p: Progress) => Object.values(p.speakDebt ?? {}).reduce((n, a) => n + a.length, 0);
 
 export function applyTest(p: Progress, unitId: string, score: number, firstTry: Record<string, boolean>): Progress {
   const next = clone(p);

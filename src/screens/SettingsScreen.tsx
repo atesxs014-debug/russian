@@ -152,8 +152,8 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
           <>
             <Text style={st.section}>YEDEK (GEÇİCİ)</Text>
             <View style={st.card}>
-              <Text style={st.p}>Otomatik bulut yedek gelene kadar: IPA'yı silip yüklemeden önce yedeği paylaş (Notlar'a kaydet), yeniden yükleyince buraya yapıştır. Her dil ayrı yedeklenir.</Text>
-              <Button title={`${lang.name} yedeğini paylaş`} icon="share-outline" onPress={() => Share.share({ message: exportBackup() }).catch(() => {})} style={{ marginTop: 12 }} />
+              <Text style={st.p}>IPA'yı silip yüklemeden önce yedeği paylaş (Notlar'a kaydet), yeniden yükleyince buraya yapıştır. Tek yedekte tüm dillerin ilerlemesi, avatarın ve ayarların var.</Text>
+              <Button title="Tüm dillerin yedeğini paylaş" icon="share-outline" onPress={async () => { const m = await exportBackup(); if (m) Share.share({ message: m }).catch(() => {}); }} style={{ marginTop: 12 }} />
               {showImport ? (
                 <>
                   <TextInput value={paste} onChangeText={setPaste} multiline placeholder="Yedek metnini yapıştır" placeholderTextColor={C.dim} style={[st.input, { height: 110, textAlignVertical: 'top', paddingTop: 12, marginTop: 12 }]} />

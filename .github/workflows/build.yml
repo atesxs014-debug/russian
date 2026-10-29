@@ -56,6 +56,18 @@ jobs:
           java-version: 17
       - name: Sürüm numarasını göm
         run: sed -i.bak "s/export const BUILD = 0;/export const BUILD = ${{ github.run_number }};/" src/buildInfo.ts && cat src/buildInfo.ts
+      - name: Whisper modelini önbellekten al
+        uses: actions/cache@v4
+        with:
+          path: assets/models
+          key: whisper-ggml-base-v1
+      - name: Whisper modelini indir (ggml-base, ~148 MB)
+        run: |
+          mkdir -p assets/models
+          if [ ! -s assets/models/ggml-base.bin ]; then
+            curl -fL --retry 3 -o assets/models/ggml-base.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin
+          fi
+          ls -lh assets/models
       - run: npm install --no-audit --no-fund
       - run: npx expo install --fix
       - name: Type check (bilgi amaçlı)
@@ -115,6 +127,18 @@ jobs:
           node-version: 22
       - name: Sürüm numarasını göm
         run: sed -i.bak "s/export const BUILD = 0;/export const BUILD = ${{ github.run_number }};/" src/buildInfo.ts && cat src/buildInfo.ts
+      - name: Whisper modelini önbellekten al
+        uses: actions/cache@v4
+        with:
+          path: assets/models
+          key: whisper-ggml-base-v1
+      - name: Whisper modelini indir (ggml-base, ~148 MB)
+        run: |
+          mkdir -p assets/models
+          if [ ! -s assets/models/ggml-base.bin ]; then
+            curl -fL --retry 3 -o assets/models/ggml-base.bin https://huggingface.co/ggerganov/whisper.cpp/resolve/main/ggml-base.bin
+          fi
+          ls -lh assets/models
       - run: npm install --no-audit --no-fund
       - run: npx expo install --fix
       - name: Expo prebuild (iOS)
@@ -161,7 +185,11 @@ jobs:
         with:
           path: out
           merge-multiple: true
-      - run: ls -lh out
+      - name: Sabit isimli kopyalar (latest linki için)
+        run: |
+          for f in out/Voxa-*.apk; do [ -e "$f" ] && cp "$f" out/Voxa.apk; done
+          for f in out/Voxa-*.ipa; do [ -e "$f" ] && cp "$f" out/Voxa.ipa; done
+          ls -lh out
       - uses: softprops/action-gh-release@v2
         with:
           tag_name: build-${{ github.run_number }}
@@ -170,6 +198,7 @@ jobs:
           files: |
             out/*.apk
             out/*.ipa
+          fail_on_unmatched_files: false
           body: |
             **Android:** `.apk` dosyasını telefona indirip aç ve kur. Güncellemeler üstüne kurulur, ilerleme silinmez.
 

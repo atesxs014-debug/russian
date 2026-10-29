@@ -58,7 +58,7 @@ type Ctx = {
   setLang: (lang: LangCode) => Promise<void>;
   save: (p: Progress) => void;
   resetProgress: () => void;
-  exportBackup: () => string;
+  exportBackup: () => Promise<string>;
   importBackup: (json: string) => Promise<boolean>;
 };
 
@@ -204,24 +204,50 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
     AsyncStorage.setItem(progressKey(active.id, active.settings.lang), JSON.stringify(e)).catch(() => {});
   }, []);
 
-  const exportBackup = useCallback(
-    () => JSON.stringify({ app: 'voxa', v: 1, lang: settings.lang, name: profile?.name, exportedAt: new Date().toISOString(), progress }),
-    [profile, progress, settings.lang],
-  );
+  /** One backup with the profile (avatar, settings) and EVERY language's progress. */
+  const exportBackup = useCallback(async () => {
+    const d = docRef.current;
+    const active = d.list.find((x) => x.id === d.activeId);
+    if (!active) return '';
+    const all: Record<string, Progress> = {};
+    for (const l of active.settings.started) {
+      if (l === active.settings.lang) all[l] = progressRef.current;
+      else {
+        const raw = await AsyncStorage.getItem(progressKey(active.id, l));
+        if (raw) all[l] = JSON.parse(raw);
+      }
+    }
+    return JSON.stringify({ app: 'voxa', v: 2, exportedAt: new Date().toISOString(), profile: { name: active.name, avatar: active.avatar, settings: active.settings, xpTotal: active.xpTotal }, progress: all });
+  }, []);
 
   const importBackup = useCallback(
     async (json: string) => {
       try {
-        const d = JSON.parse(json.trim());
-        if (!['voxa', 'russian'].includes(d?.app) || !d.progress?.lessons) return false;
-        if (d.lang && d.lang !== settings.lang) await setLang(d.lang);
-        save({ ...emptyProgress(), ...d.progress });
+        const data = JSON.parse(json.trim());
+        if (!['voxa', 'russian'].includes(data?.app)) return false;
+        const d = docRef.current;
+        const active = d.list.find((x) => x.id === d.activeId);
+        if (!active) return false;
+        if (data.v === 2 && data.progress && typeof data.progress === 'object') {
+          const langs = Object.keys(data.progress) as LangCode[];
+          for (const l of langs) await AsyncStorage.setItem(progressKey(active.id, l), JSON.stringify({ ...emptyProgress(), ...data.progress[l] }));
+          const prof = data.profile ?? {};
+          const settings = { ...active.settings, ...(prof.settings ?? {}) };
+          settings.started = [...new Set([...(settings.started ?? []), ...langs])];
+          await persistDoc({ ...d, list: d.list.map((x) => (x.id === active.id ? { ...x, avatar: prof.avatar ?? x.avatar, xpTotal: Math.max(x.xpTotal, prof.xpTotal ?? 0), settings } : x)) });
+          await loadProgress(active.id, settings.lang);
+          return true;
+        }
+        // eski tek dilli yedek
+        if (!data.progress?.lessons) return false;
+        if (data.lang && data.lang !== active.settings.lang) await setLang(data.lang);
+        save({ ...emptyProgress(), ...data.progress });
         return true;
       } catch {
         return false;
       }
     },
-    [save, setLang, settings.lang],
+    [persistDoc, loadProgress, save, setLang],
   );
 
   const value: Ctx = {

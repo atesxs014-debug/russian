@@ -1,5 +1,6 @@
 import { Course, Unit } from './course';
 import { Progress, dueItems, lessonLock, testLock, unitOpen } from './progress';
+import { findLesson } from './course';
 
 export type NextLesson = { unitIndex: number; lessonIndex: number; lessonId: string; title: string; unit: Unit; locked: boolean; reason?: string };
 
@@ -29,6 +30,7 @@ export function currentUnitIndex(course: Course, p: Progress): number {
 
 export type Today =
   | { kind: 'review'; count: number; next: NextLesson | null }
+  | { kind: 'speak'; lessonId: string; title: string; count: number }
   | { kind: 'resume'; next: NextLesson; card: number }
   | { kind: 'lesson'; next: NextLesson }
   | { kind: 'test'; unitIndex: number; unit: Unit }
@@ -40,6 +42,8 @@ export function today(course: Course, p: Progress): Today {
   const due = dueItems(p).length;
   const next = nextLesson(course, p);
   if (due > 0) return { kind: 'review', count: due, next };
+  const debt = Object.entries(p.speakDebt ?? {}).find(([, w]) => w.length);
+  if (debt) return { kind: 'speak', lessonId: debt[0], title: findLesson(course, debt[0])?.lesson.title ?? '', count: debt[1].length };
   if (next && p.resume?.lessonId === next.lessonId && p.resume.card > 0) return { kind: 'resume', next, card: p.resume.card };
   if (next && !next.locked) return { kind: 'lesson', next };
   const ui = currentUnitIndex(course, p);

@@ -12,6 +12,10 @@ Konuşarak dil öğrenme uygulaması (Android + iOS, Expo). Diller: 🇷🇺 Rus
 
 `main`'e her push'ta GitHub Actions **Releases** sayfasına `Voxa-N.apk` ve `Voxa-N.ipa` (imzasız, Esign/Feather ile imzalanır) koyar.
 
+Her zaman en son sürüm:
+- Android: https://github.com/atesxs014-debug/russian/releases/latest/download/Voxa.apk
+- iPhone: https://github.com/atesxs014-debug/russian/releases/latest/download/Voxa.ipa
+
 ## Android imza anahtarı
 
 Repo → Settings → Secrets and variables → Actions → `ANDROID_KEYSTORE_B64`. Tanımlıysa her APK aynı anahtarla imzalanır ve güncellemeler ilerleme silinmeden üstüne kurulur.
@@ -24,7 +28,8 @@ Dil paketleri `src/data/<dil>.json` dosyalarında. Yeni ders eklemek için JSON'
 
 1. ✅ 5 dil, ses/alfabe üniteleri, kilit sistemi, ayarlar, bildirimler
 2. ✅ Kelime üniteleri: Rusça 72, İngilizce/Almanca/Fransızca 50, İtalyanca 44 ders
-2. Konuşma analizi (gömülü Whisper), kayıt karşılaştırma
+3. ✅ Konuşma analizi (gömülü Whisper base), kayıt karşılaştırma, telaffuz telafisi
+4. ✅ Lavanta teması, sekmeli sade düzen
 3. Başlangıç seviyesi kelime/diyalog üniteleri (Anya & Dima), Kiril klavye, dikte
 4. Sözlük, çekim tabloları, kopya kağıdı, rozetler, widget, PDF rapor
 5. Orta ve yüksek seviyeler

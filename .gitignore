@@ -12,3 +12,4 @@ web-build/
 npm-debug.*
 .DS_Store
 .env*
+assets/models/*.bin

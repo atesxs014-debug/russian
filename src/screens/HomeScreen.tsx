@@ -45,6 +45,13 @@ export default function HomeScreen({ go, setTab }: { go: (r: Route) => void; set
       sub = `${t.count} öğe seni bekliyor · ~${Math.max(1, Math.round(t.count * 0.2))} dk`;
       action = () => go({ name: 'review' });
       break;
+    case 'speak':
+      kicker = 'TELAFFUZ TELAFİSİ';
+      title = t.title;
+      sub = `${t.count} kelimeyi söylemen gerekiyor · sonraki ders bunu bekliyor`;
+      cta = 'Telafi et';
+      action = () => go({ name: 'speak', lessonId: t.lessonId });
+      break;
     case 'resume':
       kicker = 'KALDIĞIN YER';
       title = t.next.title;
