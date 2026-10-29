@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "Rusça",
-    "slug": "russian",
-    "version": "0.1.0",
-    "orientation": "portrait",
+    "name": "Voxa",
+    "slug": "voxa",
+    "version": "0.2.0",
+    "orientation": "default",
     "icon": "./assets/icon.png",
-    "userInterfaceStyle": "dark",
+    "userInterfaceStyle": "automatic",
     "backgroundColor": "#0D1120",
     "splash": {
       "image": "./assets/splash.png",
@@ -13,23 +13,41 @@
       "backgroundColor": "#0D1120"
     },
     "ios": {
-      "bundleIdentifier": "com.burak.russian",
+      "bundleIdentifier": "com.voxa.app",
       "supportsTablet": false,
       "infoPlist": {
-        "CFBundleDisplayName": "Rusça",
+        "CFBundleDisplayName": "Voxa",
         "ITSAppUsesNonExemptEncryption": false
       }
     },
     "android": {
-      "package": "com.burak.russian",
-      "versionCode": 1,
+      "package": "com.voxa.app",
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#0D1120"
       }
     },
     "plugins": [
-      "expo-audio"
+      [
+        "expo-audio",
+        {
+          "microphonePermission": "Voxa, telaffuzunu değerlendirmek için mikrofonu kullanır. Kayıtlar cihazından çıkmaz."
+        }
+      ],
+      [
+        "expo-notifications",
+        {
+          "color": "#6C8CFF"
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Profil fotoğrafı seçmek için galerine erişim gerekiyor.",
+          "cameraPermission": false
+        }
+      ]
     ]
   }
 }

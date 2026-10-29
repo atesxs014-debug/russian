@@ -1,0 +1,83 @@
+{
+ "code": "en",
+ "units": [
+  {
+   "id": "u1", "level": "baslangic", "title": "İngilizce Sesler", "subtitle": "Yazıldığı gibi okunmayan dilin anahtarı",
+   "lessons": [
+    {
+     "id": "u1l1", "kind": "letters", "title": "Kısa ve uzun ünlüler", "subtitle": "a · ee · i · oo · u",
+     "intro": "İngilizcede aynı harf farklı okunur. Önce Türkçede olmayan ünlülerle başlıyoruz.",
+     "letters": [
+      { "id": "ae", "upper": "a", "lower": "", "name": "cat", "sound": "e/a arası (æ)", "hint": "Ağzı geniş açıp 'e' der gibi. cat → 'ket' ile 'kat' arası.", "words": [ { "t": "cat", "tr": "kedi", "read": "kæt" }, { "t": "apple", "tr": "elma", "read": "æpıl" } ] },
+      { "id": "ii", "upper": "ee", "lower": "ea", "name": "see", "sound": "uzun i", "hint": "ee ve ea çoğunlukla uzun bir 'ii'.", "words": [ { "t": "see", "tr": "görmek", "read": "sii" }, { "t": "tea", "tr": "çay", "read": "tii" } ] },
+      { "id": "ih", "upper": "i", "lower": "", "name": "sit", "sound": "kısa i (ı'ya yakın)", "hint": "Kısa ve gevşek bir 'i'. sit ≠ seat.", "words": [ { "t": "sit", "tr": "oturmak", "read": "sit" }, { "t": "big", "tr": "büyük", "read": "big" } ] },
+      { "id": "uu", "upper": "oo", "lower": "", "name": "food", "sound": "uzun u", "hint": "oo çoğunlukla uzun 'uu'.", "words": [ { "t": "food", "tr": "yemek", "read": "fuud" }, { "t": "moon", "tr": "ay", "read": "muun" } ] },
+      { "id": "uh", "upper": "u", "lower": "", "name": "cup", "sound": "a (kısa)", "hint": "Kapalı hecede u çoğu zaman kısa 'a' gibi: cup → 'kap'.", "words": [ { "t": "cup", "tr": "fincan", "read": "kap" }, { "t": "sun", "tr": "güneş", "read": "san" } ] }
+     ]
+    },
+    {
+     "id": "u1l2", "kind": "letters", "title": "Zor ünsüzler", "subtitle": "th · th · w · v · r",
+     "intro": "Türkçede olmayan th ve w seslerini doğru çıkarmak aksanı en çok değiştiren şey.",
+     "letters": [
+      { "id": "th1", "upper": "th", "lower": "(sert)", "name": "think", "sound": "dil dişler arası (sert)", "hint": "Dilin ucu üst dişlere değer, üflenir. 't' ya da 's' değil!", "words": [ { "t": "think", "tr": "düşünmek", "read": "θink" }, { "t": "three", "tr": "üç", "read": "θrii" } ] },
+      { "id": "th2", "upper": "th", "lower": "(yumuşak)", "name": "this", "sound": "dil dişler arası (yumuşak)", "hint": "Aynı dil konumu ama ses telleri titrer. 'd' ya da 'z' değil.", "words": [ { "t": "this", "tr": "bu", "read": "ðis" }, { "t": "mother", "tr": "anne", "read": "maðır" } ] },
+      { "id": "w", "upper": "w", "lower": "", "name": "water", "sound": "u-v arası (w)", "hint": "Dudaklar yuvarlanır, dişler değmez. 'v' değil!", "words": [ { "t": "water", "tr": "su", "read": "woutır" }, { "t": "window", "tr": "pencere", "read": "windou" } ] },
+      { "id": "v", "upper": "v", "lower": "", "name": "very", "sound": "v", "hint": "Üst dişler alt dudağa değer — Türkçe 'v' gibi.", "words": [ { "t": "very", "tr": "çok", "read": "veri" }, { "t": "have", "tr": "sahip olmak", "read": "hæv" } ] },
+      { "id": "r", "upper": "r", "lower": "", "name": "red", "sound": "kıvrık r", "hint": "Dil damağa değmez, geriye kıvrılır. Titretme yok.", "words": [ { "t": "red", "tr": "kırmızı", "read": "red" }, { "t": "run", "tr": "koşmak", "read": "ran" } ] }
+     ]
+    },
+    {
+     "id": "u1l3", "kind": "letters", "title": "İkili ünlüler", "subtitle": "ay · ai · oa · ow · oy",
+     "intro": "İki sesin kayarak birleştiği ünlüler. Türkçe 'ey, ay, ov, av, oy' sesleriyle eşleştirebilirsin.",
+     "letters": [
+      { "id": "ei", "upper": "ay", "lower": "ai", "name": "day", "sound": "ey", "hint": "day → 'dey', rain → 'reyn'.", "words": [ { "t": "day", "tr": "gün", "read": "dey" }, { "t": "rain", "tr": "yağmur", "read": "reyn" } ] },
+      { "id": "ai", "upper": "i_e", "lower": "igh", "name": "time", "sound": "ay", "hint": "Sonda sessiz e varsa i 'ay' olur: time → 'taym'.", "words": [ { "t": "time", "tr": "zaman", "read": "taym" }, { "t": "night", "tr": "gece", "read": "nayt" } ] },
+      { "id": "ou", "upper": "o_e", "lower": "oa", "name": "home", "sound": "ou", "hint": "o 'ou' diye kayar: home → 'houm'.", "words": [ { "t": "home", "tr": "ev", "read": "houm" }, { "t": "boat", "tr": "tekne", "read": "bout" } ] },
+      { "id": "au", "upper": "ow", "lower": "ou", "name": "now", "sound": "av", "hint": "now → 'nav', house → 'havs'.", "words": [ { "t": "now", "tr": "şimdi", "read": "nav" }, { "t": "house", "tr": "ev", "read": "havs" } ] },
+      { "id": "oi", "upper": "oy", "lower": "oi", "name": "boy", "sound": "oy", "hint": "Türkçe 'oy' ile aynı.", "words": [ { "t": "boy", "tr": "erkek çocuk", "read": "boy" }, { "t": "coin", "tr": "madeni para", "read": "koyn" } ] }
+     ]
+    },
+    {
+     "id": "u1l4", "kind": "letters", "title": "Harf grupları", "subtitle": "sh · ch · j · ng · ph",
+     "intro": "İki harfin tek ses verdiği gruplar. Çoğu Türkçede var, sadece yazılışı farklı.",
+     "letters": [
+      { "id": "sh", "upper": "sh", "lower": "", "name": "she", "sound": "ş", "hint": "sh = Türkçe 'ş'.", "words": [ { "t": "she", "tr": "o (kadın)", "read": "şii" }, { "t": "fish", "tr": "balık", "read": "fiş" } ] },
+      { "id": "ch", "upper": "ch", "lower": "tch", "name": "chair", "sound": "ç", "hint": "ch ve tch = Türkçe 'ç'.", "words": [ { "t": "chair", "tr": "sandalye", "read": "çeır" }, { "t": "watch", "tr": "saat", "read": "woç" } ] },
+      { "id": "j", "upper": "j", "lower": "g(e)", "name": "job", "sound": "c", "hint": "j ve e/i önündeki g çoğu zaman Türkçe 'c'.", "words": [ { "t": "job", "tr": "iş", "read": "cob" }, { "t": "orange", "tr": "portakal", "read": "orinc" } ] },
+      { "id": "ng", "upper": "ng", "lower": "", "name": "sing", "sound": "genizden n", "hint": "Sonda g okunmaz, n genizden çıkar.", "words": [ { "t": "sing", "tr": "şarkı söylemek", "read": "siŋ" }, { "t": "long", "tr": "uzun", "read": "loŋ" } ] },
+      { "id": "ph", "upper": "ph", "lower": "", "name": "phone", "sound": "f", "hint": "ph = f.", "words": [ { "t": "phone", "tr": "telefon", "read": "foun" }, { "t": "photo", "tr": "fotoğraf", "read": "foutou" } ] }
+     ]
+    },
+    {
+     "id": "u1l5", "kind": "reading", "title": "Okuma kuralları", "subtitle": "Sessiz harfler ve -ed",
+     "intro": "İngilizce kelimelerin çoğu bu 4 kuralla doğru okunur.",
+     "rules": [
+      { "title": "Sessiz e", "text": "Kelime sonundaki e okunmaz ama önceki ünlüyü 'uzun' yapar: hat → hate.", "examples": [ { "t": "make", "tr": "yapmak", "read": "meyk" }, { "t": "time", "tr": "zaman", "read": "taym" } ] },
+      { "title": "Sessiz harfler", "text": "Bazı harfler yazılır ama okunmaz: kn'deki k, wr'deki w, listen'daki t.", "examples": [ { "t": "knife", "tr": "bıçak", "read": "nayf" }, { "t": "write", "tr": "yazmak", "read": "rayt" }, { "t": "listen", "tr": "dinlemek", "read": "lisın" } ] },
+      { "title": "-ed üç türlü okunur", "text": "t / d / id: worked (workt), played (pleyd), wanted (wontid).", "examples": [ { "t": "worked", "tr": "çalıştı", "read": "workt" }, { "t": "played", "tr": "oynadı", "read": "pleyd" }, { "t": "wanted", "tr": "istedi", "read": "wontid" } ] },
+      { "title": "Belirsiz ünlü (ə)", "text": "Vurgusuz ünlüler çoğu zaman kısa, belirsiz bir 'ı/ə' olur.", "examples": [ { "t": "about", "tr": "hakkında", "read": "ıbavt" }, { "t": "banana", "tr": "muz", "read": "bınana" } ] }
+     ],
+     "words": [
+      { "t": "make", "tr": "yapmak", "read": "meyk" }, { "t": "knife", "tr": "bıçak", "read": "nayf" }, { "t": "write", "tr": "yazmak", "read": "rayt" },
+      { "t": "listen", "tr": "dinlemek", "read": "lisın" }, { "t": "worked", "tr": "çalıştı", "read": "workt" }, { "t": "played", "tr": "oynadı", "read": "pleyd" },
+      { "t": "wanted", "tr": "istedi", "read": "wontid" }, { "t": "about", "tr": "hakkında", "read": "ıbavt" }, { "t": "hour", "tr": "saat (süre)", "read": "avır" }, { "t": "banana", "tr": "muz", "read": "bınana" }
+     ]
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  { "level": "baslangic", "title": "Selamlaşma ve tanışma" }, { "level": "baslangic", "title": "Sayılar ve zaman" }, { "level": "baslangic", "title": "to be ve basit cümleler" }, { "level": "baslangic", "title": "Present Simple" }, { "level": "baslangic", "title": "Yemek, alışveriş, yol tarifi" },
+  { "level": "orta", "title": "Past Simple ve düzensiz fiiller" }, { "level": "orta", "title": "Present Perfect" }, { "level": "orta", "title": "Gelecek zaman yapıları" }, { "level": "orta", "title": "Phrasal verbs" }, { "level": "orta", "title": "Günlük diyaloglar" },
+  { "level": "yuksek", "title": "Koşul cümleleri" }, { "level": "yuksek", "title": "Edilgen yapı ve dolaylı anlatım" }, { "level": "yuksek", "title": "Metin okuma ve anlama" }, { "level": "yuksek", "title": "Serbest konuşma" }
+ ],
+ "quotes": [
+  { "t": "Practice makes perfect.", "tr": "Pratik mükemmelleştirir." },
+  { "t": "Better late than never.", "tr": "Geç olsun da güç olmasın." },
+  { "t": "Where there's a will, there's a way.", "tr": "İsteyen her yolu bulur." },
+  { "t": "Rome wasn't built in a day.", "tr": "Roma bir günde kurulmadı." },
+  { "t": "Actions speak louder than words.", "tr": "Davranışlar sözlerden daha çok şey anlatır." },
+  { "t": "Every cloud has a silver lining.", "tr": "Her işte bir hayır vardır." },
+  { "t": "Knowledge is power.", "tr": "Bilgi güçtür." }
+ ]
+}

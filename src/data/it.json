@@ -1,0 +1,68 @@
+{
+ "code": "it",
+ "units": [
+  {
+   "id": "u1", "level": "baslangic", "title": "İtalyanca Sesler", "subtitle": "C/G kuralı, harf grupları, çift ünsüzler",
+   "lessons": [
+    {
+     "id": "u1l1", "kind": "letters", "title": "C ve G kuralı", "subtitle": "ca · ci · ga · gi",
+     "intro": "İtalyancanın en önemli kuralı: c ve g, arkasındaki ünlüye göre sert ya da yumuşak okunur.",
+     "letters": [
+      { "id": "ca", "upper": "ca", "lower": "co · cu", "name": "casa", "sound": "k", "hint": "a, o, u önünde c = 'k'.", "words": [ { "t": "casa", "tr": "ev", "read": "kaza" }, { "t": "cuore", "tr": "kalp", "read": "kuore" } ] },
+      { "id": "ci", "upper": "ci", "lower": "ce", "name": "ciao", "sound": "ç", "hint": "e, i önünde c = 'ç'.", "words": [ { "t": "ciao", "tr": "merhaba / hoşça kal", "read": "çao" }, { "t": "cena", "tr": "akşam yemeği", "read": "çena" } ] },
+      { "id": "ga", "upper": "ga", "lower": "go · gu", "name": "gatto", "sound": "g", "hint": "a, o, u önünde g = 'g'.", "words": [ { "t": "gatto", "tr": "kedi", "read": "gatto" }, { "t": "gusto", "tr": "tat", "read": "gusto" } ] },
+      { "id": "gi", "upper": "gi", "lower": "ge", "name": "gelato", "sound": "c", "hint": "e, i önünde g = Türkçe 'c'.", "words": [ { "t": "gelato", "tr": "dondurma", "read": "celato" }, { "t": "giorno", "tr": "gün", "read": "corno" } ] }
+     ]
+    },
+    {
+     "id": "u1l2", "kind": "letters", "title": "H ile sertleştirme", "subtitle": "chi · ghi · sci · sca",
+     "intro": "c/g'yi e ve i önünde sert okutmak için araya h girer. sc grupları da aynı kurala uyar.",
+     "letters": [
+      { "id": "chi", "upper": "chi", "lower": "che", "name": "chiesa", "sound": "k (h ile)", "hint": "ch = 'k' (h sertleştirir).", "words": [ { "t": "che", "tr": "ne", "read": "ke" }, { "t": "chiesa", "tr": "kilise", "read": "kieza" } ] },
+      { "id": "ghi", "upper": "ghi", "lower": "ghe", "name": "spaghetti", "sound": "g (h ile)", "hint": "gh = 'g'.", "words": [ { "t": "spaghetti", "tr": "spagetti", "read": "spagetti" }, { "t": "ghiaccio", "tr": "buz", "read": "giaççio" } ] },
+      { "id": "sci", "upper": "sci", "lower": "sce", "name": "pesce", "sound": "ş", "hint": "e, i önünde sc = 'ş'.", "words": [ { "t": "pesce", "tr": "balık", "read": "peşe" }, { "t": "scienza", "tr": "bilim", "read": "şientsa" } ] },
+      { "id": "sca", "upper": "sca", "lower": "sco · scu", "name": "scuola", "sound": "sk", "hint": "a, o, u önünde sc = 'sk'.", "words": [ { "t": "scuola", "tr": "okul", "read": "skuola" }, { "t": "scarpa", "tr": "ayakkabı", "read": "skarpa" } ] }
+     ]
+    },
+    {
+     "id": "u1l3", "kind": "letters", "title": "Özel harfler", "subtitle": "gli · gn · z · h",
+     "intro": "Türkçede tam karşılığı olmayan iki grup ve iki küçük tuzak.",
+     "letters": [
+      { "id": "gli", "upper": "gli", "lower": "", "name": "famiglia", "sound": "ly", "hint": "gli = 'ly' tek ses (g okunmaz).", "words": [ { "t": "famiglia", "tr": "aile", "read": "familya" }, { "t": "figlio", "tr": "oğul", "read": "filyo" } ] },
+      { "id": "gn", "upper": "gn", "lower": "", "name": "bagno", "sound": "ny", "hint": "gn = 'ny'.", "words": [ { "t": "bagno", "tr": "banyo", "read": "banyo" }, { "t": "gnocchi", "tr": "nyokki (makarna)", "read": "nyokki" } ] },
+      { "id": "z", "upper": "z", "lower": "", "name": "pizza", "sound": "ts / dz", "hint": "z çoğunlukla 'ts' ya da 'dz' — Türkçe 'z' değil.", "words": [ { "t": "pizza", "tr": "pizza", "read": "pittsa" }, { "t": "zero", "tr": "sıfır", "read": "dzero" } ] },
+      { "id": "h", "upper": "h", "lower": "", "name": "ho", "sound": "okunmaz", "hint": "h tek başına hiç okunmaz.", "words": [ { "t": "ho", "tr": "bende var", "read": "o" }, { "t": "hanno", "tr": "onlarda var", "read": "anno" } ] }
+     ]
+    },
+    {
+     "id": "u1l4", "kind": "reading", "title": "Okuma kuralları", "subtitle": "Çift ünsüz ve vurgu",
+     "intro": "İtalyanca yazıldığı gibi okunur. Bu iki kural doğal telaffuzun sırrı.",
+     "rules": [
+      { "title": "Çift ünsüzler uzun okunur", "text": "Çift yazılan ünsüz uzatılır ve anlamı değiştirir: nono (dokuzuncu) ≠ nonno (dede).", "examples": [ { "t": "nonno", "tr": "dede", "read": "non-no" }, { "t": "anno", "tr": "yıl", "read": "an-no" }, { "t": "pizza", "tr": "pizza", "read": "pit-tsa" } ] },
+      { "title": "Vurgu çoğunlukla sondan ikinci hecede", "text": "Aksanlı son harf varsa vurgu oradadır: città, perché, caffè.", "examples": [ { "t": "città", "tr": "şehir", "read": "çittá" }, { "t": "perché", "tr": "neden / çünkü", "read": "perké" }, { "t": "caffè", "tr": "kahve", "read": "kaffé" } ] },
+      { "title": "Ünlüler hep net", "text": "İtalyanca ünlüler asla yutulmaz; her ünlüyü tam söyle.", "examples": [ { "t": "grazie", "tr": "teşekkürler", "read": "gratsie" }, { "t": "buongiorno", "tr": "günaydın", "read": "buoncorno" } ] }
+     ],
+     "words": [
+      { "t": "nonno", "tr": "dede", "read": "non-no" }, { "t": "anno", "tr": "yıl", "read": "an-no" }, { "t": "città", "tr": "şehir", "read": "çittá" },
+      { "t": "perché", "tr": "neden / çünkü", "read": "perké" }, { "t": "caffè", "tr": "kahve", "read": "kaffé" }, { "t": "grazie", "tr": "teşekkürler", "read": "gratsie" },
+      { "t": "buongiorno", "tr": "günaydın", "read": "buoncorno" }, { "t": "prego", "tr": "rica ederim", "read": "prego" }, { "t": "ragazzo", "tr": "genç, oğlan", "read": "ragattso" }, { "t": "bello", "tr": "güzel", "read": "bel-lo" }
+     ]
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  { "level": "baslangic", "title": "Selamlaşma ve tanışma" }, { "level": "baslangic", "title": "Sayılar ve zaman" }, { "level": "baslangic", "title": "Artikeller: il, la, i, le" }, { "level": "baslangic", "title": "Şimdiki zaman fiilleri" }, { "level": "baslangic", "title": "Restoran ve alışveriş" },
+  { "level": "orta", "title": "Passato prossimo" }, { "level": "orta", "title": "Imperfetto" }, { "level": "orta", "title": "Futuro ve condizionale" }, { "level": "orta", "title": "Zamirler" }, { "level": "orta", "title": "Günlük diyaloglar" },
+  { "level": "yuksek", "title": "Congiuntivo" }, { "level": "yuksek", "title": "Dolaylı anlatım" }, { "level": "yuksek", "title": "Metin okuma ve anlama" }, { "level": "yuksek", "title": "Serbest konuşma" }
+ ],
+ "quotes": [
+  { "t": "Chi va piano va sano e va lontano.", "tr": "Yavaş giden sağlam ve uzağa gider." },
+  { "t": "Meglio tardi che mai.", "tr": "Geç olsun da güç olmasın." },
+  { "t": "Volere è potere.", "tr": "İstemek başarmaktır." },
+  { "t": "Sbagliando s'impara.", "tr": "Hata yaparak öğrenilir." },
+  { "t": "Roma non fu fatta in un giorno.", "tr": "Roma bir günde kurulmadı." },
+  { "t": "Chi cerca trova.", "tr": "Arayan bulur." },
+  { "t": "L'appetito vien mangiando.", "tr": "İştah yedikçe açılır." }
+ ]
+}

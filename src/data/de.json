@@ -1,0 +1,82 @@
+{
+ "code": "de",
+ "units": [
+  {
+   "id": "u1", "level": "baslangic", "title": "Almanca Sesler", "subtitle": "Umlaut'lar, harf grupları, okuma kuralları",
+   "lessons": [
+    {
+     "id": "u1l1", "kind": "letters", "title": "Umlaut ve ß", "subtitle": "Ä · Ö · Ü · ß",
+     "intro": "İyi haber: Ö ve Ü Türkçedekiyle aynı! Ä ve ß'yi de hemen öğreneceksin.",
+     "letters": [
+      { "id": "ae", "upper": "Ä", "lower": "ä", "name": "Käse", "sound": "açık e", "hint": "Türkçe 'e' gibi, biraz daha açık.", "words": [ { "t": "Käse", "tr": "peynir", "read": "keze" }, { "t": "Mädchen", "tr": "kız", "read": "metçın" } ] },
+      { "id": "oe", "upper": "Ö", "lower": "ö", "name": "schön", "sound": "ö", "hint": "Türkçe 'ö' ile aynı.", "words": [ { "t": "schön", "tr": "güzel", "read": "şön" }, { "t": "Öl", "tr": "yağ", "read": "öl" } ] },
+      { "id": "ue", "upper": "Ü", "lower": "ü", "name": "Tür", "sound": "ü", "hint": "Türkçe 'ü' ile aynı.", "words": [ { "t": "Tür", "tr": "kapı", "read": "tür" }, { "t": "über", "tr": "üzerinde", "read": "übır" } ] },
+      { "id": "ss", "upper": "ß", "lower": "", "name": "Straße", "sound": "s", "hint": "'Eszett'. Keskin bir 's' — B değil!", "words": [ { "t": "Straße", "tr": "cadde", "read": "ştrase" }, { "t": "heißen", "tr": "adı olmak", "read": "haysın" } ] }
+     ]
+    },
+    {
+     "id": "u1l2", "kind": "letters", "title": "Aldatıcı harfler", "subtitle": "W · V · Z · J · S",
+     "intro": "Bu harfleri görünce Türkçe gibi okuma! Almancada başka ses veriyorlar.",
+     "letters": [
+      { "id": "w", "upper": "W", "lower": "w", "name": "Wasser", "sound": "v", "hint": "W = Türkçe 'v'.", "words": [ { "t": "Wasser", "tr": "su", "read": "vasır" }, { "t": "Wein", "tr": "şarap", "read": "vayn" } ] },
+      { "id": "v", "upper": "V", "lower": "v", "name": "Vater", "sound": "f", "hint": "V çoğunlukla 'f' okunur!", "words": [ { "t": "Vater", "tr": "baba", "read": "fatır" }, { "t": "viel", "tr": "çok", "read": "fiil" } ] },
+      { "id": "z", "upper": "Z", "lower": "z", "name": "Zeit", "sound": "ts", "hint": "Z = 'ts'. Asla Türkçe 'z' değil.", "words": [ { "t": "Zeit", "tr": "zaman", "read": "tsayt" }, { "t": "zehn", "tr": "on", "read": "tseen" } ] },
+      { "id": "j", "upper": "J", "lower": "j", "name": "ja", "sound": "y", "hint": "J = Türkçe 'y'.", "words": [ { "t": "ja", "tr": "evet", "read": "ya" }, { "t": "Jahr", "tr": "yıl", "read": "yaar" } ] },
+      { "id": "s", "upper": "S", "lower": "s", "name": "Sonne", "sound": "z (ünlüden önce)", "hint": "Ünlüden önce S yumuşak 'z' olur.", "words": [ { "t": "Sonne", "tr": "güneş", "read": "zone" }, { "t": "Rose", "tr": "gül", "read": "roze" } ] }
+     ]
+    },
+    {
+     "id": "u1l3", "kind": "letters", "title": "Ünlü ikilileri", "subtitle": "ei · ie · eu · au · ch",
+     "intro": "En sık hata: ei ile ie'yi karıştırmak. Kural: ikinci harfi oku! ei → 'ay', ie → 'ii'.",
+     "letters": [
+      { "id": "ei", "upper": "ei", "lower": "", "name": "drei", "sound": "ay", "hint": "ei = 'ay'.", "words": [ { "t": "drei", "tr": "üç", "read": "dray" }, { "t": "mein", "tr": "benim", "read": "mayn" } ] },
+      { "id": "ie", "upper": "ie", "lower": "", "name": "Liebe", "sound": "uzun i", "hint": "ie = uzun 'ii'.", "words": [ { "t": "Liebe", "tr": "sevgi", "read": "liibe" }, { "t": "vier", "tr": "dört", "read": "fiir" } ] },
+      { "id": "eu", "upper": "eu", "lower": "äu", "name": "neu", "sound": "oy", "hint": "eu ve äu = 'oy'.", "words": [ { "t": "neu", "tr": "yeni", "read": "noy" }, { "t": "Häuser", "tr": "evler", "read": "hoyzır" } ] },
+      { "id": "au", "upper": "au", "lower": "", "name": "Haus", "sound": "av", "hint": "au = 'av'.", "words": [ { "t": "Haus", "tr": "ev", "read": "havs" }, { "t": "Frau", "tr": "kadın", "read": "frav" } ] },
+      { "id": "ch", "upper": "ch", "lower": "", "name": "ich", "sound": "h (hırıltılı)", "hint": "i/e'den sonra ince 'h' (ich), a/o/u'dan sonra gırtlaktan 'h' (Buch).", "words": [ { "t": "ich", "tr": "ben", "read": "ih" }, { "t": "Buch", "tr": "kitap", "read": "buh" } ] }
+     ]
+    },
+    {
+     "id": "u1l4", "kind": "letters", "title": "Ünsüz grupları", "subtitle": "sch · sp · st · tsch · -ig",
+     "intro": "Almanca kelimelerin başında çok sık göreceğin gruplar.",
+     "letters": [
+      { "id": "sch", "upper": "sch", "lower": "", "name": "Schule", "sound": "ş", "hint": "sch = 'ş'.", "words": [ { "t": "Schule", "tr": "okul", "read": "şule" }, { "t": "Fisch", "tr": "balık", "read": "fiş" } ] },
+      { "id": "sp", "upper": "sp", "lower": "", "name": "Sport", "sound": "şp", "hint": "Kelime başında sp = 'şp'.", "words": [ { "t": "Sport", "tr": "spor", "read": "şport" }, { "t": "sprechen", "tr": "konuşmak", "read": "şprehın" } ] },
+      { "id": "st", "upper": "st", "lower": "", "name": "Stadt", "sound": "şt", "hint": "Kelime başında st = 'şt'.", "words": [ { "t": "Stadt", "tr": "şehir", "read": "ştat" }, { "t": "Stuhl", "tr": "sandalye", "read": "ştuul" } ] },
+      { "id": "tsch", "upper": "tsch", "lower": "", "name": "Deutsch", "sound": "ç", "hint": "tsch = 'ç'.", "words": [ { "t": "Deutsch", "tr": "Almanca", "read": "doyç" }, { "t": "tschüss", "tr": "hoşça kal", "read": "çüs" } ] },
+      { "id": "ig", "upper": "-ig", "lower": "", "name": "richtig", "sound": "ih (sonda)", "hint": "Sondaki -ig 'ih' okunur.", "words": [ { "t": "richtig", "tr": "doğru", "read": "rihtih" }, { "t": "zwanzig", "tr": "yirmi", "read": "tsvantsih" } ] }
+     ]
+    },
+    {
+     "id": "u1l5", "kind": "reading", "title": "Okuma kuralları", "subtitle": "-er, h, sonda sertleşme, r",
+     "intro": "Almanca neredeyse yazıldığı gibi okunur — bu 4 kural dışında.",
+     "rules": [
+      { "title": "Sondaki -er → 'ır/a'", "text": "Kelime sonundaki -er hafif bir 'ır' ya da 'a' gibi okunur.", "examples": [ { "t": "Vater", "tr": "baba", "read": "fatır" }, { "t": "Mutter", "tr": "anne", "read": "mutır" } ] },
+      { "title": "Ünlüden sonra h okunmaz", "text": "Ünlüden sonra gelen h sessizdir, ünlüyü uzatır.", "examples": [ { "t": "gehen", "tr": "gitmek", "read": "geeın" }, { "t": "Zahl", "tr": "sayı", "read": "tsaal" } ] },
+      { "title": "Sonda sertleşme", "text": "Sondaki b, d, g sert okunur: p, t, k.", "examples": [ { "t": "Kind", "tr": "çocuk", "read": "kint" }, { "t": "Tag", "tr": "gün", "read": "taak" }, { "t": "Hund", "tr": "köpek", "read": "hunt" } ] },
+      { "title": "Gırtlak r'si", "text": "Almanca r dilin ucuyla değil, gırtlaktan hafif hırıltıyla çıkar.", "examples": [ { "t": "rot", "tr": "kırmızı", "read": "root" }, { "t": "Bruder", "tr": "erkek kardeş", "read": "bruudır" } ] }
+     ],
+     "words": [
+      { "t": "Vater", "tr": "baba", "read": "fatır" }, { "t": "Mutter", "tr": "anne", "read": "mutır" }, { "t": "gehen", "tr": "gitmek", "read": "geeın" },
+      { "t": "Zahl", "tr": "sayı", "read": "tsaal" }, { "t": "Kind", "tr": "çocuk", "read": "kint" }, { "t": "Tag", "tr": "gün", "read": "taak" },
+      { "t": "Hund", "tr": "köpek", "read": "hunt" }, { "t": "rot", "tr": "kırmızı", "read": "root" }, { "t": "Bruder", "tr": "erkek kardeş", "read": "bruudır" }, { "t": "Danke", "tr": "teşekkürler", "read": "danke" }
+     ]
+    }
+   ]
+  }
+ ],
+ "upcoming": [
+  { "level": "baslangic", "title": "Selamlaşma ve tanışma" }, { "level": "baslangic", "title": "Sayılar ve zaman" }, { "level": "baslangic", "title": "Artikeller: der, die, das" }, { "level": "baslangic", "title": "Şimdiki zaman fiilleri" }, { "level": "baslangic", "title": "Yemek ve alışveriş" },
+  { "level": "orta", "title": "Akkusativ ve Dativ" }, { "level": "orta", "title": "Perfekt (geçmiş zaman)" }, { "level": "orta", "title": "Ayrılabilen fiiller" }, { "level": "orta", "title": "Yan cümleler" }, { "level": "orta", "title": "Günlük diyaloglar" },
+  { "level": "yuksek", "title": "Genitiv ve Konjunktiv II" }, { "level": "yuksek", "title": "Passiv" }, { "level": "yuksek", "title": "Metin okuma ve anlama" }, { "level": "yuksek", "title": "Serbest konuşma" }
+ ],
+ "quotes": [
+  { "t": "Übung macht den Meister.", "tr": "Pratik ustalaştırır." },
+  { "t": "Aller Anfang ist schwer.", "tr": "Her başlangıç zordur." },
+  { "t": "Ende gut, alles gut.", "tr": "Sonu iyi olan her şey iyidir." },
+  { "t": "Morgenstund hat Gold im Mund.", "tr": "Erken kalkan yol alır." },
+  { "t": "Wer rastet, der rostet.", "tr": "İşleyen demir ışıldar." },
+  { "t": "Steter Tropfen höhlt den Stein.", "tr": "Damlaya damlaya göl olur." },
+  { "t": "Lieber spät als nie.", "tr": "Geç olsun da güç olmasın." }
+ ]
+}

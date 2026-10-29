@@ -1,4 +1,4 @@
-import { LETTERS, WORDS, Lesson, Letter, Unit, Word, letterItemId, lessonItems, plain, unitItems, wordItemId } from './course';
+import { Course, Lesson, Letter, Unit, Word, letterItemId, letterLabel, unitItems, wordItemId } from './course';
 
 export type Question = {
   key: string;
@@ -6,20 +6,21 @@ export type Question = {
   origin?: string;
   itemId: string;
   instruction: string;
-  /** Big text shown in the prompt area (a letter or a word). */
   display?: string;
-  /** Text spoken when the question appears (listening questions). */
+  /** Text spoken automatically when the question appears (listening questions). */
   audio?: string;
   /** Text spoken after answering, to reinforce the correct form. */
   audioAfter?: string;
   options: string[];
   answer: string;
-  optionsAreRussian: boolean;
+  optionsAreTarget: boolean;
+  /** Shown after the first wrong pick; the learner gets a second try. */
+  hint: string;
   explain: string;
 };
 
-/** Latin look-alikes: the classic beginner mistakes, used as distractors. */
-const TRAPS: Record<string, string> = { v: 'b', n: 'h', r: 'p', s: 'k', u: 'y', h: 'ks', ye: 'e', i: 'n', ya: 'r', zh: 'ks', p: 'n', ch: 'h' };
+/** Latin look-alikes for Cyrillic: the classic beginner mistakes, used as distractors. */
+const TRAPS_RU: Record<string, string> = { v: 'b', n: 'h', r: 'p', s: 'k', u: 'y', h: 'ks', ye: 'e', i: 'n', ya: 'r', zh: 'ks', p: 'n', ch: 'h' };
 
 function shuffle<T>(a: T[]): T[] {
   const b = [...a];
@@ -32,39 +33,45 @@ function shuffle<T>(a: T[]): T[] {
 const pick = <T,>(a: T[]): T => a[Math.floor(Math.random() * a.length)];
 
 function options(answer: string, pool: string[], extra: string[] = [], n = 4): string[] {
-  const distractors = shuffle([...new Set([...extra, ...shuffle(pool)])].filter((x) => x !== answer));
+  const distractors = [...new Set([...extra, ...shuffle(pool)])].filter((x) => x !== answer);
   return shuffle([answer, ...distractors.slice(0, n - 1)]);
 }
 
 let seq = 0;
 const k = () => `q${++seq}`;
+const spaced = (s: string) => s.replace(/́/g, '').split('').join(' ');
 
-// ---------- question builders ----------
-function letterSound(l: Letter, pool: Letter[]): Question {
-  const trap = TRAPS[l.id];
+type Ctx = { lang: string };
+
+// ---------- builders ----------
+function letterSound(c: Ctx, l: Letter, pool: Letter[], forced?: string[]): Question {
+  const trap = c.lang === 'ru' ? TRAPS_RU[l.id] : undefined;
+  const ex = l.words[0];
   return {
     key: k(),
     itemId: letterItemId(l),
-    instruction: 'Bu harf nasıl okunur?',
-    display: `${l.upper} ${l.lower}`,
+    instruction: c.lang === 'ru' ? 'Bu harf nasıl okunur?' : 'Bu harf/grup nasıl okunur?',
+    display: letterLabel(l),
     audioAfter: l.name,
-    options: options(l.sound, pool.map((x) => x.sound), trap ? [trap] : []),
+    options: forced ?? options(l.sound, pool.map((x) => x.sound), trap ? [trap] : []),
     answer: l.sound,
-    optionsAreRussian: false,
-    explain: `${l.upper} → "${l.sound}". ${l.hint}`,
+    optionsAreTarget: false,
+    hint: `Örnek kelimeyi düşün: ${ex.t} (${ex.tr})`,
+    explain: `${letterLabel(l)} → "${l.sound}". ${l.hint}`,
   };
 }
 
-function soundLetter(l: Letter, pool: Letter[]): Question {
+function soundLetter(c: Ctx, l: Letter, pool: Letter[], forced?: string[]): Question {
   return {
     key: k(),
     itemId: letterItemId(l),
-    instruction: 'Duyduğun harfi seç',
+    instruction: c.lang === 'ru' ? 'Duyduğun harfi seç' : 'Duyduğun kelimedeki sesi seç',
     audio: l.name,
-    options: options(l.upper, pool.map((x) => x.upper)),
-    answer: l.upper,
-    optionsAreRussian: true,
-    explain: `Bu "${l.sound}" sesini veren ${l.upper} harfiydi.`,
+    options: forced ?? options(letterLabel(l), pool.map(letterLabel)),
+    answer: letterLabel(l),
+    optionsAreTarget: true,
+    hint: `Bu ses Türkçede "${l.sound}" gibi.`,
+    explain: c.lang === 'ru' ? `Bu, "${l.sound}" sesini veren ${l.upper} harfiydi.` : `"${l.name}" kelimesindeki ses: ${letterLabel(l)} → "${l.sound}"`,
   };
 }
 
@@ -72,13 +79,14 @@ function wordRead(w: Word, pool: Word[]): Question {
   return {
     key: k(),
     itemId: wordItemId(w),
-    instruction: 'Bu kelimeyi oku: nasıl okunur?',
-    display: w.ru,
-    audioAfter: w.ru,
+    instruction: 'Bu kelime nasıl okunur?',
+    display: w.t,
+    audioAfter: w.t,
     options: options(w.read, pool.map((x) => x.read)),
     answer: w.read,
-    optionsAreRussian: false,
-    explain: `${w.ru} = "${w.read}" (${w.tr})`,
+    optionsAreTarget: false,
+    hint: `Harf harf oku: ${spaced(w.t)}`,
+    explain: `${w.t} = "${w.read}" (${w.tr})`,
   };
 }
 
@@ -87,11 +95,12 @@ function wordListen(w: Word, pool: Word[]): Question {
     key: k(),
     itemId: wordItemId(w),
     instruction: 'Duyduğun kelimeyi seç',
-    audio: w.ru,
-    options: options(w.ru, pool.map((x) => x.ru)),
-    answer: w.ru,
-    optionsAreRussian: true,
-    explain: `Duyduğun: ${w.ru} — "${w.read}" (${w.tr})`,
+    audio: w.t,
+    options: options(w.t, pool.map((x) => x.t)),
+    answer: w.t,
+    optionsAreTarget: true,
+    hint: `Anlamı: ${w.tr}`,
+    explain: `Duyduğun: ${w.t} — "${w.read}" (${w.tr})`,
   };
 }
 
@@ -100,71 +109,84 @@ function wordMeaning(w: Word, pool: Word[]): Question {
     key: k(),
     itemId: wordItemId(w),
     instruction: 'Bu kelimenin anlamı ne?',
-    display: w.ru,
-    audio: w.ru,
+    display: w.t,
+    audio: w.t,
     options: options(w.tr, pool.map((x) => x.tr)),
     answer: w.tr,
-    optionsAreRussian: false,
-    explain: `${w.ru} = ${w.tr}`,
+    optionsAreTarget: false,
+    hint: `Okunuşu: ${w.read}`,
+    explain: `${w.t} = ${w.tr}`,
   };
 }
 
 // ---------- pools ----------
-function lettersUpTo(unit: Unit, lessonIndex: number): Letter[] {
-  return unit.lessons.slice(0, lessonIndex + 1).flatMap((l) => l.letters ?? []);
-}
 function wordsOf(lesson: Lesson): Word[] {
   const m = new Map<string, Word>();
   lesson.letters?.forEach((l) => l.words.forEach((w) => m.set(wordItemId(w), w)));
   lesson.words?.forEach((w) => m.set(wordItemId(w), w));
   return [...m.values()];
 }
-const allLetters = () => Object.values(LETTERS);
-const allWords = () => Object.values(WORDS);
 
 /** Lesson quiz: every letter twice (read + listen) and every word once. */
-export function lessonQuiz(unit: Unit, lessonIndex: number): Question[] {
+export function lessonQuiz(course: Course, unit: Unit, lessonIndex: number): Question[] {
+  const c = { lang: course.lang };
   const lesson = unit.lessons[lessonIndex];
-  const letters = lesson.letters ?? [];
-  const letterPool = letters.length >= 4 ? [...letters, ...lettersUpTo(unit, lessonIndex)] : allLetters();
-  const words = wordsOf(lesson);
-  const wordPool = [...words, ...allWords()];
+  const allLetters = Object.values(course.letters);
+  const allWords = Object.values(course.words);
   const qs: Question[] = [];
+
+  if (lesson.kind === 'compare') {
+    lesson.pairs?.forEach((p) => {
+      const a = course.letters[`L:${p.a}`];
+      const b = course.letters[`L:${p.b}`];
+      if (!a || !b) return;
+      [a, b].forEach((x) => {
+        const other = x === a ? b : a;
+        qs.push(soundLetter(c, x, allLetters, shuffle([letterLabel(x), letterLabel(other)])));
+        qs.push(letterSound(c, x, allLetters, shuffle([x.sound, other.sound])));
+      });
+    });
+    return shuffle(qs);
+  }
+
+  const letters = lesson.letters ?? [];
+  const earlier = unit.lessons.slice(0, lessonIndex + 1).flatMap((l) => l.letters ?? []);
+  const letterPool = letters.length >= 4 ? [...letters, ...earlier] : allLetters;
+  const words = wordsOf(lesson);
   letters.forEach((l) => {
-    qs.push(letterSound(l, letterPool.slice(0, Math.max(letters.length, 6))));
-    qs.push(soundLetter(l, letterPool));
+    qs.push(letterSound(c, l, letterPool));
+    qs.push(soundLetter(c, l, letterPool));
   });
   words.forEach((w, i) => {
+    const pool = words.length >= 4 ? words : allWords;
     const fn = lesson.kind === 'reading' ? (i % 2 ? wordListen : wordRead) : pick([wordRead, wordListen, wordMeaning]);
-    qs.push(fn(w, words.length >= 4 ? words : wordPool));
+    qs.push(fn(w, pool));
   });
   return shuffle(qs);
 }
 
-/** Unit test: every letter and word of the unit, mixed. */
-export function unitQuiz(unit: Unit): Question[] {
-  return questionsFor(unitItems(unit));
+export function unitQuiz(course: Course, unit: Unit): Question[] {
+  return questionsFor(course, unitItems(unit));
 }
 
-/** Questions for an arbitrary list of item ids (used by daily review and tests). */
-export function questionsFor(ids: string[]): Question[] {
-  const lp = allLetters();
-  const wp = allWords();
-  return shuffle(
-    ids.map((id) => {
-      if (id.startsWith('L:')) {
-        const l = LETTERS[id];
-        return pick([letterSound, soundLetter])(l, lp);
-      }
-      const w = WORDS[id];
-      return pick([wordRead, wordListen, wordMeaning])(w, wp);
-    }).filter(Boolean),
-  );
+/** Questions for an arbitrary list of item ids (daily review, tests, weak points). */
+export function questionsFor(course: Course, ids: string[]): Question[] {
+  const c = { lang: course.lang };
+  const lp = Object.values(course.letters);
+  const wp = Object.values(course.words);
+  const out: Question[] = [];
+  ids.forEach((id) => {
+    if (id.startsWith('L:')) {
+      const l = course.letters[id];
+      if (l) out.push(pick([letterSound, soundLetter])(c, l, lp));
+    } else {
+      const w = course.words[id];
+      if (w) out.push(pick([wordRead, wordListen, wordMeaning])(w, wp));
+    }
+  });
+  return shuffle(out);
 }
 
-/** Same question with options reshuffled — used when a wrong answer is re-queued. */
 export function requeue(q: Question): Question {
   return { ...q, origin: q.origin ?? q.key, key: k(), options: shuffle(q.options) };
 }
-
-export { lessonItems, plain };

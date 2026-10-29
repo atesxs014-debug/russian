@@ -1,6 +1,6 @@
 {
-  "name": "russian",
-  "version": "0.1.0",
+  "name": "voxa",
+  "version": "0.2.0",
   "private": true,
   "main": "index.ts",
   "scripts": {
@@ -16,7 +16,9 @@
     "expo": "~54.0.0",
     "expo-audio": "~1.0.13",
     "expo-haptics": "~15.0.7",
+    "expo-image-picker": "~17.0.8",
     "expo-linear-gradient": "~15.0.7",
+    "expo-notifications": "~0.32.12",
     "expo-speech": "~14.0.7",
     "expo-status-bar": "~3.0.8",
     "react": "19.1.0",

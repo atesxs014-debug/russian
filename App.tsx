@@ -1,31 +1,57 @@
-import React, { useEffect, useState } from 'react';
-import { ActivityIndicator, BackHandler, View } from 'react-native';
+import React, { useEffect, useMemo, useRef, useState } from 'react';
+import { ActivityIndicator, Animated, BackHandler, Modal, ScrollView, Text, View, useColorScheme } from 'react-native';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
+import { Ionicons } from '@expo/vector-icons';
 import { AppProvider, useApp } from './src/store';
-import { initAudio } from './src/audio/player';
+import { configureAudio, initAudio } from './src/audio/player';
+import { ensurePermission, scheduleReminders } from './src/notify';
+import { WHATS_NEW, markWhatsNewSeen, shouldShowWhatsNew } from './src/meta';
+import { dueItems, today } from './src/progress';
+import { langMeta } from './src/course';
 import ProfileScreen from './src/screens/ProfileScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import LessonScreen from './src/screens/LessonScreen';
 import PracticeScreen from './src/screens/PracticeScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
-import { C } from './src/theme';
+import { Button } from './src/ui';
+import { C, R, applyTheme, fs } from './src/theme';
 
 export type Route =
   | { name: 'home' }
   | { name: 'lesson'; lessonId: string }
   | { name: 'review' }
+  | { name: 'weak' }
   | { name: 'test'; unitId: string }
   | { name: 'settings' };
 
 function Root() {
-  const { ready, profile } = useApp();
+  const { ready, profile, settings, progress } = useApp();
+  const scheme = useColorScheme() === 'light' ? 'light' : 'dark';
   const [route, setRoute] = useState<Route>({ name: 'home' });
+  const [whatsNew, setWhatsNew] = useState(false);
   const home = () => setRoute({ name: 'home' });
+
+  // theme must be applied before children render
+  const themeKey = `${scheme}-${settings.accent}-${settings.fontScale}`;
+  useMemo(() => applyTheme(scheme, settings.accent, settings.fontScale), [themeKey]);
 
   useEffect(() => {
     initAudio();
+    shouldShowWhatsNew().then(setWhatsNew);
+    ensurePermission(); // izinler ilk açılışta istenir
   }, []);
+
+  useEffect(() => {
+    configureAudio({ lang: settings.lang, rate: settings.rate, sfx: settings.sfx, haptics: settings.haptics });
+  }, [settings.lang, settings.rate, settings.sfx, settings.haptics]);
+
+  useEffect(() => {
+    if (!profile) return;
+    const weekAgo = today(-7);
+    const learnedThisWeek = Object.values(progress.lessons).filter((l) => l.passedAt && l.passedAt >= weekAgo).length * 8;
+    scheduleReminders(settings, { due: dueItems(progress).length, learnedThisWeek, langName: langMeta(settings.lang).name });
+  }, [profile?.id, settings.reminder, settings.quiet, settings.weekly, settings.lang, progress.updatedAt]);
 
   useEffect(() => {
     const sub = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -39,37 +65,101 @@ function Root() {
   }, [route]);
 
   useEffect(() => {
-    if (!profile) home();
-  }, [profile?.id]);
+    home();
+  }, [profile?.id, settings.lang]);
 
+  let screen: React.ReactNode;
   if (!ready)
-    return (
+    screen = (
       <View style={{ flex: 1, backgroundColor: C.bg, alignItems: 'center', justifyContent: 'center' }}>
         <ActivityIndicator color={C.primary} />
       </View>
     );
-  if (!profile) return <ProfileScreen />;
+  else if (!profile) screen = <ProfileScreen />;
+  else
+    switch (route.name) {
+      case 'lesson':
+        screen = <LessonScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} />;
+        break;
+      case 'review':
+        screen = <PracticeScreen mode="review" onClose={home} />;
+        break;
+      case 'weak':
+        screen = <PracticeScreen mode="weak" onClose={home} />;
+        break;
+      case 'test':
+        screen = <PracticeScreen key={route.unitId} mode="test" unitId={route.unitId} onClose={home} />;
+        break;
+      case 'settings':
+        screen = <SettingsScreen onClose={home} />;
+        break;
+      default:
+        screen = <HomeScreen go={setRoute} />;
+    }
 
-  switch (route.name) {
-    case 'lesson':
-      return <LessonScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} />;
-    case 'review':
-      return <PracticeScreen mode="review" onClose={home} />;
-    case 'test':
-      return <PracticeScreen key={route.unitId} mode="test" unitId={route.unitId} onClose={home} />;
-    case 'settings':
-      return <SettingsScreen onClose={home} />;
-    default:
-      return <HomeScreen go={setRoute} />;
-  }
+  return (
+    <View key={themeKey} style={{ flex: 1, backgroundColor: C.bg }}>
+      <StatusBar style={scheme === 'light' ? 'dark' : 'light'} />
+      {screen}
+      <Modal visible={whatsNew && ready} transparent animationType="fade" onRequestClose={() => setWhatsNew(false)}>
+        <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.55)', justifyContent: 'center', padding: 24 }}>
+          <View style={{ backgroundColor: C.bg, borderRadius: R.lg, padding: 20, maxHeight: '80%', maxWidth: 480, width: '100%', alignSelf: 'center' }}>
+            <Text style={{ color: C.text, fontSize: fs(24), fontWeight: '900' }}>Yenilikler ✨</Text>
+            <ScrollView style={{ marginTop: 12 }}>
+              {WHATS_NEW.map((w) => (
+                <View key={w} style={{ flexDirection: 'row', marginBottom: 10 }}>
+                  <Ionicons name="sparkles" size={16} color={C.primary} style={{ marginTop: 2 }} />
+                  <Text style={{ color: C.text, fontSize: fs(15), marginLeft: 8, flex: 1, lineHeight: fs(21) }}>{w}</Text>
+                </View>
+              ))}
+            </ScrollView>
+            <Button
+              title="Harika"
+              onPress={() => {
+                markWhatsNewSeen();
+                setWhatsNew(false);
+              }}
+              style={{ marginTop: 12 }}
+            />
+          </View>
+        </View>
+      </Modal>
+    </View>
+  );
+}
+
+/** Short logo animation on launch. */
+function Splash({ onDone }: { onDone: () => void }) {
+  const a = useRef(new Animated.Value(0)).current;
+  useEffect(() => {
+    Animated.sequence([
+      Animated.spring(a, { toValue: 1, useNativeDriver: true, friction: 6 }),
+      Animated.delay(250),
+      Animated.timing(a, { toValue: 2, duration: 250, useNativeDriver: true }),
+    ]).start(onDone);
+  }, []);
+  return (
+    <Animated.View
+      pointerEvents="none"
+      style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: '#0D1120', alignItems: 'center', justifyContent: 'center', opacity: a.interpolate({ inputRange: [0, 1, 2], outputRange: [1, 1, 0] }) }}
+    >
+      <Animated.View style={{ flexDirection: 'row', alignItems: 'center', transform: [{ scale: a.interpolate({ inputRange: [0, 1, 2], outputRange: [0.6, 1, 1.1] }) }] }}>
+        <View style={{ width: 56, height: 56, borderRadius: 18, backgroundColor: '#6C8CFF', alignItems: 'center', justifyContent: 'center' }}>
+          <Ionicons name="pulse" size={34} color="#0B0F1E" />
+        </View>
+        <Text style={{ color: '#F3F5FF', fontSize: 44, fontWeight: '900', marginLeft: 12, letterSpacing: -1 }}>Voxa</Text>
+      </Animated.View>
+    </Animated.View>
+  );
 }
 
 export default function App() {
+  const [splash, setSplash] = useState(true);
   return (
     <SafeAreaProvider>
       <AppProvider>
-        <StatusBar style="light" />
         <Root />
+        {splash && <Splash onDone={() => setSplash(false)} />}
       </AppProvider>
     </SafeAreaProvider>
   );
