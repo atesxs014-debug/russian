@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Alert, Modal, Platform, Pressable, ScrollView, Share, Text, TextInput, View } from 'react-native';
+import { Alert, Modal, Platform, Pressable, ScrollView, Share, View } from 'react-native';
+import { Text, TextInput } from '../Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { useApp } from '../store';
@@ -13,7 +14,7 @@ import { ACCENTS, C, R, fs, themed } from '../theme';
 
 const pad = (n: number) => `${n}`.padStart(2, '0');
 
-export default function SettingsScreen({ onClose }: { onClose: () => void }) {
+export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
   const insets = useSafeAreaInsets();
   const { profile, settings, progress, updateSettings, updateProfile, selectProfile, deleteProfile, resetProgress, exportBackup, importBackup } = useApp();
   const [name, setName] = useState(profile?.name ?? '');
@@ -34,8 +35,8 @@ export default function SettingsScreen({ onClose }: { onClose: () => void }) {
   return (
     <View style={{ flex: 1, backgroundColor: C.bg }}>
       <View style={[st.top, { paddingTop: insets.top + 8, paddingLeft: insets.left + 14 }]}>
-        <IconBtn icon="arrow-back" onPress={onClose} />
-        <Text style={st.title}>Ayarlar</Text>
+        {onClose ? <IconBtn icon="arrow-back" onPress={onClose} /> : null}
+        <Text style={st.title}>Profil ve ayarlar</Text>
       </View>
       <ScrollView
         contentContainerStyle={{ padding: 20, paddingLeft: insets.left + 20, paddingRight: insets.right + 20, paddingBottom: insets.bottom + 40, maxWidth: 640, width: '100%', alignSelf: 'center' }}
@@ -165,6 +166,7 @@ export default function SettingsScreen({ onClose }: { onClose: () => void }) {
                         Alert.alert('Yüklendi', 'İlerlemen geri yüklendi.');
                         setPaste('');
                         setShowImport(false);
+                        onClose?.();
                       } else Alert.alert('Olmadı', 'Bu metin geçerli bir Voxa yedeği değil.');
                     }}
                     style={{ marginTop: 10 }}

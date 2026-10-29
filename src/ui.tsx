@@ -1,5 +1,6 @@
 import React from 'react';
-import { ActivityIndicator, Image, Pressable, Switch, Text, View, ViewStyle } from 'react-native';
+import { ActivityIndicator, Image, Pressable, Switch, View, ViewStyle } from 'react-native';
+import { Text } from './Text';
 import { Ionicons } from '@expo/vector-icons';
 import { C, R, fs, themed } from './theme';
 import type { Avatar as AvatarT } from './store';
@@ -98,7 +99,7 @@ export function Avatar({ avatar, name, size = 44, frame = 'none' }: { avatar: Av
         ) : avatar.kind === 'emoji' && avatar.value ? (
           <Text style={{ fontSize: inner * 0.55 }}>{avatar.value}</Text>
         ) : (
-          <Text style={{ color: '#0B0F1E', fontWeight: '900', fontSize: inner * 0.42 }}>{name.slice(0, 1).toUpperCase()}</Text>
+          <Text style={{ color: '#FFFFFF', fontWeight: '800', fontSize: inner * 0.42 }}>{name.slice(0, 1).toUpperCase()}</Text>
         )}
       </View>
     </View>

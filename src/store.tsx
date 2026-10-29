@@ -41,7 +41,7 @@ type ProfilesDoc = { list: Profile[]; activeId?: string };
 const PROFILES_KEY = 'voxa.profiles.v1';
 const progressKey = (id: string, lang: LangCode) => `voxa.progress.v1.${id}.${lang}`;
 
-export const AVATAR_COLORS = ['#6C8CFF', '#3DD6B0', '#FF8A6C', '#A88BFF', '#F6BE4A', '#FF7A9C'];
+export const AVATAR_COLORS = ['#6A48E8', '#13915F', '#D9582A', '#2F6FD6', '#B9760A', '#D6336C'];
 
 type Ctx = {
   ready: boolean;

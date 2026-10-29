@@ -1,61 +1,111 @@
 import React, { useEffect, useMemo, useState } from 'react';
-import { Alert, Linking, Modal, Pressable, ScrollView, Text, View } from 'react-native';
+import { Linking, Pressable, ScrollView, View } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
+import { Text } from '../Text';
 import { useApp } from '../store';
-import { LANGS, findLesson, langMeta, quoteOfDay } from '../course';
-import { dueItems, lessonLock, masteredCount, testLock, unitOpen, unitProgress, weakItems } from '../progress';
+import { langMeta, quoteOfDay } from '../course';
+import { lessonLock, weakItems } from '../progress';
+import { accuracy, currentUnitIndex, today } from '../today';
 import { checkForUpdate } from '../meta';
 import { speak } from '../audio/player';
-import { Avatar, Bar, IconBtn } from '../ui';
-import { C, LEVELS, LevelId, R, fs, themed } from '../theme';
+import LangMenu from '../components/LangMenu';
+import { Avatar } from '../ui';
+import { C, LEVELS, R, fs, themed } from '../theme';
 import type { Route } from '../../App';
+import type { Tab } from '../components/TabBar';
 
-export default function HomeScreen({ go }: { go: (r: Route) => void }) {
+export default function HomeScreen({ go, setTab }: { go: (r: Route) => void; setTab: (t: Tab) => void }) {
   const insets = useSafeAreaInsets();
-  const { profile, progress, course, settings, setLang } = useApp();
-  const [level, setLevel] = useState<LevelId>('baslangic');
+  const { profile, progress, course, settings } = useApp();
   const [langMenu, setLangMenu] = useState(false);
   const [update, setUpdate] = useState<{ build: number; url: string } | null>(null);
-  const due = useMemo(() => dueItems(progress), [progress]);
-  const weak = useMemo(() => weakItems(progress), [progress]);
   const meta = langMeta(settings.lang);
   const quote = quoteOfDay(course);
+  const t = useMemo(() => today(course, progress), [course, progress]);
+  const weak = useMemo(() => weakItems(progress).length, [progress]);
+  const ui = currentUnitIndex(course, progress);
+  const unit = course.units[ui];
+  const level = LEVELS.find((l) => l.id === unit?.level);
+  const acc = accuracy(progress);
 
   useEffect(() => {
     checkForUpdate().then(setUpdate);
   }, []);
 
-  const units = course.units.map((u, i) => ({ u, i })).filter(({ u }) => u.level === level);
-  const upcoming = course.upcoming.filter((x) => x.level === level);
-  const learned = Object.keys(progress.items).length;
-  const resume = progress.resume ? findLesson(course, progress.resume.lessonId) : null;
+  // ---- "Bugün" card content ----
+  let kicker = 'BUGÜN';
+  let title = '';
+  let sub = '';
+  let cta = 'Başla';
+  let action: (() => void) | null = null;
+  switch (t.kind) {
+    case 'review':
+      title = 'Günlük tekrar';
+      sub = `${t.count} öğe seni bekliyor · ~${Math.max(1, Math.round(t.count * 0.2))} dk`;
+      action = () => go({ name: 'review' });
+      break;
+    case 'resume':
+      kicker = 'KALDIĞIN YER';
+      title = t.next.title;
+      sub = `Ünite ${t.next.unitIndex + 1} · Ders ${t.next.lessonIndex + 1}`;
+      cta = 'Devam et';
+      action = () => go({ name: 'lesson', lessonId: t.next.lessonId });
+      break;
+    case 'lesson':
+      kicker = 'SIRADAKİ DERS';
+      title = t.next.title;
+      sub = `Ünite ${t.next.unitIndex + 1} · Ders ${t.next.lessonIndex + 1} · ${t.next.unit.lessons[t.next.lessonIndex].subtitle}`;
+      cta = 'Derse başla';
+      action = () => go({ name: 'lesson', lessonId: t.next.lessonId });
+      break;
+    case 'test':
+      kicker = 'ÜNİTE SINAVI';
+      title = t.unit.title;
+      sub = 'Sonraki üniteyi açmak için %90 gerekli';
+      cta = 'Sınava gir';
+      action = () => go({ name: 'test', unitId: t.unit.id });
+      break;
+    case 'wait':
+      title = 'Bugünlük bu kadar';
+      sub = t.reason;
+      cta = weak ? 'Zayıf noktaları çalış' : '';
+      action = weak ? () => go({ name: 'weak' }) : null;
+      break;
+    case 'done':
+      title = 'Harika gidiyorsun';
+      sub = 'Yeni üniteler yakında. Zayıf noktalarını pekiştirebilirsin.';
+      cta = weak ? 'Zayıf noktaları çalış' : '';
+      action = weak ? () => go({ name: 'weak' }) : null;
+  }
+  const after = t.kind === 'review' && t.next ? t.next : null;
 
   return (
     <View style={{ flex: 1, backgroundColor: C.bg }}>
       <ScrollView
-        contentContainerStyle={{ paddingTop: insets.top + 12, paddingBottom: insets.bottom + 40, paddingLeft: insets.left + 20, paddingRight: insets.right + 20, maxWidth: 760, width: '100%', alignSelf: 'center' }}
+        contentContainerStyle={{ paddingTop: insets.top + 14, paddingBottom: 28, paddingLeft: insets.left + 20, paddingRight: insets.right + 20, gap: 18, maxWidth: 640, width: '100%', alignSelf: 'center' }}
+        showsVerticalScrollIndicator={false}
       >
+        {/* header */}
         <View style={st.header}>
-          <Pressable onPress={() => go({ name: 'settings' })}>
-            {profile && <Avatar avatar={profile.avatar} name={profile.name} frame={settings.frame} size={42} />}
+          <Pressable onPress={() => setTab('profile')} accessibilityLabel="Profil">
+            {profile && <Avatar avatar={profile.avatar} name={profile.name} frame={settings.frame} size={44} />}
           </Pressable>
           <View style={{ flex: 1, marginLeft: 12 }}>
             <Text style={st.hello} numberOfLines={1}>
               Merhaba, {profile?.name}
             </Text>
             <Text style={st.helloSub}>
-              {learned} öğe · {masteredCount(progress)} tam öğrenildi
+              {meta.name} · {level?.title} {level?.sub.split(' ')[0]}
             </Text>
           </View>
-          <Pressable onPress={() => setLangMenu(true)} style={st.flagBtn}>
-            <Text style={{ fontSize: fs(22) }}>{meta.flag}</Text>
-            <Ionicons name="chevron-down" size={14} color={C.sub} />
-          </Pressable>
           <View style={st.chip}>
-            <Text style={st.chipText}>🔥 {progress.streak.count}</Text>
+            <Ionicons name="flame" size={16} color={C.accent} />
+            <Text style={st.chipText}>{progress.streak.count}</Text>
           </View>
-          <IconBtn icon="settings-outline" onPress={() => go({ name: 'settings' })} />
+          <Pressable onPress={() => setLangMenu(true)} style={st.flag} accessibilityLabel={`Dil seç: ${meta.name}`}>
+            <Text style={{ fontSize: fs(19) }}>{meta.flag}</Text>
+          </Pressable>
         </View>
 
         {update && (
@@ -65,208 +115,130 @@ export default function HomeScreen({ go }: { go: (r: Route) => void }) {
           </Pressable>
         )}
 
-        {due.length > 0 ? (
-          <Pressable onPress={() => go({ name: 'review' })} style={({ pressed }) => [st.review, pressed && { transform: [{ scale: 0.98 }] }]}>
-            <Ionicons name="repeat" size={30} color="#2A1600" />
-            <View style={{ flex: 1, marginLeft: 12 }}>
-              <Text style={st.reviewTitle}>Günlük tekrar: {due.length} öğe</Text>
-              <Text style={st.reviewSub}>Tekrarı bitirmeden yeni ders açılmaz</Text>
-            </View>
-            <Ionicons name="play-circle" size={36} color="#2A1600" />
-          </Pressable>
-        ) : learned > 0 ? (
-          <View style={st.reviewDone}>
-            <Ionicons name="checkmark-circle" size={22} color={C.good} />
-            <Text style={st.reviewDoneText}>Bugünkü tekrar tamam</Text>
+        {/* today */}
+        <View style={st.hero}>
+          <View style={st.heroTop}>
+            <Text style={st.heroKicker}>{kicker}</Text>
+            {t.kind === 'review' ? <Ionicons name="repeat" size={18} color={C.onPrimary} style={{ opacity: 0.8 }} /> : null}
           </View>
-        ) : null}
+          <Text style={st.heroTitle} numberOfLines={2}>
+            {title}
+          </Text>
+          <Text style={st.heroSub}>{sub}</Text>
+          {action && cta ? (
+            <Pressable onPress={action} style={({ pressed }) => [st.heroBtn, pressed && { transform: [{ scale: 0.98 }], opacity: 0.92 }]}>
+              <Ionicons name="play" size={18} color={C.primary} />
+              <Text style={st.heroBtnText}>{cta}</Text>
+            </Pressable>
+          ) : null}
+        </View>
 
-        {resume && (
-          <Pressable onPress={() => go({ name: 'lesson', lessonId: resume.lesson.id })} style={st.resume}>
-            <Ionicons name="play-forward" size={20} color={C.primary} />
-            <Text style={st.resumeText}>Kaldığın yerden devam et: {resume.lesson.title}</Text>
+        {after && (
+          <View style={st.after}>
+            <Ionicons name="lock-closed-outline" size={15} color={C.sub} />
+            <Text style={st.afterText}>
+              Sonra: <Text style={{ color: C.text, fontWeight: '700' }}>{after.title}</Text> · tekrardan sonra açılır
+            </Text>
+          </View>
+        )}
+
+        {/* current unit strip */}
+        {unit && (
+          <Pressable onPress={() => setTab('lessons')} style={st.unit}>
+            <View style={st.unitHead}>
+              <Text style={st.unitTitle} numberOfLines={1}>
+                {unit.title}
+              </Text>
+              <Text style={st.unitCount}>
+                {unit.lessons.filter((l) => progress.lessons[l.id]?.passedAt).length}/{unit.lessons.length}
+              </Text>
+            </View>
+            <Text style={st.unitSub}>Ünite {ui + 1}</Text>
+            <View style={st.steps}>
+              {unit.lessons.map((ls, j) => {
+                const passed = !!progress.lessons[ls.id]?.passedAt;
+                const open = lessonLock(course, progress, ui, j).open;
+                return (
+                  <React.Fragment key={ls.id}>
+                    {j > 0 && <View style={[st.stepLine, passed && { backgroundColor: C.good }]} />}
+                    <Pressable
+                      onPress={() => open && go({ name: 'lesson', lessonId: ls.id })}
+                      accessibilityLabel={`Ders ${j + 1}: ${ls.title}`}
+                      style={[st.step, passed ? { backgroundColor: C.good } : open ? { borderWidth: 3, borderColor: C.primary } : { backgroundColor: C.line }]}
+                    >
+                      {passed ? (
+                        <Ionicons name={progress.lessons[ls.id]?.perfect ? 'star' : 'checkmark'} size={15} color={C.onPrimary} />
+                      ) : (
+                        <Text style={[st.stepText, { color: open ? C.primary : C.sub }]}>{j + 1}</Text>
+                      )}
+                    </Pressable>
+                  </React.Fragment>
+                );
+              })}
+            </View>
           </Pressable>
         )}
+
+        {/* stats */}
+        <View style={st.stats}>
+          <View style={st.stat}>
+            <Text style={st.statNum}>{progress.streak.count}</Text>
+            <Text style={st.statLabel}>gün seri</Text>
+          </View>
+          <View style={st.stat}>
+            <Text style={st.statNum}>{Object.keys(progress.items).length}</Text>
+            <Text style={st.statLabel}>öğe</Text>
+          </View>
+          <View style={st.stat}>
+            <Text style={st.statNum}>{acc === null ? '–' : `%${Math.round(acc * 100)}`}</Text>
+            <Text style={st.statLabel}>doğruluk</Text>
+          </View>
+        </View>
 
         {quote && (
           <Pressable onPress={() => speak(quote.t)} style={st.quote}>
-            <Text style={st.quoteKicker}>GÜNÜN SÖZÜ</Text>
-            <Text style={st.quoteText}>{quote.t}</Text>
-            <Text style={st.quoteTr}>{quote.tr}</Text>
+            <Text style={st.quoteText}>«{quote.t}»</Text>
+            <Text style={st.quoteTr}>Günün sözü · {quote.tr}</Text>
           </Pressable>
-        )}
-
-        {weak.length > 0 && (
-          <Pressable onPress={() => go({ name: 'weak' })} style={st.weak}>
-            <Ionicons name="fitness-outline" size={20} color={C.bad} />
-            <Text style={st.weakText}>Zayıf noktalarını çalış ({weak.length})</Text>
-            <Ionicons name="chevron-forward" size={18} color={C.sub} />
-          </Pressable>
-        )}
-
-        <View style={st.tabs}>
-          {LEVELS.map((l) => (
-            <Pressable key={l.id} onPress={() => setLevel(l.id)} style={[st.tab, level === l.id && { backgroundColor: C.primary }]}>
-              <Text style={[st.tabText, level === l.id && { color: C.onPrimary }]}>{l.title}</Text>
-              <Text style={[st.tabSub, level === l.id && { color: C.onPrimary }]}>{l.sub}</Text>
-            </Pressable>
-          ))}
-        </View>
-
-        {units.map(({ u, i }) => {
-          const open = unitOpen(course, progress, i);
-          const tLock = testLock(course, progress, i);
-          const tScore = progress.tests[u.id];
-          return (
-            <View key={u.id} style={[st.unit, !open && { opacity: 0.5 }]}>
-              <Text style={st.unitKicker}>
-                {meta.name.toUpperCase()} · ÜNİTE {i + 1}
-              </Text>
-              <Text style={st.unitTitle}>{u.title}</Text>
-              <Text style={st.unitSub}>{u.subtitle}</Text>
-              <View style={{ marginTop: 12, marginBottom: 6 }}>
-                <Bar value={unitProgress(progress, u)} color={C.good} />
-              </View>
-
-              {u.lessons.map((ls, j) => {
-                const lock = lessonLock(course, progress, i, j);
-                const sc = progress.lessons[ls.id];
-                const passed = !!sc?.passedAt;
-                return (
-                  <Pressable
-                    key={ls.id}
-                    onPress={() => (lock.open ? go({ name: 'lesson', lessonId: ls.id }) : Alert.alert('Kilitli', lock.reason))}
-                    style={({ pressed }) => [st.node, pressed && { backgroundColor: C.cardHi }]}
-                  >
-                    <View style={[st.dot, { backgroundColor: passed ? C.good : lock.open ? C.primary : C.line }]}>
-                      {passed ? (
-                        <Ionicons name={sc?.perfect ? 'star' : 'checkmark'} size={20} color={C.onPrimary} />
-                      ) : lock.open ? (
-                        <Text style={st.dotText}>{j + 1}</Text>
-                      ) : (
-                        <Ionicons name="lock-closed" size={16} color={C.sub} />
-                      )}
-                    </View>
-                    <View style={{ flex: 1, marginLeft: 12 }}>
-                      <Text style={[st.nodeTitle, !lock.open && { color: C.dim }]}>{ls.title}</Text>
-                      <Text style={st.nodeSub}>{ls.subtitle}</Text>
-                    </View>
-                    {sc ? <Text style={[st.score, { color: passed ? C.good : C.gold }]}>%{Math.round(sc.best * 100)}</Text> : null}
-                  </Pressable>
-                );
-              })}
-
-              <Pressable
-                onPress={() => (tLock.open ? go({ name: 'test', unitId: u.id }) : Alert.alert('Sınav kilitli', tLock.reason))}
-                style={({ pressed }) => [st.node, st.testNode, pressed && { opacity: 0.85 }]}
-              >
-                <View style={[st.dot, { backgroundColor: tScore?.passedAt ? C.good : tLock.open ? C.gold : C.line }]}>
-                  <Ionicons name={tScore?.passedAt ? 'trophy' : tLock.open ? 'ribbon' : 'lock-closed'} size={18} color={tLock.open || tScore?.passedAt ? C.onPrimary : C.sub} />
-                </View>
-                <View style={{ flex: 1, marginLeft: 12 }}>
-                  <Text style={st.nodeTitle}>Ünite sınavı</Text>
-                  <Text style={st.nodeSub}>Sonraki ünite için %90 gerekli</Text>
-                </View>
-                {tScore ? <Text style={[st.score, { color: tScore.passedAt ? C.good : C.gold }]}>%{Math.round(tScore.best * 100)}</Text> : null}
-              </Pressable>
-            </View>
-          );
-        })}
-
-        {upcoming.length > 0 && (
-          <View style={{ marginTop: 8 }}>
-            <Text style={st.upKicker}>{units.length ? 'SIRADAKİ ÜNİTELER' : 'BU SEVİYEDEKİ ÜNİTELER'}</Text>
-            {upcoming.map((x, k) => (
-              <View key={x.title} style={st.up}>
-                <Ionicons name="lock-closed" size={16} color={C.dim} />
-                <Text style={st.upText}>{x.title}</Text>
-                <Text style={st.upSoon}>{k === 0 && units.length ? 'sırada' : 'yakında'}</Text>
-              </View>
-            ))}
-          </View>
         )}
       </ScrollView>
-
-      <Modal visible={langMenu} transparent animationType="fade" onRequestClose={() => setLangMenu(false)}>
-        <Pressable style={st.backdrop} onPress={() => setLangMenu(false)}>
-          <View style={[st.menu, { marginTop: insets.top + 64 }]}>
-            <Text style={st.menuTitle}>Hangi dili çalışıyorsun?</Text>
-            {LANGS.map((l) => {
-              const on = l.code === settings.lang;
-              const started = settings.started.includes(l.code);
-              return (
-                <Pressable
-                  key={l.code}
-                  onPress={() => {
-                    setLangMenu(false);
-                    if (!on) setLang(l.code);
-                  }}
-                  style={({ pressed }) => [st.menuItem, on && { backgroundColor: C.cardHi }, pressed && { opacity: 0.7 }]}
-                >
-                  <Text style={{ fontSize: fs(26) }}>{l.flag}</Text>
-                  <View style={{ flex: 1, marginLeft: 12 }}>
-                    <Text style={st.menuName}>{l.name}</Text>
-                    <Text style={st.menuSub}>
-                      {l.native}
-                      {started ? '' : ' · yeni başla'}
-                    </Text>
-                  </View>
-                  {on && <Ionicons name="checkmark-circle" size={22} color={C.primary} />}
-                </Pressable>
-              );
-            })}
-          </View>
-        </Pressable>
-      </Modal>
+      <LangMenu open={langMenu} onClose={() => setLangMenu(false)} />
     </View>
   );
 }
 
 const st = themed(() => ({
-  header: { flexDirection: 'row', alignItems: 'center', marginBottom: 16 },
-  hello: { color: C.text, fontSize: fs(22), fontWeight: '900' },
+  header: { flexDirection: 'row', alignItems: 'center', gap: 8 },
+  hello: { color: C.text, fontSize: fs(20), fontWeight: '800' },
   helloSub: { color: C.sub, fontSize: fs(13), marginTop: 2 },
-  flagBtn: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.card, borderRadius: 20, paddingHorizontal: 8, paddingVertical: 4, marginRight: 6 },
-  chip: { backgroundColor: C.card, borderRadius: 20, paddingHorizontal: 10, paddingVertical: 6 },
+  chip: { flexDirection: 'row', alignItems: 'center', gap: 4, height: 38, borderRadius: 19, backgroundColor: C.card, paddingHorizontal: 12 },
   chipText: { color: C.text, fontWeight: '800', fontSize: fs(14) },
-  update: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.card, borderRadius: R.md, padding: 12, marginBottom: 12, borderWidth: 1, borderColor: C.primary },
+  flag: { width: 38, height: 38, borderRadius: 19, backgroundColor: C.card, alignItems: 'center', justifyContent: 'center' },
+  update: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.card, borderRadius: R.md, padding: 12, borderWidth: 1, borderColor: C.primary },
   updateText: { color: C.text, marginLeft: 8, flex: 1, fontSize: fs(14), fontWeight: '600' },
-  review: { flexDirection: 'row', alignItems: 'center', borderRadius: R.lg, padding: 16, marginBottom: 14, backgroundColor: '#F6BE4A' },
-  reviewTitle: { color: '#2A1600', fontWeight: '900', fontSize: fs(17) },
-  reviewSub: { color: '#4A2A00', fontSize: fs(13), marginTop: 2 },
-  reviewDone: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.goodBg, borderRadius: R.md, padding: 12, marginBottom: 14 },
-  reviewDoneText: { color: C.good, fontWeight: '800', marginLeft: 8, fontSize: fs(15) },
-  resume: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.card, borderRadius: R.md, padding: 12, marginBottom: 14 },
-  resumeText: { color: C.text, marginLeft: 8, flex: 1, fontWeight: '700', fontSize: fs(14) },
-  quote: { backgroundColor: C.card, borderRadius: R.lg, padding: 16, marginBottom: 14, borderLeftWidth: 4, borderLeftColor: C.primary },
-  quoteKicker: { color: C.primary, fontWeight: '900', fontSize: fs(11), letterSpacing: 1.5 },
-  quoteText: { color: C.text, fontSize: fs(18), fontWeight: '700', marginTop: 6 },
-  quoteTr: { color: C.sub, fontSize: fs(14), marginTop: 4, fontStyle: 'italic' },
-  weak: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.badBg, borderRadius: R.md, padding: 12, marginBottom: 14 },
-  weakText: { color: C.text, marginLeft: 8, flex: 1, fontWeight: '700', fontSize: fs(14) },
-  tabs: { flexDirection: 'row', backgroundColor: C.card, borderRadius: R.md, padding: 4, marginBottom: 16 },
-  tab: { flex: 1, alignItems: 'center', paddingVertical: 8, borderRadius: 12 },
-  tabText: { color: C.sub, fontWeight: '800', fontSize: fs(15) },
-  tabSub: { color: C.dim, fontSize: fs(11), fontWeight: '700', marginTop: 1 },
-  unit: { backgroundColor: C.card, borderRadius: R.lg, padding: 16, marginBottom: 16 },
-  unitKicker: { color: C.primary, fontWeight: '900', fontSize: fs(11), letterSpacing: 1.5 },
-  unitTitle: { color: C.text, fontSize: fs(22), fontWeight: '900', marginTop: 4 },
-  unitSub: { color: C.sub, fontSize: fs(14), marginTop: 2 },
-  node: { flexDirection: 'row', alignItems: 'center', paddingVertical: 10, paddingHorizontal: 6, borderRadius: R.sm, marginTop: 4 },
-  testNode: { borderTopWidth: 1, borderTopColor: C.line, marginTop: 10, paddingTop: 14 },
-  dot: { width: 40, height: 40, borderRadius: 20, alignItems: 'center', justifyContent: 'center' },
-  dotText: { color: C.onPrimary, fontWeight: '900', fontSize: fs(16) },
-  nodeTitle: { color: C.text, fontWeight: '800', fontSize: fs(16) },
-  nodeSub: { color: C.sub, fontSize: fs(13), marginTop: 1 },
-  score: { fontWeight: '900', fontSize: fs(15) },
-  upKicker: { color: C.dim, fontWeight: '900', fontSize: fs(12), letterSpacing: 1.5, marginBottom: 8 },
-  up: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.bg2, borderRadius: R.md, padding: 14, marginBottom: 8, borderWidth: 1, borderColor: C.line },
-  upText: { flex: 1, color: C.dim, fontWeight: '700', fontSize: fs(15), marginLeft: 10 },
-  upSoon: { color: C.dim, fontSize: fs(12), fontWeight: '700' },
-  backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.45)', paddingHorizontal: 20 },
-  menu: { backgroundColor: C.bg, borderRadius: R.lg, padding: 12, maxWidth: 420, width: '100%', alignSelf: 'flex-end' },
-  menuTitle: { color: C.sub, fontWeight: '800', fontSize: fs(13), margin: 8 },
-  menuItem: { flexDirection: 'row', alignItems: 'center', padding: 12, borderRadius: R.md },
-  menuName: { color: C.text, fontWeight: '800', fontSize: fs(16) },
-  menuSub: { color: C.sub, fontSize: fs(13) },
+  hero: { backgroundColor: C.primary, borderRadius: R.lg, padding: 20, gap: 6 },
+  heroTop: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
+  heroKicker: { color: C.onPrimary, fontSize: fs(12), fontWeight: '800', letterSpacing: 1.5, opacity: 0.85 },
+  heroTitle: { color: C.onPrimary, fontSize: fs(28), fontWeight: '800', marginTop: 6 },
+  heroSub: { color: C.onPrimary, fontSize: fs(14), opacity: 0.85 },
+  heroBtn: { marginTop: 12, height: 52, borderRadius: R.md, backgroundColor: C.onPrimary, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8 },
+  heroBtnText: { color: C.primary, fontSize: fs(16), fontWeight: '800' },
+  after: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingHorizontal: 4, marginTop: -6 },
+  afterText: { color: C.sub, fontSize: fs(13), flex: 1 },
+  unit: { backgroundColor: C.card, borderRadius: R.lg, padding: 18 },
+  unitHead: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'baseline', gap: 8 },
+  unitTitle: { color: C.text, fontSize: fs(16), fontWeight: '800', flex: 1 },
+  unitCount: { color: C.sub, fontSize: fs(12), fontWeight: '700' },
+  unitSub: { color: C.sub, fontSize: fs(12), marginTop: 2 },
+  steps: { flexDirection: 'row', alignItems: 'center', marginTop: 16 },
+  step: { width: 34, height: 34, borderRadius: 17, alignItems: 'center', justifyContent: 'center' },
+  stepText: { fontWeight: '800', fontSize: fs(13) },
+  stepLine: { flex: 1, height: 3, backgroundColor: C.line },
+  stats: { flexDirection: 'row', gap: 10 },
+  stat: { flex: 1, backgroundColor: C.card, borderRadius: R.md, padding: 12 },
+  statNum: { color: C.text, fontSize: fs(20), fontWeight: '800' },
+  statLabel: { color: C.sub, fontSize: fs(12), marginTop: 2 },
+  quote: { paddingHorizontal: 4 },
+  quoteText: { color: C.text, fontSize: fs(15), fontWeight: '700' },
+  quoteTr: { color: C.sub, fontSize: fs(12), marginTop: 3 },
 }));

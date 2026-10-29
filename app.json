@@ -2,15 +2,15 @@
   "expo": {
     "name": "Voxa",
     "slug": "voxa",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
-    "backgroundColor": "#0D1120",
+    "backgroundColor": "#6A48E8",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#0D1120"
+      "backgroundColor": "#6A48E8"
     },
     "ios": {
       "bundleIdentifier": "com.voxa.app",
@@ -22,10 +22,10 @@
     },
     "android": {
       "package": "com.voxa.app",
-      "versionCode": 2,
+      "versionCode": 3,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#0D1120"
+        "backgroundColor": "#6A48E8"
       }
     },
     "plugins": [

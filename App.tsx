@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
-import { ActivityIndicator, Animated, BackHandler, Modal, ScrollView, Text, View, useColorScheme } from 'react-native';
+import { ActivityIndicator, Animated, BackHandler, Modal, ScrollView, View, useColorScheme } from 'react-native';
+import { Text } from './src/Text';
 import { StatusBar } from 'expo-status-bar';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
@@ -11,11 +12,15 @@ import { dueItems, today } from './src/progress';
 import { langMeta } from './src/course';
 import ProfileScreen from './src/screens/ProfileScreen';
 import HomeScreen from './src/screens/HomeScreen';
+import LessonsScreen from './src/screens/LessonsScreen';
+import ReviewTab from './src/screens/ReviewTab';
+import TabBar, { Tab } from './src/components/TabBar';
+import { useFonts, Manrope_400Regular, Manrope_500Medium, Manrope_600SemiBold, Manrope_700Bold, Manrope_800ExtraBold } from '@expo-google-fonts/manrope';
 import LessonScreen from './src/screens/LessonScreen';
 import PracticeScreen from './src/screens/PracticeScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
 import { Button } from './src/ui';
-import { C, R, applyTheme, fs } from './src/theme';
+import { C, R, applyTheme, fs, setFontsReady } from './src/theme';
 
 export type Route =
   | { name: 'home' }
@@ -29,6 +34,7 @@ function Root() {
   const { ready, profile, settings, progress } = useApp();
   const scheme = useColorScheme() === 'light' ? 'light' : 'dark';
   const [route, setRoute] = useState<Route>({ name: 'home' });
+  const [tab, setTab] = useState<Tab>('home');
   const [whatsNew, setWhatsNew] = useState(false);
   const home = () => setRoute({ name: 'home' });
 
@@ -59,14 +65,23 @@ function Root() {
         home();
         return true;
       }
+      if (tab !== 'home') {
+        setTab('home');
+        return true;
+      }
       return false;
     });
     return () => sub.remove();
-  }, [route]);
+  }, [route, tab]);
 
   useEffect(() => {
     home();
-  }, [profile?.id, settings.lang]);
+    setTab('home');
+  }, [profile?.id]);
+
+  useEffect(() => {
+    home();
+  }, [settings.lang]);
 
   let screen: React.ReactNode;
   if (!ready)
@@ -94,7 +109,17 @@ function Root() {
         screen = <SettingsScreen onClose={home} />;
         break;
       default:
-        screen = <HomeScreen go={setRoute} />;
+        screen = (
+          <View style={{ flex: 1 }}>
+            <View style={{ flex: 1 }}>
+              {tab === 'home' && <HomeScreen go={setRoute} setTab={setTab} />}
+              {tab === 'lessons' && <LessonsScreen go={setRoute} />}
+              {tab === 'review' && <ReviewTab go={setRoute} />}
+              {tab === 'profile' && <SettingsScreen />}
+            </View>
+            <TabBar tab={tab} onChange={setTab} badge={dueItems(progress).length} />
+          </View>
+        );
     }
 
   return (
@@ -141,13 +166,13 @@ function Splash({ onDone }: { onDone: () => void }) {
   return (
     <Animated.View
       pointerEvents="none"
-      style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: '#0D1120', alignItems: 'center', justifyContent: 'center', opacity: a.interpolate({ inputRange: [0, 1, 2], outputRange: [1, 1, 0] }) }}
+      style={{ position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, backgroundColor: '#6A48E8', alignItems: 'center', justifyContent: 'center', opacity: a.interpolate({ inputRange: [0, 1, 2], outputRange: [1, 1, 0] }) }}
     >
       <Animated.View style={{ flexDirection: 'row', alignItems: 'center', transform: [{ scale: a.interpolate({ inputRange: [0, 1, 2], outputRange: [0.6, 1, 1.1] }) }] }}>
-        <View style={{ width: 56, height: 56, borderRadius: 18, backgroundColor: '#6C8CFF', alignItems: 'center', justifyContent: 'center' }}>
-          <Ionicons name="pulse" size={34} color="#0B0F1E" />
+        <View style={{ width: 56, height: 56, borderRadius: 18, backgroundColor: '#FFFFFF', alignItems: 'center', justifyContent: 'center' }}>
+          <Ionicons name="pulse" size={34} color="#6A48E8" />
         </View>
-        <Text style={{ color: '#F3F5FF', fontSize: 44, fontWeight: '900', marginLeft: 12, letterSpacing: -1 }}>Voxa</Text>
+        <Text style={{ color: '#FFFFFF', fontSize: 44, fontWeight: '800', marginLeft: 12, letterSpacing: -1 }}>Voxa</Text>
       </Animated.View>
     </Animated.View>
   );
@@ -155,6 +180,10 @@ function Splash({ onDone }: { onDone: () => void }) {
 
 export default function App() {
   const [splash, setSplash] = useState(true);
+  const [fontsLoaded, fontError] = useFonts({ Manrope_400Regular, Manrope_500Medium, Manrope_600SemiBold, Manrope_700Bold, Manrope_800ExtraBold });
+  const fontsDone = fontsLoaded || !!fontError;
+  setFontsReady(fontsLoaded);
+  if (!fontsDone) return <View style={{ flex: 1, backgroundColor: '#6A48E8' }} />;
   return (
     <SafeAreaProvider>
       <AppProvider>

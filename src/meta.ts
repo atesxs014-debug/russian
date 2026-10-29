@@ -4,15 +4,13 @@ import { BUILD, REPO } from './buildInfo';
 
 /** Shown once after installing a new build ("Yenilikler"). */
 export const WHATS_NEW: string[] = [
-  'Uygulamanın yeni adı: Voxa 🎉',
-  '5 dil: Rusça, İngilizce, Almanca, Fransızca, İtalyanca — ana ekrandaki bayraktan seç',
-  'Her dilin kendi ilerlemesi ve serisi',
-  'Rusça: "Karıştırılan harfler" dersi (Ш/Щ, Е/Э, И/Й, Б/В…)',
-  'Yanlış cevapta önce ipucu, ikinci hakta doğru cevap',
-  'Ayarlar: ses hızı 0.5x–1.5x, yazı boyutu, ses efekti, titreşim, renk teması',
-  'Günlük hatırlatma, sessiz saatler ve haftalık özet bildirimi',
-  'Günün sözü, seri dondurma (ayda 2 hak), zayıf noktalar çalışması',
-  'Açık/koyu tema telefona göre değişir, yatay ekran desteği',
+  'Yeni görünüm: Lavanta teması ve Manrope yazı tipi',
+  'Sade ana sayfa: tek "Bugün" kartı, ünite ilerlemesi tek satırda',
+  'Alt menü: Ana sayfa · Dersler · Tekrar · Profil',
+  'Dersler 10 katına çıktı: Rusça 72, İngilizce/Almanca/Fransızca 50, İtalyanca 44 ders',
+  'Kelime kartları: emoji, cinsiyet rengi, okunuş',
+  'Yanlışlıkla seçimi önleyen dokunma koruması',
+  'Tekrar sekmesinde hafıza durumu ve zayıf noktalar',
 ];
 
 const SEEN_KEY = 'voxa.seenBuild';
