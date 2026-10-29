@@ -41,6 +41,11 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
   const mistakes = useRef<Question[]>([]);
   const total = useMemo(() => questions.length, [questions]);
   const anim = useRef(new Animated.Value(0)).current;
+  // Accidental-tap guard: options stay locked until the new question has settled,
+  // and "Devam" unlocks shortly after feedback appears.
+  const [inputReady, setInputReady] = useState(false);
+  const [nextReady, setNextReady] = useState(false);
+  const fbAnim = useRef(new Animated.Value(0)).current;
 
   const q = queue[0];
   const answeredUnique = Object.keys(firstByQuestion.current).length;
@@ -58,16 +63,34 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     setStage('ask');
     setPicks([]);
     setPlays(0);
+    setInputReady(false);
+    setNextReady(false);
+    fbAnim.setValue(0);
     anim.setValue(0);
-    Animated.timing(anim, { toValue: 1, duration: 220, useNativeDriver: true }).start();
-    if (q.audio) {
-      const t = setTimeout(() => {
-        setPlays(1);
-        speak(q.audio!);
-      }, 250);
+    Animated.timing(anim, { toValue: 1, duration: 450, useNativeDriver: true }).start();
+    const unlock = setTimeout(() => setInputReady(true), 650);
+    const t = q.audio
+      ? setTimeout(() => {
+          setPlays(1);
+          speak(q.audio!);
+        }, 350)
+      : undefined;
+    return () => {
+      clearTimeout(unlock);
+      if (t) clearTimeout(t);
+    };
+  }, [q?.key]);
+
+  useEffect(() => {
+    if (stage === 'ask') return;
+    fbAnim.setValue(0);
+    Animated.timing(fbAnim, { toValue: 1, duration: 300, useNativeDriver: true }).start();
+    if (stage === 'done') {
+      setNextReady(false);
+      const t = setTimeout(() => setNextReady(true), 600);
       return () => clearTimeout(t);
     }
-  }, [q?.key]);
+  }, [stage]);
 
   useEffect(() => () => stopAudio(), []);
 
@@ -78,7 +101,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
   const solved = last === q.answer;
 
   function choose(opt: string) {
-    if (stage === 'done' || picks.includes(opt)) return;
+    if (!inputReady || stage === 'done' || picks.includes(opt)) return;
     const ok = opt === q.answer;
     const first = picks.length === 0;
     setPicks((p) => [...p, opt]);
@@ -99,6 +122,8 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
   }
 
   function next() {
+    if (!nextReady) return;
+    setNextReady(false);
     const rest = queue.slice(1);
     // wrong on the first pick (even if the hint helped) → comes back later in the session
     if (picks[0] !== q.answer) {
@@ -152,6 +177,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
               state === 'right' && { backgroundColor: C.goodBg, borderColor: C.good },
               state === 'wrong' && { backgroundColor: C.badBg, borderColor: C.bad },
               state === 'dim' && { opacity: 0.45 },
+              !inputReady && { opacity: 0.6 },
               pressed && stage !== 'done' && { transform: [{ scale: 0.97 }], backgroundColor: C.cardHi },
             ]}
           >
@@ -205,15 +231,15 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
       </Animated.View>
 
       {stage === 'hint' ? (
-        <View style={[st.feedback, { backgroundColor: C.goldBg }]}>
+        <Animated.View style={[st.feedback, { backgroundColor: C.goldBg, opacity: fbAnim, transform: [{ translateY: fbAnim.interpolate({ inputRange: [0, 1], outputRange: [12, 0] }) }] }]}>
           <View style={st.fbHead}>
             <Ionicons name="bulb" size={24} color={C.gold} />
             <Text style={[st.fbTitle, { color: C.gold }]}>İpucu — bir hakkın daha var</Text>
           </View>
           <Text style={st.fbText}>{q.hint}</Text>
-        </View>
+        </Animated.View>
       ) : stage === 'done' ? (
-        <View style={[st.feedback, { backgroundColor: solved && picks.length === 1 ? C.goodBg : C.badBg }]}>
+        <Animated.View style={[st.feedback, { backgroundColor: solved && picks.length === 1 ? C.goodBg : C.badBg, opacity: fbAnim, transform: [{ translateY: fbAnim.interpolate({ inputRange: [0, 1], outputRange: [12, 0] }) }] }]}>
           <View style={st.fbHead}>
             <Ionicons name={solved ? 'checkmark-circle' : 'close-circle'} size={26} color={solved && picks.length === 1 ? C.good : C.bad} />
             <Text style={[st.fbTitle, { color: solved && picks.length === 1 ? C.good : C.bad }]}>
@@ -221,8 +247,8 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
             </Text>
           </View>
           <Text style={st.fbText}>{q.explain}</Text>
-          <Button title="Devam" kind={solved && picks.length === 1 ? 'good' : 'bad'} onPress={next} style={{ marginTop: 12 }} />
-        </View>
+          <Button title="Devam" kind={solved && picks.length === 1 ? 'good' : 'bad'} onPress={next} disabled={!nextReady} style={{ marginTop: 12 }} />
+        </Animated.View>
       ) : (
         <View style={{ height: 8 }} />
       )}

@@ -887,29 +887,3625 @@
      ]
     }
    ]
+  },
+  {
+   "id": "u2",
+   "level": "baslangic",
+   "title": "Selamlaşma ve tanışma",
+   "subtitle": "Selam ver, kendini tanıt, soru sor · 5 ders",
+   "lessons": [
+    {
+     "id": "u2l1",
+     "kind": "vocab",
+     "title": "Merhaba ve hoşça kal",
+     "subtitle": "привет · здравствуйте · доброе утро …",
+     "intro": "Günün her saati için selamlar ve vedalar.",
+     "v": [
+      [
+       "приве́т",
+       "selam",
+       "privyet",
+       "👋"
+      ],
+      [
+       "здра́вствуйте",
+       "merhaba (resmi)",
+       "zdrastvuyti",
+       "🤝"
+      ],
+      [
+       "до́брое у́тро",
+       "günaydın",
+       "dobraye utra",
+       "🌅"
+      ],
+      [
+       "до́брый день",
+       "iyi günler",
+       "dobrıy dyen'",
+       "☀️"
+      ],
+      [
+       "до́брый ве́чер",
+       "iyi akşamlar",
+       "dobrıy vyeçir",
+       "🌆"
+      ],
+      [
+       "пока́",
+       "hoşça kal (samimi)",
+       "paka",
+       "✋"
+      ],
+      [
+       "до свида́ния",
+       "görüşmek üzere",
+       "da svidaniya",
+       "🚪"
+      ]
+     ]
+    },
+    {
+     "id": "u2l2",
+     "kind": "vocab",
+     "title": "Nezaket sözleri",
+     "subtitle": "спасибо · большое спасибо · пожалуйста …",
+     "intro": "Rusların en çok kullandığı kibar kelimeler.",
+     "v": [
+      [
+       "спаси́бо",
+       "teşekkürler",
+       "spasiba",
+       "🙏"
+      ],
+      [
+       "большо́е спаси́бо",
+       "çok teşekkürler",
+       "bal'şoye spasiba",
+       "💐"
+      ],
+      [
+       "пожа́луйста",
+       "lütfen / rica ederim",
+       "pajalsta"
+      ],
+      [
+       "извини́те",
+       "affedersiniz",
+       "izviniti",
+       "🙇"
+      ],
+      [
+       "ничего́",
+       "önemli değil",
+       "niçivo"
+      ],
+      [
+       "коне́чно",
+       "tabii ki",
+       "kanyeşna",
+       "👍"
+      ],
+      [
+       "ла́дно",
+       "peki, tamam",
+       "ladna",
+       "👌"
+      ]
+     ]
+    },
+    {
+     "id": "u2l3",
+     "kind": "vocab",
+     "title": "Tanışma",
+     "subtitle": "меня зовут… · как вас зовут? · очень приятно …",
+     "intro": "Adını söyle, nereli olduğunu anlat.",
+     "v": [
+      [
+       "меня́ зову́т…",
+       "benim adım…",
+       "minya zavut",
+       "🙋"
+      ],
+      [
+       "как вас зову́т?",
+       "adınız ne?",
+       "kak vas zavut",
+       "❓"
+      ],
+      [
+       "о́чень прия́тно",
+       "memnun oldum",
+       "oçin' priyatna",
+       "😊"
+      ],
+      [
+       "как дела́?",
+       "nasılsın?",
+       "kak dila",
+       "💬"
+      ],
+      [
+       "отли́чно",
+       "harika",
+       "atliçna",
+       "🌟"
+      ],
+      [
+       "отку́да вы?",
+       "nerelisiniz?",
+       "atkuda vı",
+       "🌍"
+      ],
+      [
+       "я из Ту́рции",
+       "Türkiye'denim",
+       "ya is turtsii",
+       "🇹🇷"
+      ]
+     ]
+    },
+    {
+     "id": "u2l4",
+     "kind": "vocab",
+     "title": "Soru kelimeleri",
+     "subtitle": "что · где · когда …",
+     "intro": "Konuşmayı başlatan küçük kelimeler.",
+     "v": [
+      [
+       "что",
+       "ne",
+       "şto",
+       "❔"
+      ],
+      [
+       "где",
+       "nerede",
+       "gdye",
+       "📍"
+      ],
+      [
+       "когда́",
+       "ne zaman",
+       "kagda",
+       "⏰"
+      ],
+      [
+       "почему́",
+       "neden",
+       "paçimu",
+       "🤔"
+      ],
+      [
+       "как",
+       "nasıl",
+       "kak"
+      ],
+      [
+       "ско́лько",
+       "kaç, ne kadar",
+       "skol'ka",
+       "🔢"
+      ],
+      [
+       "куда́",
+       "nereye",
+       "kuda",
+       "➡️"
+      ]
+     ]
+    },
+    {
+     "id": "u2l5",
+     "kind": "vocab",
+     "title": "Zamirler",
+     "subtitle": "я · ты · он …",
+     "intro": "Ben, sen, o, biz… cümlenin temeli.",
+     "v": [
+      [
+       "я",
+       "ben",
+       "ya",
+       "🙋"
+      ],
+      [
+       "ты",
+       "sen",
+       "tı",
+       "👉"
+      ],
+      [
+       "он",
+       "o (erkek)",
+       "on",
+       "👨"
+      ],
+      [
+       "она́",
+       "o (kadın)",
+       "ana",
+       "👩"
+      ],
+      [
+       "мы",
+       "biz",
+       "mı",
+       "👫"
+      ],
+      [
+       "вы",
+       "siz",
+       "vı",
+       "🫵"
+      ],
+      [
+       "они́",
+       "onlar",
+       "ani",
+       "👥"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "level": "baslangic",
+   "title": "Sayılar ve zaman",
+   "subtitle": "Saymayı, günleri ve zamanı öğren · 5 ders",
+   "lessons": [
+    {
+     "id": "u3l1",
+     "kind": "vocab",
+     "title": "Sayılar 1–8",
+     "subtitle": "один · два · три …",
+     "intro": "Birden sekize kadar.",
+     "v": [
+      [
+       "оди́н",
+       "bir",
+       "adin",
+       "1️⃣"
+      ],
+      [
+       "два",
+       "iki",
+       "dva",
+       "2️⃣"
+      ],
+      [
+       "три",
+       "üç",
+       "tri",
+       "3️⃣"
+      ],
+      [
+       "четы́ре",
+       "dört",
+       "çitırye",
+       "4️⃣"
+      ],
+      [
+       "пять",
+       "beş",
+       "pyat'",
+       "5️⃣"
+      ],
+      [
+       "шесть",
+       "altı",
+       "şest'",
+       "6️⃣"
+      ],
+      [
+       "семь",
+       "yedi",
+       "syem'",
+       "7️⃣"
+      ],
+      [
+       "во́семь",
+       "sekiz",
+       "vosim'",
+       "8️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u3l2",
+     "kind": "vocab",
+     "title": "Daha büyük sayılar",
+     "subtitle": "девять · десять · ноль …",
+     "intro": "Dokuzdan bine.",
+     "v": [
+      [
+       "де́вять",
+       "dokuz",
+       "dyevit'",
+       "9️⃣"
+      ],
+      [
+       "де́сять",
+       "on",
+       "dyesit'",
+       "🔟"
+      ],
+      [
+       "ноль",
+       "sıfır",
+       "nol'",
+       "0️⃣"
+      ],
+      [
+       "два́дцать",
+       "yirmi",
+       "dvatsat'"
+      ],
+      [
+       "пятьдеся́т",
+       "elli",
+       "pidisyat"
+      ],
+      [
+       "сто",
+       "yüz",
+       "sto",
+       "💯"
+      ],
+      [
+       "ты́сяча",
+       "bin",
+       "tısiça"
+      ]
+     ]
+    },
+    {
+     "id": "u3l3",
+     "kind": "vocab",
+     "title": "Haftanın günleri",
+     "subtitle": "понедельник · вторник · среда …",
+     "intro": "Pazartesiden pazara.",
+     "v": [
+      [
+       "понеде́льник",
+       "pazartesi",
+       "panidyel'nik",
+       "📅",
+       "m"
+      ],
+      [
+       "вто́рник",
+       "salı",
+       "ftornik",
+       "📅",
+       "m"
+      ],
+      [
+       "среда́",
+       "çarşamba",
+       "srida",
+       "📅",
+       "f"
+      ],
+      [
+       "четве́рг",
+       "perşembe",
+       "çitvyerk",
+       "📅",
+       "m"
+      ],
+      [
+       "пя́тница",
+       "cuma",
+       "pyatnitsa",
+       "🎉",
+       "f"
+      ],
+      [
+       "суббо́та",
+       "cumartesi",
+       "subota",
+       "🛋️",
+       "f"
+      ],
+      [
+       "воскресе́нье",
+       "pazar",
+       "vaskrisyen'ye",
+       "☀️",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u3l4",
+     "kind": "vocab",
+     "title": "Zaman kelimeleri",
+     "subtitle": "сегодня · вчера · завтра …",
+     "intro": "Bugün, dün, şimdi, sonra…",
+     "v": [
+      [
+       "сего́дня",
+       "bugün",
+       "sivodnya",
+       "📆"
+      ],
+      [
+       "вчера́",
+       "dün",
+       "fçira",
+       "⏪"
+      ],
+      [
+       "за́втра",
+       "yarın",
+       "zavtra",
+       "⏩"
+      ],
+      [
+       "сейча́с",
+       "şimdi",
+       "siyças",
+       "⏱️"
+      ],
+      [
+       "пото́м",
+       "sonra",
+       "patom"
+      ],
+      [
+       "всегда́",
+       "her zaman",
+       "fsigda",
+       "♾️"
+      ],
+      [
+       "никогда́",
+       "asla",
+       "nikagda",
+       "🚫"
+      ]
+     ]
+    },
+    {
+     "id": "u3l5",
+     "kind": "vocab",
+     "title": "Hafta, ay, mevsim",
+     "subtitle": "минута · неделя · месяц …",
+     "intro": "Zaman birimleri ve mevsimler.",
+     "v": [
+      [
+       "мину́та",
+       "dakika",
+       "minuta",
+       "⏱️",
+       "f"
+      ],
+      [
+       "неде́ля",
+       "hafta",
+       "nidyelya",
+       "🗓️",
+       "f"
+      ],
+      [
+       "ме́сяц",
+       "ay",
+       "myesits",
+       "🌙",
+       "m"
+      ],
+      [
+       "зима́",
+       "kış",
+       "zima",
+       "❄️",
+       "f"
+      ],
+      [
+       "весна́",
+       "ilkbahar",
+       "visna",
+       "🌷",
+       "f"
+      ],
+      [
+       "ле́то",
+       "yaz",
+       "lyeta",
+       "🏖️",
+       "n"
+      ],
+      [
+       "о́сень",
+       "sonbahar",
+       "osin'",
+       "🍂",
+       "f"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "level": "baslangic",
+   "title": "Aile ve insanlar",
+   "subtitle": "Ailen, çevren, meslekler ve vücut · 5 ders",
+   "lessons": [
+    {
+     "id": "u4l1",
+     "kind": "vocab",
+     "title": "Aile",
+     "subtitle": "семья · отец · мать …",
+     "intro": "Anne, baba, kardeşler, büyükanne…",
+     "v": [
+      [
+       "семья́",
+       "aile",
+       "simya",
+       "👨‍👩‍👧",
+       "f"
+      ],
+      [
+       "оте́ц",
+       "baba",
+       "atyets",
+       "👨",
+       "m"
+      ],
+      [
+       "мать",
+       "anne",
+       "mat'",
+       "👩",
+       "f"
+      ],
+      [
+       "сын",
+       "oğul",
+       "sın",
+       "👦",
+       "m"
+      ],
+      [
+       "дочь",
+       "kız evlat",
+       "doç'",
+       "👧",
+       "f"
+      ],
+      [
+       "ба́бушка",
+       "büyükanne",
+       "babuşka",
+       "👵",
+       "f"
+      ],
+      [
+       "де́душка",
+       "büyükbaba",
+       "dyeduşka",
+       "👴",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u4l2",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "человек · мужчина · женщина …",
+     "intro": "Adam, kadın, çocuk, komşu…",
+     "v": [
+      [
+       "челове́к",
+       "insan",
+       "çilavyek",
+       "🧍",
+       "m"
+      ],
+      [
+       "мужчи́на",
+       "adam, erkek",
+       "muşşina",
+       "👨",
+       "m"
+      ],
+      [
+       "же́нщина",
+       "kadın",
+       "jenşşina",
+       "👩",
+       "f"
+      ],
+      [
+       "ребёнок",
+       "çocuk",
+       "ribyonak",
+       "🧒",
+       "m"
+      ],
+      [
+       "подру́га",
+       "kız arkadaş",
+       "padruga",
+       "👭",
+       "f"
+      ],
+      [
+       "сосе́д",
+       "komşu",
+       "sasyet",
+       "🏘️",
+       "m"
+      ],
+      [
+       "лю́ди",
+       "insanlar",
+       "lyudi",
+       "👥"
+      ]
+     ]
+    },
+    {
+     "id": "u4l3",
+     "kind": "vocab",
+     "title": "Meslekler",
+     "subtitle": "врач · учитель · студент …",
+     "intro": "Ne iş yapıyorsun?",
+     "v": [
+      [
+       "врач",
+       "doktor",
+       "vraç",
+       "🩺",
+       "m"
+      ],
+      [
+       "учи́тель",
+       "öğretmen",
+       "uçitil'",
+       "👨‍🏫",
+       "m"
+      ],
+      [
+       "студе́нт",
+       "öğrenci",
+       "studyent",
+       "🎓",
+       "m"
+      ],
+      [
+       "инжене́р",
+       "mühendis",
+       "injinyer",
+       "👷",
+       "m"
+      ],
+      [
+       "води́тель",
+       "şoför",
+       "vaditil'",
+       "🚗",
+       "m"
+      ],
+      [
+       "продаве́ц",
+       "satıcı",
+       "pradavyets",
+       "🛒",
+       "m"
+      ],
+      [
+       "по́вар",
+       "aşçı",
+       "povar",
+       "👨‍🍳",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u4l4",
+     "kind": "vocab",
+     "title": "Vücut",
+     "subtitle": "голова · глаз · ухо …",
+     "intro": "Baş, göz, kulak…",
+     "v": [
+      [
+       "голова́",
+       "baş",
+       "galava",
+       "🗣️",
+       "f"
+      ],
+      [
+       "глаз",
+       "göz",
+       "glas",
+       "👁️",
+       "m"
+      ],
+      [
+       "у́хо",
+       "kulak",
+       "uha",
+       "👂",
+       "n"
+      ],
+      [
+       "нога́",
+       "bacak, ayak",
+       "naga",
+       "🦵",
+       "f"
+      ],
+      [
+       "се́рдце",
+       "kalp",
+       "syertse",
+       "❤️",
+       "n"
+      ],
+      [
+       "во́лосы",
+       "saç",
+       "volası",
+       "💇"
+      ],
+      [
+       "спина́",
+       "sırt",
+       "spina",
+       "🔙",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u4l5",
+     "kind": "vocab",
+     "title": "Temel sıfatlar",
+     "subtitle": "большой · маленький · хороший …",
+     "intro": "Büyük, küçük, iyi, kötü…",
+     "v": [
+      [
+       "большо́й",
+       "büyük",
+       "bal'şoy",
+       "🐘"
+      ],
+      [
+       "ма́ленький",
+       "küçük",
+       "malin'kiy",
+       "🐭"
+      ],
+      [
+       "хоро́ший",
+       "iyi",
+       "haroşıy",
+       "👍"
+      ],
+      [
+       "плохо́й",
+       "kötü",
+       "plahoy",
+       "👎"
+      ],
+      [
+       "но́вый",
+       "yeni",
+       "novıy",
+       "✨"
+      ],
+      [
+       "ста́рый",
+       "eski, yaşlı",
+       "starıy",
+       "🏚️"
+      ],
+      [
+       "краси́вый",
+       "güzel",
+       "krasivıy",
+       "🌹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "level": "baslangic",
+   "title": "Yemek ve renkler",
+   "subtitle": "Ne yiyip içeceğini söyle · 5 ders",
+   "lessons": [
+    {
+     "id": "u5l1",
+     "kind": "vocab",
+     "title": "İçecekler",
+     "subtitle": "кофе · чай · вода …",
+     "intro": "Kahve, çay, su…",
+     "v": [
+      [
+       "ко́фе",
+       "kahve",
+       "kofye",
+       "☕",
+       "m"
+      ],
+      [
+       "чай",
+       "çay",
+       "çay",
+       "🍵",
+       "m"
+      ],
+      [
+       "вода́",
+       "su",
+       "vada",
+       "💧",
+       "f"
+      ],
+      [
+       "сок",
+       "meyve suyu",
+       "sok",
+       "🧃",
+       "m"
+      ],
+      [
+       "молоко́",
+       "süt",
+       "malako",
+       "🥛",
+       "n"
+      ],
+      [
+       "пи́во",
+       "bira",
+       "piva",
+       "🍺",
+       "n"
+      ],
+      [
+       "вино́",
+       "şarap",
+       "vino",
+       "🍷",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u5l2",
+     "kind": "vocab",
+     "title": "Temel yiyecekler",
+     "subtitle": "хлеб · мясо · рыба …",
+     "intro": "Ekmek, et, balık…",
+     "v": [
+      [
+       "хлеб",
+       "ekmek",
+       "hlyep",
+       "🍞",
+       "m"
+      ],
+      [
+       "мя́со",
+       "et",
+       "myasa",
+       "🥩",
+       "n"
+      ],
+      [
+       "ры́ба",
+       "balık",
+       "rıba",
+       "🐟",
+       "f"
+      ],
+      [
+       "ку́рица",
+       "tavuk",
+       "kuritsa",
+       "🍗",
+       "f"
+      ],
+      [
+       "яйцо́",
+       "yumurta",
+       "yiytso",
+       "🥚",
+       "n"
+      ],
+      [
+       "рис",
+       "pirinç",
+       "ris",
+       "🍚",
+       "m"
+      ],
+      [
+       "суп",
+       "çorba",
+       "sup",
+       "🍲",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l3",
+     "kind": "vocab",
+     "title": "Meyve ve sebze",
+     "subtitle": "яблоко · банан · апельсин …",
+     "intro": "Elma, patates, domates…",
+     "v": [
+      [
+       "я́блоко",
+       "elma",
+       "yablaka",
+       "🍎",
+       "n"
+      ],
+      [
+       "бана́н",
+       "muz",
+       "banan",
+       "🍌",
+       "m"
+      ],
+      [
+       "апельси́н",
+       "portakal",
+       "apil'sin",
+       "🍊",
+       "m"
+      ],
+      [
+       "карто́шка",
+       "patates",
+       "kartoşka",
+       "🥔",
+       "f"
+      ],
+      [
+       "помидо́р",
+       "domates",
+       "pamidor",
+       "🍅",
+       "m"
+      ],
+      [
+       "огуре́ц",
+       "salatalık",
+       "aguryets",
+       "🥒",
+       "m"
+      ],
+      [
+       "лук",
+       "soğan",
+       "luk",
+       "🧅",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l4",
+     "kind": "vocab",
+     "title": "Restoranda",
+     "subtitle": "меню · счёт, пожалуйста · я хочу… …",
+     "intro": "Sipariş ver, hesabı iste.",
+     "v": [
+      [
+       "меню́",
+       "menü",
+       "minyu",
+       "📋",
+       "n"
+      ],
+      [
+       "счёт, пожа́луйста",
+       "hesap, lütfen",
+       "şşot, pajalsta",
+       "🧾"
+      ],
+      [
+       "я хочу́…",
+       "… istiyorum",
+       "ya haçu",
+       "🙋"
+      ],
+      [
+       "вку́сно",
+       "lezzetli",
+       "fkusna",
+       "😋"
+      ],
+      [
+       "за́втрак",
+       "kahvaltı",
+       "zaftrak",
+       "🍳",
+       "m"
+      ],
+      [
+       "обе́д",
+       "öğle yemeği",
+       "abyet",
+       "🍽️",
+       "m"
+      ],
+      [
+       "у́жин",
+       "akşam yemeği",
+       "ujın",
+       "🌙",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l5",
+     "kind": "vocab",
+     "title": "Renkler",
+     "subtitle": "красный · синий · зелёный …",
+     "intro": "Kırmızı, mavi, yeşil…",
+     "v": [
+      [
+       "кра́сный",
+       "kırmızı",
+       "krasnıy",
+       "🔴"
+      ],
+      [
+       "си́ний",
+       "mavi",
+       "siniy",
+       "🔵"
+      ],
+      [
+       "зелёный",
+       "yeşil",
+       "zilyonıy",
+       "🟢"
+      ],
+      [
+       "жёлтый",
+       "sarı",
+       "joltıy",
+       "🟡"
+      ],
+      [
+       "бе́лый",
+       "beyaz",
+       "byelıy",
+       "⚪"
+      ],
+      [
+       "чёрный",
+       "siyah",
+       "çornıy",
+       "⚫"
+      ],
+      [
+       "се́рый",
+       "gri",
+       "syerıy",
+       "🩶"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "level": "baslangic",
+   "title": "Şehir ve ev",
+   "subtitle": "Şehirde dolaş, alışveriş yap, evini anlat · 5 ders",
+   "lessons": [
+    {
+     "id": "u6l1",
+     "kind": "vocab",
+     "title": "Şehirde yerler",
+     "subtitle": "магазин · аптека · больница …",
+     "intro": "Mağaza, eczane, otel…",
+     "v": [
+      [
+       "магази́н",
+       "mağaza",
+       "magazin",
+       "🏪",
+       "m"
+      ],
+      [
+       "апте́ка",
+       "eczane",
+       "aptyeka",
+       "💊",
+       "f"
+      ],
+      [
+       "больни́ца",
+       "hastane",
+       "bal'nitsa",
+       "🏥",
+       "f"
+      ],
+      [
+       "гости́ница",
+       "otel",
+       "gastinitsa",
+       "🏨",
+       "f"
+      ],
+      [
+       "вокза́л",
+       "tren garı",
+       "vagzal",
+       "🚉",
+       "m"
+      ],
+      [
+       "рестора́н",
+       "restoran",
+       "ristaran",
+       "🍴",
+       "m"
+      ],
+      [
+       "музе́й",
+       "müze",
+       "muzyey",
+       "🏛️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u6l2",
+     "kind": "vocab",
+     "title": "Ulaşım",
+     "subtitle": "метро · автобус · такси …",
+     "intro": "Metro, otobüs, taksi…",
+     "v": [
+      [
+       "метро́",
+       "metro",
+       "mitro",
+       "🚇",
+       "n"
+      ],
+      [
+       "авто́бус",
+       "otobüs",
+       "aftobus",
+       "🚌",
+       "m"
+      ],
+      [
+       "такси́",
+       "taksi",
+       "taksi",
+       "🚕",
+       "n"
+      ],
+      [
+       "маши́на",
+       "araba",
+       "maşına",
+       "🚗",
+       "f"
+      ],
+      [
+       "по́езд",
+       "tren",
+       "poyist",
+       "🚆",
+       "m"
+      ],
+      [
+       "самолёт",
+       "uçak",
+       "samalyot",
+       "✈️",
+       "m"
+      ],
+      [
+       "биле́т",
+       "bilet",
+       "bilyet",
+       "🎫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u6l3",
+     "kind": "vocab",
+     "title": "Yol tarifi",
+     "subtitle": "направо · налево · прямо …",
+     "intro": "Sağa, sola, düz…",
+     "v": [
+      [
+       "напра́во",
+       "sağa",
+       "naprava",
+       "➡️"
+      ],
+      [
+       "нале́во",
+       "sola",
+       "nalyeva",
+       "⬅️"
+      ],
+      [
+       "пря́мо",
+       "düz",
+       "pryama",
+       "⬆️"
+      ],
+      [
+       "здесь",
+       "burada",
+       "zdyes'",
+       "📍"
+      ],
+      [
+       "далеко́",
+       "uzak",
+       "dalika",
+       "🗺️"
+      ],
+      [
+       "бли́зко",
+       "yakın",
+       "bliska",
+       "📌"
+      ],
+      [
+       "где туале́т?",
+       "tuvalet nerede?",
+       "gdye tualyet",
+       "🚻"
+      ]
+     ]
+    },
+    {
+     "id": "u6l4",
+     "kind": "vocab",
+     "title": "Alışveriş",
+     "subtitle": "сколько стоит? · деньги · рубль …",
+     "intro": "Fiyat sor, öde.",
+     "v": [
+      [
+       "ско́лько сто́ит?",
+       "ne kadar?",
+       "skol'ka stoit",
+       "🏷️"
+      ],
+      [
+       "де́ньги",
+       "para",
+       "dyen'gi",
+       "💵"
+      ],
+      [
+       "рубль",
+       "ruble",
+       "rubl'",
+       "🪙",
+       "m"
+      ],
+      [
+       "до́рого",
+       "pahalı",
+       "doraga",
+       "💸"
+      ],
+      [
+       "дёшево",
+       "ucuz",
+       "dyoşiva",
+       "🤑"
+      ],
+      [
+       "ка́рта",
+       "kart",
+       "karta",
+       "💳",
+       "f"
+      ],
+      [
+       "ка́сса",
+       "kasa",
+       "kassa",
+       "🧾",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u6l5",
+     "kind": "vocab",
+     "title": "Evde",
+     "subtitle": "квартира · комната · кухня …",
+     "intro": "Oda, mutfak, kapı…",
+     "v": [
+      [
+       "кварти́ра",
+       "daire",
+       "kvartira",
+       "🏢",
+       "f"
+      ],
+      [
+       "ко́мната",
+       "oda",
+       "komnata",
+       "🚪",
+       "f"
+      ],
+      [
+       "ку́хня",
+       "mutfak",
+       "kuhnya",
+       "🍳",
+       "f"
+      ],
+      [
+       "дверь",
+       "kapı",
+       "dvyer'",
+       "🚪",
+       "f"
+      ],
+      [
+       "крова́ть",
+       "yatak",
+       "kravat'",
+       "🛏️",
+       "f"
+      ],
+      [
+       "стул",
+       "sandalye",
+       "stul",
+       "🪑",
+       "m"
+      ],
+      [
+       "дива́н",
+       "kanepe",
+       "divan",
+       "🛋️",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "level": "baslangic",
+   "title": "Temel fiiller",
+   "subtitle": "Her gün kullanacağın fiiller ve kurtarıcı cümleler · 5 ders",
+   "lessons": [
+    {
+     "id": "u7l1",
+     "kind": "vocab",
+     "title": "Günlük fiiller",
+     "subtitle": "есть · пить · спать …",
+     "intro": "Yemek, içmek, uyumak…",
+     "v": [
+      [
+       "есть",
+       "yemek",
+       "yest'",
+       "🍽️"
+      ],
+      [
+       "пить",
+       "içmek",
+       "pit'",
+       "🥤"
+      ],
+      [
+       "спать",
+       "uyumak",
+       "spat'",
+       "😴"
+      ],
+      [
+       "жить",
+       "yaşamak",
+       "jıt'",
+       "🏠"
+      ],
+      [
+       "рабо́тать",
+       "çalışmak",
+       "rabotat'",
+       "💼"
+      ],
+      [
+       "отдыха́ть",
+       "dinlenmek",
+       "addıhat'",
+       "🏖️"
+      ],
+      [
+       "гуля́ть",
+       "gezmek",
+       "gulyat'",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u7l2",
+     "kind": "vocab",
+     "title": "Hareket fiilleri",
+     "subtitle": "идти · ехать · бежать …",
+     "intro": "Gitmek, koşmak, oturmak…",
+     "v": [
+      [
+       "идти́",
+       "gitmek (yürüyerek)",
+       "itti",
+       "🚶"
+      ],
+      [
+       "е́хать",
+       "gitmek (araçla)",
+       "yehat'",
+       "🚗"
+      ],
+      [
+       "бежа́ть",
+       "koşmak",
+       "bijat'",
+       "🏃"
+      ],
+      [
+       "стоя́ть",
+       "ayakta durmak",
+       "stayat'",
+       "🧍"
+      ],
+      [
+       "сиде́ть",
+       "oturmak",
+       "sidyet'",
+       "🪑"
+      ],
+      [
+       "лете́ть",
+       "uçmak",
+       "lityet'",
+       "✈️"
+      ],
+      [
+       "плыть",
+       "yüzmek",
+       "plıt'",
+       "🏊"
+      ]
+     ]
+    },
+    {
+     "id": "u7l3",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "говорить · понимать · знать …",
+     "intro": "Konuşmak, anlamak, bilmek…",
+     "v": [
+      [
+       "говори́ть",
+       "konuşmak",
+       "gavarit'",
+       "🗣️"
+      ],
+      [
+       "понима́ть",
+       "anlamak",
+       "panimat'",
+       "💡"
+      ],
+      [
+       "знать",
+       "bilmek",
+       "znat'",
+       "🧠"
+      ],
+      [
+       "чита́ть",
+       "okumak",
+       "çitat'",
+       "📖"
+      ],
+      [
+       "писа́ть",
+       "yazmak",
+       "pisat'",
+       "✍️"
+      ],
+      [
+       "слу́шать",
+       "dinlemek",
+       "sluşat'",
+       "🎧"
+      ],
+      [
+       "учи́ть",
+       "öğrenmek, öğretmek",
+       "uçit'",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u7l4",
+     "kind": "vocab",
+     "title": "İstek ve yetenek",
+     "subtitle": "хотеть · любить · мочь …",
+     "intro": "İstemek, sevmek, yapabilmek…",
+     "v": [
+      [
+       "хоте́ть",
+       "istemek",
+       "hatyet'",
+       "🙏"
+      ],
+      [
+       "люби́ть",
+       "sevmek",
+       "lyubit'",
+       "❤️"
+      ],
+      [
+       "мочь",
+       "yapabilmek",
+       "moç'",
+       "💪"
+      ],
+      [
+       "покупа́ть",
+       "satın almak",
+       "pakupat'",
+       "🛍️"
+      ],
+      [
+       "ви́деть",
+       "görmek",
+       "vidyet'",
+       "👀"
+      ],
+      [
+       "де́лать",
+       "yapmak",
+       "dyelat'",
+       "🛠️"
+      ],
+      [
+       "помога́ть",
+       "yardım etmek",
+       "pamagat'",
+       "🤝"
+      ]
+     ]
+    },
+    {
+     "id": "u7l5",
+     "kind": "vocab",
+     "title": "Kurtarıcı cümleler",
+     "subtitle": "я не понимаю · повторите, пожалуйста · говорите медленнее …",
+     "intro": "Zor anda hayat kurtaran cümleler.",
+     "v": [
+      [
+       "я не понима́ю",
+       "anlamıyorum",
+       "ya ni panimayu",
+       "😕"
+      ],
+      [
+       "повтори́те, пожа́луйста",
+       "tekrar eder misiniz lütfen",
+       "paftarityi, pajalsta",
+       "🔁"
+      ],
+      [
+       "говори́те ме́дленнее",
+       "daha yavaş konuşun",
+       "gavarityi myedlinniye",
+       "🐢"
+      ],
+      [
+       "я не зна́ю",
+       "bilmiyorum",
+       "ya ni znayu",
+       "🤷"
+      ],
+      [
+       "я говорю́ немно́го по-ру́сски",
+       "biraz Rusça konuşuyorum",
+       "ya gavaryu nimnoga pa-ruski",
+       "🇷🇺"
+      ],
+      [
+       "помоги́те!",
+       "yardım edin!",
+       "pamagityi",
+       "🆘"
+      ],
+      [
+       "я люблю́ тебя́",
+       "seni seviyorum",
+       "ya lyublyu tibya",
+       "❤️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "level": "baslangic",
+   "title": "Giyim ve hava",
+   "subtitle": "Giysiler, hava durumu, doğa ve hayvanlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u8l1",
+     "kind": "vocab",
+     "title": "Giysiler",
+     "subtitle": "рубашка · брюки · платье …",
+     "intro": "Gömlek, pantolon, ceket…",
+     "v": [
+      [
+       "руба́шка",
+       "gömlek",
+       "rubaşka",
+       "👔",
+       "f"
+      ],
+      [
+       "брю́ки",
+       "pantolon",
+       "bryuki",
+       "👖"
+      ],
+      [
+       "пла́тье",
+       "elbise",
+       "plat'ye",
+       "👗",
+       "n"
+      ],
+      [
+       "ку́ртка",
+       "mont, ceket",
+       "kurtka",
+       "🧥",
+       "f"
+      ],
+      [
+       "ю́бка",
+       "etek",
+       "yupka",
+       "👗",
+       "f"
+      ],
+      [
+       "футбо́лка",
+       "tişört",
+       "futbolka",
+       "👕",
+       "f"
+      ],
+      [
+       "сви́тер",
+       "kazak",
+       "svitır",
+       "🧶",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u8l2",
+     "kind": "vocab",
+     "title": "Ayakkabı ve aksesuar",
+     "subtitle": "обувь · туфли · кроссовки …",
+     "intro": "Ayakkabı, şapka, çanta…",
+     "v": [
+      [
+       "о́бувь",
+       "ayakkabılar",
+       "obuf'",
+       "👞",
+       "f"
+      ],
+      [
+       "ту́фли",
+       "ayakkabı (iskarpin)",
+       "tufli",
+       "👠"
+      ],
+      [
+       "кроссо́вки",
+       "spor ayakkabı",
+       "krasofki",
+       "👟"
+      ],
+      [
+       "ша́пка",
+       "bere, şapka",
+       "şapka",
+       "🧢",
+       "f"
+      ],
+      [
+       "су́мка",
+       "çanta",
+       "sumka",
+       "👜",
+       "f"
+      ],
+      [
+       "очки́",
+       "gözlük",
+       "açki",
+       "👓"
+      ],
+      [
+       "часы́",
+       "saat (kol)",
+       "çisı",
+       "⌚"
+      ]
+     ]
+    },
+    {
+     "id": "u8l3",
+     "kind": "vocab",
+     "title": "Hava durumu",
+     "subtitle": "погода · солнце · дождь …",
+     "intro": "Güneşli mi, yağmurlu mu?",
+     "v": [
+      [
+       "пого́да",
+       "hava durumu",
+       "pagoda",
+       "🌤️",
+       "f"
+      ],
+      [
+       "со́лнце",
+       "güneş",
+       "sontse",
+       "☀️",
+       "n"
+      ],
+      [
+       "дождь",
+       "yağmur",
+       "doşş",
+       "🌧️",
+       "m"
+      ],
+      [
+       "снег",
+       "kar",
+       "snyek",
+       "❄️",
+       "m"
+      ],
+      [
+       "ве́тер",
+       "rüzgâr",
+       "vyetir",
+       "💨",
+       "m"
+      ],
+      [
+       "жа́рко",
+       "sıcak (hava)",
+       "jarka",
+       "🥵"
+      ],
+      [
+       "хо́лодно",
+       "soğuk (hava)",
+       "holadna",
+       "🥶"
+      ]
+     ]
+    },
+    {
+     "id": "u8l4",
+     "kind": "vocab",
+     "title": "Doğa",
+     "subtitle": "море · гора · лес …",
+     "intro": "Deniz, dağ, orman…",
+     "v": [
+      [
+       "мо́ре",
+       "deniz",
+       "morye",
+       "🌊",
+       "n"
+      ],
+      [
+       "гора́",
+       "dağ",
+       "gara",
+       "⛰️",
+       "f"
+      ],
+      [
+       "лес",
+       "orman",
+       "lyes",
+       "🌲",
+       "m"
+      ],
+      [
+       "река́",
+       "nehir",
+       "rika",
+       "🏞️",
+       "f"
+      ],
+      [
+       "де́рево",
+       "ağaç",
+       "dyeriva",
+       "🌳",
+       "n"
+      ],
+      [
+       "цвето́к",
+       "çiçek",
+       "tsvitok",
+       "🌸",
+       "m"
+      ],
+      [
+       "не́бо",
+       "gökyüzü",
+       "nyeba",
+       "🌌",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u8l5",
+     "kind": "vocab",
+     "title": "Hayvanlar",
+     "subtitle": "кошка · собака · птица …",
+     "intro": "Kedi, köpek, kuş…",
+     "v": [
+      [
+       "ко́шка",
+       "kedi (dişi)",
+       "koşka",
+       "🐈",
+       "f"
+      ],
+      [
+       "соба́ка",
+       "köpek",
+       "sabaka",
+       "🐕",
+       "f"
+      ],
+      [
+       "пти́ца",
+       "kuş",
+       "ptitsa",
+       "🐦",
+       "f"
+      ],
+      [
+       "ло́шадь",
+       "at",
+       "loşıt'",
+       "🐎",
+       "f"
+      ],
+      [
+       "коро́ва",
+       "inek",
+       "karova",
+       "🐄",
+       "f"
+      ],
+      [
+       "медве́дь",
+       "ayı",
+       "midvyet'",
+       "🐻",
+       "m"
+      ],
+      [
+       "волк",
+       "kurt",
+       "volk",
+       "🐺",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "level": "baslangic",
+   "title": "Seyahat",
+   "subtitle": "Havalimanı, otel, gezi ve acil durumlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u9l1",
+     "kind": "vocab",
+     "title": "Havalimanında",
+     "subtitle": "аэропорт · паспорт · багаж …",
+     "intro": "Pasaport, bagaj, uçuş…",
+     "v": [
+      [
+       "аэропо́рт",
+       "havalimanı",
+       "aeraport",
+       "🛫",
+       "m"
+      ],
+      [
+       "па́спорт",
+       "pasaport",
+       "paspart",
+       "🛂",
+       "m"
+      ],
+      [
+       "бага́ж",
+       "bagaj",
+       "bagaş",
+       "🧳",
+       "m"
+      ],
+      [
+       "рейс",
+       "uçuş, sefer",
+       "reys",
+       "✈️",
+       "m"
+      ],
+      [
+       "вы́ход",
+       "çıkış, kapı",
+       "vıhat",
+       "🚪",
+       "m"
+      ],
+      [
+       "вход",
+       "giriş",
+       "fhot",
+       "🚶",
+       "m"
+      ],
+      [
+       "тамо́жня",
+       "gümrük",
+       "tamojnya",
+       "🛃",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u9l2",
+     "kind": "vocab",
+     "title": "Otelde",
+     "subtitle": "номер · ключ · бронь …",
+     "intro": "Oda, anahtar, rezervasyon…",
+     "v": [
+      [
+       "но́мер",
+       "otel odası",
+       "nomır",
+       "🛏️",
+       "m"
+      ],
+      [
+       "ключ",
+       "anahtar",
+       "klyuç",
+       "🔑",
+       "m"
+      ],
+      [
+       "бронь",
+       "rezervasyon",
+       "bron'",
+       "📝",
+       "f"
+      ],
+      [
+       "лифт",
+       "asansör",
+       "lift",
+       "🛗",
+       "m"
+      ],
+      [
+       "эта́ж",
+       "kat",
+       "etaş",
+       "🏢",
+       "m"
+      ],
+      [
+       "душ",
+       "duş",
+       "duş",
+       "🚿",
+       "m"
+      ],
+      [
+       "полоте́нце",
+       "havlu",
+       "palatyentse",
+       "🧺",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u9l3",
+     "kind": "vocab",
+     "title": "Gezerken",
+     "subtitle": "карта · экскурсия · гид …",
+     "intro": "Harita, fotoğraf, rehber…",
+     "v": [
+      [
+       "ка́рта",
+       "harita",
+       "karta",
+       "🗺️",
+       "f"
+      ],
+      [
+       "экску́рсия",
+       "gezi turu",
+       "ekskursiya",
+       "🚌",
+       "f"
+      ],
+      [
+       "гид",
+       "rehber",
+       "git",
+       "🧑‍💼",
+       "m"
+      ],
+      [
+       "пло́щадь",
+       "meydan",
+       "ploşşit'",
+       "🏙️",
+       "f"
+      ],
+      [
+       "це́рковь",
+       "kilise",
+       "tserkaf'",
+       "⛪",
+       "f"
+      ],
+      [
+       "мост",
+       "köprü",
+       "most",
+       "🌉",
+       "m"
+      ],
+      [
+       "сувени́р",
+       "hediyelik eşya",
+       "suvinir",
+       "🎁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u9l4",
+     "kind": "vocab",
+     "title": "Acil durumlar",
+     "subtitle": "полиция · скорая помощь · пожар …",
+     "intro": "Polis, ambulans, yardım…",
+     "v": [
+      [
+       "поли́ция",
+       "polis",
+       "palitsiya",
+       "🚓",
+       "f"
+      ],
+      [
+       "ско́рая по́мощь",
+       "ambulans",
+       "skoraya pomaşş",
+       "🚑",
+       "f"
+      ],
+      [
+       "пожа́р",
+       "yangın",
+       "pajar",
+       "🔥",
+       "m"
+      ],
+      [
+       "опа́сно",
+       "tehlikeli",
+       "apasna",
+       "⚠️"
+      ],
+      [
+       "мне пло́хо",
+       "kendimi kötü hissediyorum",
+       "mnye ploha",
+       "🤢"
+      ],
+      [
+       "я потеря́лся",
+       "kayboldum",
+       "ya patiryalsya",
+       "🧭"
+      ],
+      [
+       "позвони́те!",
+       "arayın!",
+       "pazvanityi",
+       "📞"
+      ]
+     ]
+    },
+    {
+     "id": "u9l5",
+     "kind": "vocab",
+     "title": "Tatil",
+     "subtitle": "отпуск · пляж · плавать …",
+     "intro": "Plaj, deniz, dinlenme…",
+     "v": [
+      [
+       "о́тпуск",
+       "izin, tatil",
+       "otpusk",
+       "🏝️",
+       "m"
+      ],
+      [
+       "пляж",
+       "plaj",
+       "plyaş",
+       "🏖️",
+       "m"
+      ],
+      [
+       "пла́вать",
+       "yüzmek",
+       "plavat'",
+       "🏊"
+      ],
+      [
+       "фотографи́ровать",
+       "fotoğraf çekmek",
+       "fatagrafiravat'",
+       "📸"
+      ],
+      [
+       "путеше́ствие",
+       "seyahat",
+       "putişestviye",
+       "🧳",
+       "n"
+      ],
+      [
+       "чемода́н",
+       "valiz",
+       "çimadan",
+       "🧳",
+       "m"
+      ],
+      [
+       "ви́за",
+       "vize",
+       "viza",
+       "📄",
+       "f"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "level": "baslangic",
+   "title": "Duygular ve sağlık",
+   "subtitle": "Nasıl hissettiğini anlat, doktorda derdini söyle · 5 ders",
+   "lessons": [
+    {
+     "id": "u10l1",
+     "kind": "vocab",
+     "title": "Duygular",
+     "subtitle": "счастливый · грустный · усталый …",
+     "intro": "Mutlu, üzgün, yorgun…",
+     "v": [
+      [
+       "счастли́вый",
+       "mutlu",
+       "şşislivıy",
+       "😄"
+      ],
+      [
+       "гру́стный",
+       "üzgün",
+       "grusnıy",
+       "😢"
+      ],
+      [
+       "уста́лый",
+       "yorgun",
+       "ustalıy",
+       "😩"
+      ],
+      [
+       "злой",
+       "kızgın",
+       "zloy",
+       "😠"
+      ],
+      [
+       "споко́йный",
+       "sakin",
+       "spakoynıy",
+       "😌"
+      ],
+      [
+       "я рад",
+       "sevindim (erkek)",
+       "ya rat",
+       "😊"
+      ],
+      [
+       "мне ску́чно",
+       "sıkıldım",
+       "mnye skuşna",
+       "🥱"
+      ]
+     ]
+    },
+    {
+     "id": "u10l2",
+     "kind": "vocab",
+     "title": "Doktorda",
+     "subtitle": "болит · лекарство · температура …",
+     "intro": "Ağrı, ilaç, sıcaklık…",
+     "v": [
+      [
+       "боли́т",
+       "ağrıyor",
+       "balit",
+       "🤕"
+      ],
+      [
+       "лека́рство",
+       "ilaç",
+       "likarstva",
+       "💊",
+       "n"
+      ],
+      [
+       "температу́ра",
+       "ateş",
+       "timpiratura",
+       "🌡️",
+       "f"
+      ],
+      [
+       "просту́да",
+       "soğuk algınlığı",
+       "prastuda",
+       "🤧",
+       "f"
+      ],
+      [
+       "зуб боли́т",
+       "dişim ağrıyor",
+       "zup balit",
+       "🦷"
+      ],
+      [
+       "больно́й",
+       "hasta",
+       "bal'noy",
+       "🤒"
+      ],
+      [
+       "здоро́вый",
+       "sağlıklı",
+       "zdarovıy",
+       "💪"
+      ]
+     ]
+    },
+    {
+     "id": "u10l3",
+     "kind": "vocab",
+     "title": "Spor",
+     "subtitle": "спорт · футбол · бег …",
+     "intro": "Futbol, yüzme, koşu…",
+     "v": [
+      [
+       "спорт",
+       "spor",
+       "sport",
+       "🏅",
+       "m"
+      ],
+      [
+       "футбо́л",
+       "futbol",
+       "futbol",
+       "⚽",
+       "m"
+      ],
+      [
+       "бег",
+       "koşu",
+       "byek",
+       "🏃",
+       "m"
+      ],
+      [
+       "пла́вание",
+       "yüzme",
+       "plavaniye",
+       "🏊",
+       "n"
+      ],
+      [
+       "трениро́вка",
+       "antrenman",
+       "trinirofka",
+       "🏋️",
+       "f"
+      ],
+      [
+       "игра́ть",
+       "oynamak",
+       "igrat'",
+       "🎮"
+      ],
+      [
+       "кома́нда",
+       "takım",
+       "kamanda",
+       "👥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u10l4",
+     "kind": "vocab",
+     "title": "Hobiler",
+     "subtitle": "музыка · книга · фильм …",
+     "intro": "Müzik, kitap, film…",
+     "v": [
+      [
+       "му́зыка",
+       "müzik",
+       "muzıka",
+       "🎵",
+       "f"
+      ],
+      [
+       "кни́га",
+       "kitap",
+       "kniga",
+       "📕",
+       "f"
+      ],
+      [
+       "фильм",
+       "film",
+       "fil'm",
+       "🎬",
+       "m"
+      ],
+      [
+       "рисова́ть",
+       "resim yapmak",
+       "risavat'",
+       "🎨"
+      ],
+      [
+       "петь",
+       "şarkı söylemek",
+       "pyet'",
+       "🎤"
+      ],
+      [
+       "танцева́ть",
+       "dans etmek",
+       "tantsivat'",
+       "💃"
+      ],
+      [
+       "путеше́ствовать",
+       "seyahat etmek",
+       "putişestvavat'",
+       "🌍"
+      ]
+     ]
+    },
+    {
+     "id": "u10l5",
+     "kind": "vocab",
+     "title": "Karakter",
+     "subtitle": "добрый · умный · смешной …",
+     "intro": "Nazik, akıllı, komik…",
+     "v": [
+      [
+       "до́брый",
+       "iyi kalpli",
+       "dobrıy",
+       "🤗"
+      ],
+      [
+       "у́мный",
+       "akıllı",
+       "umnıy",
+       "🧠"
+      ],
+      [
+       "смешно́й",
+       "komik",
+       "smişnoy",
+       "😂"
+      ],
+      [
+       "серьёзный",
+       "ciddi",
+       "sir'yoznıy",
+       "🧐"
+      ],
+      [
+       "весёлый",
+       "neşeli",
+       "visyolıy",
+       "😁"
+      ],
+      [
+       "ми́лый",
+       "tatlı, sevimli",
+       "milıy",
+       "🥰"
+      ],
+      [
+       "лени́вый",
+       "tembel",
+       "linivıy",
+       "🦥"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "level": "baslangic",
+   "title": "Okul ve iş",
+   "subtitle": "Okulda, ofiste ve teknolojide kullanılan kelimeler · 5 ders",
+   "lessons": [
+    {
+     "id": "u11l1",
+     "kind": "vocab",
+     "title": "Okulda",
+     "subtitle": "школа · урок · экзамен …",
+     "intro": "Ders, sınav, defter…",
+     "v": [
+      [
+       "шко́ла",
+       "okul",
+       "şkola",
+       "🏫",
+       "f"
+      ],
+      [
+       "уро́к",
+       "ders",
+       "urok",
+       "📘",
+       "m"
+      ],
+      [
+       "экза́мен",
+       "sınav",
+       "ekzamin",
+       "📝",
+       "m"
+      ],
+      [
+       "тетра́дь",
+       "defter",
+       "titrat'",
+       "📓",
+       "f"
+      ],
+      [
+       "ру́чка",
+       "kalem (tükenmez)",
+       "ruçka",
+       "🖊️",
+       "f"
+      ],
+      [
+       "вопро́с",
+       "soru",
+       "vapros",
+       "❓",
+       "m"
+      ],
+      [
+       "отве́т",
+       "cevap",
+       "atvyet",
+       "💬",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u11l2",
+     "kind": "vocab",
+     "title": "Ofiste",
+     "subtitle": "работа · офис · начальник …",
+     "intro": "Toplantı, patron, maaş…",
+     "v": [
+      [
+       "рабо́та",
+       "iş",
+       "rabota",
+       "💼",
+       "f"
+      ],
+      [
+       "о́фис",
+       "ofis",
+       "ofis",
+       "🏢",
+       "m"
+      ],
+      [
+       "нача́льник",
+       "patron, müdür",
+       "naçal'nik",
+       "👔",
+       "m"
+      ],
+      [
+       "колле́га",
+       "iş arkadaşı",
+       "kalyega",
+       "🧑‍🤝‍🧑",
+       "m"
+      ],
+      [
+       "встре́ча",
+       "toplantı, buluşma",
+       "fstryeça",
+       "🤝",
+       "f"
+      ],
+      [
+       "зарпла́та",
+       "maaş",
+       "zarplata",
+       "💰",
+       "f"
+      ],
+      [
+       "докуме́нт",
+       "belge",
+       "dakumyent",
+       "📄",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u11l3",
+     "kind": "vocab",
+     "title": "Teknoloji",
+     "subtitle": "телефон · компьютер · интернет …",
+     "intro": "Telefon, bilgisayar, internet…",
+     "v": [
+      [
+       "телефо́н",
+       "telefon",
+       "tilifon",
+       "📱",
+       "m"
+      ],
+      [
+       "компью́тер",
+       "bilgisayar",
+       "kamp'yutır",
+       "💻",
+       "m"
+      ],
+      [
+       "интерне́т",
+       "internet",
+       "internet",
+       "🌐",
+       "m"
+      ],
+      [
+       "сообще́ние",
+       "mesaj",
+       "saapşşeniye",
+       "✉️",
+       "n"
+      ],
+      [
+       "паро́ль",
+       "şifre",
+       "parol'",
+       "🔒",
+       "m"
+      ],
+      [
+       "заря́дка",
+       "şarj aleti",
+       "zaryatka",
+       "🔌",
+       "f"
+      ],
+      [
+       "приложе́ние",
+       "uygulama",
+       "prilajeniye",
+       "📲",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u11l4",
+     "kind": "vocab",
+     "title": "Zıt anlamlılar",
+     "subtitle": "быстрый · медленный · лёгкий …",
+     "intro": "Hızlı-yavaş, kolay-zor…",
+     "v": [
+      [
+       "бы́стрый",
+       "hızlı",
+       "bıstrıy",
+       "🐇"
+      ],
+      [
+       "ме́дленный",
+       "yavaş",
+       "myedlinnıy",
+       "🐢"
+      ],
+      [
+       "лёгкий",
+       "kolay, hafif",
+       "lyohkiy",
+       "🪶"
+      ],
+      [
+       "тру́дный",
+       "zor",
+       "trudnıy",
+       "🧗"
+      ],
+      [
+       "дорого́й",
+       "pahalı, sevgili",
+       "daragoy",
+       "💎"
+      ],
+      [
+       "дешёвый",
+       "ucuz",
+       "dişovıy",
+       "🏷️"
+      ],
+      [
+       "интере́сный",
+       "ilginç",
+       "intiryesnıy",
+       "🤩"
+      ]
+     ]
+    },
+    {
+     "id": "u11l5",
+     "kind": "vocab",
+     "title": "Sık zarflar",
+     "subtitle": "очень · немного · хорошо …",
+     "intro": "Çok, biraz, hızlıca…",
+     "v": [
+      [
+       "о́чень",
+       "çok",
+       "oçin'"
+      ],
+      [
+       "немно́го",
+       "biraz",
+       "nimnoga",
+       "🤏"
+      ],
+      [
+       "хорошо́",
+       "iyi",
+       "haraşo",
+       "👍"
+      ],
+      [
+       "пло́хо",
+       "kötü",
+       "ploha",
+       "👎"
+      ],
+      [
+       "ча́сто",
+       "sık sık",
+       "çasta",
+       "🔁"
+      ],
+      [
+       "ре́дко",
+       "nadiren",
+       "ryetka"
+      ],
+      [
+       "уже́",
+       "zaten, artık",
+       "uje",
+       "✅"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "level": "baslangic",
+   "title": "Ev hayatı",
+   "subtitle": "Günlük rutin, ev işleri ve evdeki eşyalar · 5 ders",
+   "lessons": [
+    {
+     "id": "u12l1",
+     "kind": "vocab",
+     "title": "Sabah rutini",
+     "subtitle": "просыпаться · вставать · умываться …",
+     "intro": "Uyanmak, yıkanmak, giyinmek…",
+     "v": [
+      [
+       "просыпа́ться",
+       "uyanmak",
+       "prasıpatsa",
+       "⏰"
+      ],
+      [
+       "встава́ть",
+       "kalkmak",
+       "fstavat'",
+       "🛏️"
+      ],
+      [
+       "умыва́ться",
+       "yüz yıkamak",
+       "umıvatsa",
+       "🧼"
+      ],
+      [
+       "одева́ться",
+       "giyinmek",
+       "adivatsa",
+       "👕"
+      ],
+      [
+       "за́втракать",
+       "kahvaltı etmek",
+       "zaftrakat'",
+       "🍳"
+      ],
+      [
+       "чи́стить зу́бы",
+       "dişleri fırçalamak",
+       "çistit' zubı",
+       "🪥"
+      ],
+      [
+       "спеши́ть",
+       "acele etmek",
+       "spişıt'",
+       "🏃"
+      ]
+     ]
+    },
+    {
+     "id": "u12l2",
+     "kind": "vocab",
+     "title": "Ev işleri",
+     "subtitle": "убирать · готовить · стирать …",
+     "intro": "Temizlik, yemek, çamaşır…",
+     "v": [
+      [
+       "убира́ть",
+       "toplamak, temizlemek",
+       "ubirat'",
+       "🧹"
+      ],
+      [
+       "гото́вить",
+       "yemek yapmak",
+       "gatovit'",
+       "🍲"
+      ],
+      [
+       "стира́ть",
+       "çamaşır yıkamak",
+       "stirat'",
+       "🧺"
+      ],
+      [
+       "мыть посу́ду",
+       "bulaşık yıkamak",
+       "mıt' pasudu",
+       "🍽️"
+      ],
+      [
+       "гла́дить",
+       "ütülemek",
+       "gladit'",
+       "👔"
+      ],
+      [
+       "пылесо́с",
+       "elektrik süpürgesi",
+       "pılisos",
+       "🧹",
+       "m"
+      ],
+      [
+       "му́сор",
+       "çöp",
+       "musar",
+       "🗑️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u12l3",
+     "kind": "vocab",
+     "title": "Mutfak eşyaları",
+     "subtitle": "тарелка · ложка · вилка …",
+     "intro": "Tabak, bıçak, kaşık…",
+     "v": [
+      [
+       "таре́лка",
+       "tabak",
+       "tarelka",
+       "🍽️",
+       "f"
+      ],
+      [
+       "ло́жка",
+       "kaşık",
+       "loşka",
+       "🥄",
+       "f"
+      ],
+      [
+       "ви́лка",
+       "çatal",
+       "vilka",
+       "🍴",
+       "f"
+      ],
+      [
+       "нож",
+       "bıçak",
+       "noş",
+       "🔪",
+       "m"
+      ],
+      [
+       "кастрю́ля",
+       "tencere",
+       "kastryulya",
+       "🍲",
+       "f"
+      ],
+      [
+       "холоди́льник",
+       "buzdolabı",
+       "haladil'nik",
+       "🧊",
+       "m"
+      ],
+      [
+       "плита́",
+       "ocak",
+       "plita",
+       "🔥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u12l4",
+     "kind": "vocab",
+     "title": "Banyo",
+     "subtitle": "ванная · мыло · зубная щётка …",
+     "intro": "Sabun, diş fırçası, ayna…",
+     "v": [
+      [
+       "ва́нная",
+       "banyo",
+       "vannaya",
+       "🛁",
+       "f"
+      ],
+      [
+       "мы́ло",
+       "sabun",
+       "mıla",
+       "🧼",
+       "n"
+      ],
+      [
+       "зубна́я щётка",
+       "diş fırçası",
+       "zubnaya şşotka",
+       "🪥",
+       "f"
+      ],
+      [
+       "зе́ркало",
+       "ayna",
+       "zyerkala",
+       "🪞",
+       "n"
+      ],
+      [
+       "шампу́нь",
+       "şampuan",
+       "şampun'",
+       "🧴",
+       "m"
+      ],
+      [
+       "туале́т",
+       "tuvalet",
+       "tualyet",
+       "🚽",
+       "m"
+      ],
+      [
+       "расчёска",
+       "tarak",
+       "raşşoska",
+       "🪮",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u12l5",
+     "kind": "vocab",
+     "title": "Akşam",
+     "subtitle": "вечер · телевизор · ужинать …",
+     "intro": "Dinlenmek, televizyon, uyumak…",
+     "v": [
+      [
+       "ве́чер",
+       "akşam",
+       "vyeçir",
+       "🌆",
+       "m"
+      ],
+      [
+       "телеви́зор",
+       "televizyon",
+       "tilivizar",
+       "📺",
+       "m"
+      ],
+      [
+       "у́жинать",
+       "akşam yemeği yemek",
+       "ujınat'",
+       "🍽️"
+      ],
+      [
+       "отдыха́ть",
+       "dinlenmek",
+       "addıhat'",
+       "🛋️"
+      ],
+      [
+       "ложи́ться спать",
+       "yatmak",
+       "lajıtsa spat'",
+       "🛌"
+      ],
+      [
+       "споко́йной но́чи",
+       "iyi geceler",
+       "spakoynay noçi",
+       "🌙"
+      ],
+      [
+       "сон",
+       "uyku, rüya",
+       "son",
+       "💤",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "level": "baslangic",
+   "title": "Bağlantı kelimeleri",
+   "subtitle": "Cümleleri birbirine bağlayan küçük kelimeler · 5 ders",
+   "lessons": [
+    {
+     "id": "u13l1",
+     "kind": "vocab",
+     "title": "Bağlaçlar",
+     "subtitle": "и · но · или …",
+     "intro": "Ve, ama, çünkü…",
+     "v": [
+      [
+       "и",
+       "ve",
+       "i",
+       "➕"
+      ],
+      [
+       "но",
+       "ama",
+       "no",
+       "↔️"
+      ],
+      [
+       "и́ли",
+       "veya",
+       "ili",
+       "🔀"
+      ],
+      [
+       "потому́ что",
+       "çünkü",
+       "patamu şta",
+       "💡"
+      ],
+      [
+       "е́сли",
+       "eğer",
+       "yesli",
+       "❓"
+      ],
+      [
+       "что́бы",
+       "-mek için",
+       "ştobı",
+       "🎯"
+      ],
+      [
+       "поэ́тому",
+       "bu yüzden",
+       "paetamu",
+       "➡️"
+      ]
+     ]
+    },
+    {
+     "id": "u13l2",
+     "kind": "vocab",
+     "title": "Yer edatları",
+     "subtitle": "в · на · под …",
+     "intro": "İçinde, üstünde, yanında…",
+     "v": [
+      [
+       "в",
+       "içinde, -de",
+       "v",
+       "📦"
+      ],
+      [
+       "на",
+       "üstünde, -de",
+       "na",
+       "🔝"
+      ],
+      [
+       "под",
+       "altında",
+       "pat",
+       "⬇️"
+      ],
+      [
+       "за",
+       "arkasında",
+       "za",
+       "🔙"
+      ],
+      [
+       "пе́ред",
+       "önünde",
+       "pyerit",
+       "⏩"
+      ],
+      [
+       "ря́дом",
+       "yanında",
+       "ryadam",
+       "↔️"
+      ],
+      [
+       "ме́жду",
+       "arasında",
+       "myejdu",
+       "⏸️"
+      ]
+     ]
+    },
+    {
+     "id": "u13l3",
+     "kind": "vocab",
+     "title": "Miktar",
+     "subtitle": "много · мало · все …",
+     "intro": "Çok, az, hepsi…",
+     "v": [
+      [
+       "мно́го",
+       "çok (miktar)",
+       "mnoga",
+       "📈"
+      ],
+      [
+       "ма́ло",
+       "az",
+       "mala",
+       "📉"
+      ],
+      [
+       "все",
+       "herkes, hepsi",
+       "fsye",
+       "👥"
+      ],
+      [
+       "ничего́",
+       "hiçbir şey",
+       "niçivo",
+       "🚫"
+      ],
+      [
+       "ка́ждый",
+       "her",
+       "kajdıy",
+       "🔁"
+      ],
+      [
+       "полови́на",
+       "yarım",
+       "palavina",
+       "🌓",
+       "f"
+      ],
+      [
+       "доста́точно",
+       "yeterli",
+       "dastatoçna",
+       "✅"
+      ]
+     ]
+    },
+    {
+     "id": "u13l4",
+     "kind": "vocab",
+     "title": "Fikir bildirme",
+     "subtitle": "я думаю · по-моему · я согласен …",
+     "intro": "Bence, katılıyorum…",
+     "v": [
+      [
+       "я ду́маю",
+       "bence, düşünüyorum",
+       "ya dumayu",
+       "💭"
+      ],
+      [
+       "по-мо́ему",
+       "bana göre",
+       "pa-moyimu",
+       "🗣️"
+      ],
+      [
+       "я согла́сен",
+       "katılıyorum",
+       "ya saglasin",
+       "🤝"
+      ],
+      [
+       "я не согла́сен",
+       "katılmıyorum",
+       "ya ni saglasin",
+       "🙅"
+      ],
+      [
+       "пра́вда",
+       "doğru, gerçek",
+       "pravda",
+       "✔️"
+      ],
+      [
+       "коне́чно нет",
+       "tabii ki hayır",
+       "kanyeşna nyet",
+       "❌"
+      ],
+      [
+       "мо́жет быть",
+       "belki",
+       "mojıt bıt'",
+       "🤷"
+      ]
+     ]
+    },
+    {
+     "id": "u13l5",
+     "kind": "vocab",
+     "title": "Sık ifadeler",
+     "subtitle": "всё хорошо · нет проблем · давай …",
+     "intro": "Her gün duyacağın kalıplar.",
+     "v": [
+      [
+       "всё хорошо́",
+       "her şey yolunda",
+       "fsyo haraşo",
+       "👌"
+      ],
+      [
+       "нет пробле́м",
+       "sorun yok",
+       "nyet prablyem",
+       "🙂"
+      ],
+      [
+       "дава́й",
+       "hadi",
+       "davay",
+       "🚀"
+      ],
+      [
+       "ну",
+       "eee, şey",
+       "nu",
+       "🤔"
+      ],
+      [
+       "вот",
+       "işte",
+       "vot",
+       "👉"
+      ],
+      [
+       "пра́вда?",
+       "gerçekten mi?",
+       "pravda",
+       "😮"
+      ],
+      [
+       "ти́хо!",
+       "sessiz ol!",
+       "tiha",
+       "🤫"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "level": "baslangic",
+   "title": "Sohbet kalıpları",
+   "subtitle": "Telefon, randevu, davet ve kutlama · 5 ders",
+   "lessons": [
+    {
+     "id": "u14l1",
+     "kind": "vocab",
+     "title": "Telefonda",
+     "subtitle": "алло · кто это? · перезвоните …",
+     "intro": "Alo, kim arıyor?…",
+     "v": [
+      [
+       "алло́",
+       "alo",
+       "allo",
+       "📞"
+      ],
+      [
+       "кто э́то?",
+       "kim o?",
+       "kto eta",
+       "❔"
+      ],
+      [
+       "перезвони́те",
+       "geri arayın",
+       "pirizvanityi",
+       "🔁"
+      ],
+      [
+       "я вас не слы́шу",
+       "sizi duyamıyorum",
+       "ya vas ni slışu",
+       "🔇"
+      ],
+      [
+       "мину́точку",
+       "bir dakika",
+       "minutaçku",
+       "⏳"
+      ],
+      [
+       "но́мер телефо́на",
+       "telefon numarası",
+       "nomır tilifona",
+       "🔢"
+      ],
+      [
+       "напиши́ мне",
+       "bana yaz",
+       "napişı mnye",
+       "💬"
+      ]
+     ]
+    },
+    {
+     "id": "u14l2",
+     "kind": "vocab",
+     "title": "Randevu",
+     "subtitle": "во сколько? · когда тебе удобно? · встретимся …",
+     "intro": "Ne zaman, saat kaçta?…",
+     "v": [
+      [
+       "во ско́лько?",
+       "saat kaçta?",
+       "va skol'ka",
+       "🕒"
+      ],
+      [
+       "когда́ тебе́ удо́бно?",
+       "ne zaman uygun?",
+       "kagda tibye udobna",
+       "📅"
+      ],
+      [
+       "встре́тимся",
+       "buluşalım",
+       "fstryetimsya",
+       "🤝"
+      ],
+      [
+       "в три часа́",
+       "saat üçte",
+       "f tri çisa",
+       "🕒"
+      ],
+      [
+       "я опа́здываю",
+       "geç kalıyorum",
+       "ya apazdıvayu",
+       "⌛"
+      ],
+      [
+       "я уже́ здесь",
+       "zaten buradayım",
+       "ya uje zdyes'",
+       "📍"
+      ],
+      [
+       "договори́лись",
+       "anlaştık",
+       "dagavarilis'",
+       "✅"
+      ]
+     ]
+    },
+    {
+     "id": "u14l3",
+     "kind": "vocab",
+     "title": "Davet",
+     "subtitle": "приходите в гости · с удовольствием · к сожалению …",
+     "intro": "Gel, misafir ol…",
+     "v": [
+      [
+       "приходи́те в го́сти",
+       "misafirliğe gelin",
+       "prihadityi v gosti",
+       "🏠"
+      ],
+      [
+       "с удово́льствием",
+       "memnuniyetle",
+       "s udavol'stviyem",
+       "😊"
+      ],
+      [
+       "к сожале́нию",
+       "maalesef",
+       "k sajalyeniyu",
+       "😔"
+      ],
+      [
+       "я не могу́",
+       "yapamam, gelemem",
+       "ya ni magu",
+       "🙅"
+      ],
+      [
+       "заходи́",
+       "içeri gel",
+       "zahadi",
+       "🚪"
+      ],
+      [
+       "чу́вствуйте себя́ как до́ма",
+       "evinizdeymiş gibi rahat olun",
+       "çustvuyti sibya kak doma",
+       "🛋️"
+      ],
+      [
+       "угоща́йтесь",
+       "buyurun (ikram)",
+       "ugaşşaytis'",
+       "🍰"
+      ]
+     ]
+    },
+    {
+     "id": "u14l4",
+     "kind": "vocab",
+     "title": "Kutlama",
+     "subtitle": "поздравляю! · с днём рождения! · с Новым годом! …",
+     "intro": "Tebrikler, doğum günün kutlu olsun…",
+     "v": [
+      [
+       "поздравля́ю!",
+       "tebrikler!",
+       "pazdravlyayu",
+       "🎉"
+      ],
+      [
+       "с днём рожде́ния!",
+       "doğum günün kutlu olsun!",
+       "z dnyom rajdyeniya",
+       "🎂"
+      ],
+      [
+       "с Но́вым го́дом!",
+       "mutlu yıllar!",
+       "s novım godam",
+       "🎆"
+      ],
+      [
+       "уда́чи!",
+       "bol şans!",
+       "udaçi",
+       "🍀"
+      ],
+      [
+       "будь здоро́в!",
+       "çok yaşa! / sağlıcakla kal",
+       "but' zdarof",
+       "🤧"
+      ],
+      [
+       "за здоро́вье!",
+       "şerefe!",
+       "za zdarov'ye",
+       "🥂"
+      ],
+      [
+       "пода́рок",
+       "hediye",
+       "padarak",
+       "🎁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u14l5",
+     "kind": "vocab",
+     "title": "Vedalaşma",
+     "subtitle": "до встречи · до завтра · всего хорошего …",
+     "intro": "Görüşürüz, kendine iyi bak…",
+     "v": [
+      [
+       "до встре́чи",
+       "görüşmek üzere",
+       "da fstryeçi",
+       "👋"
+      ],
+      [
+       "до за́втра",
+       "yarın görüşürüz",
+       "da zavtra",
+       "📆"
+      ],
+      [
+       "всего́ хоро́шего",
+       "her şey gönlünce olsun",
+       "fsivo haroşıva",
+       "🌈"
+      ],
+      [
+       "береги́ себя́",
+       "kendine iyi bak",
+       "birigi sibya",
+       "💚"
+      ],
+      [
+       "счастли́вого пути́",
+       "iyi yolculuklar",
+       "şşislivava puti",
+       "🛣️"
+      ],
+      [
+       "я бу́ду скуча́ть",
+       "seni özleyeceğim",
+       "ya budu skuçat'",
+       "🥺"
+      ],
+      [
+       "пиши́!",
+       "yaz bana!",
+       "pişı",
+       "✉️"
+      ]
+     ]
+    }
+   ]
   }
  ],
  "upcoming": [
-  {
-   "level": "baslangic",
-   "title": "Selamlaşma ve tanışma"
-  },
-  {
-   "level": "baslangic",
-   "title": "Sayılar ve zaman"
-  },
-  {
-   "level": "baslangic",
-   "title": "Aile ve insanlar"
-  },
-  {
-   "level": "baslangic",
-   "title": "Yemek ve alışveriş"
-  },
-  {
-   "level": "baslangic",
-   "title": "Şimdiki zaman fiilleri"
-  },
   {
    "level": "orta",
    "title": "Haller (падежи) 1"

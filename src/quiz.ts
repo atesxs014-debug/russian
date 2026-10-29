@@ -149,6 +149,16 @@ export function lessonQuiz(course: Course, unit: Unit, lessonIndex: number): Que
     return shuffle(qs);
   }
 
+  if (lesson.kind === 'vocab') {
+    const words = lesson.words ?? [];
+    const pool = [...words, ...allWords];
+    words.forEach((w, i) => {
+      qs.push(wordMeaning(w, words.length >= 4 ? words : pool));
+      qs.push((i % 2 ? wordListen : wordRead)(w, words.length >= 4 ? words : pool));
+    });
+    return shuffle(qs);
+  }
+
   const letters = lesson.letters ?? [];
   const earlier = unit.lessons.slice(0, lessonIndex + 1).flatMap((l) => l.letters ?? []);
   const letterPool = letters.length >= 4 ? [...letters, ...earlier] : allLetters;

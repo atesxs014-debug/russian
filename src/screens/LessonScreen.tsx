@@ -14,12 +14,12 @@ import { Bar, Button, IconBtn, SoundButton } from '../ui';
 import { C, R, fs, themed } from '../theme';
 
 type Phase = 'learn' | 'quiz' | 'result';
-type Card = { type: 'letter'; l: Letter } | { type: 'rule'; r: Rule } | { type: 'pair'; p: Pair; a: Letter; b: Letter };
+type Card = { type: 'letter'; l: Letter } | { type: 'rule'; r: Rule } | { type: 'pair'; p: Pair; a: Letter; b: Letter } | { type: 'word'; w: Word };
 
 export default function LessonScreen({ lessonId, onClose }: { lessonId: string; onClose: () => void }) {
   const { progress, save, course, settings } = useApp();
   const found = findLesson(course, lessonId)!;
-  const { unit, lesson, index } = found;
+  const { unit, lesson, index, unitIndex } = found;
   const insets = useSafeAreaInsets();
   const resumeCard = progress.resume?.lessonId === lessonId ? progress.resume.card : -1;
   const [phase, setPhase] = useState<Phase>('learn');
@@ -27,9 +27,18 @@ export default function LessonScreen({ lessonId, onClose }: { lessonId: string; 
   const [result, setResult] = useState<QuizResult | null>(null);
   const [streakToday, setStreakToday] = useState<number | undefined>();
   const [round, setRound] = useState(0);
+  // ignore a second tap that lands within 400 ms (prevents skipping a card by accident)
+  const lastTap = useRef(0);
+  const guard = (fn: () => void) => () => {
+    const now = Date.now();
+    if (now - lastTap.current < 400) return;
+    lastTap.current = now;
+    fn();
+  };
   const questions = useMemo(() => lessonQuiz(course, unit, index), [course, unit, index, round]);
 
   const cards: Card[] = useMemo(() => {
+    if (lesson.kind === 'vocab') return (lesson.words ?? []).map((w) => ({ type: 'word' as const, w }));
     if (lesson.kind === 'letters') return (lesson.letters ?? []).map((l) => ({ type: 'letter' as const, l }));
     if (lesson.kind === 'compare')
       return (lesson.pairs ?? [])
@@ -101,7 +110,7 @@ export default function LessonScreen({ lessonId, onClose }: { lessonId: string; 
             reportProblem({
               lang: settings.lang,
               where: `${lesson.title}${isIntro ? '' : ` · kart ${card + 1}`}`,
-              detail: !c ? lesson.intro : c.type === 'letter' ? `${letterLabel(c.l)} — ${c.l.sound} — ${c.l.hint}` : c.type === 'rule' ? `${c.r.title}: ${c.r.text}` : c.p.tip,
+              detail: !c ? lesson.intro : c.type === 'word' ? `${c.w.t} — ${c.w.read} — ${c.w.tr}` : c.type === 'letter' ? `${letterLabel(c.l)} — ${c.l.sound} — ${c.l.hint}` : c.type === 'rule' ? `${c.r.title}: ${c.r.text}` : c.p.tip,
             })
           }
         />
@@ -121,6 +130,8 @@ export default function LessonScreen({ lessonId, onClose }: { lessonId: string; 
           </View>
         ) : c.type === 'letter' ? (
           <LetterCard key={c.l.id} l={c.l} cyrillic={settings.lang === 'ru'} />
+        ) : c.type === 'word' ? (
+          <WordCard key={c.w.t} w={c.w} showRead={unitIndex <= 1} />
         ) : c.type === 'pair' ? (
           <PairCard p={c.p} a={c.a} b={c.b} />
         ) : (
@@ -129,11 +140,11 @@ export default function LessonScreen({ lessonId, onClose }: { lessonId: string; 
       </ScrollView>
 
       <View style={st.nav}>
-        {!isIntro && <Button title="Geri" kind="ghost" icon="arrow-back" onPress={() => setCard((x) => x - 1)} style={{ flex: 1, marginRight: 10 }} />}
+        {!isIntro && <Button title="Geri" kind="ghost" icon="arrow-back" onPress={guard(() => setCard((x) => x - 1))} style={{ flex: 1, marginRight: 10 }} />}
         {last ? (
-          <Button title="Sınava başla" icon="flag" kind="good" onPress={() => { stopAudio(); setPhase('quiz'); }} style={{ flex: 2 }} />
+          <Button title="Sınava başla" icon="flag" kind="good" onPress={guard(() => { stopAudio(); setPhase('quiz'); })} style={{ flex: 2 }} />
         ) : (
-          <Button title={isIntro ? (resumeCard > 0 ? 'Devam et' : 'Başla') : 'İleri'} icon="arrow-forward" onPress={() => setCard((x) => x + 1)} style={{ flex: 2 }} />
+          <Button title={isIntro ? (resumeCard > 0 ? 'Devam et' : 'Başla') : 'İleri'} icon="arrow-forward" onPress={guard(() => setCard((x) => x + 1))} style={{ flex: 2 }} />
         )}
       </View>
     </View>
@@ -209,6 +220,48 @@ function LetterCard({ l, cyrillic }: { l: Letter; cyrillic: boolean }) {
   );
 }
 
+const GENDER = { m: { label: 'eril', key: 'male' }, f: { label: 'dişil', key: 'female' }, n: { label: 'nötr', key: 'neuter' } } as const;
+
+/** Vocabulary card. The Latin-letter reading is shown in early units and hidden (tap to reveal) later. */
+function WordCard({ w, showRead }: { w: Word; showRead: boolean }) {
+  const [reveal, setReveal] = useState(showRead);
+  const g = w.g ? GENDER[w.g] : null;
+  const gColor = g ? C[g.key] : C.primary;
+  return (
+    <View>
+      <View style={[st.letterBox, g && { borderTopWidth: 5, borderTopColor: gColor }]}>
+        {w.e ? <Text style={st.emoji}>{w.e}</Text> : null}
+        <Text style={[st.wordBig, g && { color: gColor }]} adjustsFontSizeToFit numberOfLines={2}>
+          {w.t}
+        </Text>
+        {reveal ? (
+          <Text style={st.wordReadBig}>{w.read}</Text>
+        ) : (
+          <Pressable onPress={() => setReveal(true)} hitSlop={10}>
+            <Text style={st.revealText}>okunuşu göster</Text>
+          </Pressable>
+        )}
+        <View style={{ marginTop: 12 }}>
+          <SoundButton onPress={() => speak(w.t)} onSlow={() => speak(w.t, true)} />
+        </View>
+      </View>
+      <View style={st.soundRow}>
+        <View style={st.pill}>
+          <Text style={st.pillLabel}>ANLAMI</Text>
+          <Text style={st.pillValue}>{w.tr}</Text>
+        </View>
+        {g ? (
+          <View style={[st.pill, { flex: 0, minWidth: 92, borderColor: gColor }]}>
+            <Text style={st.pillLabel}>CİNSİYET</Text>
+            <Text style={[st.pillValue, { color: gColor }]}>{g.label}</Text>
+          </View>
+        ) : null}
+      </View>
+      <Text style={st.tip}>🔊 dinle · 🐢 yavaş dinle</Text>
+    </View>
+  );
+}
+
 function PairCard({ p, a, b }: { p: Pair; a: Letter; b: Letter }) {
   return (
     <View>
@@ -273,6 +326,10 @@ const st = themed(() => ({
   wordRead: { color: C.primary, fontSize: fs(15), fontWeight: '800' },
   wordTr: { color: C.sub, fontSize: fs(13), marginTop: 2 },
   tip: { color: C.dim, fontSize: fs(12), textAlign: 'center', marginTop: 6 },
+  emoji: { fontSize: fs(56), marginBottom: 4 },
+  wordBig: { color: C.text, fontSize: fs(46), fontWeight: '800', textAlign: 'center', paddingHorizontal: 12 },
+  wordReadBig: { color: C.primary, fontSize: fs(20), fontWeight: '800', marginTop: 6 },
+  revealText: { color: C.dim, fontSize: fs(14), fontWeight: '700', marginTop: 8, textDecorationLine: 'underline' },
   pairRow: { flexDirection: 'row', columnGap: 12 },
   pairBox: { flex: 1, backgroundColor: C.card, borderRadius: R.xl, alignItems: 'center', paddingVertical: 20 },
   pairGlyph: { color: C.text, fontSize: fs(86), fontWeight: '700' },

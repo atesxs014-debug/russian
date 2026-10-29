@@ -2,82 +2,3027 @@
  "code": "en",
  "units": [
   {
-   "id": "u1", "level": "baslangic", "title": "İngilizce Sesler", "subtitle": "Yazıldığı gibi okunmayan dilin anahtarı",
+   "id": "u1",
+   "level": "baslangic",
+   "title": "İngilizce Sesler",
+   "subtitle": "Yazıldığı gibi okunmayan dilin anahtarı",
    "lessons": [
     {
-     "id": "u1l1", "kind": "letters", "title": "Kısa ve uzun ünlüler", "subtitle": "a · ee · i · oo · u",
+     "id": "u1l1",
+     "kind": "letters",
+     "title": "Kısa ve uzun ünlüler",
+     "subtitle": "a · ee · i · oo · u",
      "intro": "İngilizcede aynı harf farklı okunur. Önce Türkçede olmayan ünlülerle başlıyoruz.",
      "letters": [
-      { "id": "ae", "upper": "a", "lower": "", "name": "cat", "sound": "e/a arası (æ)", "hint": "Ağzı geniş açıp 'e' der gibi. cat → 'ket' ile 'kat' arası.", "words": [ { "t": "cat", "tr": "kedi", "read": "kæt" }, { "t": "apple", "tr": "elma", "read": "æpıl" } ] },
-      { "id": "ii", "upper": "ee", "lower": "ea", "name": "see", "sound": "uzun i", "hint": "ee ve ea çoğunlukla uzun bir 'ii'.", "words": [ { "t": "see", "tr": "görmek", "read": "sii" }, { "t": "tea", "tr": "çay", "read": "tii" } ] },
-      { "id": "ih", "upper": "i", "lower": "", "name": "sit", "sound": "kısa i (ı'ya yakın)", "hint": "Kısa ve gevşek bir 'i'. sit ≠ seat.", "words": [ { "t": "sit", "tr": "oturmak", "read": "sit" }, { "t": "big", "tr": "büyük", "read": "big" } ] },
-      { "id": "uu", "upper": "oo", "lower": "", "name": "food", "sound": "uzun u", "hint": "oo çoğunlukla uzun 'uu'.", "words": [ { "t": "food", "tr": "yemek", "read": "fuud" }, { "t": "moon", "tr": "ay", "read": "muun" } ] },
-      { "id": "uh", "upper": "u", "lower": "", "name": "cup", "sound": "a (kısa)", "hint": "Kapalı hecede u çoğu zaman kısa 'a' gibi: cup → 'kap'.", "words": [ { "t": "cup", "tr": "fincan", "read": "kap" }, { "t": "sun", "tr": "güneş", "read": "san" } ] }
+      {
+       "id": "ae",
+       "upper": "a",
+       "lower": "",
+       "name": "cat",
+       "sound": "e/a arası (æ)",
+       "hint": "Ağzı geniş açıp 'e' der gibi. cat → 'ket' ile 'kat' arası.",
+       "words": [
+        {
+         "t": "cat",
+         "tr": "kedi",
+         "read": "kæt"
+        },
+        {
+         "t": "apple",
+         "tr": "elma",
+         "read": "æpıl"
+        }
+       ]
+      },
+      {
+       "id": "ii",
+       "upper": "ee",
+       "lower": "ea",
+       "name": "see",
+       "sound": "uzun i",
+       "hint": "ee ve ea çoğunlukla uzun bir 'ii'.",
+       "words": [
+        {
+         "t": "see",
+         "tr": "görmek",
+         "read": "sii"
+        },
+        {
+         "t": "tea",
+         "tr": "çay",
+         "read": "tii"
+        }
+       ]
+      },
+      {
+       "id": "ih",
+       "upper": "i",
+       "lower": "",
+       "name": "sit",
+       "sound": "kısa i (ı'ya yakın)",
+       "hint": "Kısa ve gevşek bir 'i'. sit ≠ seat.",
+       "words": [
+        {
+         "t": "sit",
+         "tr": "oturmak",
+         "read": "sit"
+        },
+        {
+         "t": "big",
+         "tr": "büyük",
+         "read": "big"
+        }
+       ]
+      },
+      {
+       "id": "uu",
+       "upper": "oo",
+       "lower": "",
+       "name": "food",
+       "sound": "uzun u",
+       "hint": "oo çoğunlukla uzun 'uu'.",
+       "words": [
+        {
+         "t": "food",
+         "tr": "yemek",
+         "read": "fuud"
+        },
+        {
+         "t": "moon",
+         "tr": "ay",
+         "read": "muun"
+        }
+       ]
+      },
+      {
+       "id": "uh",
+       "upper": "u",
+       "lower": "",
+       "name": "cup",
+       "sound": "a (kısa)",
+       "hint": "Kapalı hecede u çoğu zaman kısa 'a' gibi: cup → 'kap'.",
+       "words": [
+        {
+         "t": "cup",
+         "tr": "fincan",
+         "read": "kap"
+        },
+        {
+         "t": "sun",
+         "tr": "güneş",
+         "read": "san"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l2", "kind": "letters", "title": "Zor ünsüzler", "subtitle": "th · th · w · v · r",
+     "id": "u1l2",
+     "kind": "letters",
+     "title": "Zor ünsüzler",
+     "subtitle": "th · th · w · v · r",
      "intro": "Türkçede olmayan th ve w seslerini doğru çıkarmak aksanı en çok değiştiren şey.",
      "letters": [
-      { "id": "th1", "upper": "th", "lower": "(sert)", "name": "think", "sound": "dil dişler arası (sert)", "hint": "Dilin ucu üst dişlere değer, üflenir. 't' ya da 's' değil!", "words": [ { "t": "think", "tr": "düşünmek", "read": "θink" }, { "t": "three", "tr": "üç", "read": "θrii" } ] },
-      { "id": "th2", "upper": "th", "lower": "(yumuşak)", "name": "this", "sound": "dil dişler arası (yumuşak)", "hint": "Aynı dil konumu ama ses telleri titrer. 'd' ya da 'z' değil.", "words": [ { "t": "this", "tr": "bu", "read": "ðis" }, { "t": "mother", "tr": "anne", "read": "maðır" } ] },
-      { "id": "w", "upper": "w", "lower": "", "name": "water", "sound": "u-v arası (w)", "hint": "Dudaklar yuvarlanır, dişler değmez. 'v' değil!", "words": [ { "t": "water", "tr": "su", "read": "woutır" }, { "t": "window", "tr": "pencere", "read": "windou" } ] },
-      { "id": "v", "upper": "v", "lower": "", "name": "very", "sound": "v", "hint": "Üst dişler alt dudağa değer — Türkçe 'v' gibi.", "words": [ { "t": "very", "tr": "çok", "read": "veri" }, { "t": "have", "tr": "sahip olmak", "read": "hæv" } ] },
-      { "id": "r", "upper": "r", "lower": "", "name": "red", "sound": "kıvrık r", "hint": "Dil damağa değmez, geriye kıvrılır. Titretme yok.", "words": [ { "t": "red", "tr": "kırmızı", "read": "red" }, { "t": "run", "tr": "koşmak", "read": "ran" } ] }
+      {
+       "id": "th1",
+       "upper": "th",
+       "lower": "(sert)",
+       "name": "think",
+       "sound": "dil dişler arası (sert)",
+       "hint": "Dilin ucu üst dişlere değer, üflenir. 't' ya da 's' değil!",
+       "words": [
+        {
+         "t": "think",
+         "tr": "düşünmek",
+         "read": "θink"
+        },
+        {
+         "t": "three",
+         "tr": "üç",
+         "read": "θrii"
+        }
+       ]
+      },
+      {
+       "id": "th2",
+       "upper": "th",
+       "lower": "(yumuşak)",
+       "name": "this",
+       "sound": "dil dişler arası (yumuşak)",
+       "hint": "Aynı dil konumu ama ses telleri titrer. 'd' ya da 'z' değil.",
+       "words": [
+        {
+         "t": "this",
+         "tr": "bu",
+         "read": "ðis"
+        },
+        {
+         "t": "mother",
+         "tr": "anne",
+         "read": "maðır"
+        }
+       ]
+      },
+      {
+       "id": "w",
+       "upper": "w",
+       "lower": "",
+       "name": "water",
+       "sound": "u-v arası (w)",
+       "hint": "Dudaklar yuvarlanır, dişler değmez. 'v' değil!",
+       "words": [
+        {
+         "t": "water",
+         "tr": "su",
+         "read": "woutır"
+        },
+        {
+         "t": "window",
+         "tr": "pencere",
+         "read": "windou"
+        }
+       ]
+      },
+      {
+       "id": "v",
+       "upper": "v",
+       "lower": "",
+       "name": "very",
+       "sound": "v",
+       "hint": "Üst dişler alt dudağa değer — Türkçe 'v' gibi.",
+       "words": [
+        {
+         "t": "very",
+         "tr": "çok",
+         "read": "veri"
+        },
+        {
+         "t": "have",
+         "tr": "sahip olmak",
+         "read": "hæv"
+        }
+       ]
+      },
+      {
+       "id": "r",
+       "upper": "r",
+       "lower": "",
+       "name": "red",
+       "sound": "kıvrık r",
+       "hint": "Dil damağa değmez, geriye kıvrılır. Titretme yok.",
+       "words": [
+        {
+         "t": "red",
+         "tr": "kırmızı",
+         "read": "red"
+        },
+        {
+         "t": "run",
+         "tr": "koşmak",
+         "read": "ran"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l3", "kind": "letters", "title": "İkili ünlüler", "subtitle": "ay · ai · oa · ow · oy",
+     "id": "u1l3",
+     "kind": "letters",
+     "title": "İkili ünlüler",
+     "subtitle": "ay · ai · oa · ow · oy",
      "intro": "İki sesin kayarak birleştiği ünlüler. Türkçe 'ey, ay, ov, av, oy' sesleriyle eşleştirebilirsin.",
      "letters": [
-      { "id": "ei", "upper": "ay", "lower": "ai", "name": "day", "sound": "ey", "hint": "day → 'dey', rain → 'reyn'.", "words": [ { "t": "day", "tr": "gün", "read": "dey" }, { "t": "rain", "tr": "yağmur", "read": "reyn" } ] },
-      { "id": "ai", "upper": "i_e", "lower": "igh", "name": "time", "sound": "ay", "hint": "Sonda sessiz e varsa i 'ay' olur: time → 'taym'.", "words": [ { "t": "time", "tr": "zaman", "read": "taym" }, { "t": "night", "tr": "gece", "read": "nayt" } ] },
-      { "id": "ou", "upper": "o_e", "lower": "oa", "name": "home", "sound": "ou", "hint": "o 'ou' diye kayar: home → 'houm'.", "words": [ { "t": "home", "tr": "ev", "read": "houm" }, { "t": "boat", "tr": "tekne", "read": "bout" } ] },
-      { "id": "au", "upper": "ow", "lower": "ou", "name": "now", "sound": "av", "hint": "now → 'nav', house → 'havs'.", "words": [ { "t": "now", "tr": "şimdi", "read": "nav" }, { "t": "house", "tr": "ev", "read": "havs" } ] },
-      { "id": "oi", "upper": "oy", "lower": "oi", "name": "boy", "sound": "oy", "hint": "Türkçe 'oy' ile aynı.", "words": [ { "t": "boy", "tr": "erkek çocuk", "read": "boy" }, { "t": "coin", "tr": "madeni para", "read": "koyn" } ] }
+      {
+       "id": "ei",
+       "upper": "ay",
+       "lower": "ai",
+       "name": "day",
+       "sound": "ey",
+       "hint": "day → 'dey', rain → 'reyn'.",
+       "words": [
+        {
+         "t": "day",
+         "tr": "gün",
+         "read": "dey"
+        },
+        {
+         "t": "rain",
+         "tr": "yağmur",
+         "read": "reyn"
+        }
+       ]
+      },
+      {
+       "id": "ai",
+       "upper": "i_e",
+       "lower": "igh",
+       "name": "time",
+       "sound": "ay",
+       "hint": "Sonda sessiz e varsa i 'ay' olur: time → 'taym'.",
+       "words": [
+        {
+         "t": "time",
+         "tr": "zaman",
+         "read": "taym"
+        },
+        {
+         "t": "night",
+         "tr": "gece",
+         "read": "nayt"
+        }
+       ]
+      },
+      {
+       "id": "ou",
+       "upper": "o_e",
+       "lower": "oa",
+       "name": "home",
+       "sound": "ou",
+       "hint": "o 'ou' diye kayar: home → 'houm'.",
+       "words": [
+        {
+         "t": "home",
+         "tr": "ev",
+         "read": "houm"
+        },
+        {
+         "t": "boat",
+         "tr": "tekne",
+         "read": "bout"
+        }
+       ]
+      },
+      {
+       "id": "au",
+       "upper": "ow",
+       "lower": "ou",
+       "name": "now",
+       "sound": "av",
+       "hint": "now → 'nav', house → 'havs'.",
+       "words": [
+        {
+         "t": "now",
+         "tr": "şimdi",
+         "read": "nav"
+        },
+        {
+         "t": "house",
+         "tr": "ev",
+         "read": "havs"
+        }
+       ]
+      },
+      {
+       "id": "oi",
+       "upper": "oy",
+       "lower": "oi",
+       "name": "boy",
+       "sound": "oy",
+       "hint": "Türkçe 'oy' ile aynı.",
+       "words": [
+        {
+         "t": "boy",
+         "tr": "erkek çocuk",
+         "read": "boy"
+        },
+        {
+         "t": "coin",
+         "tr": "madeni para",
+         "read": "koyn"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l4", "kind": "letters", "title": "Harf grupları", "subtitle": "sh · ch · j · ng · ph",
+     "id": "u1l4",
+     "kind": "letters",
+     "title": "Harf grupları",
+     "subtitle": "sh · ch · j · ng · ph",
      "intro": "İki harfin tek ses verdiği gruplar. Çoğu Türkçede var, sadece yazılışı farklı.",
      "letters": [
-      { "id": "sh", "upper": "sh", "lower": "", "name": "she", "sound": "ş", "hint": "sh = Türkçe 'ş'.", "words": [ { "t": "she", "tr": "o (kadın)", "read": "şii" }, { "t": "fish", "tr": "balık", "read": "fiş" } ] },
-      { "id": "ch", "upper": "ch", "lower": "tch", "name": "chair", "sound": "ç", "hint": "ch ve tch = Türkçe 'ç'.", "words": [ { "t": "chair", "tr": "sandalye", "read": "çeır" }, { "t": "watch", "tr": "saat", "read": "woç" } ] },
-      { "id": "j", "upper": "j", "lower": "g(e)", "name": "job", "sound": "c", "hint": "j ve e/i önündeki g çoğu zaman Türkçe 'c'.", "words": [ { "t": "job", "tr": "iş", "read": "cob" }, { "t": "orange", "tr": "portakal", "read": "orinc" } ] },
-      { "id": "ng", "upper": "ng", "lower": "", "name": "sing", "sound": "genizden n", "hint": "Sonda g okunmaz, n genizden çıkar.", "words": [ { "t": "sing", "tr": "şarkı söylemek", "read": "siŋ" }, { "t": "long", "tr": "uzun", "read": "loŋ" } ] },
-      { "id": "ph", "upper": "ph", "lower": "", "name": "phone", "sound": "f", "hint": "ph = f.", "words": [ { "t": "phone", "tr": "telefon", "read": "foun" }, { "t": "photo", "tr": "fotoğraf", "read": "foutou" } ] }
+      {
+       "id": "sh",
+       "upper": "sh",
+       "lower": "",
+       "name": "she",
+       "sound": "ş",
+       "hint": "sh = Türkçe 'ş'.",
+       "words": [
+        {
+         "t": "she",
+         "tr": "o (kadın)",
+         "read": "şii"
+        },
+        {
+         "t": "fish",
+         "tr": "balık",
+         "read": "fiş"
+        }
+       ]
+      },
+      {
+       "id": "ch",
+       "upper": "ch",
+       "lower": "tch",
+       "name": "chair",
+       "sound": "ç",
+       "hint": "ch ve tch = Türkçe 'ç'.",
+       "words": [
+        {
+         "t": "chair",
+         "tr": "sandalye",
+         "read": "çeır"
+        },
+        {
+         "t": "watch",
+         "tr": "saat",
+         "read": "woç"
+        }
+       ]
+      },
+      {
+       "id": "j",
+       "upper": "j",
+       "lower": "g(e)",
+       "name": "job",
+       "sound": "c",
+       "hint": "j ve e/i önündeki g çoğu zaman Türkçe 'c'.",
+       "words": [
+        {
+         "t": "job",
+         "tr": "iş",
+         "read": "cob"
+        },
+        {
+         "t": "orange",
+         "tr": "portakal",
+         "read": "orinc"
+        }
+       ]
+      },
+      {
+       "id": "ng",
+       "upper": "ng",
+       "lower": "",
+       "name": "sing",
+       "sound": "genizden n",
+       "hint": "Sonda g okunmaz, n genizden çıkar.",
+       "words": [
+        {
+         "t": "sing",
+         "tr": "şarkı söylemek",
+         "read": "siŋ"
+        },
+        {
+         "t": "long",
+         "tr": "uzun",
+         "read": "loŋ"
+        }
+       ]
+      },
+      {
+       "id": "ph",
+       "upper": "ph",
+       "lower": "",
+       "name": "phone",
+       "sound": "f",
+       "hint": "ph = f.",
+       "words": [
+        {
+         "t": "phone",
+         "tr": "telefon",
+         "read": "foun"
+        },
+        {
+         "t": "photo",
+         "tr": "fotoğraf",
+         "read": "foutou"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l5", "kind": "reading", "title": "Okuma kuralları", "subtitle": "Sessiz harfler ve -ed",
+     "id": "u1l5",
+     "kind": "reading",
+     "title": "Okuma kuralları",
+     "subtitle": "Sessiz harfler ve -ed",
      "intro": "İngilizce kelimelerin çoğu bu 4 kuralla doğru okunur.",
      "rules": [
-      { "title": "Sessiz e", "text": "Kelime sonundaki e okunmaz ama önceki ünlüyü 'uzun' yapar: hat → hate.", "examples": [ { "t": "make", "tr": "yapmak", "read": "meyk" }, { "t": "time", "tr": "zaman", "read": "taym" } ] },
-      { "title": "Sessiz harfler", "text": "Bazı harfler yazılır ama okunmaz: kn'deki k, wr'deki w, listen'daki t.", "examples": [ { "t": "knife", "tr": "bıçak", "read": "nayf" }, { "t": "write", "tr": "yazmak", "read": "rayt" }, { "t": "listen", "tr": "dinlemek", "read": "lisın" } ] },
-      { "title": "-ed üç türlü okunur", "text": "t / d / id: worked (workt), played (pleyd), wanted (wontid).", "examples": [ { "t": "worked", "tr": "çalıştı", "read": "workt" }, { "t": "played", "tr": "oynadı", "read": "pleyd" }, { "t": "wanted", "tr": "istedi", "read": "wontid" } ] },
-      { "title": "Belirsiz ünlü (ə)", "text": "Vurgusuz ünlüler çoğu zaman kısa, belirsiz bir 'ı/ə' olur.", "examples": [ { "t": "about", "tr": "hakkında", "read": "ıbavt" }, { "t": "banana", "tr": "muz", "read": "bınana" } ] }
+      {
+       "title": "Sessiz e",
+       "text": "Kelime sonundaki e okunmaz ama önceki ünlüyü 'uzun' yapar: hat → hate.",
+       "examples": [
+        {
+         "t": "make",
+         "tr": "yapmak",
+         "read": "meyk"
+        },
+        {
+         "t": "time",
+         "tr": "zaman",
+         "read": "taym"
+        }
+       ]
+      },
+      {
+       "title": "Sessiz harfler",
+       "text": "Bazı harfler yazılır ama okunmaz: kn'deki k, wr'deki w, listen'daki t.",
+       "examples": [
+        {
+         "t": "knife",
+         "tr": "bıçak",
+         "read": "nayf"
+        },
+        {
+         "t": "write",
+         "tr": "yazmak",
+         "read": "rayt"
+        },
+        {
+         "t": "listen",
+         "tr": "dinlemek",
+         "read": "lisın"
+        }
+       ]
+      },
+      {
+       "title": "-ed üç türlü okunur",
+       "text": "t / d / id: worked (workt), played (pleyd), wanted (wontid).",
+       "examples": [
+        {
+         "t": "worked",
+         "tr": "çalıştı",
+         "read": "workt"
+        },
+        {
+         "t": "played",
+         "tr": "oynadı",
+         "read": "pleyd"
+        },
+        {
+         "t": "wanted",
+         "tr": "istedi",
+         "read": "wontid"
+        }
+       ]
+      },
+      {
+       "title": "Belirsiz ünlü (ə)",
+       "text": "Vurgusuz ünlüler çoğu zaman kısa, belirsiz bir 'ı/ə' olur.",
+       "examples": [
+        {
+         "t": "about",
+         "tr": "hakkında",
+         "read": "ıbavt"
+        },
+        {
+         "t": "banana",
+         "tr": "muz",
+         "read": "bınana"
+        }
+       ]
+      }
      ],
      "words": [
-      { "t": "make", "tr": "yapmak", "read": "meyk" }, { "t": "knife", "tr": "bıçak", "read": "nayf" }, { "t": "write", "tr": "yazmak", "read": "rayt" },
-      { "t": "listen", "tr": "dinlemek", "read": "lisın" }, { "t": "worked", "tr": "çalıştı", "read": "workt" }, { "t": "played", "tr": "oynadı", "read": "pleyd" },
-      { "t": "wanted", "tr": "istedi", "read": "wontid" }, { "t": "about", "tr": "hakkında", "read": "ıbavt" }, { "t": "hour", "tr": "saat (süre)", "read": "avır" }, { "t": "banana", "tr": "muz", "read": "bınana" }
+      {
+       "t": "make",
+       "tr": "yapmak",
+       "read": "meyk"
+      },
+      {
+       "t": "knife",
+       "tr": "bıçak",
+       "read": "nayf"
+      },
+      {
+       "t": "write",
+       "tr": "yazmak",
+       "read": "rayt"
+      },
+      {
+       "t": "listen",
+       "tr": "dinlemek",
+       "read": "lisın"
+      },
+      {
+       "t": "worked",
+       "tr": "çalıştı",
+       "read": "workt"
+      },
+      {
+       "t": "played",
+       "tr": "oynadı",
+       "read": "pleyd"
+      },
+      {
+       "t": "wanted",
+       "tr": "istedi",
+       "read": "wontid"
+      },
+      {
+       "t": "about",
+       "tr": "hakkında",
+       "read": "ıbavt"
+      },
+      {
+       "t": "hour",
+       "tr": "saat (süre)",
+       "read": "avır"
+      },
+      {
+       "t": "banana",
+       "tr": "muz",
+       "read": "bınana"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "level": "baslangic",
+   "title": "Selamlaşma ve tanışma",
+   "subtitle": "Selam ver, kendini tanıt, soru sor · 5 ders",
+   "lessons": [
+    {
+     "id": "u2l1",
+     "kind": "vocab",
+     "title": "Merhaba ve hoşça kal",
+     "subtitle": "hello · hi · good morning …",
+     "intro": "Günün her saati için selamlar ve vedalar.",
+     "v": [
+      [
+       "hello",
+       "merhaba",
+       "helou",
+       "👋"
+      ],
+      [
+       "hi",
+       "selam",
+       "hay",
+       "🙋"
+      ],
+      [
+       "good morning",
+       "günaydın",
+       "gud morning",
+       "🌅"
+      ],
+      [
+       "good afternoon",
+       "tünaydın",
+       "gud aaftırnuun",
+       "☀️"
+      ],
+      [
+       "good evening",
+       "iyi akşamlar",
+       "gud iivning",
+       "🌆"
+      ],
+      [
+       "goodbye",
+       "hoşça kal",
+       "gudbay",
+       "✋"
+      ],
+      [
+       "good night",
+       "iyi geceler",
+       "gud nayt",
+       "🌙"
+      ]
+     ]
+    },
+    {
+     "id": "u2l2",
+     "kind": "vocab",
+     "title": "Nezaket sözleri",
+     "subtitle": "please · thank you · you're welcome …",
+     "intro": "Her gün kullanacağın kibar kelimeler.",
+     "v": [
+      [
+       "please",
+       "lütfen",
+       "pliiz",
+       "🙏"
+      ],
+      [
+       "thank you",
+       "teşekkür ederim",
+       "θenk yu",
+       "💐"
+      ],
+      [
+       "you're welcome",
+       "rica ederim",
+       "yor welkım",
+       "😊"
+      ],
+      [
+       "sorry",
+       "özür dilerim",
+       "sori",
+       "🙇"
+      ],
+      [
+       "excuse me",
+       "affedersiniz",
+       "ikskyuuz mi",
+       "✋"
+      ],
+      [
+       "no problem",
+       "sorun değil",
+       "nou problım",
+       "👌"
+      ],
+      [
+       "of course",
+       "tabii ki",
+       "ıv kors",
+       "👍"
+      ]
+     ]
+    },
+    {
+     "id": "u2l3",
+     "kind": "vocab",
+     "title": "Tanışma",
+     "subtitle": "my name is… · what's your name? · nice to meet you …",
+     "intro": "Adını söyle, nereli olduğunu anlat.",
+     "v": [
+      [
+       "my name is…",
+       "benim adım…",
+       "may neym iz",
+       "🙋"
+      ],
+      [
+       "what's your name?",
+       "adın ne?",
+       "wots yor neym",
+       "❓"
+      ],
+      [
+       "nice to meet you",
+       "tanıştığıma memnun oldum",
+       "nays tu miit yu",
+       "🤝"
+      ],
+      [
+       "how are you?",
+       "nasılsın?",
+       "hav ar yu",
+       "💬"
+      ],
+      [
+       "I'm fine",
+       "iyiyim",
+       "aym fayn",
+       "😊"
+      ],
+      [
+       "where are you from?",
+       "nerelisin?",
+       "wer ar yu from",
+       "🌍"
+      ],
+      [
+       "I'm from Turkey",
+       "Türkiye'denim",
+       "aym from törki",
+       "🇹🇷"
+      ]
+     ]
+    },
+    {
+     "id": "u2l4",
+     "kind": "vocab",
+     "title": "Soru kelimeleri",
+     "subtitle": "what · where · when …",
+     "intro": "Konuşmayı başlatan küçük kelimeler.",
+     "v": [
+      [
+       "what",
+       "ne",
+       "wot",
+       "❔"
+      ],
+      [
+       "where",
+       "nerede",
+       "wer",
+       "📍"
+      ],
+      [
+       "when",
+       "ne zaman",
+       "wen",
+       "⏰"
+      ],
+      [
+       "why",
+       "neden",
+       "way",
+       "🤔"
+      ],
+      [
+       "who",
+       "kim",
+       "huu",
+       "🧑"
+      ],
+      [
+       "how",
+       "nasıl",
+       "hav"
+      ],
+      [
+       "how much",
+       "ne kadar",
+       "hav maç",
+       "🏷️"
+      ]
+     ]
+    },
+    {
+     "id": "u2l5",
+     "kind": "vocab",
+     "title": "Zamirler",
+     "subtitle": "I · you · he …",
+     "intro": "Ben, sen, o, biz…",
+     "v": [
+      [
+       "I",
+       "ben",
+       "ay",
+       "🙋"
+      ],
+      [
+       "you",
+       "sen, siz",
+       "yu",
+       "👉"
+      ],
+      [
+       "he",
+       "o (erkek)",
+       "hii",
+       "👨"
+      ],
+      [
+       "she",
+       "o (kadın)",
+       "şii",
+       "👩"
+      ],
+      [
+       "it",
+       "o (nesne, hayvan)",
+       "it",
+       "📦"
+      ],
+      [
+       "we",
+       "biz",
+       "wii",
+       "👫"
+      ],
+      [
+       "they",
+       "onlar",
+       "ðey",
+       "👥"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "level": "baslangic",
+   "title": "Sayılar ve zaman",
+   "subtitle": "Saymayı, günleri ve zamanı öğren · 5 ders",
+   "lessons": [
+    {
+     "id": "u3l1",
+     "kind": "vocab",
+     "title": "Sayılar 1–8",
+     "subtitle": "one · two · three …",
+     "intro": "Birden sekize kadar.",
+     "v": [
+      [
+       "one",
+       "bir",
+       "wan",
+       "1️⃣"
+      ],
+      [
+       "two",
+       "iki",
+       "tuu",
+       "2️⃣"
+      ],
+      [
+       "three",
+       "üç",
+       "θrii",
+       "3️⃣"
+      ],
+      [
+       "four",
+       "dört",
+       "for",
+       "4️⃣"
+      ],
+      [
+       "five",
+       "beş",
+       "fayv",
+       "5️⃣"
+      ],
+      [
+       "six",
+       "altı",
+       "siks",
+       "6️⃣"
+      ],
+      [
+       "seven",
+       "yedi",
+       "sevın",
+       "7️⃣"
+      ],
+      [
+       "eight",
+       "sekiz",
+       "eyt",
+       "8️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u3l2",
+     "kind": "vocab",
+     "title": "Daha büyük sayılar",
+     "subtitle": "nine · ten · zero …",
+     "intro": "Dokuzdan bine.",
+     "v": [
+      [
+       "nine",
+       "dokuz",
+       "nayn",
+       "9️⃣"
+      ],
+      [
+       "ten",
+       "on",
+       "ten",
+       "🔟"
+      ],
+      [
+       "zero",
+       "sıfır",
+       "ziirou",
+       "0️⃣"
+      ],
+      [
+       "twenty",
+       "yirmi",
+       "twenti"
+      ],
+      [
+       "fifty",
+       "elli",
+       "fifti"
+      ],
+      [
+       "hundred",
+       "yüz",
+       "handrıd",
+       "💯"
+      ],
+      [
+       "thousand",
+       "bin",
+       "θauzınd"
+      ]
+     ]
+    },
+    {
+     "id": "u3l3",
+     "kind": "vocab",
+     "title": "Haftanın günleri",
+     "subtitle": "Monday · Tuesday · Wednesday …",
+     "intro": "Pazartesiden pazara.",
+     "v": [
+      [
+       "Monday",
+       "pazartesi",
+       "mandey",
+       "📅"
+      ],
+      [
+       "Tuesday",
+       "salı",
+       "tyuuzdey",
+       "📅"
+      ],
+      [
+       "Wednesday",
+       "çarşamba",
+       "wenzdey",
+       "📅"
+      ],
+      [
+       "Thursday",
+       "perşembe",
+       "θörzdey",
+       "📅"
+      ],
+      [
+       "Friday",
+       "cuma",
+       "fraydey",
+       "🎉"
+      ],
+      [
+       "Saturday",
+       "cumartesi",
+       "setırdey",
+       "🛋️"
+      ],
+      [
+       "Sunday",
+       "pazar",
+       "sandey",
+       "☀️"
+      ]
+     ]
+    },
+    {
+     "id": "u3l4",
+     "kind": "vocab",
+     "title": "Zaman kelimeleri",
+     "subtitle": "today · yesterday · tomorrow …",
+     "intro": "Bugün, dün, şimdi…",
+     "v": [
+      [
+       "today",
+       "bugün",
+       "tıdey",
+       "📆"
+      ],
+      [
+       "yesterday",
+       "dün",
+       "yestırdey",
+       "⏪"
+      ],
+      [
+       "tomorrow",
+       "yarın",
+       "tımorou",
+       "⏩"
+      ],
+      [
+       "now",
+       "şimdi",
+       "nav",
+       "⏱️"
+      ],
+      [
+       "later",
+       "sonra",
+       "leytır"
+      ],
+      [
+       "always",
+       "her zaman",
+       "olweyz",
+       "♾️"
+      ],
+      [
+       "never",
+       "asla",
+       "nevır",
+       "🚫"
+      ]
+     ]
+    },
+    {
+     "id": "u3l5",
+     "kind": "vocab",
+     "title": "Hafta, ay, mevsim",
+     "subtitle": "minute · week · month …",
+     "intro": "Zaman birimleri ve mevsimler.",
+     "v": [
+      [
+       "minute",
+       "dakika",
+       "minit",
+       "⏱️"
+      ],
+      [
+       "week",
+       "hafta",
+       "wiik",
+       "🗓️"
+      ],
+      [
+       "month",
+       "ay",
+       "manθ",
+       "🌙"
+      ],
+      [
+       "winter",
+       "kış",
+       "wintır",
+       "❄️"
+      ],
+      [
+       "spring",
+       "ilkbahar",
+       "spring",
+       "🌷"
+      ],
+      [
+       "summer",
+       "yaz",
+       "samır",
+       "🏖️"
+      ],
+      [
+       "autumn",
+       "sonbahar",
+       "ootım",
+       "🍂"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "level": "baslangic",
+   "title": "Aile ve insanlar",
+   "subtitle": "Ailen, çevren, meslekler ve vücut · 5 ders",
+   "lessons": [
+    {
+     "id": "u4l1",
+     "kind": "vocab",
+     "title": "Aile",
+     "subtitle": "family · mother · father …",
+     "intro": "Anne, baba, kardeşler…",
+     "v": [
+      [
+       "family",
+       "aile",
+       "femıli",
+       "👨‍👩‍👧"
+      ],
+      [
+       "mother",
+       "anne",
+       "maðır",
+       "👩"
+      ],
+      [
+       "father",
+       "baba",
+       "faaðır",
+       "👨"
+      ],
+      [
+       "brother",
+       "erkek kardeş",
+       "braðır",
+       "👦"
+      ],
+      [
+       "sister",
+       "kız kardeş",
+       "sistır",
+       "👧"
+      ],
+      [
+       "grandmother",
+       "büyükanne",
+       "grenmaðır",
+       "👵"
+      ],
+      [
+       "grandfather",
+       "büyükbaba",
+       "grenfaaðır",
+       "👴"
+      ]
+     ]
+    },
+    {
+     "id": "u4l2",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "man · woman · child …",
+     "intro": "Adam, kadın, çocuk…",
+     "v": [
+      [
+       "man",
+       "adam",
+       "men",
+       "👨"
+      ],
+      [
+       "woman",
+       "kadın",
+       "wumın",
+       "👩"
+      ],
+      [
+       "child",
+       "çocuk",
+       "çayld",
+       "🧒"
+      ],
+      [
+       "friend",
+       "arkadaş",
+       "frend",
+       "🤝"
+      ],
+      [
+       "neighbour",
+       "komşu",
+       "neybır",
+       "🏘️"
+      ],
+      [
+       "people",
+       "insanlar",
+       "piipıl",
+       "👥"
+      ],
+      [
+       "baby",
+       "bebek",
+       "beybi",
+       "👶"
+      ]
+     ]
+    },
+    {
+     "id": "u4l3",
+     "kind": "vocab",
+     "title": "Meslekler",
+     "subtitle": "doctor · teacher · student …",
+     "intro": "Ne iş yapıyorsun?",
+     "v": [
+      [
+       "doctor",
+       "doktor",
+       "doktır",
+       "🩺"
+      ],
+      [
+       "teacher",
+       "öğretmen",
+       "tiiçır",
+       "👨‍🏫"
+      ],
+      [
+       "student",
+       "öğrenci",
+       "styuudınt",
+       "🎓"
+      ],
+      [
+       "engineer",
+       "mühendis",
+       "encinir",
+       "👷"
+      ],
+      [
+       "driver",
+       "şoför",
+       "drayvır",
+       "🚗"
+      ],
+      [
+       "cook",
+       "aşçı",
+       "kuk",
+       "👨‍🍳"
+      ],
+      [
+       "nurse",
+       "hemşire",
+       "nörs",
+       "🩹"
+      ]
+     ]
+    },
+    {
+     "id": "u4l4",
+     "kind": "vocab",
+     "title": "Vücut",
+     "subtitle": "head · eye · ear …",
+     "intro": "Baş, göz, kulak…",
+     "v": [
+      [
+       "head",
+       "baş",
+       "hed",
+       "🗣️"
+      ],
+      [
+       "eye",
+       "göz",
+       "ay",
+       "👁️"
+      ],
+      [
+       "ear",
+       "kulak",
+       "iır",
+       "👂"
+      ],
+      [
+       "hand",
+       "el",
+       "hend",
+       "✋"
+      ],
+      [
+       "foot",
+       "ayak",
+       "fut",
+       "🦶"
+      ],
+      [
+       "heart",
+       "kalp",
+       "haart",
+       "❤️"
+      ],
+      [
+       "hair",
+       "saç",
+       "heır",
+       "💇"
+      ]
+     ]
+    },
+    {
+     "id": "u4l5",
+     "kind": "vocab",
+     "title": "Temel sıfatlar",
+     "subtitle": "big · small · good …",
+     "intro": "Büyük, küçük, iyi, kötü…",
+     "v": [
+      [
+       "big",
+       "büyük",
+       "big",
+       "🐘"
+      ],
+      [
+       "small",
+       "küçük",
+       "smool",
+       "🐭"
+      ],
+      [
+       "good",
+       "iyi",
+       "gud",
+       "👍"
+      ],
+      [
+       "bad",
+       "kötü",
+       "bed",
+       "👎"
+      ],
+      [
+       "new",
+       "yeni",
+       "nyuu",
+       "✨"
+      ],
+      [
+       "old",
+       "eski, yaşlı",
+       "ould",
+       "🏚️"
+      ],
+      [
+       "beautiful",
+       "güzel",
+       "byuutıfıl",
+       "🌹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "level": "baslangic",
+   "title": "Yemek ve renkler",
+   "subtitle": "Ne yiyip içeceğini söyle · 5 ders",
+   "lessons": [
+    {
+     "id": "u5l1",
+     "kind": "vocab",
+     "title": "İçecekler",
+     "subtitle": "water · coffee · tea …",
+     "intro": "Kahve, çay, su…",
+     "v": [
+      [
+       "water",
+       "su",
+       "wootır",
+       "💧"
+      ],
+      [
+       "coffee",
+       "kahve",
+       "kofi",
+       "☕"
+      ],
+      [
+       "tea",
+       "çay",
+       "tii",
+       "🍵"
+      ],
+      [
+       "milk",
+       "süt",
+       "milk",
+       "🥛"
+      ],
+      [
+       "juice",
+       "meyve suyu",
+       "cuus",
+       "🧃"
+      ],
+      [
+       "beer",
+       "bira",
+       "biır",
+       "🍺"
+      ],
+      [
+       "wine",
+       "şarap",
+       "wayn",
+       "🍷"
+      ]
+     ]
+    },
+    {
+     "id": "u5l2",
+     "kind": "vocab",
+     "title": "Temel yiyecekler",
+     "subtitle": "bread · cheese · meat …",
+     "intro": "Ekmek, et, balık…",
+     "v": [
+      [
+       "bread",
+       "ekmek",
+       "bred",
+       "🍞"
+      ],
+      [
+       "cheese",
+       "peynir",
+       "çiiz",
+       "🧀"
+      ],
+      [
+       "meat",
+       "et",
+       "miit",
+       "🥩"
+      ],
+      [
+       "fish",
+       "balık",
+       "fiş",
+       "🐟"
+      ],
+      [
+       "chicken",
+       "tavuk",
+       "çikın",
+       "🍗"
+      ],
+      [
+       "egg",
+       "yumurta",
+       "eg",
+       "🥚"
+      ],
+      [
+       "rice",
+       "pirinç",
+       "rays",
+       "🍚"
+      ]
+     ]
+    },
+    {
+     "id": "u5l3",
+     "kind": "vocab",
+     "title": "Meyve ve sebze",
+     "subtitle": "apple · orange · lemon …",
+     "intro": "Elma, patates, domates…",
+     "v": [
+      [
+       "apple",
+       "elma",
+       "æpıl",
+       "🍎"
+      ],
+      [
+       "orange",
+       "portakal",
+       "orinc",
+       "🍊"
+      ],
+      [
+       "lemon",
+       "limon",
+       "lemın",
+       "🍋"
+      ],
+      [
+       "strawberry",
+       "çilek",
+       "strooberi",
+       "🍓"
+      ],
+      [
+       "potato",
+       "patates",
+       "pıteytou",
+       "🥔"
+      ],
+      [
+       "tomato",
+       "domates",
+       "tımaatou",
+       "🍅"
+      ],
+      [
+       "onion",
+       "soğan",
+       "anyın",
+       "🧅"
+      ]
+     ]
+    },
+    {
+     "id": "u5l4",
+     "kind": "vocab",
+     "title": "Restoranda",
+     "subtitle": "menu · the bill, please · I'd like… …",
+     "intro": "Sipariş ver, hesabı iste.",
+     "v": [
+      [
+       "menu",
+       "menü",
+       "menyuu",
+       "📋"
+      ],
+      [
+       "the bill, please",
+       "hesap, lütfen",
+       "ðı bil pliiz",
+       "🧾"
+      ],
+      [
+       "I'd like…",
+       "… istiyorum",
+       "ayd layk",
+       "🙋"
+      ],
+      [
+       "delicious",
+       "lezzetli",
+       "dilişıs",
+       "😋"
+      ],
+      [
+       "breakfast",
+       "kahvaltı",
+       "brekfıst",
+       "🍳"
+      ],
+      [
+       "lunch",
+       "öğle yemeği",
+       "lanç",
+       "🍽️"
+      ],
+      [
+       "dinner",
+       "akşam yemeği",
+       "dinır",
+       "🌙"
+      ]
+     ]
+    },
+    {
+     "id": "u5l5",
+     "kind": "vocab",
+     "title": "Renkler",
+     "subtitle": "red · blue · green …",
+     "intro": "Kırmızı, mavi, yeşil…",
+     "v": [
+      [
+       "red",
+       "kırmızı",
+       "red",
+       "🔴"
+      ],
+      [
+       "blue",
+       "mavi",
+       "bluu",
+       "🔵"
+      ],
+      [
+       "green",
+       "yeşil",
+       "griin",
+       "🟢"
+      ],
+      [
+       "yellow",
+       "sarı",
+       "yelou",
+       "🟡"
+      ],
+      [
+       "white",
+       "beyaz",
+       "wayt",
+       "⚪"
+      ],
+      [
+       "black",
+       "siyah",
+       "blek",
+       "⚫"
+      ],
+      [
+       "grey",
+       "gri",
+       "grey",
+       "🩶"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "level": "baslangic",
+   "title": "Şehir ve ev",
+   "subtitle": "Şehirde dolaş, alışveriş yap, evini anlat · 5 ders",
+   "lessons": [
+    {
+     "id": "u6l1",
+     "kind": "vocab",
+     "title": "Şehirde yerler",
+     "subtitle": "shop · pharmacy · hospital …",
+     "intro": "Mağaza, eczane, otel…",
+     "v": [
+      [
+       "shop",
+       "dükkân",
+       "şop",
+       "🏪"
+      ],
+      [
+       "pharmacy",
+       "eczane",
+       "faarmısi",
+       "💊"
+      ],
+      [
+       "hospital",
+       "hastane",
+       "hospitıl",
+       "🏥"
+      ],
+      [
+       "hotel",
+       "otel",
+       "houtel",
+       "🏨"
+      ],
+      [
+       "station",
+       "istasyon",
+       "steyşın",
+       "🚉"
+      ],
+      [
+       "restaurant",
+       "restoran",
+       "restıront",
+       "🍴"
+      ],
+      [
+       "museum",
+       "müze",
+       "myuuziım",
+       "🏛️"
+      ]
+     ]
+    },
+    {
+     "id": "u6l2",
+     "kind": "vocab",
+     "title": "Ulaşım",
+     "subtitle": "bus · train · taxi …",
+     "intro": "Metro, otobüs, taksi…",
+     "v": [
+      [
+       "bus",
+       "otobüs",
+       "bas",
+       "🚌"
+      ],
+      [
+       "train",
+       "tren",
+       "treyn",
+       "🚆"
+      ],
+      [
+       "taxi",
+       "taksi",
+       "teksi",
+       "🚕"
+      ],
+      [
+       "car",
+       "araba",
+       "kaar",
+       "🚗"
+      ],
+      [
+       "plane",
+       "uçak",
+       "pleyn",
+       "✈️"
+      ],
+      [
+       "bike",
+       "bisiklet",
+       "bayk",
+       "🚲"
+      ],
+      [
+       "ticket",
+       "bilet",
+       "tikit",
+       "🎫"
+      ]
+     ]
+    },
+    {
+     "id": "u6l3",
+     "kind": "vocab",
+     "title": "Yol tarifi",
+     "subtitle": "right · left · straight on …",
+     "intro": "Sağa, sola, düz…",
+     "v": [
+      [
+       "right",
+       "sağ",
+       "rayt",
+       "➡️"
+      ],
+      [
+       "left",
+       "sol",
+       "left",
+       "⬅️"
+      ],
+      [
+       "straight on",
+       "dümdüz",
+       "streyt on",
+       "⬆️"
+      ],
+      [
+       "here",
+       "burada",
+       "hiır",
+       "📍"
+      ],
+      [
+       "there",
+       "orada",
+       "ðeır",
+       "👉"
+      ],
+      [
+       "far",
+       "uzak",
+       "faar",
+       "🗺️"
+      ],
+      [
+       "where is the toilet?",
+       "tuvalet nerede?",
+       "wer iz ðı toylıt",
+       "🚻"
+      ]
+     ]
+    },
+    {
+     "id": "u6l4",
+     "kind": "vocab",
+     "title": "Alışveriş",
+     "subtitle": "how much is it? · money · cheap …",
+     "intro": "Fiyat sor, öde.",
+     "v": [
+      [
+       "how much is it?",
+       "ne kadar?",
+       "hav maç iz it",
+       "🏷️"
+      ],
+      [
+       "money",
+       "para",
+       "mani",
+       "💵"
+      ],
+      [
+       "cheap",
+       "ucuz",
+       "çiip",
+       "🤑"
+      ],
+      [
+       "expensive",
+       "pahalı",
+       "ikspensiv",
+       "💸"
+      ],
+      [
+       "card",
+       "kart",
+       "kaard",
+       "💳"
+      ],
+      [
+       "cash",
+       "nakit",
+       "keş",
+       "💶"
+      ],
+      [
+       "receipt",
+       "fiş",
+       "risiit",
+       "🧾"
+      ]
+     ]
+    },
+    {
+     "id": "u6l5",
+     "kind": "vocab",
+     "title": "Evde",
+     "subtitle": "house · room · kitchen …",
+     "intro": "Oda, mutfak, kapı…",
+     "v": [
+      [
+       "house",
+       "ev",
+       "havs",
+       "🏠"
+      ],
+      [
+       "room",
+       "oda",
+       "ruum",
+       "🚪"
+      ],
+      [
+       "kitchen",
+       "mutfak",
+       "kiçın",
+       "🍳"
+      ],
+      [
+       "door",
+       "kapı",
+       "door",
+       "🚪"
+      ],
+      [
+       "bed",
+       "yatak",
+       "bed",
+       "🛏️"
+      ],
+      [
+       "chair",
+       "sandalye",
+       "çeır",
+       "🪑"
+      ],
+      [
+       "table",
+       "masa",
+       "teybıl",
+       "🍽️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "level": "baslangic",
+   "title": "Temel fiiller",
+   "subtitle": "Her gün kullanacağın fiiller ve kurtarıcı cümleler · 5 ders",
+   "lessons": [
+    {
+     "id": "u7l1",
+     "kind": "vocab",
+     "title": "Günlük fiiller",
+     "subtitle": "eat · drink · sleep …",
+     "intro": "Yemek, içmek, uyumak…",
+     "v": [
+      [
+       "eat",
+       "yemek",
+       "iit",
+       "🍽️"
+      ],
+      [
+       "drink",
+       "içmek",
+       "drink",
+       "🥤"
+      ],
+      [
+       "sleep",
+       "uyumak",
+       "sliip",
+       "😴"
+      ],
+      [
+       "live",
+       "yaşamak",
+       "liv",
+       "🏠"
+      ],
+      [
+       "work",
+       "çalışmak",
+       "wörk",
+       "💼"
+      ],
+      [
+       "rest",
+       "dinlenmek",
+       "rest",
+       "🏖️"
+      ],
+      [
+       "walk",
+       "yürümek",
+       "wook",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u7l2",
+     "kind": "vocab",
+     "title": "Hareket fiilleri",
+     "subtitle": "go · come · run …",
+     "intro": "Gitmek, gelmek, koşmak…",
+     "v": [
+      [
+       "go",
+       "gitmek",
+       "gou",
+       "➡️"
+      ],
+      [
+       "come",
+       "gelmek",
+       "kam",
+       "⬅️"
+      ],
+      [
+       "run",
+       "koşmak",
+       "ran",
+       "🏃"
+      ],
+      [
+       "stand",
+       "ayakta durmak",
+       "stend",
+       "🧍"
+      ],
+      [
+       "sit",
+       "oturmak",
+       "sit",
+       "🪑"
+      ],
+      [
+       "fly",
+       "uçmak",
+       "flay",
+       "✈️"
+      ],
+      [
+       "swim",
+       "yüzmek",
+       "swim",
+       "🏊"
+      ]
+     ]
+    },
+    {
+     "id": "u7l3",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "speak · understand · know …",
+     "intro": "Konuşmak, anlamak, bilmek…",
+     "v": [
+      [
+       "speak",
+       "konuşmak",
+       "spiik",
+       "🗣️"
+      ],
+      [
+       "understand",
+       "anlamak",
+       "andırstend",
+       "💡"
+      ],
+      [
+       "know",
+       "bilmek",
+       "nou",
+       "🧠"
+      ],
+      [
+       "read",
+       "okumak",
+       "riid",
+       "📖"
+      ],
+      [
+       "write",
+       "yazmak",
+       "rayt",
+       "✍️"
+      ],
+      [
+       "listen",
+       "dinlemek",
+       "lisın",
+       "🎧"
+      ],
+      [
+       "learn",
+       "öğrenmek",
+       "lörn",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u7l4",
+     "kind": "vocab",
+     "title": "İstek ve yetenek",
+     "subtitle": "want · love · can …",
+     "intro": "İstemek, sevmek, yapabilmek…",
+     "v": [
+      [
+       "want",
+       "istemek",
+       "wont",
+       "🙏"
+      ],
+      [
+       "love",
+       "sevmek",
+       "lav",
+       "❤️"
+      ],
+      [
+       "can",
+       "-ebilmek",
+       "ken",
+       "💪"
+      ],
+      [
+       "buy",
+       "satın almak",
+       "bay",
+       "🛍️"
+      ],
+      [
+       "see",
+       "görmek",
+       "sii",
+       "👀"
+      ],
+      [
+       "do",
+       "yapmak",
+       "duu",
+       "🛠️"
+      ],
+      [
+       "help",
+       "yardım etmek",
+       "help",
+       "🤝"
+      ]
+     ]
+    },
+    {
+     "id": "u7l5",
+     "kind": "vocab",
+     "title": "Kurtarıcı cümleler",
+     "subtitle": "I don't understand · could you repeat that? · please speak slowly …",
+     "intro": "Zor anda hayat kurtaran cümleler.",
+     "v": [
+      [
+       "I don't understand",
+       "anlamıyorum",
+       "ay dount andırstend",
+       "😕"
+      ],
+      [
+       "could you repeat that?",
+       "tekrar eder misiniz?",
+       "kud yu ripiit ðet",
+       "🔁"
+      ],
+      [
+       "please speak slowly",
+       "lütfen yavaş konuşun",
+       "pliiz spiik slouli",
+       "🐢"
+      ],
+      [
+       "I don't know",
+       "bilmiyorum",
+       "ay dount nou",
+       "🤷"
+      ],
+      [
+       "I speak a little English",
+       "biraz İngilizce konuşuyorum",
+       "ay spiik ı litıl ingliş",
+       "🇬🇧"
+      ],
+      [
+       "help!",
+       "imdat!",
+       "help",
+       "🆘"
+      ],
+      [
+       "I love you",
+       "seni seviyorum",
+       "ay lav yu",
+       "❤️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "level": "baslangic",
+   "title": "Giyim ve hava",
+   "subtitle": "Giysiler, hava durumu, doğa ve hayvanlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u8l1",
+     "kind": "vocab",
+     "title": "Giysiler",
+     "subtitle": "shirt · trousers · dress …",
+     "intro": "Gömlek, pantolon, ceket…",
+     "v": [
+      [
+       "shirt",
+       "gömlek",
+       "şört",
+       "👔"
+      ],
+      [
+       "trousers",
+       "pantolon",
+       "trauzırz",
+       "👖"
+      ],
+      [
+       "dress",
+       "elbise",
+       "dres",
+       "👗"
+      ],
+      [
+       "jacket",
+       "ceket",
+       "cekit",
+       "🧥"
+      ],
+      [
+       "skirt",
+       "etek",
+       "skört",
+       "👗"
+      ],
+      [
+       "T-shirt",
+       "tişört",
+       "tii şört",
+       "👕"
+      ],
+      [
+       "sweater",
+       "kazak",
+       "swetır",
+       "🧶"
+      ]
+     ]
+    },
+    {
+     "id": "u8l2",
+     "kind": "vocab",
+     "title": "Ayakkabı ve aksesuar",
+     "subtitle": "shoes · trainers · hat …",
+     "intro": "Ayakkabı, şapka, çanta…",
+     "v": [
+      [
+       "shoes",
+       "ayakkabı",
+       "şuuz",
+       "👞"
+      ],
+      [
+       "trainers",
+       "spor ayakkabı",
+       "treynırz",
+       "👟"
+      ],
+      [
+       "hat",
+       "şapka",
+       "het",
+       "🧢"
+      ],
+      [
+       "bag",
+       "çanta",
+       "beg",
+       "👜"
+      ],
+      [
+       "glasses",
+       "gözlük",
+       "glaasız",
+       "👓"
+      ],
+      [
+       "watch",
+       "kol saati",
+       "woç",
+       "⌚"
+      ],
+      [
+       "socks",
+       "çorap",
+       "soks",
+       "🧦"
+      ]
+     ]
+    },
+    {
+     "id": "u8l3",
+     "kind": "vocab",
+     "title": "Hava durumu",
+     "subtitle": "weather · sun · rain …",
+     "intro": "Güneşli mi, yağmurlu mu?",
+     "v": [
+      [
+       "weather",
+       "hava durumu",
+       "weðır",
+       "🌤️"
+      ],
+      [
+       "sun",
+       "güneş",
+       "san",
+       "☀️"
+      ],
+      [
+       "rain",
+       "yağmur",
+       "reyn",
+       "🌧️"
+      ],
+      [
+       "snow",
+       "kar",
+       "snou",
+       "❄️"
+      ],
+      [
+       "wind",
+       "rüzgâr",
+       "wind",
+       "💨"
+      ],
+      [
+       "hot",
+       "sıcak",
+       "hot",
+       "🥵"
+      ],
+      [
+       "cold",
+       "soğuk",
+       "kould",
+       "🥶"
+      ]
+     ]
+    },
+    {
+     "id": "u8l4",
+     "kind": "vocab",
+     "title": "Doğa",
+     "subtitle": "sea · mountain · forest …",
+     "intro": "Deniz, dağ, orman…",
+     "v": [
+      [
+       "sea",
+       "deniz",
+       "sii",
+       "🌊"
+      ],
+      [
+       "mountain",
+       "dağ",
+       "mauntın",
+       "⛰️"
+      ],
+      [
+       "forest",
+       "orman",
+       "forist",
+       "🌲"
+      ],
+      [
+       "river",
+       "nehir",
+       "rivır",
+       "🏞️"
+      ],
+      [
+       "tree",
+       "ağaç",
+       "trii",
+       "🌳"
+      ],
+      [
+       "flower",
+       "çiçek",
+       "flauır",
+       "🌸"
+      ],
+      [
+       "sky",
+       "gökyüzü",
+       "skay",
+       "🌌"
+      ]
+     ]
+    },
+    {
+     "id": "u8l5",
+     "kind": "vocab",
+     "title": "Hayvanlar",
+     "subtitle": "cat · dog · bird …",
+     "intro": "Kedi, köpek, kuş…",
+     "v": [
+      [
+       "cat",
+       "kedi",
+       "ket",
+       "🐈"
+      ],
+      [
+       "dog",
+       "köpek",
+       "dog",
+       "🐕"
+      ],
+      [
+       "bird",
+       "kuş",
+       "börd",
+       "🐦"
+      ],
+      [
+       "horse",
+       "at",
+       "hoors",
+       "🐎"
+      ],
+      [
+       "cow",
+       "inek",
+       "kau",
+       "🐄"
+      ],
+      [
+       "bear",
+       "ayı",
+       "beır",
+       "🐻"
+      ],
+      [
+       "wolf",
+       "kurt",
+       "wulf",
+       "🐺"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "level": "baslangic",
+   "title": "Seyahat",
+   "subtitle": "Havalimanı, otel, gezi ve acil durumlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u9l1",
+     "kind": "vocab",
+     "title": "Havalimanında",
+     "subtitle": "airport · passport · luggage …",
+     "intro": "Pasaport, bagaj, uçuş…",
+     "v": [
+      [
+       "airport",
+       "havalimanı",
+       "eırport",
+       "🛫"
+      ],
+      [
+       "passport",
+       "pasaport",
+       "paasport",
+       "🛂"
+      ],
+      [
+       "luggage",
+       "bagaj",
+       "lagic",
+       "🧳"
+      ],
+      [
+       "flight",
+       "uçuş",
+       "flayt",
+       "✈️"
+      ],
+      [
+       "gate",
+       "kapı (uçuş)",
+       "geyt",
+       "🚪"
+      ],
+      [
+       "exit",
+       "çıkış",
+       "egzit",
+       "🚶"
+      ],
+      [
+       "customs",
+       "gümrük",
+       "kastımz",
+       "🛃"
+      ]
+     ]
+    },
+    {
+     "id": "u9l2",
+     "kind": "vocab",
+     "title": "Otelde",
+     "subtitle": "reservation · key · lift …",
+     "intro": "Oda, anahtar, rezervasyon…",
+     "v": [
+      [
+       "reservation",
+       "rezervasyon",
+       "rezırveyşın",
+       "📝"
+      ],
+      [
+       "key",
+       "anahtar",
+       "kii",
+       "🔑"
+      ],
+      [
+       "lift",
+       "asansör",
+       "lift",
+       "🛗"
+      ],
+      [
+       "floor",
+       "kat",
+       "floor",
+       "🏢"
+      ],
+      [
+       "shower",
+       "duş",
+       "şauır",
+       "🚿"
+      ],
+      [
+       "towel",
+       "havlu",
+       "tauıl",
+       "🧺"
+      ],
+      [
+       "check out",
+       "otelden çıkış",
+       "çek aut",
+       "🧳"
+      ]
+     ]
+    },
+    {
+     "id": "u9l3",
+     "kind": "vocab",
+     "title": "Gezerken",
+     "subtitle": "map · tour · guide …",
+     "intro": "Harita, fotoğraf, rehber…",
+     "v": [
+      [
+       "map",
+       "harita",
+       "mep",
+       "🗺️"
+      ],
+      [
+       "tour",
+       "tur",
+       "tuır",
+       "🚌"
+      ],
+      [
+       "guide",
+       "rehber",
+       "gayd",
+       "🧑‍💼"
+      ],
+      [
+       "square",
+       "meydan",
+       "skweır",
+       "🏙️"
+      ],
+      [
+       "church",
+       "kilise",
+       "çörç",
+       "⛪"
+      ],
+      [
+       "bridge",
+       "köprü",
+       "bric",
+       "🌉"
+      ],
+      [
+       "souvenir",
+       "hediyelik eşya",
+       "suuvınir",
+       "🎁"
+      ]
+     ]
+    },
+    {
+     "id": "u9l4",
+     "kind": "vocab",
+     "title": "Acil durumlar",
+     "subtitle": "police · ambulance · fire …",
+     "intro": "Polis, ambulans, yardım…",
+     "v": [
+      [
+       "police",
+       "polis",
+       "pıliis",
+       "🚓"
+      ],
+      [
+       "ambulance",
+       "ambulans",
+       "embyulıns",
+       "🚑"
+      ],
+      [
+       "fire",
+       "yangın",
+       "fayır",
+       "🔥"
+      ],
+      [
+       "dangerous",
+       "tehlikeli",
+       "deyncırıs",
+       "⚠️"
+      ],
+      [
+       "I feel sick",
+       "kendimi kötü hissediyorum",
+       "ay fiil sik",
+       "🤢"
+      ],
+      [
+       "I'm lost",
+       "kayboldum",
+       "aym lost",
+       "🧭"
+      ],
+      [
+       "call a doctor!",
+       "doktor çağırın!",
+       "kool ı doktır",
+       "📞"
+      ]
+     ]
+    },
+    {
+     "id": "u9l5",
+     "kind": "vocab",
+     "title": "Tatil",
+     "subtitle": "holiday · beach · suitcase …",
+     "intro": "Plaj, deniz, dinlenme…",
+     "v": [
+      [
+       "holiday",
+       "tatil",
+       "holıdey",
+       "🏝️"
+      ],
+      [
+       "beach",
+       "plaj",
+       "biiç",
+       "🏖️"
+      ],
+      [
+       "suitcase",
+       "valiz",
+       "suutkeys",
+       "🧳"
+      ],
+      [
+       "trip",
+       "gezi",
+       "trip",
+       "🧭"
+      ],
+      [
+       "take a photo",
+       "fotoğraf çekmek",
+       "teyk ı foutou",
+       "📸"
+      ],
+      [
+       "visa",
+       "vize",
+       "viizı",
+       "📄"
+      ],
+      [
+       "sunglasses",
+       "güneş gözlüğü",
+       "sanglaasız",
+       "🕶️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u10",
+   "level": "baslangic",
+   "title": "Duygular ve sağlık",
+   "subtitle": "Nasıl hissettiğini anlat, doktorda derdini söyle · 5 ders",
+   "lessons": [
+    {
+     "id": "u10l1",
+     "kind": "vocab",
+     "title": "Duygular",
+     "subtitle": "happy · sad · tired …",
+     "intro": "Mutlu, üzgün, yorgun…",
+     "v": [
+      [
+       "happy",
+       "mutlu",
+       "hepi",
+       "😄"
+      ],
+      [
+       "sad",
+       "üzgün",
+       "sed",
+       "😢"
+      ],
+      [
+       "tired",
+       "yorgun",
+       "tayırd",
+       "😩"
+      ],
+      [
+       "angry",
+       "kızgın",
+       "engri",
+       "😠"
+      ],
+      [
+       "calm",
+       "sakin",
+       "kaam",
+       "😌"
+      ],
+      [
+       "bored",
+       "sıkılmış",
+       "boord",
+       "🥱"
+      ],
+      [
+       "excited",
+       "heyecanlı",
+       "iksaytıd",
+       "🤩"
+      ]
+     ]
+    },
+    {
+     "id": "u10l2",
+     "kind": "vocab",
+     "title": "Doktorda",
+     "subtitle": "it hurts · medicine · fever …",
+     "intro": "Ağrı, ilaç, ateş…",
+     "v": [
+      [
+       "it hurts",
+       "acıyor",
+       "it hörts",
+       "🤕"
+      ],
+      [
+       "medicine",
+       "ilaç",
+       "medsın",
+       "💊"
+      ],
+      [
+       "fever",
+       "ateş",
+       "fiivır",
+       "🌡️"
+      ],
+      [
+       "a cold",
+       "soğuk algınlığı",
+       "ı kould",
+       "🤧"
+      ],
+      [
+       "toothache",
+       "diş ağrısı",
+       "tuuθeyk",
+       "🦷"
+      ],
+      [
+       "ill",
+       "hasta",
+       "il",
+       "🤒"
+      ],
+      [
+       "healthy",
+       "sağlıklı",
+       "helθi",
+       "💪"
+      ]
+     ]
+    },
+    {
+     "id": "u10l3",
+     "kind": "vocab",
+     "title": "Spor",
+     "subtitle": "sport · football · running …",
+     "intro": "Futbol, yüzme, koşu…",
+     "v": [
+      [
+       "sport",
+       "spor",
+       "sport",
+       "🏅"
+      ],
+      [
+       "football",
+       "futbol",
+       "futbool",
+       "⚽"
+      ],
+      [
+       "running",
+       "koşu",
+       "raning",
+       "🏃"
+      ],
+      [
+       "swimming",
+       "yüzme",
+       "swiming",
+       "🏊"
+      ],
+      [
+       "training",
+       "antrenman",
+       "treyning",
+       "🏋️"
+      ],
+      [
+       "play",
+       "oynamak",
+       "pley",
+       "🎮"
+      ],
+      [
+       "team",
+       "takım",
+       "tiim",
+       "👥"
+      ]
+     ]
+    },
+    {
+     "id": "u10l4",
+     "kind": "vocab",
+     "title": "Hobiler",
+     "subtitle": "music · book · film …",
+     "intro": "Müzik, kitap, film…",
+     "v": [
+      [
+       "music",
+       "müzik",
+       "myuuzik",
+       "🎵"
+      ],
+      [
+       "book",
+       "kitap",
+       "buk",
+       "📕"
+      ],
+      [
+       "film",
+       "film",
+       "film",
+       "🎬"
+      ],
+      [
+       "draw",
+       "çizmek",
+       "droo",
+       "🎨"
+      ],
+      [
+       "sing",
+       "şarkı söylemek",
+       "sing",
+       "🎤"
+      ],
+      [
+       "dance",
+       "dans etmek",
+       "daans",
+       "💃"
+      ],
+      [
+       "travel",
+       "seyahat etmek",
+       "trevıl",
+       "🌍"
+      ]
+     ]
+    },
+    {
+     "id": "u10l5",
+     "kind": "vocab",
+     "title": "Karakter",
+     "subtitle": "kind · clever · funny …",
+     "intro": "Nazik, akıllı, komik…",
+     "v": [
+      [
+       "kind",
+       "nazik",
+       "kaynd",
+       "🤗"
+      ],
+      [
+       "clever",
+       "akıllı",
+       "klevır",
+       "🧠"
+      ],
+      [
+       "funny",
+       "komik",
+       "fani",
+       "😂"
+      ],
+      [
+       "serious",
+       "ciddi",
+       "siıriıs",
+       "🧐"
+      ],
+      [
+       "friendly",
+       "cana yakın",
+       "frendli",
+       "😁"
+      ],
+      [
+       "lazy",
+       "tembel",
+       "leyzi",
+       "🦥"
+      ],
+      [
+       "shy",
+       "utangaç",
+       "şay",
+       "🙈"
+      ]
      ]
     }
    ]
   }
  ],
  "upcoming": [
-  { "level": "baslangic", "title": "Selamlaşma ve tanışma" }, { "level": "baslangic", "title": "Sayılar ve zaman" }, { "level": "baslangic", "title": "to be ve basit cümleler" }, { "level": "baslangic", "title": "Present Simple" }, { "level": "baslangic", "title": "Yemek, alışveriş, yol tarifi" },
-  { "level": "orta", "title": "Past Simple ve düzensiz fiiller" }, { "level": "orta", "title": "Present Perfect" }, { "level": "orta", "title": "Gelecek zaman yapıları" }, { "level": "orta", "title": "Phrasal verbs" }, { "level": "orta", "title": "Günlük diyaloglar" },
-  { "level": "yuksek", "title": "Koşul cümleleri" }, { "level": "yuksek", "title": "Edilgen yapı ve dolaylı anlatım" }, { "level": "yuksek", "title": "Metin okuma ve anlama" }, { "level": "yuksek", "title": "Serbest konuşma" }
+  {
+   "level": "baslangic",
+   "title": "to be ve basit cümleler"
+  },
+  {
+   "level": "baslangic",
+   "title": "Present Simple"
+  },
+  {
+   "level": "orta",
+   "title": "Past Simple ve düzensiz fiiller"
+  },
+  {
+   "level": "orta",
+   "title": "Present Perfect"
+  },
+  {
+   "level": "orta",
+   "title": "Gelecek zaman yapıları"
+  },
+  {
+   "level": "orta",
+   "title": "Phrasal verbs"
+  },
+  {
+   "level": "orta",
+   "title": "Günlük diyaloglar"
+  },
+  {
+   "level": "yuksek",
+   "title": "Koşul cümleleri"
+  },
+  {
+   "level": "yuksek",
+   "title": "Edilgen yapı ve dolaylı anlatım"
+  },
+  {
+   "level": "yuksek",
+   "title": "Metin okuma ve anlama"
+  },
+  {
+   "level": "yuksek",
+   "title": "Serbest konuşma"
+  }
  ],
  "quotes": [
-  { "t": "Practice makes perfect.", "tr": "Pratik mükemmelleştirir." },
-  { "t": "Better late than never.", "tr": "Geç olsun da güç olmasın." },
-  { "t": "Where there's a will, there's a way.", "tr": "İsteyen her yolu bulur." },
-  { "t": "Rome wasn't built in a day.", "tr": "Roma bir günde kurulmadı." },
-  { "t": "Actions speak louder than words.", "tr": "Davranışlar sözlerden daha çok şey anlatır." },
-  { "t": "Every cloud has a silver lining.", "tr": "Her işte bir hayır vardır." },
-  { "t": "Knowledge is power.", "tr": "Bilgi güçtür." }
+  {
+   "t": "Practice makes perfect.",
+   "tr": "Pratik mükemmelleştirir."
+  },
+  {
+   "t": "Better late than never.",
+   "tr": "Geç olsun da güç olmasın."
+  },
+  {
+   "t": "Where there's a will, there's a way.",
+   "tr": "İsteyen her yolu bulur."
+  },
+  {
+   "t": "Rome wasn't built in a day.",
+   "tr": "Roma bir günde kurulmadı."
+  },
+  {
+   "t": "Actions speak louder than words.",
+   "tr": "Davranışlar sözlerden daha çok şey anlatır."
+  },
+  {
+   "t": "Every cloud has a silver lining.",
+   "tr": "Her işte bir hayır vardır."
+  },
+  {
+   "t": "Knowledge is power.",
+   "tr": "Bilgi güçtür."
+  }
  ]
 }

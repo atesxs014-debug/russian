@@ -53,6 +53,8 @@ def collect(lang: str) -> list[str]:
                     add(w["t"])
             for w in lesson.get("words", []):
                 add(w["t"])
+            for v in lesson.get("v", []):
+                add(v[0])
             for r in lesson.get("rules", []):
                 for w in r["examples"]:
                     add(w["t"])

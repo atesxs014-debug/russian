@@ -26,7 +26,9 @@ export const LANGS: LangMeta[] = [
 
 export const langMeta = (code: LangCode) => LANGS.find((l) => l.code === code) ?? LANGS[0];
 
-export type Word = { t: string; tr: string; read: string };
+export type Word = { t: string; tr: string; read: string; e?: string; g?: 'm' | 'f' | 'n' };
+/** Compact vocab entry in the JSON packs: [text, Turkish, reading, emoji?, gender?] */
+type VocabTuple = [string, string, string, string?, string?];
 export type Letter = {
   id: string;
   upper: string;
@@ -40,7 +42,7 @@ export type Rule = { title: string; text: string; examples: Word[] };
 export type Pair = { a: string; b: string; tip: string };
 export type Lesson = {
   id: string;
-  kind: 'letters' | 'reading' | 'compare';
+  kind: 'letters' | 'reading' | 'compare' | 'vocab';
   title: string;
   subtitle: string;
   intro: string;
@@ -48,6 +50,7 @@ export type Lesson = {
   rules?: Rule[];
   words?: Word[];
   pairs?: Pair[];
+  v?: VocabTuple[];
 };
 export type Unit = { id: string; level: LevelId; title: string; subtitle: string; lessons: Lesson[] };
 export type Upcoming = { level: LevelId; title: string };
@@ -77,6 +80,13 @@ const cache: Partial<Record<LangCode, Course>> = {};
 export function getCourse(lang: LangCode): Course {
   if (cache[lang]) return cache[lang]!;
   const raw = RAW[lang] as { units: Unit[]; upcoming: Upcoming[]; quotes: Quote[] };
+  // expand compact vocab tuples into regular word lists
+  raw.units.forEach((u) =>
+    u.lessons.forEach((ls) => {
+      if (ls.v && !ls.words)
+        ls.words = ls.v.map(([t, tr, read, e, g]) => ({ t, tr, read, e: e || undefined, g: (g || undefined) as Word['g'] }));
+    }),
+  );
   const letters: Record<string, Letter> = {};
   const words: Record<string, Word> = {};
   const addW = (w: Word) => (words[wordItemId(w)] = words[wordItemId(w)] ?? w);

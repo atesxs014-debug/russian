@@ -23,6 +23,7 @@ Dil paketleri `src/data/<dil>.json` dosyalarında. Yeni ders eklemek için JSON'
 ## Yol haritası
 
 1. ✅ 5 dil, ses/alfabe üniteleri, kilit sistemi, ayarlar, bildirimler
+2. ✅ Kelime üniteleri: Rusça 72, İngilizce/Almanca/Fransızca 50, İtalyanca 44 ders
 2. Konuşma analizi (gömülü Whisper), kayıt karşılaştırma
 3. Başlangıç seviyesi kelime/diyalog üniteleri (Anya & Dima), Kiril klavye, dikte
 4. Sözlük, çekim tabloları, kopya kağıdı, rozetler, widget, PDF rapor

@@ -2,67 +2,2718 @@
  "code": "it",
  "units": [
   {
-   "id": "u1", "level": "baslangic", "title": "İtalyanca Sesler", "subtitle": "C/G kuralı, harf grupları, çift ünsüzler",
+   "id": "u1",
+   "level": "baslangic",
+   "title": "İtalyanca Sesler",
+   "subtitle": "C/G kuralı, harf grupları, çift ünsüzler",
    "lessons": [
     {
-     "id": "u1l1", "kind": "letters", "title": "C ve G kuralı", "subtitle": "ca · ci · ga · gi",
+     "id": "u1l1",
+     "kind": "letters",
+     "title": "C ve G kuralı",
+     "subtitle": "ca · ci · ga · gi",
      "intro": "İtalyancanın en önemli kuralı: c ve g, arkasındaki ünlüye göre sert ya da yumuşak okunur.",
      "letters": [
-      { "id": "ca", "upper": "ca", "lower": "co · cu", "name": "casa", "sound": "k", "hint": "a, o, u önünde c = 'k'.", "words": [ { "t": "casa", "tr": "ev", "read": "kaza" }, { "t": "cuore", "tr": "kalp", "read": "kuore" } ] },
-      { "id": "ci", "upper": "ci", "lower": "ce", "name": "ciao", "sound": "ç", "hint": "e, i önünde c = 'ç'.", "words": [ { "t": "ciao", "tr": "merhaba / hoşça kal", "read": "çao" }, { "t": "cena", "tr": "akşam yemeği", "read": "çena" } ] },
-      { "id": "ga", "upper": "ga", "lower": "go · gu", "name": "gatto", "sound": "g", "hint": "a, o, u önünde g = 'g'.", "words": [ { "t": "gatto", "tr": "kedi", "read": "gatto" }, { "t": "gusto", "tr": "tat", "read": "gusto" } ] },
-      { "id": "gi", "upper": "gi", "lower": "ge", "name": "gelato", "sound": "c", "hint": "e, i önünde g = Türkçe 'c'.", "words": [ { "t": "gelato", "tr": "dondurma", "read": "celato" }, { "t": "giorno", "tr": "gün", "read": "corno" } ] }
+      {
+       "id": "ca",
+       "upper": "ca",
+       "lower": "co · cu",
+       "name": "casa",
+       "sound": "k",
+       "hint": "a, o, u önünde c = 'k'.",
+       "words": [
+        {
+         "t": "casa",
+         "tr": "ev",
+         "read": "kaza"
+        },
+        {
+         "t": "cuore",
+         "tr": "kalp",
+         "read": "kuore"
+        }
+       ]
+      },
+      {
+       "id": "ci",
+       "upper": "ci",
+       "lower": "ce",
+       "name": "ciao",
+       "sound": "ç",
+       "hint": "e, i önünde c = 'ç'.",
+       "words": [
+        {
+         "t": "ciao",
+         "tr": "merhaba / hoşça kal",
+         "read": "çao"
+        },
+        {
+         "t": "cena",
+         "tr": "akşam yemeği",
+         "read": "çena"
+        }
+       ]
+      },
+      {
+       "id": "ga",
+       "upper": "ga",
+       "lower": "go · gu",
+       "name": "gatto",
+       "sound": "g",
+       "hint": "a, o, u önünde g = 'g'.",
+       "words": [
+        {
+         "t": "gatto",
+         "tr": "kedi",
+         "read": "gatto"
+        },
+        {
+         "t": "gusto",
+         "tr": "tat",
+         "read": "gusto"
+        }
+       ]
+      },
+      {
+       "id": "gi",
+       "upper": "gi",
+       "lower": "ge",
+       "name": "gelato",
+       "sound": "c",
+       "hint": "e, i önünde g = Türkçe 'c'.",
+       "words": [
+        {
+         "t": "gelato",
+         "tr": "dondurma",
+         "read": "celato"
+        },
+        {
+         "t": "giorno",
+         "tr": "gün",
+         "read": "corno"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l2", "kind": "letters", "title": "H ile sertleştirme", "subtitle": "chi · ghi · sci · sca",
+     "id": "u1l2",
+     "kind": "letters",
+     "title": "H ile sertleştirme",
+     "subtitle": "chi · ghi · sci · sca",
      "intro": "c/g'yi e ve i önünde sert okutmak için araya h girer. sc grupları da aynı kurala uyar.",
      "letters": [
-      { "id": "chi", "upper": "chi", "lower": "che", "name": "chiesa", "sound": "k (h ile)", "hint": "ch = 'k' (h sertleştirir).", "words": [ { "t": "che", "tr": "ne", "read": "ke" }, { "t": "chiesa", "tr": "kilise", "read": "kieza" } ] },
-      { "id": "ghi", "upper": "ghi", "lower": "ghe", "name": "spaghetti", "sound": "g (h ile)", "hint": "gh = 'g'.", "words": [ { "t": "spaghetti", "tr": "spagetti", "read": "spagetti" }, { "t": "ghiaccio", "tr": "buz", "read": "giaççio" } ] },
-      { "id": "sci", "upper": "sci", "lower": "sce", "name": "pesce", "sound": "ş", "hint": "e, i önünde sc = 'ş'.", "words": [ { "t": "pesce", "tr": "balık", "read": "peşe" }, { "t": "scienza", "tr": "bilim", "read": "şientsa" } ] },
-      { "id": "sca", "upper": "sca", "lower": "sco · scu", "name": "scuola", "sound": "sk", "hint": "a, o, u önünde sc = 'sk'.", "words": [ { "t": "scuola", "tr": "okul", "read": "skuola" }, { "t": "scarpa", "tr": "ayakkabı", "read": "skarpa" } ] }
+      {
+       "id": "chi",
+       "upper": "chi",
+       "lower": "che",
+       "name": "chiesa",
+       "sound": "k (h ile)",
+       "hint": "ch = 'k' (h sertleştirir).",
+       "words": [
+        {
+         "t": "che",
+         "tr": "ne",
+         "read": "ke"
+        },
+        {
+         "t": "chiesa",
+         "tr": "kilise",
+         "read": "kieza"
+        }
+       ]
+      },
+      {
+       "id": "ghi",
+       "upper": "ghi",
+       "lower": "ghe",
+       "name": "spaghetti",
+       "sound": "g (h ile)",
+       "hint": "gh = 'g'.",
+       "words": [
+        {
+         "t": "spaghetti",
+         "tr": "spagetti",
+         "read": "spagetti"
+        },
+        {
+         "t": "ghiaccio",
+         "tr": "buz",
+         "read": "giaççio"
+        }
+       ]
+      },
+      {
+       "id": "sci",
+       "upper": "sci",
+       "lower": "sce",
+       "name": "pesce",
+       "sound": "ş",
+       "hint": "e, i önünde sc = 'ş'.",
+       "words": [
+        {
+         "t": "pesce",
+         "tr": "balık",
+         "read": "peşe"
+        },
+        {
+         "t": "scienza",
+         "tr": "bilim",
+         "read": "şientsa"
+        }
+       ]
+      },
+      {
+       "id": "sca",
+       "upper": "sca",
+       "lower": "sco · scu",
+       "name": "scuola",
+       "sound": "sk",
+       "hint": "a, o, u önünde sc = 'sk'.",
+       "words": [
+        {
+         "t": "scuola",
+         "tr": "okul",
+         "read": "skuola"
+        },
+        {
+         "t": "scarpa",
+         "tr": "ayakkabı",
+         "read": "skarpa"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l3", "kind": "letters", "title": "Özel harfler", "subtitle": "gli · gn · z · h",
+     "id": "u1l3",
+     "kind": "letters",
+     "title": "Özel harfler",
+     "subtitle": "gli · gn · z · h",
      "intro": "Türkçede tam karşılığı olmayan iki grup ve iki küçük tuzak.",
      "letters": [
-      { "id": "gli", "upper": "gli", "lower": "", "name": "famiglia", "sound": "ly", "hint": "gli = 'ly' tek ses (g okunmaz).", "words": [ { "t": "famiglia", "tr": "aile", "read": "familya" }, { "t": "figlio", "tr": "oğul", "read": "filyo" } ] },
-      { "id": "gn", "upper": "gn", "lower": "", "name": "bagno", "sound": "ny", "hint": "gn = 'ny'.", "words": [ { "t": "bagno", "tr": "banyo", "read": "banyo" }, { "t": "gnocchi", "tr": "nyokki (makarna)", "read": "nyokki" } ] },
-      { "id": "z", "upper": "z", "lower": "", "name": "pizza", "sound": "ts / dz", "hint": "z çoğunlukla 'ts' ya da 'dz' — Türkçe 'z' değil.", "words": [ { "t": "pizza", "tr": "pizza", "read": "pittsa" }, { "t": "zero", "tr": "sıfır", "read": "dzero" } ] },
-      { "id": "h", "upper": "h", "lower": "", "name": "ho", "sound": "okunmaz", "hint": "h tek başına hiç okunmaz.", "words": [ { "t": "ho", "tr": "bende var", "read": "o" }, { "t": "hanno", "tr": "onlarda var", "read": "anno" } ] }
+      {
+       "id": "gli",
+       "upper": "gli",
+       "lower": "",
+       "name": "famiglia",
+       "sound": "ly",
+       "hint": "gli = 'ly' tek ses (g okunmaz).",
+       "words": [
+        {
+         "t": "famiglia",
+         "tr": "aile",
+         "read": "familya"
+        },
+        {
+         "t": "figlio",
+         "tr": "oğul",
+         "read": "filyo"
+        }
+       ]
+      },
+      {
+       "id": "gn",
+       "upper": "gn",
+       "lower": "",
+       "name": "bagno",
+       "sound": "ny",
+       "hint": "gn = 'ny'.",
+       "words": [
+        {
+         "t": "bagno",
+         "tr": "banyo",
+         "read": "banyo"
+        },
+        {
+         "t": "gnocchi",
+         "tr": "nyokki (makarna)",
+         "read": "nyokki"
+        }
+       ]
+      },
+      {
+       "id": "z",
+       "upper": "z",
+       "lower": "",
+       "name": "pizza",
+       "sound": "ts / dz",
+       "hint": "z çoğunlukla 'ts' ya da 'dz' — Türkçe 'z' değil.",
+       "words": [
+        {
+         "t": "pizza",
+         "tr": "pizza",
+         "read": "pittsa"
+        },
+        {
+         "t": "zero",
+         "tr": "sıfır",
+         "read": "dzero"
+        }
+       ]
+      },
+      {
+       "id": "h",
+       "upper": "h",
+       "lower": "",
+       "name": "ho",
+       "sound": "okunmaz",
+       "hint": "h tek başına hiç okunmaz.",
+       "words": [
+        {
+         "t": "ho",
+         "tr": "bende var",
+         "read": "o"
+        },
+        {
+         "t": "hanno",
+         "tr": "onlarda var",
+         "read": "anno"
+        }
+       ]
+      }
      ]
     },
     {
-     "id": "u1l4", "kind": "reading", "title": "Okuma kuralları", "subtitle": "Çift ünsüz ve vurgu",
+     "id": "u1l4",
+     "kind": "reading",
+     "title": "Okuma kuralları",
+     "subtitle": "Çift ünsüz ve vurgu",
      "intro": "İtalyanca yazıldığı gibi okunur. Bu iki kural doğal telaffuzun sırrı.",
      "rules": [
-      { "title": "Çift ünsüzler uzun okunur", "text": "Çift yazılan ünsüz uzatılır ve anlamı değiştirir: nono (dokuzuncu) ≠ nonno (dede).", "examples": [ { "t": "nonno", "tr": "dede", "read": "non-no" }, { "t": "anno", "tr": "yıl", "read": "an-no" }, { "t": "pizza", "tr": "pizza", "read": "pit-tsa" } ] },
-      { "title": "Vurgu çoğunlukla sondan ikinci hecede", "text": "Aksanlı son harf varsa vurgu oradadır: città, perché, caffè.", "examples": [ { "t": "città", "tr": "şehir", "read": "çittá" }, { "t": "perché", "tr": "neden / çünkü", "read": "perké" }, { "t": "caffè", "tr": "kahve", "read": "kaffé" } ] },
-      { "title": "Ünlüler hep net", "text": "İtalyanca ünlüler asla yutulmaz; her ünlüyü tam söyle.", "examples": [ { "t": "grazie", "tr": "teşekkürler", "read": "gratsie" }, { "t": "buongiorno", "tr": "günaydın", "read": "buoncorno" } ] }
+      {
+       "title": "Çift ünsüzler uzun okunur",
+       "text": "Çift yazılan ünsüz uzatılır ve anlamı değiştirir: nono (dokuzuncu) ≠ nonno (dede).",
+       "examples": [
+        {
+         "t": "nonno",
+         "tr": "dede",
+         "read": "non-no"
+        },
+        {
+         "t": "anno",
+         "tr": "yıl",
+         "read": "an-no"
+        },
+        {
+         "t": "pizza",
+         "tr": "pizza",
+         "read": "pit-tsa"
+        }
+       ]
+      },
+      {
+       "title": "Vurgu çoğunlukla sondan ikinci hecede",
+       "text": "Aksanlı son harf varsa vurgu oradadır: città, perché, caffè.",
+       "examples": [
+        {
+         "t": "città",
+         "tr": "şehir",
+         "read": "çittá"
+        },
+        {
+         "t": "perché",
+         "tr": "neden / çünkü",
+         "read": "perké"
+        },
+        {
+         "t": "caffè",
+         "tr": "kahve",
+         "read": "kaffé"
+        }
+       ]
+      },
+      {
+       "title": "Ünlüler hep net",
+       "text": "İtalyanca ünlüler asla yutulmaz; her ünlüyü tam söyle.",
+       "examples": [
+        {
+         "t": "grazie",
+         "tr": "teşekkürler",
+         "read": "gratsie"
+        },
+        {
+         "t": "buongiorno",
+         "tr": "günaydın",
+         "read": "buoncorno"
+        }
+       ]
+      }
      ],
      "words": [
-      { "t": "nonno", "tr": "dede", "read": "non-no" }, { "t": "anno", "tr": "yıl", "read": "an-no" }, { "t": "città", "tr": "şehir", "read": "çittá" },
-      { "t": "perché", "tr": "neden / çünkü", "read": "perké" }, { "t": "caffè", "tr": "kahve", "read": "kaffé" }, { "t": "grazie", "tr": "teşekkürler", "read": "gratsie" },
-      { "t": "buongiorno", "tr": "günaydın", "read": "buoncorno" }, { "t": "prego", "tr": "rica ederim", "read": "prego" }, { "t": "ragazzo", "tr": "genç, oğlan", "read": "ragattso" }, { "t": "bello", "tr": "güzel", "read": "bel-lo" }
+      {
+       "t": "nonno",
+       "tr": "dede",
+       "read": "non-no"
+      },
+      {
+       "t": "anno",
+       "tr": "yıl",
+       "read": "an-no"
+      },
+      {
+       "t": "città",
+       "tr": "şehir",
+       "read": "çittá"
+      },
+      {
+       "t": "perché",
+       "tr": "neden / çünkü",
+       "read": "perké"
+      },
+      {
+       "t": "caffè",
+       "tr": "kahve",
+       "read": "kaffé"
+      },
+      {
+       "t": "grazie",
+       "tr": "teşekkürler",
+       "read": "gratsie"
+      },
+      {
+       "t": "buongiorno",
+       "tr": "günaydın",
+       "read": "buoncorno"
+      },
+      {
+       "t": "prego",
+       "tr": "rica ederim",
+       "read": "prego"
+      },
+      {
+       "t": "ragazzo",
+       "tr": "genç, oğlan",
+       "read": "ragattso"
+      },
+      {
+       "t": "bello",
+       "tr": "güzel",
+       "read": "bel-lo"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u2",
+   "level": "baslangic",
+   "title": "Selamlaşma ve tanışma",
+   "subtitle": "Selam ver, kendini tanıt, soru sor · 5 ders",
+   "lessons": [
+    {
+     "id": "u2l1",
+     "kind": "vocab",
+     "title": "Merhaba ve hoşça kal",
+     "subtitle": "ciao · buongiorno · buonasera …",
+     "intro": "Günün her saati için selamlar ve vedalar.",
+     "v": [
+      [
+       "ciao",
+       "merhaba / hoşça kal",
+       "çao",
+       "👋"
+      ],
+      [
+       "buongiorno",
+       "günaydın",
+       "buoncorno",
+       "🌅"
+      ],
+      [
+       "buonasera",
+       "iyi akşamlar",
+       "buonasera",
+       "🌆"
+      ],
+      [
+       "buonanotte",
+       "iyi geceler",
+       "buonanotte",
+       "🌙"
+      ],
+      [
+       "arrivederci",
+       "görüşmek üzere",
+       "arrivederçi",
+       "✋"
+      ],
+      [
+       "a presto",
+       "yakında görüşürüz",
+       "a presto",
+       "🚪"
+      ],
+      [
+       "salve",
+       "merhaba (resmi)",
+       "salve",
+       "🤝"
+      ]
+     ]
+    },
+    {
+     "id": "u2l2",
+     "kind": "vocab",
+     "title": "Nezaket sözleri",
+     "subtitle": "per favore · grazie · grazie mille …",
+     "intro": "Her gün kullanacağın kibar kelimeler.",
+     "v": [
+      [
+       "per favore",
+       "lütfen",
+       "per favore",
+       "🙏"
+      ],
+      [
+       "grazie",
+       "teşekkürler",
+       "gratsie",
+       "💐"
+      ],
+      [
+       "grazie mille",
+       "çok teşekkürler",
+       "gratsie mille",
+       "🌷"
+      ],
+      [
+       "prego",
+       "rica ederim",
+       "prego",
+       "😊"
+      ],
+      [
+       "scusi",
+       "affedersiniz",
+       "skuzi",
+       "🙇"
+      ],
+      [
+       "mi dispiace",
+       "üzgünüm",
+       "mi dispyaçe",
+       "😔"
+      ],
+      [
+       "certo",
+       "tabii ki",
+       "çerto",
+       "👍"
+      ]
+     ]
+    },
+    {
+     "id": "u2l3",
+     "kind": "vocab",
+     "title": "Tanışma",
+     "subtitle": "mi chiamo … · come ti chiami? · piacere …",
+     "intro": "Adını söyle, nereli olduğunu anlat.",
+     "v": [
+      [
+       "mi chiamo …",
+       "benim adım …",
+       "mi kyamo",
+       "🙋"
+      ],
+      [
+       "come ti chiami?",
+       "adın ne?",
+       "kome ti kyami",
+       "❓"
+      ],
+      [
+       "piacere",
+       "memnun oldum",
+       "pyaçere",
+       "🤝"
+      ],
+      [
+       "come stai?",
+       "nasılsın?",
+       "kome stay",
+       "💬"
+      ],
+      [
+       "sto bene",
+       "iyiyim",
+       "sto bene",
+       "😊"
+      ],
+      [
+       "di dove sei?",
+       "nerelisin?",
+       "di dove sey",
+       "🌍"
+      ],
+      [
+       "sono turco",
+       "Türk'üm",
+       "sono turko",
+       "🇹🇷"
+      ]
+     ]
+    },
+    {
+     "id": "u2l4",
+     "kind": "vocab",
+     "title": "Soru kelimeleri",
+     "subtitle": "che cosa · dove · quando …",
+     "intro": "Konuşmayı başlatan küçük kelimeler.",
+     "v": [
+      [
+       "che cosa",
+       "ne",
+       "ke koza",
+       "❔"
+      ],
+      [
+       "dove",
+       "nerede",
+       "dove",
+       "📍"
+      ],
+      [
+       "quando",
+       "ne zaman",
+       "kuando",
+       "⏰"
+      ],
+      [
+       "perché",
+       "neden",
+       "perké",
+       "🤔"
+      ],
+      [
+       "chi",
+       "kim",
+       "ki",
+       "🧑"
+      ],
+      [
+       "come",
+       "nasıl",
+       "kome"
+      ],
+      [
+       "quanto",
+       "ne kadar",
+       "kuanto",
+       "🏷️"
+      ]
+     ]
+    },
+    {
+     "id": "u2l5",
+     "kind": "vocab",
+     "title": "Zamirler",
+     "subtitle": "io · tu · lui …",
+     "intro": "Ben, sen, o, biz…",
+     "v": [
+      [
+       "io",
+       "ben",
+       "io",
+       "🙋"
+      ],
+      [
+       "tu",
+       "sen",
+       "tu",
+       "👉"
+      ],
+      [
+       "lui",
+       "o (erkek)",
+       "lui",
+       "👨"
+      ],
+      [
+       "lei",
+       "o (kadın)",
+       "ley",
+       "👩"
+      ],
+      [
+       "noi",
+       "biz",
+       "noy",
+       "👫"
+      ],
+      [
+       "voi",
+       "siz",
+       "voy",
+       "🫵"
+      ],
+      [
+       "loro",
+       "onlar",
+       "loro",
+       "👥"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u3",
+   "level": "baslangic",
+   "title": "Sayılar ve zaman",
+   "subtitle": "Saymayı, günleri ve zamanı öğren · 5 ders",
+   "lessons": [
+    {
+     "id": "u3l1",
+     "kind": "vocab",
+     "title": "Sayılar 1–8",
+     "subtitle": "uno · due · tre …",
+     "intro": "Birden sekize kadar.",
+     "v": [
+      [
+       "uno",
+       "bir",
+       "uno",
+       "1️⃣"
+      ],
+      [
+       "due",
+       "iki",
+       "due",
+       "2️⃣"
+      ],
+      [
+       "tre",
+       "üç",
+       "tre",
+       "3️⃣"
+      ],
+      [
+       "quattro",
+       "dört",
+       "kuattro",
+       "4️⃣"
+      ],
+      [
+       "cinque",
+       "beş",
+       "çinkue",
+       "5️⃣"
+      ],
+      [
+       "sei",
+       "altı",
+       "sey",
+       "6️⃣"
+      ],
+      [
+       "sette",
+       "yedi",
+       "sette",
+       "7️⃣"
+      ],
+      [
+       "otto",
+       "sekiz",
+       "otto",
+       "8️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u3l2",
+     "kind": "vocab",
+     "title": "Daha büyük sayılar",
+     "subtitle": "nove · dieci · zero …",
+     "intro": "Dokuzdan bine.",
+     "v": [
+      [
+       "nove",
+       "dokuz",
+       "nove",
+       "9️⃣"
+      ],
+      [
+       "dieci",
+       "on",
+       "dyeçi",
+       "🔟"
+      ],
+      [
+       "zero",
+       "sıfır",
+       "dzero",
+       "0️⃣"
+      ],
+      [
+       "venti",
+       "yirmi",
+       "venti"
+      ],
+      [
+       "cinquanta",
+       "elli",
+       "çinkuanta"
+      ],
+      [
+       "cento",
+       "yüz",
+       "çento",
+       "💯"
+      ],
+      [
+       "mille",
+       "bin",
+       "mille"
+      ]
+     ]
+    },
+    {
+     "id": "u3l3",
+     "kind": "vocab",
+     "title": "Haftanın günleri",
+     "subtitle": "lunedì · martedì · mercoledì …",
+     "intro": "Pazartesiden pazara.",
+     "v": [
+      [
+       "lunedì",
+       "pazartesi",
+       "lunedi",
+       "📅",
+       "m"
+      ],
+      [
+       "martedì",
+       "salı",
+       "martedi",
+       "📅",
+       "m"
+      ],
+      [
+       "mercoledì",
+       "çarşamba",
+       "merkoledi",
+       "📅",
+       "m"
+      ],
+      [
+       "giovedì",
+       "perşembe",
+       "covedi",
+       "📅",
+       "m"
+      ],
+      [
+       "venerdì",
+       "cuma",
+       "venerdi",
+       "🎉",
+       "m"
+      ],
+      [
+       "sabato",
+       "cumartesi",
+       "sabato",
+       "🛋️",
+       "m"
+      ],
+      [
+       "domenica",
+       "pazar",
+       "domenika",
+       "☀️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u3l4",
+     "kind": "vocab",
+     "title": "Zaman kelimeleri",
+     "subtitle": "oggi · ieri · domani …",
+     "intro": "Bugün, dün, şimdi…",
+     "v": [
+      [
+       "oggi",
+       "bugün",
+       "occi",
+       "📆"
+      ],
+      [
+       "ieri",
+       "dün",
+       "yeri",
+       "⏪"
+      ],
+      [
+       "domani",
+       "yarın",
+       "domani",
+       "⏩"
+      ],
+      [
+       "adesso",
+       "şimdi",
+       "adesso",
+       "⏱️"
+      ],
+      [
+       "dopo",
+       "sonra",
+       "dopo"
+      ],
+      [
+       "sempre",
+       "her zaman",
+       "sempre",
+       "♾️"
+      ],
+      [
+       "mai",
+       "asla",
+       "may",
+       "🚫"
+      ]
+     ]
+    },
+    {
+     "id": "u3l5",
+     "kind": "vocab",
+     "title": "Hafta, ay, mevsim",
+     "subtitle": "il minuto · la settimana · il mese …",
+     "intro": "Zaman birimleri ve mevsimler.",
+     "v": [
+      [
+       "il minuto",
+       "dakika",
+       "il minuto",
+       "⏱️",
+       "m"
+      ],
+      [
+       "la settimana",
+       "hafta",
+       "la settimana",
+       "🗓️",
+       "f"
+      ],
+      [
+       "il mese",
+       "ay",
+       "il meze",
+       "🌙",
+       "m"
+      ],
+      [
+       "l'inverno",
+       "kış",
+       "linverno",
+       "❄️",
+       "m"
+      ],
+      [
+       "la primavera",
+       "ilkbahar",
+       "la primavera",
+       "🌷",
+       "f"
+      ],
+      [
+       "l'estate",
+       "yaz",
+       "lestate",
+       "🏖️",
+       "f"
+      ],
+      [
+       "l'autunno",
+       "sonbahar",
+       "lautunno",
+       "🍂",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u4",
+   "level": "baslangic",
+   "title": "Aile ve insanlar",
+   "subtitle": "Ailen, çevren, meslekler ve vücut · 5 ders",
+   "lessons": [
+    {
+     "id": "u4l1",
+     "kind": "vocab",
+     "title": "Aile",
+     "subtitle": "la famiglia · la madre · il padre …",
+     "intro": "Anne, baba, kardeşler…",
+     "v": [
+      [
+       "la famiglia",
+       "aile",
+       "la familya",
+       "👨‍👩‍👧",
+       "f"
+      ],
+      [
+       "la madre",
+       "anne",
+       "la madre",
+       "👩",
+       "f"
+      ],
+      [
+       "il padre",
+       "baba",
+       "il padre",
+       "👨",
+       "m"
+      ],
+      [
+       "il fratello",
+       "erkek kardeş",
+       "il fratello",
+       "👦",
+       "m"
+      ],
+      [
+       "la sorella",
+       "kız kardeş",
+       "la sorella",
+       "👧",
+       "f"
+      ],
+      [
+       "la nonna",
+       "büyükanne",
+       "la nonna",
+       "👵",
+       "f"
+      ],
+      [
+       "il nonno",
+       "büyükbaba",
+       "il nonno",
+       "👴",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u4l2",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "l'uomo · la donna · il bambino …",
+     "intro": "Adam, kadın, çocuk…",
+     "v": [
+      [
+       "l'uomo",
+       "adam",
+       "luomo",
+       "👨",
+       "m"
+      ],
+      [
+       "la donna",
+       "kadın",
+       "la donna",
+       "👩",
+       "f"
+      ],
+      [
+       "il bambino",
+       "çocuk",
+       "il bambino",
+       "🧒",
+       "m"
+      ],
+      [
+       "l'amico",
+       "arkadaş",
+       "lamiko",
+       "🤝",
+       "m"
+      ],
+      [
+       "il vicino",
+       "komşu",
+       "il viçino",
+       "🏘️",
+       "m"
+      ],
+      [
+       "la gente",
+       "insanlar",
+       "la cente",
+       "👥",
+       "f"
+      ],
+      [
+       "il ragazzo",
+       "genç, oğlan",
+       "il ragattso",
+       "🧑",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u4l3",
+     "kind": "vocab",
+     "title": "Meslekler",
+     "subtitle": "il medico · l'insegnante · lo studente …",
+     "intro": "Ne iş yapıyorsun?",
+     "v": [
+      [
+       "il medico",
+       "doktor",
+       "il mediko",
+       "🩺",
+       "m"
+      ],
+      [
+       "l'insegnante",
+       "öğretmen",
+       "linsenyante",
+       "👨‍🏫",
+       "m"
+      ],
+      [
+       "lo studente",
+       "öğrenci",
+       "lo studente",
+       "🎓",
+       "m"
+      ],
+      [
+       "l'ingegnere",
+       "mühendis",
+       "lincenyere",
+       "👷",
+       "m"
+      ],
+      [
+       "l'autista",
+       "şoför",
+       "lautista",
+       "🚗",
+       "m"
+      ],
+      [
+       "il cuoco",
+       "aşçı",
+       "il kuoko",
+       "👨‍🍳",
+       "m"
+      ],
+      [
+       "l'infermiera",
+       "hemşire",
+       "linfermyera",
+       "🩹",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u4l4",
+     "kind": "vocab",
+     "title": "Vücut",
+     "subtitle": "la testa · l'occhio · l'orecchio …",
+     "intro": "Baş, göz, kulak…",
+     "v": [
+      [
+       "la testa",
+       "baş",
+       "la testa",
+       "🗣️",
+       "f"
+      ],
+      [
+       "l'occhio",
+       "göz",
+       "lokkyo",
+       "👁️",
+       "m"
+      ],
+      [
+       "l'orecchio",
+       "kulak",
+       "lorekkyo",
+       "👂",
+       "m"
+      ],
+      [
+       "la mano",
+       "el",
+       "la mano",
+       "✋",
+       "f"
+      ],
+      [
+       "il piede",
+       "ayak",
+       "il pyede",
+       "🦶",
+       "m"
+      ],
+      [
+       "il cuore",
+       "kalp",
+       "il kuore",
+       "❤️",
+       "m"
+      ],
+      [
+       "i capelli",
+       "saç",
+       "i kapelli",
+       "💇"
+      ]
+     ]
+    },
+    {
+     "id": "u4l5",
+     "kind": "vocab",
+     "title": "Temel sıfatlar",
+     "subtitle": "grande · piccolo · buono …",
+     "intro": "Büyük, küçük, iyi, kötü…",
+     "v": [
+      [
+       "grande",
+       "büyük",
+       "grande",
+       "🐘"
+      ],
+      [
+       "piccolo",
+       "küçük",
+       "pikkolo",
+       "🐭"
+      ],
+      [
+       "buono",
+       "iyi",
+       "buono",
+       "👍"
+      ],
+      [
+       "cattivo",
+       "kötü",
+       "kattivo",
+       "👎"
+      ],
+      [
+       "nuovo",
+       "yeni",
+       "nuovo",
+       "✨"
+      ],
+      [
+       "vecchio",
+       "eski, yaşlı",
+       "vekkyo",
+       "🏚️"
+      ],
+      [
+       "bello",
+       "güzel",
+       "bello",
+       "🌹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u5",
+   "level": "baslangic",
+   "title": "Yemek ve renkler",
+   "subtitle": "Ne yiyip içeceğini söyle · 5 ders",
+   "lessons": [
+    {
+     "id": "u5l1",
+     "kind": "vocab",
+     "title": "İçecekler",
+     "subtitle": "l'acqua · il caffè · il tè …",
+     "intro": "Kahve, çay, su…",
+     "v": [
+      [
+       "l'acqua",
+       "su",
+       "lakkua",
+       "💧",
+       "f"
+      ],
+      [
+       "il caffè",
+       "kahve",
+       "il kaffe",
+       "☕",
+       "m"
+      ],
+      [
+       "il tè",
+       "çay",
+       "il te",
+       "🍵",
+       "m"
+      ],
+      [
+       "il latte",
+       "süt",
+       "il latte",
+       "🥛",
+       "m"
+      ],
+      [
+       "il succo",
+       "meyve suyu",
+       "il sukko",
+       "🧃",
+       "m"
+      ],
+      [
+       "la birra",
+       "bira",
+       "la birra",
+       "🍺",
+       "f"
+      ],
+      [
+       "il vino",
+       "şarap",
+       "il vino",
+       "🍷",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l2",
+     "kind": "vocab",
+     "title": "Temel yiyecekler",
+     "subtitle": "il pane · il formaggio · la carne …",
+     "intro": "Ekmek, et, balık…",
+     "v": [
+      [
+       "il pane",
+       "ekmek",
+       "il pane",
+       "🍞",
+       "m"
+      ],
+      [
+       "il formaggio",
+       "peynir",
+       "il formacco",
+       "🧀",
+       "m"
+      ],
+      [
+       "la carne",
+       "et",
+       "la karne",
+       "🥩",
+       "f"
+      ],
+      [
+       "il pesce",
+       "balık",
+       "il peşe",
+       "🐟",
+       "m"
+      ],
+      [
+       "il pollo",
+       "tavuk",
+       "il pollo",
+       "🍗",
+       "m"
+      ],
+      [
+       "l'uovo",
+       "yumurta",
+       "luovo",
+       "🥚",
+       "m"
+      ],
+      [
+       "il riso",
+       "pirinç",
+       "il rizo",
+       "🍚",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l3",
+     "kind": "vocab",
+     "title": "Meyve ve sebze",
+     "subtitle": "la mela · la banana · l'arancia …",
+     "intro": "Elma, patates, domates…",
+     "v": [
+      [
+       "la mela",
+       "elma",
+       "la mela",
+       "🍎",
+       "f"
+      ],
+      [
+       "la banana",
+       "muz",
+       "la banana",
+       "🍌",
+       "f"
+      ],
+      [
+       "l'arancia",
+       "portakal",
+       "laranca",
+       "🍊",
+       "f"
+      ],
+      [
+       "la patata",
+       "patates",
+       "la patata",
+       "🥔",
+       "f"
+      ],
+      [
+       "il pomodoro",
+       "domates",
+       "il pomodoro",
+       "🍅",
+       "m"
+      ],
+      [
+       "la cipolla",
+       "soğan",
+       "la çipolla",
+       "🧅",
+       "f"
+      ],
+      [
+       "il limone",
+       "limon",
+       "il limone",
+       "🍋",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u5l4",
+     "kind": "vocab",
+     "title": "Restoranda",
+     "subtitle": "il menù · il conto, per favore · vorrei … …",
+     "intro": "Sipariş ver, hesabı iste.",
+     "v": [
+      [
+       "il menù",
+       "menü",
+       "il menu",
+       "📋",
+       "m"
+      ],
+      [
+       "il conto, per favore",
+       "hesap, lütfen",
+       "il konto per favore",
+       "🧾"
+      ],
+      [
+       "vorrei …",
+       "… istiyorum",
+       "vorrey",
+       "🙋"
+      ],
+      [
+       "buonissimo",
+       "çok lezzetli",
+       "buonissimo",
+       "😋"
+      ],
+      [
+       "la colazione",
+       "kahvaltı",
+       "la kolatsyone",
+       "🍳",
+       "f"
+      ],
+      [
+       "il pranzo",
+       "öğle yemeği",
+       "il prantso",
+       "🍽️",
+       "m"
+      ],
+      [
+       "la cena",
+       "akşam yemeği",
+       "la çena",
+       "🌙",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u5l5",
+     "kind": "vocab",
+     "title": "Renkler",
+     "subtitle": "rosso · blu · verde …",
+     "intro": "Kırmızı, mavi, yeşil…",
+     "v": [
+      [
+       "rosso",
+       "kırmızı",
+       "rosso",
+       "🔴"
+      ],
+      [
+       "blu",
+       "mavi",
+       "blu",
+       "🔵"
+      ],
+      [
+       "verde",
+       "yeşil",
+       "verde",
+       "🟢"
+      ],
+      [
+       "giallo",
+       "sarı",
+       "callo",
+       "🟡"
+      ],
+      [
+       "bianco",
+       "beyaz",
+       "byanko",
+       "⚪"
+      ],
+      [
+       "nero",
+       "siyah",
+       "nero",
+       "⚫"
+      ],
+      [
+       "grigio",
+       "gri",
+       "gricco",
+       "🩶"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u6",
+   "level": "baslangic",
+   "title": "Şehir ve ev",
+   "subtitle": "Şehirde dolaş, alışveriş yap, evini anlat · 5 ders",
+   "lessons": [
+    {
+     "id": "u6l1",
+     "kind": "vocab",
+     "title": "Şehirde yerler",
+     "subtitle": "il negozio · la farmacia · l'ospedale …",
+     "intro": "Mağaza, eczane, otel…",
+     "v": [
+      [
+       "il negozio",
+       "dükkân",
+       "il negotsyo",
+       "🏪",
+       "m"
+      ],
+      [
+       "la farmacia",
+       "eczane",
+       "la farmaçia",
+       "💊",
+       "f"
+      ],
+      [
+       "l'ospedale",
+       "hastane",
+       "lospedale",
+       "🏥",
+       "m"
+      ],
+      [
+       "l'albergo",
+       "otel",
+       "lalbergo",
+       "🏨",
+       "m"
+      ],
+      [
+       "la stazione",
+       "istasyon",
+       "la statsyone",
+       "🚉",
+       "f"
+      ],
+      [
+       "il ristorante",
+       "restoran",
+       "il ristorante",
+       "🍴",
+       "m"
+      ],
+      [
+       "il museo",
+       "müze",
+       "il muzeo",
+       "🏛️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u6l2",
+     "kind": "vocab",
+     "title": "Ulaşım",
+     "subtitle": "la metropolitana · l'autobus · il taxi …",
+     "intro": "Metro, otobüs, taksi…",
+     "v": [
+      [
+       "la metropolitana",
+       "metro",
+       "la metropolitana",
+       "🚇",
+       "f"
+      ],
+      [
+       "l'autobus",
+       "otobüs",
+       "lautobus",
+       "🚌",
+       "m"
+      ],
+      [
+       "il taxi",
+       "taksi",
+       "il taksi",
+       "🚕",
+       "m"
+      ],
+      [
+       "la macchina",
+       "araba",
+       "la makkina",
+       "🚗",
+       "f"
+      ],
+      [
+       "il treno",
+       "tren",
+       "il treno",
+       "🚆",
+       "m"
+      ],
+      [
+       "l'aereo",
+       "uçak",
+       "laereo",
+       "✈️",
+       "m"
+      ],
+      [
+       "il biglietto",
+       "bilet",
+       "il bilyetto",
+       "🎫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u6l3",
+     "kind": "vocab",
+     "title": "Yol tarifi",
+     "subtitle": "a destra · a sinistra · dritto …",
+     "intro": "Sağa, sola, düz…",
+     "v": [
+      [
+       "a destra",
+       "sağa",
+       "a destra",
+       "➡️"
+      ],
+      [
+       "a sinistra",
+       "sola",
+       "a sinistra",
+       "⬅️"
+      ],
+      [
+       "dritto",
+       "dümdüz",
+       "dritto",
+       "⬆️"
+      ],
+      [
+       "qui",
+       "burada",
+       "kui",
+       "📍"
+      ],
+      [
+       "lì",
+       "orada",
+       "li",
+       "👉"
+      ],
+      [
+       "lontano",
+       "uzak",
+       "lontano",
+       "🗺️"
+      ],
+      [
+       "dov'è il bagno?",
+       "tuvalet nerede?",
+       "dove il banyo",
+       "🚻"
+      ]
+     ]
+    },
+    {
+     "id": "u6l4",
+     "kind": "vocab",
+     "title": "Alışveriş",
+     "subtitle": "quanto costa? · i soldi · economico …",
+     "intro": "Fiyat sor, öde.",
+     "v": [
+      [
+       "quanto costa?",
+       "ne kadar?",
+       "kuanto kosta",
+       "🏷️"
+      ],
+      [
+       "i soldi",
+       "para",
+       "i soldi",
+       "💵"
+      ],
+      [
+       "economico",
+       "ucuz",
+       "ekonomiko",
+       "🤑"
+      ],
+      [
+       "caro",
+       "pahalı",
+       "karo",
+       "💸"
+      ],
+      [
+       "la carta",
+       "kart",
+       "la karta",
+       "💳",
+       "f"
+      ],
+      [
+       "in contanti",
+       "nakit",
+       "in kontanti",
+       "💶"
+      ],
+      [
+       "la cassa",
+       "kasa",
+       "la kassa",
+       "🧾",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u6l5",
+     "kind": "vocab",
+     "title": "Evde",
+     "subtitle": "la casa · la camera · la cucina …",
+     "intro": "Oda, mutfak, kapı…",
+     "v": [
+      [
+       "la casa",
+       "ev",
+       "la kaza",
+       "🏠",
+       "f"
+      ],
+      [
+       "la camera",
+       "oda",
+       "la kamera",
+       "🚪",
+       "f"
+      ],
+      [
+       "la cucina",
+       "mutfak",
+       "la kuçina",
+       "🍳",
+       "f"
+      ],
+      [
+       "la porta",
+       "kapı",
+       "la porta",
+       "🚪",
+       "f"
+      ],
+      [
+       "il letto",
+       "yatak",
+       "il letto",
+       "🛏️",
+       "m"
+      ],
+      [
+       "la sedia",
+       "sandalye",
+       "la sedya",
+       "🪑",
+       "f"
+      ],
+      [
+       "il tavolo",
+       "masa",
+       "il tavolo",
+       "🍽️",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u7",
+   "level": "baslangic",
+   "title": "Temel fiiller",
+   "subtitle": "Her gün kullanacağın fiiller ve kurtarıcı cümleler · 5 ders",
+   "lessons": [
+    {
+     "id": "u7l1",
+     "kind": "vocab",
+     "title": "Günlük fiiller",
+     "subtitle": "mangiare · bere · dormire …",
+     "intro": "Yemek, içmek, uyumak…",
+     "v": [
+      [
+       "mangiare",
+       "yemek",
+       "mancare",
+       "🍽️"
+      ],
+      [
+       "bere",
+       "içmek",
+       "bere",
+       "🥤"
+      ],
+      [
+       "dormire",
+       "uyumak",
+       "dormire",
+       "😴"
+      ],
+      [
+       "abitare",
+       "oturmak (yaşamak)",
+       "abitare",
+       "🏠"
+      ],
+      [
+       "lavorare",
+       "çalışmak",
+       "lavorare",
+       "💼"
+      ],
+      [
+       "riposare",
+       "dinlenmek",
+       "ripozare",
+       "🏖️"
+      ],
+      [
+       "passeggiare",
+       "gezinmek",
+       "passeccare",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u7l2",
+     "kind": "vocab",
+     "title": "Hareket fiilleri",
+     "subtitle": "andare · venire · correre …",
+     "intro": "Gitmek, gelmek, koşmak…",
+     "v": [
+      [
+       "andare",
+       "gitmek",
+       "andare",
+       "➡️"
+      ],
+      [
+       "venire",
+       "gelmek",
+       "venire",
+       "⬅️"
+      ],
+      [
+       "correre",
+       "koşmak",
+       "korrere",
+       "🏃"
+      ],
+      [
+       "sedersi",
+       "oturmak",
+       "sedersi",
+       "🪑"
+      ],
+      [
+       "partire",
+       "yola çıkmak",
+       "partire",
+       "🚪"
+      ],
+      [
+       "volare",
+       "uçmak",
+       "volare",
+       "✈️"
+      ],
+      [
+       "nuotare",
+       "yüzmek",
+       "nuotare",
+       "🏊"
+      ]
+     ]
+    },
+    {
+     "id": "u7l3",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "parlare · capire · sapere …",
+     "intro": "Konuşmak, anlamak, bilmek…",
+     "v": [
+      [
+       "parlare",
+       "konuşmak",
+       "parlare",
+       "🗣️"
+      ],
+      [
+       "capire",
+       "anlamak",
+       "kapire",
+       "💡"
+      ],
+      [
+       "sapere",
+       "bilmek",
+       "sapere",
+       "🧠"
+      ],
+      [
+       "leggere",
+       "okumak",
+       "leccere",
+       "📖"
+      ],
+      [
+       "scrivere",
+       "yazmak",
+       "skrivere",
+       "✍️"
+      ],
+      [
+       "ascoltare",
+       "dinlemek",
+       "askoltare",
+       "🎧"
+      ],
+      [
+       "imparare",
+       "öğrenmek",
+       "imparare",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u7l4",
+     "kind": "vocab",
+     "title": "İstek ve yetenek",
+     "subtitle": "volere · amare · potere …",
+     "intro": "İstemek, sevmek, yapabilmek…",
+     "v": [
+      [
+       "volere",
+       "istemek",
+       "volere",
+       "🙏"
+      ],
+      [
+       "amare",
+       "sevmek",
+       "amare",
+       "❤️"
+      ],
+      [
+       "potere",
+       "yapabilmek",
+       "potere",
+       "💪"
+      ],
+      [
+       "comprare",
+       "satın almak",
+       "komprare",
+       "🛍️"
+      ],
+      [
+       "vedere",
+       "görmek",
+       "vedere",
+       "👀"
+      ],
+      [
+       "fare",
+       "yapmak",
+       "fare",
+       "🛠️"
+      ],
+      [
+       "aiutare",
+       "yardım etmek",
+       "ayutare",
+       "🤝"
+      ]
+     ]
+    },
+    {
+     "id": "u7l5",
+     "kind": "vocab",
+     "title": "Kurtarıcı cümleler",
+     "subtitle": "non capisco · può ripetere? · più piano, per favore …",
+     "intro": "Zor anda hayat kurtaran cümleler.",
+     "v": [
+      [
+       "non capisco",
+       "anlamıyorum",
+       "non kapisko",
+       "😕"
+      ],
+      [
+       "può ripetere?",
+       "tekrar eder misiniz?",
+       "puo ripetere",
+       "🔁"
+      ],
+      [
+       "più piano, per favore",
+       "daha yavaş lütfen",
+       "pyu pyano per favore",
+       "🐢"
+      ],
+      [
+       "non lo so",
+       "bilmiyorum",
+       "non lo so",
+       "🤷"
+      ],
+      [
+       "parlo un po' d'italiano",
+       "biraz İtalyanca konuşuyorum",
+       "parlo un po ditalyano",
+       "🇮🇹"
+      ],
+      [
+       "aiuto!",
+       "imdat!",
+       "ayuto",
+       "🆘"
+      ],
+      [
+       "ti amo",
+       "seni seviyorum",
+       "ti amo",
+       "❤️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u8",
+   "level": "baslangic",
+   "title": "Giyim ve hava",
+   "subtitle": "Giysiler, hava durumu, doğa ve hayvanlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u8l1",
+     "kind": "vocab",
+     "title": "Giysiler",
+     "subtitle": "la camicia · i pantaloni · il vestito …",
+     "intro": "Gömlek, pantolon, ceket…",
+     "v": [
+      [
+       "la camicia",
+       "gömlek",
+       "la kamiça",
+       "👔",
+       "f"
+      ],
+      [
+       "i pantaloni",
+       "pantolon",
+       "i pantaloni",
+       "👖"
+      ],
+      [
+       "il vestito",
+       "elbise",
+       "il vestito",
+       "👗",
+       "m"
+      ],
+      [
+       "la giacca",
+       "ceket",
+       "la cakka",
+       "🧥",
+       "f"
+      ],
+      [
+       "la gonna",
+       "etek",
+       "la gonna",
+       "👗",
+       "f"
+      ],
+      [
+       "la maglietta",
+       "tişört",
+       "la malyetta",
+       "👕",
+       "f"
+      ],
+      [
+       "il maglione",
+       "kazak",
+       "il malyone",
+       "🧶",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u8l2",
+     "kind": "vocab",
+     "title": "Ayakkabı ve aksesuar",
+     "subtitle": "le scarpe · le scarpe da ginnastica · il cappello …",
+     "intro": "Ayakkabı, şapka, çanta…",
+     "v": [
+      [
+       "le scarpe",
+       "ayakkabılar",
+       "le skarpe",
+       "👞"
+      ],
+      [
+       "le scarpe da ginnastica",
+       "spor ayakkabı",
+       "le skarpe da cinnastika",
+       "👟"
+      ],
+      [
+       "il cappello",
+       "şapka",
+       "il kappello",
+       "🧢",
+       "m"
+      ],
+      [
+       "la borsa",
+       "çanta",
+       "la borsa",
+       "👜",
+       "f"
+      ],
+      [
+       "gli occhiali",
+       "gözlük",
+       "li okkyali",
+       "👓"
+      ],
+      [
+       "l'orologio",
+       "saat",
+       "lorolocio",
+       "⌚",
+       "m"
+      ],
+      [
+       "i calzini",
+       "çoraplar",
+       "i kaltsini",
+       "🧦"
+      ]
+     ]
+    },
+    {
+     "id": "u8l3",
+     "kind": "vocab",
+     "title": "Hava durumu",
+     "subtitle": "il tempo · il sole · la pioggia …",
+     "intro": "Güneşli mi, yağmurlu mu?",
+     "v": [
+      [
+       "il tempo",
+       "hava durumu",
+       "il tempo",
+       "🌤️",
+       "m"
+      ],
+      [
+       "il sole",
+       "güneş",
+       "il sole",
+       "☀️",
+       "m"
+      ],
+      [
+       "la pioggia",
+       "yağmur",
+       "la pyocca",
+       "🌧️",
+       "f"
+      ],
+      [
+       "la neve",
+       "kar",
+       "la neve",
+       "❄️",
+       "f"
+      ],
+      [
+       "il vento",
+       "rüzgâr",
+       "il vento",
+       "💨",
+       "m"
+      ],
+      [
+       "fa caldo",
+       "hava sıcak",
+       "fa kaldo",
+       "🥵"
+      ],
+      [
+       "fa freddo",
+       "hava soğuk",
+       "fa freddo",
+       "🥶"
+      ]
+     ]
+    },
+    {
+     "id": "u8l4",
+     "kind": "vocab",
+     "title": "Doğa",
+     "subtitle": "il mare · la montagna · il bosco …",
+     "intro": "Deniz, dağ, orman…",
+     "v": [
+      [
+       "il mare",
+       "deniz",
+       "il mare",
+       "🌊",
+       "m"
+      ],
+      [
+       "la montagna",
+       "dağ",
+       "la montanya",
+       "⛰️",
+       "f"
+      ],
+      [
+       "il bosco",
+       "orman",
+       "il bosko",
+       "🌲",
+       "m"
+      ],
+      [
+       "il fiume",
+       "nehir",
+       "il fyume",
+       "🏞️",
+       "m"
+      ],
+      [
+       "l'albero",
+       "ağaç",
+       "lalbero",
+       "🌳",
+       "m"
+      ],
+      [
+       "il fiore",
+       "çiçek",
+       "il fyore",
+       "🌸",
+       "m"
+      ],
+      [
+       "il cielo",
+       "gökyüzü",
+       "il çelo",
+       "🌌",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u8l5",
+     "kind": "vocab",
+     "title": "Hayvanlar",
+     "subtitle": "il gatto · il cane · l'uccello …",
+     "intro": "Kedi, köpek, kuş…",
+     "v": [
+      [
+       "il gatto",
+       "kedi",
+       "il gatto",
+       "🐈",
+       "m"
+      ],
+      [
+       "il cane",
+       "köpek",
+       "il kane",
+       "🐕",
+       "m"
+      ],
+      [
+       "l'uccello",
+       "kuş",
+       "luççello",
+       "🐦",
+       "m"
+      ],
+      [
+       "il cavallo",
+       "at",
+       "il kavallo",
+       "🐎",
+       "m"
+      ],
+      [
+       "la mucca",
+       "inek",
+       "la mukka",
+       "🐄",
+       "f"
+      ],
+      [
+       "l'orso",
+       "ayı",
+       "lorso",
+       "🐻",
+       "m"
+      ],
+      [
+       "il lupo",
+       "kurt",
+       "il lupo",
+       "🐺",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u9",
+   "level": "baslangic",
+   "title": "Seyahat",
+   "subtitle": "Havalimanı, otel, gezi ve acil durumlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u9l1",
+     "kind": "vocab",
+     "title": "Havalimanında",
+     "subtitle": "l'aeroporto · il passaporto · i bagagli …",
+     "intro": "Pasaport, bagaj, uçuş…",
+     "v": [
+      [
+       "l'aeroporto",
+       "havalimanı",
+       "laeroporto",
+       "🛫",
+       "m"
+      ],
+      [
+       "il passaporto",
+       "pasaport",
+       "il passaporto",
+       "🛂",
+       "m"
+      ],
+      [
+       "i bagagli",
+       "bagaj",
+       "i bagalyi",
+       "🧳"
+      ],
+      [
+       "il volo",
+       "uçuş",
+       "il volo",
+       "✈️",
+       "m"
+      ],
+      [
+       "l'uscita",
+       "çıkış",
+       "luşita",
+       "🚶",
+       "f"
+      ],
+      [
+       "l'entrata",
+       "giriş",
+       "lentrata",
+       "🚪",
+       "f"
+      ],
+      [
+       "la dogana",
+       "gümrük",
+       "la dogana",
+       "🛃",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u9l2",
+     "kind": "vocab",
+     "title": "Otelde",
+     "subtitle": "la prenotazione · la chiave · l'ascensore …",
+     "intro": "Oda, anahtar, rezervasyon…",
+     "v": [
+      [
+       "la prenotazione",
+       "rezervasyon",
+       "la prenotatsyone",
+       "📝",
+       "f"
+      ],
+      [
+       "la chiave",
+       "anahtar",
+       "la kyave",
+       "🔑",
+       "f"
+      ],
+      [
+       "l'ascensore",
+       "asansör",
+       "laşensore",
+       "🛗",
+       "m"
+      ],
+      [
+       "il piano",
+       "kat",
+       "il pyano",
+       "🏢",
+       "m"
+      ],
+      [
+       "la doccia",
+       "duş",
+       "la doçça",
+       "🚿",
+       "f"
+      ],
+      [
+       "l'asciugamano",
+       "havlu",
+       "laşugamano",
+       "🧺",
+       "m"
+      ],
+      [
+       "colazione inclusa",
+       "kahvaltı dahil",
+       "kolatsyone inkluza",
+       "🍳"
+      ]
+     ]
+    },
+    {
+     "id": "u9l3",
+     "kind": "vocab",
+     "title": "Gezerken",
+     "subtitle": "la mappa · la visita guidata · la piazza …",
+     "intro": "Harita, fotoğraf, rehber…",
+     "v": [
+      [
+       "la mappa",
+       "harita",
+       "la mappa",
+       "🗺️",
+       "f"
+      ],
+      [
+       "la visita guidata",
+       "rehberli tur",
+       "la vizita guidata",
+       "🚌",
+       "f"
+      ],
+      [
+       "la piazza",
+       "meydan",
+       "la pyattsa",
+       "🏙️",
+       "f"
+      ],
+      [
+       "la chiesa",
+       "kilise",
+       "la kyeza",
+       "⛪",
+       "f"
+      ],
+      [
+       "il ponte",
+       "köprü",
+       "il ponte",
+       "🌉",
+       "m"
+      ],
+      [
+       "il castello",
+       "şato",
+       "il kastello",
+       "🏰",
+       "m"
+      ],
+      [
+       "il ricordo",
+       "hatıra, hediyelik",
+       "il rikordo",
+       "🎁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u9l4",
+     "kind": "vocab",
+     "title": "Acil durumlar",
+     "subtitle": "la polizia · l'ambulanza · il fuoco …",
+     "intro": "Polis, ambulans, yardım…",
+     "v": [
+      [
+       "la polizia",
+       "polis",
+       "la politsia",
+       "🚓",
+       "f"
+      ],
+      [
+       "l'ambulanza",
+       "ambulans",
+       "lambulantsa",
+       "🚑",
+       "f"
+      ],
+      [
+       "il fuoco",
+       "yangın, ateş",
+       "il fuoko",
+       "🔥",
+       "m"
+      ],
+      [
+       "pericoloso",
+       "tehlikeli",
+       "perikolozo",
+       "⚠️"
+      ],
+      [
+       "mi sento male",
+       "kendimi kötü hissediyorum",
+       "mi sento male",
+       "🤢"
+      ],
+      [
+       "mi sono perso",
+       "kayboldum",
+       "mi sono perso",
+       "🧭"
+      ],
+      [
+       "chiamate un medico!",
+       "doktor çağırın!",
+       "kyamate un mediko",
+       "📞"
+      ]
+     ]
+    },
+    {
+     "id": "u9l5",
+     "kind": "vocab",
+     "title": "Tatil",
+     "subtitle": "le vacanze · la spiaggia · la valigia …",
+     "intro": "Plaj, deniz, dinlenme…",
+     "v": [
+      [
+       "le vacanze",
+       "tatil",
+       "le vakantse",
+       "🏝️"
+      ],
+      [
+       "la spiaggia",
+       "plaj",
+       "la spyacca",
+       "🏖️",
+       "f"
+      ],
+      [
+       "la valigia",
+       "valiz",
+       "la valica",
+       "🧳",
+       "f"
+      ],
+      [
+       "il viaggio",
+       "seyahat",
+       "il vyacco",
+       "🧭",
+       "m"
+      ],
+      [
+       "fare una foto",
+       "fotoğraf çekmek",
+       "fare una foto",
+       "📸"
+      ],
+      [
+       "il visto",
+       "vize",
+       "il visto",
+       "📄",
+       "m"
+      ],
+      [
+       "gli occhiali da sole",
+       "güneş gözlüğü",
+       "li okkyali da sole",
+       "🕶️"
+      ]
      ]
     }
    ]
   }
  ],
  "upcoming": [
-  { "level": "baslangic", "title": "Selamlaşma ve tanışma" }, { "level": "baslangic", "title": "Sayılar ve zaman" }, { "level": "baslangic", "title": "Artikeller: il, la, i, le" }, { "level": "baslangic", "title": "Şimdiki zaman fiilleri" }, { "level": "baslangic", "title": "Restoran ve alışveriş" },
-  { "level": "orta", "title": "Passato prossimo" }, { "level": "orta", "title": "Imperfetto" }, { "level": "orta", "title": "Futuro ve condizionale" }, { "level": "orta", "title": "Zamirler" }, { "level": "orta", "title": "Günlük diyaloglar" },
-  { "level": "yuksek", "title": "Congiuntivo" }, { "level": "yuksek", "title": "Dolaylı anlatım" }, { "level": "yuksek", "title": "Metin okuma ve anlama" }, { "level": "yuksek", "title": "Serbest konuşma" }
+  {
+   "level": "baslangic",
+   "title": "Artikeller: il, la, i, le"
+  },
+  {
+   "level": "orta",
+   "title": "Passato prossimo"
+  },
+  {
+   "level": "orta",
+   "title": "Imperfetto"
+  },
+  {
+   "level": "orta",
+   "title": "Futuro ve condizionale"
+  },
+  {
+   "level": "orta",
+   "title": "Zamirler"
+  },
+  {
+   "level": "orta",
+   "title": "Günlük diyaloglar"
+  },
+  {
+   "level": "yuksek",
+   "title": "Congiuntivo"
+  },
+  {
+   "level": "yuksek",
+   "title": "Dolaylı anlatım"
+  },
+  {
+   "level": "yuksek",
+   "title": "Metin okuma ve anlama"
+  },
+  {
+   "level": "yuksek",
+   "title": "Serbest konuşma"
+  }
  ],
  "quotes": [
-  { "t": "Chi va piano va sano e va lontano.", "tr": "Yavaş giden sağlam ve uzağa gider." },
-  { "t": "Meglio tardi che mai.", "tr": "Geç olsun da güç olmasın." },
-  { "t": "Volere è potere.", "tr": "İstemek başarmaktır." },
-  { "t": "Sbagliando s'impara.", "tr": "Hata yaparak öğrenilir." },
-  { "t": "Roma non fu fatta in un giorno.", "tr": "Roma bir günde kurulmadı." },
-  { "t": "Chi cerca trova.", "tr": "Arayan bulur." },
-  { "t": "L'appetito vien mangiando.", "tr": "İştah yedikçe açılır." }
+  {
+   "t": "Chi va piano va sano e va lontano.",
+   "tr": "Yavaş giden sağlam ve uzağa gider."
+  },
+  {
+   "t": "Meglio tardi che mai.",
+   "tr": "Geç olsun da güç olmasın."
+  },
+  {
+   "t": "Volere è potere.",
+   "tr": "İstemek başarmaktır."
+  },
+  {
+   "t": "Sbagliando s'impara.",
+   "tr": "Hata yaparak öğrenilir."
+  },
+  {
+   "t": "Roma non fu fatta in un giorno.",
+   "tr": "Roma bir günde kurulmadı."
+  },
+  {
+   "t": "Chi cerca trova.",
+   "tr": "Arayan bulur."
+  },
+  {
+   "t": "L'appetito vien mangiando.",
+   "tr": "İştah yedikçe açılır."
+  }
  ]
 }
