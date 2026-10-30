@@ -10,7 +10,6 @@ export const WHATS_NEW: string[] = [
   'Yazma ve dikte: dilin kendi klavyesiyle (Kiril, ä ö ü ß, é è ç…) duyduğunu yaz',
   'Sözlük ve fiil çekim tabloları (Tekrar sekmesi)',
   '20 rozet, PDF ilerleme raporu ve Android ana ekran widget\'ı',
-  'Bulut yedek: e-postayla giriş, her dersten sonra otomatik yedek',
   'Uygulama boyutu küçüldü: sesler sıkıştırıldı, yavaş dinleme artık aynı kayıttan',
   'Dil başına 1.500+ kelime/ifade',
 ];

@@ -11,7 +11,6 @@ import { WHATS_NEW, markWhatsNewSeen, shouldShowWhatsNew } from './src/meta';
 import { dueItems, today } from './src/progress';
 import { langMeta } from './src/course';
 import { Badge, earned } from './src/badges';
-import { scheduleAutoBackup } from './src/cloud';
 import { updateWidget } from './src/widget/update';
 import ProfileScreen from './src/screens/ProfileScreen';
 import HomeScreen from './src/screens/HomeScreen';
@@ -39,7 +38,7 @@ export type Route =
   | { name: 'dict' };
 
 function Root() {
-  const { ready, profile, settings, progress, course, exportBackup, updateSettings } = useApp();
+  const { ready, profile, settings, progress, course, updateSettings } = useApp();
   const [newBadges, setNewBadges] = useState<Badge[]>([]);
   const scheme = useColorScheme() === 'light' ? 'light' : 'dark';
   const [route, setRoute] = useState<Route>({ name: 'home' });
@@ -69,7 +68,7 @@ function Root() {
     scheduleReminders(settings, { due: dueItems(progress).length, learnedThisWeek, langName: langMeta(settings.lang).name });
   }, [profile?.id, settings.reminder, settings.quiet, settings.weekly, settings.lang, progress.updatedAt]);
 
-  // home-screen widget, automatic cloud backup, new badges
+  // home-screen widget, new badges
   useEffect(() => {
     if (!profile || !ready) return;
     const dayN = Math.floor(Date.now() / 86400000);
@@ -77,7 +76,6 @@ function Root() {
     const pool = learned.length ? learned : Object.keys(course.words).slice(0, 30);
     const w = course.words[pool[dayN % Math.max(1, pool.length)]];
     updateWidget({ streak: progress.streak.count, due: dueItems(progress).length, flag: langMeta(settings.lang).flag, word: w ? { t: w.t, tr: w.tr } : undefined, name: profile.name });
-    scheduleAutoBackup(exportBackup);
     const got = earned(progress, profile.xpTotal, settings.started.length);
     const fresh = got.filter((b) => !settings.badgesSeen.includes(`${settings.lang}:${b.id}`));
     if (fresh.length) {

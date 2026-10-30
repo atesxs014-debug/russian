@@ -18,7 +18,7 @@ Her zaman en son sürüm:
 
 ## Android imza anahtarı
 
-Repo → Settings → Secrets and variables → Actions → `ANDROID_KEYSTORE_B64`. Tanımlıysa her APK aynı anahtarla imzalanır ve güncellemeler ilerleme silinmeden üstüne kurulur.
+APK'lar Expo'nun standart anahtarıyla imzalanır; böylece her güncelleme telefondaki uygulamanın üstüne, veriler silinmeden kurulur.
 
 ## İçerik
 
@@ -26,12 +26,6 @@ Repo → Settings → Secrets and variables → Actions → `ANDROID_KEYSTORE_B6
 - Dilbilgisi, diyalog ve okuma: `content/grammar/<dil>.txt` → `python3 scripts/build_grammar.py` → `src/data/grammar/<dil>.json` (CI ikisinin uyumlu olduğunu kontrol eder).
 - Fiil çekimleri: `src/data/conj.json`.
 - Sesler CI'da üretilir (edge-tts, diyaloglarda erkek sesi), mono 32 kbps'e sıkıştırılır; yavaş dinleme aynı kayıttan yapılır.
-
-## Bulut yedek (Supabase)
-
-1. Supabase → SQL Editor → `supabase/schema.sql` içeriğini çalıştır.
-2. Authentication → Providers → Email açık olsun (istersen "Confirm email" kapat).
-3. Project Settings → API'deki URL ve `anon` anahtarını `src/cloudConfig.ts` içine yaz.
 
 ## Yol haritası
 
@@ -41,5 +35,4 @@ Repo → Settings → Secrets and variables → Actions → `ANDROID_KEYSTORE_B6
 4. ✅ Lavanta teması, sekmeli sade düzen
 5. ✅ Orta: dilbilgisi üniteleri + diyaloglar; Yüksek: ileri dilbilgisi, okuma, serbest konuşma (arayüz hedef dilde)
 6. ✅ Yazma/dikte (dil klavyesi), sözlük, fiil çekimleri, rozetler, PDF rapor, Android widget
-7. ✅ Supabase bulut yedek (proje anahtarı girilince açılır)
 8. iOS widget (imzasız IPA'da uygulama grubu gerektiği için şimdilik yok)

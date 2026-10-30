@@ -90,16 +90,9 @@ jobs:
           } > "$RUNNER_TEMP/diag.log" 2>&1
           python3 scripts/ci_annotate.py "$RUNNER_TEMP/diag.log" warning Diag '.'
       - run: npx expo prebuild --platform android --no-install
-      - name: Sabit imza anahtarı (güncellemeler veri silmeden kurulsun)
-        env:
-          KS: ${{ secrets.ANDROID_KEYSTORE_B64 }}
-        run: |
-          if [ -n "$KS" ]; then
-            echo "$KS" | base64 -d > android/app/debug.keystore
-            echo "Kalıcı imza anahtarı kullanılıyor"
-          else
-            echo "::warning::ANDROID_KEYSTORE_B64 secret yok — geçici anahtar kullanılıyor"
-          fi
+      - name: İmza anahtarı
+        # Telefondaki sürümler Expo'nun standart anahtarıyla imzalı; güncellemenin üstüne kurulması için aynısı kullanılıyor.
+        run: echo "Expo standart imza anahtarı kullanılıyor (önceki sürümlerle aynı)"
       - name: Gradle build
         working-directory: android
         run: |
