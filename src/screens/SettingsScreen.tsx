@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Alert, Modal, Platform, Pressable, ScrollView, Share, View } from 'react-native';
+import React, { useEffect, useState } from 'react';
+import { Alert, Linking, Modal, Platform, Pressable, ScrollView, Share, View } from 'react-native';
 import { Text, TextInput } from '../Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
@@ -8,6 +8,10 @@ import { langMeta } from '../course';
 import { masteredCount } from '../progress';
 import { ensurePermission } from '../notify';
 import { BUILD } from '../buildInfo';
+import { LATEST_URL } from '../meta';
+import { BADGES, earned } from '../badges';
+import { shareReport } from '../report';
+import { Session, cloudConfigured, lastPush, loadSession, pullBackup, pushBackup, signIn, signOut } from '../cloud';
 import AvatarPicker from '../components/AvatarPicker';
 import { Button, FRAMES, IconBtn, Segmented, Stepper, Toggle } from '../ui';
 import { ACCENTS, C, R, fs, themed } from '../theme';
@@ -49,6 +53,11 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
           <Button title="Adı kaydet" kind="ghost" disabled={!name.trim() || name === profile.name} onPress={() => updateProfile({ name: name.trim() })} style={{ marginTop: 10 }} />
           <Button title="Profil değiştir" kind="ghost" icon="people" onPress={() => selectProfile(null)} style={{ marginTop: 10 }} />
         </View>
+
+        <BadgeGrid />
+
+        <Text style={st.section}>BULUT YEDEK</Text>
+        <CloudCard exportBackup={exportBackup} importBackup={importBackup} />
 
         <Text style={st.section}>GÖRÜNÜM</Text>
         <View style={st.card}>
@@ -117,7 +126,7 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
             value={settings.grammarMode}
             onChange={(v) => updateSettings({ grammarMode: v })}
           />
-          <Text style={st.note}>Dilbilgisi üniteleri geldiğinde bu seçime göre gösterilecek.</Text>
+          <Text style={st.note}>{settings.grammarMode === 'embedded' ? 'Dilbilgisi üniteleri kelime üniteleri arasında, sırası gelince zorunlu.' : 'Dilbilgisi üniteleri isteğe bağlı; kelime ünitelerini beklemeden ilerlersin.'}</Text>
         </View>
 
         <Text style={st.section}>BİLDİRİMLER</Text>
@@ -189,6 +198,17 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
           <Text style={st.p}>Bu dilde XP: {progress.xp} · toplam XP: {xp}</Text>
         </View>
 
+        <Button
+          title="İlerleme raporu (PDF)"
+          kind="ghost"
+          icon="document-text-outline"
+          onPress={async () => {
+            const ok = await shareReport(await exportBackup());
+            if (!ok) Alert.alert('Olmadı', 'Rapor oluşturulamadı.');
+          }}
+          style={{ marginTop: 12 }}
+        />
+
         <Text style={st.section}>TEHLİKELİ BÖLGE</Text>
         <View style={st.card}>
           <Button title={`${lang.name} ilerlemesini sıfırla`} kind="ghost" onPress={() => { setResetText(''); setResetOpen(true); }} />
@@ -204,6 +224,7 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
             style={{ marginTop: 10 }}
           />
         </View>
+        <Button title="En son sürümü indir" kind="ghost" icon="cloud-download-outline" onPress={() => Linking.openURL(LATEST_URL()).catch(() => {})} style={{ marginTop: 18 }} />
         <Text style={st.ver}>Voxa · sürüm {BUILD || 'geliştirme'}</Text>
       </ScrollView>
 
@@ -231,6 +252,130 @@ export default function SettingsScreen({ onClose }: { onClose?: () => void }) {
   );
 }
 
+function BadgeGrid() {
+  const { progress, profile, settings } = useApp();
+  const got = new Set(earned(progress, profile?.xpTotal ?? 0, settings.started.length).map((b) => b.id));
+  return (
+    <>
+      <Text style={st.section}>ROZETLER · {got.size}/{BADGES.length}</Text>
+      <View style={[st.card, st.badges]}>
+        {BADGES.map((b) => {
+          const on = got.has(b.id);
+          return (
+            <Pressable key={b.id} onPress={() => Alert.alert(`${b.icon} ${b.title}`, on ? `Kazandın! (${b.desc})` : `Nasıl kazanılır: ${b.desc}`)} style={st.badge}>
+              <Text style={[st.badgeIcon, !on && { opacity: 0.18 }]}>{b.icon}</Text>
+              <Text style={[st.badgeText, !on && { color: C.dim }]} numberOfLines={1}>
+                {b.title}
+              </Text>
+            </Pressable>
+          );
+        })}
+      </View>
+    </>
+  );
+}
+
+/** Supabase backup: sign in once, then every lesson is backed up automatically. */
+function CloudCard({ exportBackup, importBackup }: { exportBackup: () => Promise<string>; importBackup: (j: string) => Promise<boolean> }) {
+  const [session, setSession] = useState<Session | null>(null);
+  const [email, setEmail] = useState('');
+  const [pass, setPass] = useState('');
+  const [busy, setBusy] = useState(false);
+  const [last, setLast] = useState<string | null>(null);
+
+  useEffect(() => {
+    loadSession().then(setSession);
+    lastPush().then(setLast);
+  }, []);
+
+  if (!cloudConfigured())
+    return (
+      <View style={st.card}>
+        <Text style={st.p}>Bulut yedek bu sürümde henüz ayarlanmadı. Bir sonraki güncellemeyle gelecek.</Text>
+      </View>
+    );
+
+  const fmt = (iso: string | null) => (iso ? new Date(iso).toLocaleString('tr-TR', { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' }) : 'henüz yok');
+
+  async function login() {
+    setBusy(true);
+    try {
+      const s = await signIn(email, pass);
+      setSession(s);
+      setPass('');
+      const remote = await pullBackup().catch(() => null);
+      if (remote) {
+        Alert.alert('Bulutta yedek var', `${fmt(remote.updatedAt)} tarihli yedek bulundu. Bu telefona yüklensin mi?`, [
+          { text: 'Hayır, buradakini yedekle', onPress: async () => setLast(await pushBackup(await exportBackup())) },
+          {
+            text: 'Yükle',
+            onPress: async () => {
+              const ok = await importBackup(remote.json);
+              Alert.alert(ok ? 'Yüklendi' : 'Olmadı', ok ? 'İlerlemen geri geldi.' : 'Yedek okunamadı.');
+            },
+          },
+        ]);
+      } else {
+        setLast(await pushBackup(await exportBackup()));
+      }
+    } catch (e) {
+      Alert.alert('Giriş olmadı', (e as Error).message);
+    }
+    setBusy(false);
+  }
+
+  if (!session)
+    return (
+      <View style={st.card}>
+        <Text style={st.p}>E-postanla bir kez giriş yap: ilerlemen her dersten sonra otomatik olarak buluta yedeklenir. Uygulamayı silip yüklesen de geri gelir.</Text>
+        <TextInput value={email} onChangeText={setEmail} placeholder="E-posta" placeholderTextColor={C.dim} autoCapitalize="none" keyboardType="email-address" autoCorrect={false} style={[st.input, { marginTop: 12 }]} />
+        <TextInput value={pass} onChangeText={setPass} placeholder="Şifre (en az 6 karakter)" placeholderTextColor={C.dim} secureTextEntry style={[st.input, { marginTop: 8 }]} />
+        <Button title="Giriş yap / hesap oluştur" icon="cloud-upload-outline" loading={busy} disabled={!/.+@.+\..+/.test(email) || pass.length < 6} onPress={login} style={{ marginTop: 12 }} />
+      </View>
+    );
+
+  return (
+    <View style={st.card}>
+      <Text style={st.label}>{session.user.email}</Text>
+      <Text style={st.p}>Son yedek: {fmt(last)} · her dersten sonra otomatik</Text>
+      <Button
+        title="Şimdi yedekle"
+        icon="cloud-upload-outline"
+        loading={busy}
+        onPress={async () => {
+          setBusy(true);
+          try {
+            setLast(await pushBackup(await exportBackup()));
+          } catch (e) {
+            Alert.alert('Yedeklenemedi', (e as Error).message);
+          }
+          setBusy(false);
+        }}
+        style={{ marginTop: 12 }}
+      />
+      <Button
+        title="Buluttan geri yükle"
+        kind="ghost"
+        icon="cloud-download-outline"
+        onPress={async () => {
+          try {
+            const r = await pullBackup();
+            if (!r) return Alert.alert('Yedek yok', 'Bulutta henüz yedeğin yok.');
+            Alert.alert('Geri yüklensin mi?', `${fmt(r.updatedAt)} tarihli yedek bu telefondaki ilerlemenin yerine geçecek.`, [
+              { text: 'Vazgeç', style: 'cancel' },
+              { text: 'Yükle', onPress: async () => Alert.alert((await importBackup(r.json)) ? 'Yüklendi' : 'Olmadı') },
+            ]);
+          } catch (e) {
+            Alert.alert('Olmadı', (e as Error).message);
+          }
+        }}
+        style={{ marginTop: 10 }}
+      />
+      <Button title="Çıkış yap" kind="ghost" onPress={async () => { await signOut(); setSession(null); }} style={{ marginTop: 10 }} />
+    </View>
+  );
+}
+
 const st = themed(() => ({
   top: { flexDirection: 'row', alignItems: 'center', paddingRight: 14 },
   title: { color: C.text, fontSize: fs(22), fontWeight: '900', marginLeft: 8 },
@@ -248,4 +393,8 @@ const st = themed(() => ({
   backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'center', padding: 24 },
   dialog: { backgroundColor: C.bg, borderRadius: R.lg, padding: 20, maxWidth: 440, width: '100%', alignSelf: 'center' },
   dTitle: { color: C.text, fontSize: fs(22), fontWeight: '900', marginBottom: 8 },
+  badges: { flexDirection: 'row', flexWrap: 'wrap', gap: 6 },
+  badge: { width: 72, alignItems: 'center', paddingVertical: 6 },
+  badgeIcon: { fontSize: fs(30) },
+  badgeText: { color: C.text, fontSize: fs(10), fontWeight: '700', marginTop: 2 },
 }));

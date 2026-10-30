@@ -1,6 +1,6 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import React, { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState } from 'react';
-import { Course, LangCode, getCourse } from './course';
+import { Course, LangCode, getCourse, setGrammarMode } from './course';
 import { Progress, emptyProgress } from './progress';
 
 export type Avatar = { kind: 'initial' | 'emoji' | 'photo'; value?: string; color: string };
@@ -18,6 +18,8 @@ export type Settings = {
   reminder: { on: boolean; hour: number; minute: number };
   quiet: { on: boolean; from: number; to: number };
   weekly: boolean;
+  /** Badges already celebrated, as `${lang}:${id}`. */
+  badgesSeen: string[];
 };
 
 export const DEFAULT_SETTINGS: Settings = {
@@ -33,6 +35,7 @@ export const DEFAULT_SETTINGS: Settings = {
   reminder: { on: true, hour: 20, minute: 0 },
   quiet: { on: true, from: 23, to: 8 },
   weekly: true,
+  badgesSeen: [],
 };
 
 export type Profile = { id: string; name: string; createdAt: string; avatar: Avatar; settings: Settings; xpTotal: number };
@@ -92,6 +95,7 @@ export function AppProvider({ children }: { children: React.ReactNode }) {
 
   const profile = useMemo(() => doc.list.find((p) => p.id === doc.activeId) ?? null, [doc]);
   const settings = profile?.settings ?? DEFAULT_SETTINGS;
+  setGrammarMode(settings.grammarMode);
   const course = useMemo(() => getCourse(settings.lang), [settings.lang]);
 
   const persistDoc = useCallback(async (d: ProfilesDoc) => {

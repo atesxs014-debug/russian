@@ -1,0 +1,354 @@
+# Almanca — orta seviye dilbilgisi, diyaloglar ve yüksek seviye
+== g1|orta|grammar|u21|Artikeller ve Akkusativ|der, die, das ve nesne hâli
+-- grammar|der, die, das|Her ismin bir cinsiyeti ve artikeli var.
+R Belirli artikel|Eril: der Tisch, dişil: die Lampe, nötr: das Buch. Çoğul hep: die Bücher.
+E Der Tisch ist groß.|Masa büyük.
+E Das Buch ist interessant.|Kitap ilginç.
+R Belirsiz artikel|Eril/nötr: ein, dişil: eine. Olumsuz: kein / keine.
+E Das ist eine Lampe.|Bu bir lamba.
+E Ich habe kein Auto.|Arabam yok.
+Q ___ Sonne scheint.|Die|Der;Das;Den|Güneş parlıyor.|Sonne dişil → die
+Q ___ Kind spielt im Garten.|Das|Der;Die;Den|Çocuk bahçede oynuyor.|Kind nötr → das
+Q ___ Mann heißt Peter.|Der|Die;Das;Dem|Adamın adı Peter.|Mann eril → der
+Q Das ist ___ Katze.|eine|ein;einen;einem|Bu bir kedi.|dişil → eine
+Q Ich habe ___ Zeit.|keine|kein;nicht;keinen|Vaktim yok.|Zeit dişil → keine
+Q Die ___ sind neu.|Bücher|Buch;Buches;Büchern|Kitaplar yeni.|çoğul: die Bücher
+-- grammar|Akkusativ|Fiilin doğrudan nesnesi: sadece eril artikel değişir.
+R der → den, ein → einen|Ich sehe den Mann. Ich kaufe einen Apfel. (die, das değişmez)
+E Ich sehe den Hund.|Köpeği görüyorum.
+E Er kauft einen Kaffee.|O bir kahve alıyor.
+R Zamirler: mich, dich, ihn|ich → mich, du → dich, er → ihn, sie → sie, wir → uns.
+E Ich liebe dich.|Seni seviyorum.
+E Kennst du ihn?|Onu tanıyor musun?
+Q Ich trinke ___ Tee.|den|der;dem;des|Çayı içiyorum.|eril Akkusativ → den
+Q Wir haben ___ Hund.|einen|ein;eine;einem|Bir köpeğimiz var.|eril → einen
+Q Sie liest ___ Zeitung.|die|den;der;dem|O gazete okuyor.|dişil değişmez
+Q Ich rufe ___ morgen an.|dich|du;dir;dein|Seni yarın ararım.|du → dich
+Q Kennst du ___ Lehrer?|den|der;dem;des|Öğretmeni tanıyor musun?|eril → den
+Q Siehst du das Auto? Ja, ich sehe ___.|es|ihn;ihm;sie es|Arabayı görüyor musun? Evet, onu görüyorum.|das → es
+-- grammar|Akkusativ edatları|für, ohne, durch, gegen, um hep Akkusativ ister.
+R für, ohne|für (için), ohne (-sız): für den Freund, ohne einen Schirm.
+E Das Geschenk ist für dich.|Hediye senin için.
+E Ich trinke Kaffee ohne Zucker.|Kahveyi şekersiz içerim.
+R durch, gegen, um|durch (içinden), gegen (karşı), um (etrafında, saatte): um acht Uhr.
+E Wir gehen durch den Park.|Parkın içinden geçiyoruz.
+E Der Film beginnt um acht Uhr.|Film saat sekizde başlıyor.
+Q Das ist für ___ Bruder.|meinen|mein;meinem;meiner|Bu erkek kardeşim için.|für + Akkusativ
+Q Er geht ohne ___ Jacke.|seine|seiner;seinen;seinem|Ceketsiz gidiyor.|Jacke dişil → seine
+Q Wir fahren durch ___ Stadt.|die|der;dem;den|Şehrin içinden geçiyoruz.|dişil değişmez
+Q Der Kurs beginnt ___ neun Uhr.|um|am;im;für|Kurs saat dokuzda başlıyor.|saat → um
+Q Ich bin gegen ___ Plan.|den|der;dem;des|Bu plana karşıyım.|gegen + Akkusativ
+Q Wir sitzen um ___ Tisch.|den|der;dem;die|Masanın etrafında oturuyoruz.|um + Akkusativ
+
+== g2|orta|grammar|u25|Dativ ve edatlar|kime, nerede: mit, bei, in, auf
+-- grammar|Dativ|"Kime?" sorusu: dolaylı nesne.
+R dem / der / dem / den -n|Eril/nötr: dem, dişil: der, çoğul: den + -n. Ich gebe dem Kind ein Buch.
+E Ich helfe dem Mann.|Adama yardım ediyorum.
+E Sie schreibt der Freundin.|Kız arkadaşına yazıyor.
+R Zamirler: mir, dir, ihm, ihr|ich → mir, du → dir, er → ihm, sie → ihr, wir → uns.
+E Das gefällt mir.|Bu hoşuma gidiyor.
+E Wie geht es dir?|Nasılsın? (sana nasıl gidiyor)
+Q Ich gebe ___ Lehrerin das Heft.|der|die;den;dem|Defteri öğretmene veriyorum.|dişil Dativ → der
+Q Er hilft ___ Vater.|dem|den;der;des|Babasına yardım ediyor.|eril Dativ → dem
+Q Das Buch gehört ___.|mir|mich;ich;mein|Kitap benim.|gehören + Dativ
+Q Wie geht es ___?|Ihnen|Sie;Ihr;Ihre|Nasılsınız?|Sie → Ihnen
+Q Ich danke ___.|dir|dich;du;dein|Sana teşekkür ederim.|danken + Dativ
+Q Wir schenken ___ Kindern Spielzeug.|den|die;der;dem|Çocuklara oyuncak hediye ediyoruz.|çoğul Dativ → den + -n
+-- grammar|Dativ edatları|mit, bei, nach, von, zu, aus, seit hep Dativ ister.
+R mit, bei, zu|mit (ile), bei (-in yanında), zu (-e doğru): mit dem Bus, zum Arzt.
+E Ich fahre mit dem Zug.|Trenle gidiyorum.
+E Ich gehe zum Arzt.|Doktora gidiyorum.
+R aus, von, nach, seit|aus (-den), von (-den), nach (sonra, -e (şehir/ülke)), seit (-den beri).
+E Ich komme aus der Türkei.|Türkiye'denim.
+E Ich lerne seit einem Jahr Deutsch.|Bir yıldır Almanca öğreniyorum.
+Q Ich fahre mit ___ Fahrrad.|dem|das;den;der|Bisikletle gidiyorum.|mit + Dativ, nötr → dem
+Q Sie wohnt bei ___ Eltern.|ihren|ihre;ihrer;ihrem|Ailesinin yanında oturuyor.|çoğul Dativ → ihren
+Q Nach ___ Essen trinke ich Tee.|dem|das;den;der|Yemekten sonra çay içerim.|nach + Dativ
+Q Er kommt aus ___ Schweiz.|der|die;dem;den|O İsviçre'den.|dişil Dativ → der
+Q Ich gehe ___ Bäckerei.|zur|zum;in;nach|Fırına gidiyorum.|zu + der = zur
+Q Ich warte seit ___ Stunde.|einer|eine;einem;einen|Bir saattir bekliyorum.|seit + Dativ, dişil
+-- grammar|Wo? ve Wohin?|in, auf, an: yerde Dativ, yöne doğru Akkusativ.
+R Wo? → Dativ|Bir yerde olmak: Ich bin im Park. Das Buch liegt auf dem Tisch.
+E Ich bin in der Küche.|Mutfaktayım.
+E Das Bild hängt an der Wand.|Resim duvarda asılı.
+R Wohin? → Akkusativ|Bir yere gitmek/koymak: Ich gehe in den Park. Ich lege das Buch auf den Tisch.
+E Ich gehe in die Küche.|Mutfağa gidiyorum.
+E Ich hänge das Bild an die Wand.|Resmi duvara asıyorum.
+Q Die Katze schläft auf ___ Sofa.|dem|das;den;der|Kedi kanepede uyuyor.|Wo? → Dativ
+Q Ich lege das Handy auf ___ Tisch.|den|dem;der;des|Telefonu masaya koyuyorum.|Wohin? → Akkusativ
+Q Wir gehen heute in ___ Kino.|das|dem;den;der|Bugün sinemaya gidiyoruz.|Wohin? → Akkusativ
+Q Sie arbeitet in ___ Bank.|einer|eine;einen;einem|O bir bankada çalışıyor.|Wo? → Dativ, dişil
+Q Ich stelle die Blumen auf ___ Fensterbank.|die|der;dem;den|Çiçekleri pencere kenarına koyuyorum.|Wohin? → Akkusativ
+Q Das Auto steht vor ___ Haus.|dem|das;den;der|Araba evin önünde duruyor.|Wo? → Dativ
+
+== g3|orta|grammar|u29|Perfekt (geçmiş zaman)|haben / sein + Partizip
+-- grammar|Perfekt + haben|Konuşmada geçmiş zaman çoğunlukla Perfekt'tir.
+R haben + ge-…-t|machen → gemacht, kaufen → gekauft, spielen → gespielt.
+E Ich habe Fußball gespielt.|Futbol oynadım.
+E Wir haben Pizza gekauft.|Pizza aldık.
+R Düzensiz: ge-…-en|sehen → gesehen, essen → gegessen, trinken → getrunken, schreiben → geschrieben.
+E Hast du den Film gesehen?|Filmi gördün mü?
+E Sie hat einen Brief geschrieben.|Bir mektup yazdı.
+Q Ich habe gestern viel ___.|gearbeitet|arbeiten;arbeitet;gearbeit|Dün çok çalıştım.|ge-…-et
+Q Wir ___ einen Kuchen gebacken.|haben|sind;hat;habt|Bir kek yaptık.|wir → haben
+Q Hast du schon ___?|gegessen|geesst;essen;gegesst|Yemek yedin mi?|essen → gegessen
+Q Er hat das Buch ___.|gelesen|geliest;lesen;gelest|Kitabı okudu.|lesen → gelesen
+Q ___ ihr Musik gehört?|Habt|Seid;Hat;Haben|Müzik dinlediniz mi?|ihr → habt
+Q Sie hat Kaffee ___.|getrunken|getrinkt;trinken;getrankt|Kahve içti.|trinken → getrunken
+-- grammar|Perfekt + sein|Hareket ve durum değişikliği bildiren fiiller sein ile.
+R gehen, fahren, kommen → sein|Ich bin gegangen. Wir sind nach Berlin gefahren.
+E Ich bin nach Hause gegangen.|Eve gittim.
+E Sie ist spät gekommen.|Geç geldi.
+R werden, bleiben, passieren|Diese fiiller de sein alır: Er ist Arzt geworden. Was ist passiert?
+E Wir sind zu Hause geblieben.|Evde kaldık.
+E Was ist passiert?|Ne oldu?
+Q Ich ___ gestern ins Kino gegangen.|bin|habe;ist;war|Dün sinemaya gittim.|gehen → sein
+Q Wir ___ mit dem Zug gefahren.|sind|haben;seid;ist|Trenle gittik.|fahren → sein
+Q Er ist um sechs Uhr ___.|aufgestanden|aufgesteht;aufstehen;gestandenauf|Saat altıda kalktı.|aufstehen → aufgestanden
+Q Was ___ passiert?|ist|hat;sind;habe|Ne oldu?|passieren → sein
+Q Sie ___ einen Kaffee getrunken.|hat|ist;sind;habt|Bir kahve içti.|trinken → haben
+Q ___ du schon in Wien gewesen?|Bist|Hast;Ist;Warst|Hiç Viyana'da bulundun mu?|sein → sein
+-- grammar|Präteritum: war, hatte|Konuşmada bile sein ve haben çoğunlukla Präteritum'dur.
+R war / hatte|ich war, du warst, er war; ich hatte, du hattest, er hatte.
+E Ich war gestern krank.|Dün hastaydım.
+E Wir hatten keine Zeit.|Vaktimiz yoktu.
+R Modal fiiller: konnte, musste, wollte|können → konnte, müssen → musste, wollen → wollte.
+E Ich konnte nicht schlafen.|Uyuyamadım.
+E Er musste arbeiten.|Çalışmak zorundaydı.
+Q Gestern ___ ich müde.|war|bin;habe;hatte|Dün yorgundum.|sein → war
+Q Wir ___ viel Spaß.|hatten|waren;habt;hattet|Çok eğlendik.|haben → hatten
+Q ___ du im Urlaub?|Warst|War;Bist;Hattest|Tatilde miydin?|du → warst
+Q Ich ___ nicht kommen, ich war krank.|konnte|kann;könnte;gekonnt|Gelemedim, hastaydım.|können → konnte
+Q Sie ___ früh aufstehen.|musste|muss;müsste;gemusst|Erken kalkmak zorundaydı.|müssen → musste
+Q Die Party ___ super!|war|hatte;waren;wart|Parti harikaydı!|sein → war
+
+== g4|orta|grammar|u33|Ayrılabilen fiiller ve yan cümleler|aufstehen, weil, dass
+-- grammar|Ayrılabilen fiiller|Ön ek cümlenin sonuna gider.
+R aufstehen → Ich stehe auf|aufstehen, einkaufen, anrufen, fernsehen: Ich rufe dich an.
+E Ich stehe um sieben auf.|Yedide kalkarım.
+E Wir kaufen am Samstag ein.|Cumartesi alışveriş yaparız.
+R Modal fiille birleşik kalır|Ich muss früh aufstehen. Kannst du mich anrufen?
+E Ich muss morgen früh aufstehen.|Yarın erken kalkmam lazım.
+E Kannst du mich später anrufen?|Beni sonra arayabilir misin?
+Q Ich rufe dich morgen ___.|an|auf;ein;mit|Seni yarın ararım.|anrufen
+Q Wann ___ der Zug ab?|fährt|fahrt;abfährt;fahren|Tren ne zaman kalkıyor?|abfahren → fährt … ab
+Q Wir sehen abends ___.|fern|an;auf;zu|Akşamları televizyon izleriz.|fernsehen
+Q Er macht die Tür ___.|auf|an;ein;mit|Kapıyı açıyor.|aufmachen
+Q Ich möchte heute ___.|einkaufen|kaufe ein;einkauft;kaufen ein|Bugün alışveriş yapmak istiyorum.|modal + mastar birleşik
+Q Wir gehen ins Kino. Kommst du ___?|mit|an;auf;ein|Sen de geliyor musun?|mitkommen
+-- grammar|weil ve dass|Yan cümlede fiil sona gider.
+R weil: çünkü|Ich bleibe zu Hause, weil ich krank bin.
+E Ich lerne Deutsch, weil ich in Berlin arbeite.|Almanca öğreniyorum çünkü Berlin'de çalışıyorum.
+E Er kommt nicht, weil er keine Zeit hat.|Gelmiyor çünkü vakti yok.
+R dass: -dığını|Ich glaube, dass er recht hat. Sie sagt, dass sie müde ist.
+E Ich weiß, dass du müde bist.|Yorgun olduğunu biliyorum.
+E Er sagt, dass das Essen gut ist.|Yemeğin iyi olduğunu söylüyor.
+Q Ich trinke Kaffee, weil ich müde ___.|bin|ist;bist;sein|Kahve içiyorum çünkü yorgunum.|yan cümle: fiil sonda
+Q Sie sagt, ___ sie morgen kommt.|dass|weil;wenn;ob|Yarın geleceğini söylüyor.|-dığını → dass
+Q Er bleibt zu Hause, weil er krank ___.|ist|bin;sind;hat|Evde kalıyor çünkü hasta.|er → ist
+Q Ich hoffe, dass du bald gesund ___.|wirst|werden;wird;werdet|Umarım yakında iyileşirsin.|du → wirst
+Q Wir gehen nicht schwimmen, ___ es regnet.|weil|dass;ob;aber|Yağmur yağdığı için yüzmeye gitmiyoruz.|sebep → weil
+Q Ich glaube, dass er Recht ___.|hat|habe;haben;ist|Bence o haklı.|er → hat
+-- grammar|wenn ve ob|wenn (-ince, eğer), ob (-ip -madığını).
+R wenn: -ince / eğer|Wenn ich Zeit habe, besuche ich dich.
+E Wenn es regnet, bleibe ich zu Hause.|Yağmur yağarsa evde kalırım.
+E Wenn ich müde bin, trinke ich Tee.|Yorgunken çay içerim.
+R ob: -ip -mediğini|Ich weiß nicht, ob er kommt.
+E Weißt du, ob sie zu Hause ist?|Evde olup olmadığını biliyor musun?
+E Ich frage, ob das Museum offen ist.|Müzenin açık olup olmadığını soruyorum.
+Q ___ ich Zeit habe, rufe ich dich an.|Wenn|Ob;Dass;Als|Vaktim olursa seni ararım.|koşul → wenn
+Q Ich weiß nicht, ___ er Deutsch spricht.|ob|wenn;dass;weil|Almanca konuşup konuşmadığını bilmiyorum.|-ip -mediği → ob
+Q Wenn es kalt ist, ___ ich eine Jacke.|trage|ich trage;trägt;tragen|Hava soğuk olunca ceket giyerim.|wenn-cümlesinden sonra: fiil önce
+Q Kannst du mir sagen, ob der Zug pünktlich ___?|ist|sind;bin;sein|Trenin zamanında olup olmadığını söyler misin?|yan cümle: fiil sonda
+Q ___ du Hilfe brauchst, sag es mir.|Wenn|Ob;Dass;Als|Yardıma ihtiyacın olursa söyle.|koşul → wenn
+Q Sie fragt, ___ wir mitkommen.|ob|wenn;dass;weil|Bizim de gelip gelmeyeceğimizi soruyor.|evet/hayır → ob
+
+== d1|orta|dialog|u37|Günlük diyaloglar|Lena ve Jonas ile gerçek konuşmalar
+-- dialog|Tanışma|Lena ve Jonas ilk kez tanışıyor.|Lena|Jonas
+A Hallo! Ich bin Lena. Und wie heißt du?|Merhaba! Ben Lena. Senin adın ne?
+B Hallo Lena, ich heiße Jonas. Freut mich!|Merhaba Lena, benim adım Jonas. Memnun oldum!
+A Mich auch. Woher kommst du?|Ben de. Nerelisin?
+B Ich komme aus Hamburg. Und du?|Hamburg'danım. Ya sen?
+A Aus München, aber ich wohne jetzt hier.|Münih'ten, ama şimdi burada oturuyorum.
+B Cool! Studierst du hier?|Harika! Burada mı okuyorsun?
+A Nein, ich arbeite als Designerin.|Hayır, tasarımcı olarak çalışıyorum.
+B Spannend! Wollen wir mal einen Kaffee trinken?|Heyecan verici! Bir ara kahve içelim mi?
+-- dialog|Im Café|Lena garson, Jonas sipariş veriyor.|Lena|Jonas
+A Guten Tag! Was darf es sein?|İyi günler! Ne alırsınız?
+B Hallo. Kann ich bitte die Karte haben?|Merhaba. Menüyü alabilir miyim lütfen?
+A Natürlich, hier bitte.|Tabii, buyurun.
+B Ich nehme einen Cappuccino und ein Stück Apfelkuchen.|Bir kapuçino ve bir dilim elmalı turta alayım.
+A Mit Sahne?|Kremalı mı?
+B Ja, gerne.|Evet, memnuniyetle.
+A Sonst noch etwas?|Başka bir şey?
+B Nein, danke. Ich möchte bitte zahlen.|Hayır, teşekkürler. Ödemek istiyorum lütfen.
+-- dialog|Nach dem Weg fragen|Jonas istasyonu arıyor.|Lena|Jonas
+B Entschuldigung, wie komme ich zum Bahnhof?|Affedersiniz, istasyona nasıl giderim?
+A Gehen Sie geradeaus und dann die zweite Straße links.|Düz gidin, sonra ikinci sokaktan sola.
+B Ist das weit?|Uzak mı?
+A Nein, ungefähr zehn Minuten zu Fuß.|Hayır, yürüyerek on dakika kadar.
+B Fährt auch ein Bus dorthin?|Oraya otobüs de gidiyor mu?
+A Ja, die Linie 5 hält direkt dort drüben.|Evet, 5 numaralı hat hemen şurada duruyor.
+B Vielen Dank!|Çok teşekkürler!
+A Gern geschehen. Schönen Tag noch!|Rica ederim. İyi günler!
+-- dialog|Pläne fürs Wochenende|Lena, Jonas'ı sinemaya çağırıyor.|Lena|Jonas
+A Was machst du am Samstag?|Cumartesi ne yapıyorsun?
+B Noch nichts. Warum?|Henüz bir şey yok. Neden?
+A Hast du Lust, ins Kino zu gehen?|Sinemaya gitmeye ne dersin?
+B Sehr gerne! Welcher Film läuft?|Çok isterim! Hangi film oynuyor?
+A Eine neue Komödie. Alle sagen, sie ist total lustig.|Yeni bir komedi. Herkes çok komik diyor.
+B Super. Wann treffen wir uns?|Süper. Ne zaman buluşalım?
+A Um sechs vor dem Kino?|Altıda sinemanın önünde?
+B Abgemacht. Bis Samstag!|Anlaştık. Cumartesi görüşürüz!
+
+== y1|yuksek|grammar|end|Konjunktiv II ve Passiv|hätte, würde, wird gemacht
+-- grammar|Konjunktiv II: hayal|Gerçek olmayan durumlar ve kibar rica.
+R würde + mastar|Ich würde gern reisen. Würdest du mir helfen?
+E Ich würde gern nach Japan fliegen.|Japonya'ya uçmayı çok isterdim.
+E Würden Sie das Fenster öffnen?|Pencereyi açar mısınız?
+R hätte, wäre, könnte|haben → hätte, sein → wäre, können → könnte: Wenn ich Zeit hätte, …
+E Wenn ich reich wäre, würde ich ein Haus kaufen.|Zengin olsaydım bir ev alırdım.
+E Hättest du morgen Zeit?|Yarın vaktin olur mu?
+Q Wenn ich Zeit ___, würde ich kommen.|hätte|habe;hatte;haben würde|Vaktim olsaydı gelirdim.|haben → hätte
+Q Ich ___ gern einen Kaffee.|hätte|habe gern;hatte;haben|Bir kahve rica ederim.|kibar → hätte
+Q Wenn er hier ___, wäre alles einfacher.|wäre|ist;war;sein|O burada olsaydı her şey daha kolay olurdu.|sein → wäre
+Q ___ Sie mir bitte helfen?|Könnten|Können;Konnten;Gekonnt|Bana yardım edebilir misiniz lütfen?|kibar → könnten
+Q An deiner Stelle ___ ich zum Arzt gehen.|würde|werde;wurde;wird|Yerinde olsam doktora giderdim.|tavsiye → würde
+Q Wenn wir mehr Geld hätten, ___ wir reisen.|würden|werden;wurden;würdet|Daha çok paramız olsaydı seyahat ederdik.|wir → würden
+-- grammar|Passiv|Eylemi kimin yaptığı önemli değilse: werden + Partizip II.
+R wird / werden + Partizip|Das Auto wird repariert. Hier wird Deutsch gesprochen.
+E Hier wird Deutsch gesprochen.|Burada Almanca konuşulur.
+E Die Briefe werden morgen geschickt.|Mektuplar yarın gönderilecek.
+R Geçmiş: wurde|Das Haus wurde 1900 gebaut. Die Diebe wurden gefasst.
+E Das Haus wurde 1900 gebaut.|Ev 1900'de yapıldı.
+E Der Film wurde in Berlin gedreht.|Film Berlin'de çekildi.
+Q Das Essen ___ gerade gekocht.|wird|werden;wirst;werdet|Yemek şu an pişiriliyor.|tekil → wird
+Q Die Fenster ___ jeden Tag geputzt.|werden|wird;wurdet;werdet|Pencereler her gün temizlenir.|çoğul → werden
+Q Das Museum wurde 1850 ___.|gebaut|bauen;baute;gebaute|Müze 1850'de yapıldı.|Partizip II
+Q Der Brief ___ gestern geschickt.|wurde|wird;werden;würde|Mektup dün gönderildi.|geçmiş → wurde
+Q Hier ___ nicht geraucht.|wird|werden;ist;hat|Burada sigara içilmez.|genel kural → wird
+Q Die Gäste wurden herzlich ___.|begrüßt|begrüßen;begrüßten;begrüßt hat|Misafirler sıcak karşılandı.|Partizip II
+-- grammar|Genitiv|Sahiplik: des / der.
+R des + -s / der|Eril/nötr: das Auto des Vaters, dişil/çoğul: die Tasche der Frau.
+E Das ist das Auto meines Vaters.|Bu babamın arabası.
+E Die Farbe der Tür ist rot.|Kapının rengi kırmızı.
+R wegen, trotz, während|Genitiv edatları: wegen des Regens (yağmur yüzünden), trotz der Kälte (soğuğa rağmen).
+E Wegen des Regens bleiben wir zu Hause.|Yağmur yüzünden evde kalıyoruz.
+E Trotz der Kälte gehen wir spazieren.|Soğuğa rağmen yürüyüşe çıkıyoruz.
+Q Das ist das Haus ___ Familie.|der|die;den;dem|Bu ailenin evi.|dişil Genitiv → der
+Q Der Name ___ Hundes ist Max.|des|der;dem;den|Köpeğin adı Max.|eril Genitiv → des + -es
+Q ___ des Streiks fährt kein Zug.|Wegen|Trotz;Mit;Für|Grev yüzünden tren yok.|sebep → wegen
+Q Trotz ___ Wetters machen wir ein Picknick.|des schlechten|dem schlechten;das schlechte;den schlechten|Kötü havaya rağmen piknik yapıyoruz.|trotz + Genitiv
+Q Während ___ Films habe ich geschlafen.|des|dem;den;der|Film sırasında uyudum.|während + Genitiv
+Q Das ist das Zimmer ___ Kinder.|der|die;den;des|Bu çocukların odası.|çoğul Genitiv → der
+
+== y2|yuksek|grammar|end|Relativsätze ve dolaylı anlatım|der Mann, der …; er sagt, er sei …
+-- grammar|İlgi cümleleri|der, die, das ile ismi tanımlamak; fiil sonda.
+R der / die / das (yalın)|Der Mann, der dort steht, ist mein Lehrer.
+E Das ist die Frau, die in Berlin wohnt.|Bu, Berlin'de oturan kadın.
+E Das Buch, das ich lese, ist spannend.|Okuduğum kitap heyecanlı.
+R den / dem (Akkusativ, Dativ)|Der Film, den ich gesehen habe… Der Freund, dem ich helfe…
+E Der Kuchen, den du gebacken hast, ist lecker.|Yaptığın kek lezzetli.
+E Die Kollegin, der ich geholfen habe, ist nett.|Yardım ettiğim meslektaş çok iyi.
+Q Der Mann, ___ dort sitzt, ist Arzt.|der|den;dem;die|Orada oturan adam doktor.|özne, eril → der
+Q Die Stadt, ___ ich liebe, ist Wien.|die|der;den;das|Sevdiğim şehir Viyana.|nesne, dişil → die
+Q Das Auto, ___ er gekauft hat, ist rot.|das|der;den;dem|Aldığı araba kırmızı.|nesne, nötr → das
+Q Der Freund, ___ ich das Buch gegeben habe, ist weg.|dem|den;der;das|Kitabı verdiğim arkadaş gitti.|Dativ, eril → dem
+Q Die Leute, ___ hier arbeiten, sind freundlich.|die|der;den;denen|Burada çalışan insanlar cana yakın.|çoğul özne → die
+Q Der Film, ___ wir gesehen haben, war lang.|den|der;dem;das|İzlediğimiz film uzundu.|nesne, eril → den
+-- grammar|Dolaylı anlatım|Konjunktiv I ile söyleneni aktarmak (haberlerde sık).
+R er sei, er habe|sein → er sei, haben → er habe: Er sagt, er sei krank.
+E Sie sagt, sie sei müde.|Yorgun olduğunu söylüyor.
+E Er behauptet, er habe keine Zeit.|Vakti olmadığını iddia ediyor.
+R Günlük dilde: dass + Indikativ|Konuşmada çoğu zaman: Er sagt, dass er krank ist.
+E Er sagt, dass er später kommt.|Sonra geleceğini söylüyor.
+E Sie meint, dass das Konzert toll war.|Konserin harika olduğunu düşünüyor.
+Q Der Minister sagt, er ___ zufrieden.|sei|seien;seid;sein|Bakan memnun olduğunu söylüyor.|sein → sei
+Q Sie erzählt, sie ___ einen neuen Job.|habe|haben;habt;gehabt|Yeni bir işi olduğunu anlatıyor.|haben → habe
+Q Er sagt, ___ er morgen kommt.|dass|ob;wenn;weil|Yarın geleceğini söylüyor.|dass + Indikativ
+Q Die Zeitung schreibt, das Spiel ___ abgesagt worden.|sei|seien;seid;sein|Gazete maçın iptal edildiğini yazıyor.|Konjunktiv I
+Q Sie fragt, ___ ich Zeit habe.|ob|dass;wenn;weil|Vaktim olup olmadığını soruyor.|soru aktarma → ob
+Q Er fragt, wo der Bahnhof ___.|ist|sind;bin;seid|İstasyonun nerede olduğunu soruyor.|yan cümle: fiil sonda
+-- grammar|zu + mastar|Bir fiilden sonra başka bir eylem: zu + mastar.
+R … zu machen|Ich habe keine Lust, zu arbeiten. Es ist schwer, Deutsch zu lernen.
+E Es ist schön, dich zu sehen.|Seni görmek güzel.
+E Ich versuche, mehr zu lesen.|Daha çok okumaya çalışıyorum.
+R um … zu (-mek için)|Ich lerne Deutsch, um in Berlin zu arbeiten.
+E Ich spare Geld, um ein Auto zu kaufen.|Araba almak için para biriktiriyorum.
+E Er geht früh ins Bett, um fit zu sein.|Zinde olmak için erken yatıyor.
+Q Ich habe vergessen, dich ___.|anzurufen|zu anrufen;anrufen;angerufen|Seni aramayı unuttum.|ayrılabilen: an-zu-rufen
+Q Es ist wichtig, genug Wasser ___ trinken.|zu|um;für;zum|Yeterince su içmek önemli.|zu + mastar
+Q Sie lernt viel, ___ die Prüfung zu bestehen.|um|zu;für;weil|Sınavı geçmek için çok çalışıyor.|amaç → um … zu
+Q Hast du Lust, ins Kino zu ___?|gehen|geht;gegangen;gehst|Sinemaya gitmek ister misin?|zu + mastar
+Q Ich versuche, jeden Tag Sport ___ machen.|zu|um;für;beim|Her gün spor yapmaya çalışıyorum.|zu + mastar
+Q Er spart, um eine Reise ___ machen.|zu|um;für;zum|Bir seyahat yapmak için para biriktiriyor.|um … zu
+
+== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+-- text|Mein Leben in Berlin|Anna Berlin'deki hayatını anlatıyor.
+T Ich heiße Anna und wohne seit acht Jahren in Berlin. Jeden Morgen fahre ich mit der U-Bahn zur Arbeit, weil das schnell und billig ist. In der Mittagspause esse ich gern im Park, wenn das Wetter schön ist. Abends treffe ich manchmal Freunde in einer Kneipe oder gehe ins Museum. Berlin ist eine laute, bunte Stadt, in der es immer etwas Neues gibt. Manchmal vermisse ich die Ruhe meiner Heimatstadt, aber Berlin ist jetzt mein Zuhause.
+TR Benim adım Anna ve sekiz yıldır Berlin'de oturuyorum. Her sabah işe metroyla giderim, çünkü hızlı ve ucuz. Öğle arasında, hava güzelse parkta yemek yemeyi severim. Akşamları bazen bir barda arkadaşlarla buluşurum ya da müzeye giderim. Berlin, her zaman yeni bir şeylerin olduğu gürültülü, renkli bir şehir. Bazen memleketimin sessizliğini özlüyorum ama Berlin artık evim.
+G seit|-den beri
+G billig|ucuz
+G Mittagspause|öğle arası
+G Kneipe|bar, meyhane
+G bunte|renkli (bunt)
+G vermisse|özlüyorum (vermissen)
+G Heimatstadt|memleket
+Q Wie lange wohnt Anna in Berlin?|Seit acht Jahren|Seit zwei Jahren;Seit einem Jahr;Seit zwanzig Jahren
+Q Wie fährt Anna zur Arbeit?|Mit der U-Bahn|Mit dem Auto;Mit dem Fahrrad;Zu Fuß
+Q Was vermisst Anna manchmal?|Die Ruhe ihrer Heimatstadt|Ihre Arbeit;Das Wetter in Berlin;Die Museen
+-- text|Eine E-Mail an Tom|Max arkadaşına üniversite hayatını yazıyor.
+T Hallo Tom, wie geht's dir? Mir geht es gut. Im Oktober habe ich mein Studium angefangen. Es macht Spaß, ist aber auch anstrengend, denn wir haben jede Woche viele Aufgaben. Ich wohne in einer WG mit zwei Studenten aus Spanien und Korea. Freitags kochen wir zusammen und probieren Gerichte aus unseren Ländern. Letztes Wochenende sind wir in die Berge gefahren und haben uns total verlaufen! Besuch mich doch im Dezember! Schreib bald. Viele Grüße, Max
+TR Selam Tom, nasılsın? Ben iyiyim. Ekimde üniversiteye başladım. Eğlenceli ama aynı zamanda yorucu, çünkü her hafta çok ödevimiz var. İspanya'dan ve Kore'den iki öğrenciyle ortak bir evde oturuyorum. Cumaları birlikte yemek yapıyor, ülkelerimizin yemeklerini deniyoruz. Geçen hafta sonu dağlara gittik ve tamamen yolumuzu kaybettik! Aralıkta beni ziyarete gelsene! Yakında yaz. Sevgiler, Max
+G angefangen|başladı (anfangen)
+G anstrengend|yorucu
+G Aufgaben|ödevler, görevler
+G WG|ortak ev (Wohngemeinschaft)
+G Gerichte|yemekler
+G verlaufen|yolunu kaybetmek (sich verlaufen)
+G Besuch|ziyaret et (besuchen)
+Q Wann hat Max sein Studium angefangen?|Im Oktober|Im Dezember;Im Sommer;Letzte Woche
+Q Mit wem wohnt Max?|Mit zwei Studenten|Mit seinen Eltern;Allein;Mit seiner Schwester
+Q Was ist in den Bergen passiert?|Sie haben sich verlaufen|Es hat geschneit;Sie haben Tom getroffen;Sie haben einen See gefunden
+-- text|Kaffee und Kuchen|Almanların öğleden sonra geleneği.
+T In Deutschland gibt es eine beliebte Tradition: Kaffee und Kuchen. Am Sonntagnachmittag trifft sich die Familie oft gegen drei Uhr, um gemeinsam Kaffee zu trinken und Kuchen zu essen. Typisch sind Apfelkuchen, Käsekuchen oder Schwarzwälder Kirschtorte. Viele Leute backen den Kuchen selbst, andere kaufen ihn in der Bäckerei. Diese Pause ist nicht nur zum Essen da, sondern vor allem zum Reden und Entspannen. Wer zu Kaffee und Kuchen eingeladen wird, sollte pünktlich sein!
+TR Almanya'da sevilen bir gelenek var: kahve ve kek. Pazar öğleden sonraları aile sık sık saat üç civarı birlikte kahve içip kek yemek için buluşur. Elmalı turta, cheesecake ya da Kara Orman vişneli pastası tipiktir. Pek çok kişi keki kendisi yapar, diğerleri fırından alır. Bu mola sadece yemek için değil, her şeyden önce sohbet etmek ve dinlenmek içindir. Kahve ve keke davet edilen kişi dakik olmalı!
+G beliebte|sevilen (beliebt)
+G gemeinsam|birlikte
+G backen|fırında pişirmek
+G Bäckerei|fırın, pastane
+G vor allem|her şeyden önce
+G Entspannen|dinlenme, rahatlama
+G pünktlich|dakik, zamanında
+Q Wann trifft sich die Familie oft?|Am Sonntagnachmittag|Am Montagmorgen;Am Freitagabend;Jeden Mittag
+Q Woher kommt der Kuchen?|Selbst gebacken oder aus der Bäckerei|Nur aus dem Supermarkt;Aus dem Restaurant;Aus dem Ausland
+Q Was ist wichtig, wenn man eingeladen ist?|Pünktlich sein|Einen Kuchen mitbringen;Früh gehen;Kaffee kochen
+
+== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+-- dialog|Deine Meinung|Şehir mi köy mü? Jonas fikrini savunuyor.|Lena|Jonas
+A Jonas, was meinst du: Lebt man besser in der Stadt oder auf dem Land?|Jonas, ne dersin: şehirde mi daha iyi yaşanır, kırsalda mı?
+B Meiner Meinung nach in der Stadt. Dort gibt es mehr Jobs und Möglichkeiten.|Bence şehirde. Orada daha çok iş ve fırsat var.
+A Aber in der Stadt ist es laut und die Luft ist schlecht.|Ama şehir gürültülü ve hava kötü.
+B Das stimmt, dafür kann man ins Theater oder ins Museum gehen.|Doğru, buna karşılık tiyatroya ya da müzeye gidebilirsin.
+A Ich träume von einem kleinen Haus an einem See.|Ben göl kenarında küçük bir ev hayal ediyorum.
+B Das klingt schön, aber mir wäre es dort zu langweilig.|Kulağa güzel geliyor ama ben orada çok sıkılırdım.
+A Na ja, jeder hat einen anderen Geschmack!|Eh, herkesin zevki farklı!
+B Genau. Hauptsache, man ist glücklich, wo man wohnt.|Aynen. Önemli olan yaşadığın yerde mutlu olmak.
+-- dialog|Beim Arzt|Jonas'ın boğazı ağrıyor.|Ärztin|Jonas
+A Guten Tag. Was fehlt Ihnen?|İyi günler. Şikâyetiniz nedir?
+B Ich habe seit drei Tagen Halsschmerzen und Kopfschmerzen.|Üç gündür boğazım ve başım ağrıyor.
+A Haben Sie Fieber?|Ateşiniz var mı?
+B Ja, gestern Abend hatte ich achtunddreißig Grad.|Evet, dün akşam otuz sekiz derecem vardı.
+A Machen Sie bitte den Mund auf. Ja, der Hals ist ziemlich rot.|Ağzınızı açın lütfen. Evet, boğaz epey kızarmış.
+B Ist es etwas Ernstes?|Ciddi bir şey mi?
+A Nein, nur eine Erkältung. Trinken Sie viel und ruhen Sie sich aus.|Hayır, sadece soğuk algınlığı. Bol sıvı için ve dinlenin.
+B Danke. Brauche ich eine Krankmeldung?|Teşekkürler. Rapor gerekiyor mu?
+-- dialog|Vorstellungsgespräch|Jonas bir mühendislik işine başvuruyor.|Lena|Jonas
+A Erzählen Sie doch bitte etwas über sich.|Lütfen biraz kendinizden bahsedin.
+B Gern. Ich bin Ingenieur und arbeite seit fünf Jahren bei einer Baufirma.|Memnuniyetle. Mühendisim ve beş yıldır bir inşaat firmasında çalışıyorum.
+A Warum möchten Sie bei uns arbeiten?|Neden bizde çalışmak istiyorsunuz?
+B Ihre Firma hat spannende Projekte und ich möchte mich weiterentwickeln.|Firmanızın heyecan verici projeleri var ve kendimi geliştirmek istiyorum.
+A Was sind Ihre Stärken?|Güçlü yönleriniz neler?
+B Ich bin zuverlässig, arbeite gern im Team und lerne schnell.|Güvenilirim, ekipte çalışmayı severim ve hızlı öğrenirim.
+A Wann könnten Sie anfangen?|Ne zaman başlayabilirsiniz?
+B In zwei Wochen, wenn mein aktuelles Projekt fertig ist.|İki hafta sonra, mevcut projem bitince.

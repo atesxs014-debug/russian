@@ -64,6 +64,7 @@ export default function PracticeScreen({ mode, unitId, onClose }: { mode: 'revie
       key={round}
       lang={settings.lang}
       maxPlays={mode === 'test' ? 2 : undefined}
+      level={unit?.level}
       title={mode === 'review' ? 'Günlük tekrar' : mode === 'weak' ? 'Zayıf noktalar' : `${unit?.title} · ünite sınavı`}
       questions={questions}
       onClose={onClose}

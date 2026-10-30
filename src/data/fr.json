@@ -32,7 +32,8 @@
          "tr": "yaz",
          "read": "ete"
         }
-       ]
+       ],
+       "say": "é"
       },
       {
        "id": "e2",
@@ -52,7 +53,8 @@
          "tr": "bayram, parti",
          "read": "fet"
         }
-       ]
+       ],
+       "say": "è"
       },
       {
        "id": "e0",
@@ -72,7 +74,8 @@
          "tr": "güzel",
          "read": "bel"
         }
-       ]
+       ],
+       "say": "e"
       },
       {
        "id": "cc",
@@ -92,7 +95,8 @@
          "tr": "erkek çocuk",
          "read": "garsõ"
         }
-       ]
+       ],
+       "say": "ç"
       }
      ]
     },
@@ -121,7 +125,8 @@
          "tr": "kırmızı",
          "read": "ruj"
         }
-       ]
+       ],
+       "say": "ou"
       },
       {
        "id": "u",
@@ -141,7 +146,8 @@
          "tr": "sokak",
          "read": "rü"
         }
-       ]
+       ],
+       "say": "u"
       },
       {
        "id": "oi",
@@ -161,7 +167,8 @@
          "tr": "üç",
          "read": "trva"
         }
-       ]
+       ],
+       "say": "oi"
       },
       {
        "id": "eau",
@@ -181,7 +188,8 @@
          "tr": "yakışıklı",
          "read": "bo"
         }
-       ]
+       ],
+       "say": "eau"
       },
       {
        "id": "ai",
@@ -201,7 +209,8 @@
          "tr": "ev",
          "read": "mezõ"
         }
-       ]
+       ],
+       "say": "ai"
       }
      ]
     },
@@ -230,7 +239,8 @@
          "tr": "Fransa",
          "read": "frãs"
         }
-       ]
+       ],
+       "say": "an"
       },
       {
        "id": "on",
@@ -250,7 +260,8 @@
          "tr": "hayır",
          "read": "nõ"
         }
-       ]
+       ],
+       "say": "on"
       },
       {
        "id": "in",
@@ -270,7 +281,8 @@
          "tr": "ekmek",
          "read": "pẽ"
         }
-       ]
+       ],
+       "say": "in"
       },
       {
        "id": "un",
@@ -290,7 +302,8 @@
          "tr": "pazartesi",
          "read": "lœ̃di"
         }
-       ]
+       ],
+       "say": "un"
       }
      ]
     },
@@ -319,7 +332,8 @@
          "tr": "çikolata",
          "read": "şokola"
         }
-       ]
+       ],
+       "say": "ch"
       },
       {
        "id": "j",
@@ -339,7 +353,8 @@
          "tr": "kırmızı",
          "read": "ruj"
         }
-       ]
+       ],
+       "say": "j"
       },
       {
        "id": "gn",
@@ -359,7 +374,8 @@
          "tr": "şampanya",
          "read": "şãpany"
         }
-       ]
+       ],
+       "say": "gn"
       },
       {
        "id": "qu",
@@ -379,7 +395,8 @@
          "tr": "dört",
          "read": "katr"
         }
-       ]
+       ],
+       "say": "qu"
       },
       {
        "id": "r",
@@ -399,7 +416,8 @@
          "tr": "gülmek",
          "read": "rir"
         }
-       ]
+       ],
+       "say": "r"
       },
       {
        "id": "h",
@@ -419,7 +437,8 @@
          "tr": "otel",
          "read": "otel"
         }
-       ]
+       ],
+       "say": "h"
       }
      ]
     },
@@ -3069,6 +3088,9881 @@
        "utangaç",
        "timid",
        "🙈"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u11",
+   "level": "baslangic",
+   "title": "Okul ve iş",
+   "subtitle": "Okulda, ofiste ve teknolojide kullanılan kelimeler · 5 ders",
+   "lessons": [
+    {
+     "id": "u11l1",
+     "kind": "vocab",
+     "title": "Okulda",
+     "subtitle": "l'école · le cours · l'examen …",
+     "intro": "Ders, sınav, defter…",
+     "v": [
+      [
+       "l'école",
+       "okul",
+       "lekol",
+       "🏫",
+       "f"
+      ],
+      [
+       "le cours",
+       "ders",
+       "lö kur",
+       "📘",
+       "m"
+      ],
+      [
+       "l'examen",
+       "sınav",
+       "legzamẽ",
+       "📝",
+       "m"
+      ],
+      [
+       "le cahier",
+       "defter",
+       "lö kaye",
+       "📓",
+       "m"
+      ],
+      [
+       "le stylo",
+       "kalem (tükenmez)",
+       "lö stilo",
+       "🖊️",
+       "m"
+      ],
+      [
+       "la question",
+       "soru",
+       "la kestyõ",
+       "❓",
+       "f"
+      ],
+      [
+       "la réponse",
+       "cevap",
+       "la repõs",
+       "💬",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u11l2",
+     "kind": "vocab",
+     "title": "Ofiste",
+     "subtitle": "le travail · le bureau · le patron …",
+     "intro": "Toplantı, patron, maaş…",
+     "v": [
+      [
+       "le travail",
+       "iş",
+       "lö travay",
+       "💼",
+       "m"
+      ],
+      [
+       "le bureau",
+       "ofis",
+       "lö büro",
+       "🏢",
+       "m"
+      ],
+      [
+       "le patron",
+       "patron, müdür",
+       "lö patrõ",
+       "👔",
+       "m"
+      ],
+      [
+       "le collègue",
+       "iş arkadaşı",
+       "lö koleg",
+       "🧑‍🤝‍🧑",
+       "m"
+      ],
+      [
+       "la réunion",
+       "toplantı",
+       "la reünyõ",
+       "🤝",
+       "f"
+      ],
+      [
+       "le salaire",
+       "maaş",
+       "lö saler",
+       "💰",
+       "m"
+      ],
+      [
+       "le document",
+       "belge",
+       "lö dokümã",
+       "📄",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u11l3",
+     "kind": "vocab",
+     "title": "Teknoloji",
+     "subtitle": "le téléphone · l'ordinateur · internet …",
+     "intro": "Telefon, bilgisayar, internet…",
+     "v": [
+      [
+       "le téléphone",
+       "telefon",
+       "lö telefon",
+       "📱",
+       "m"
+      ],
+      [
+       "l'ordinateur",
+       "bilgisayar",
+       "lordinatör",
+       "💻",
+       "m"
+      ],
+      [
+       "internet",
+       "internet",
+       "ẽternet",
+       "🌐",
+       "m"
+      ],
+      [
+       "le message",
+       "mesaj",
+       "lö mesaj",
+       "✉️",
+       "m"
+      ],
+      [
+       "le mot de passe",
+       "şifre",
+       "lö mo dı pas",
+       "🔒",
+       "m"
+      ],
+      [
+       "le chargeur",
+       "şarj aleti",
+       "lö şarjör",
+       "🔌",
+       "m"
+      ],
+      [
+       "l'appli",
+       "uygulama",
+       "lapli",
+       "📲",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u11l4",
+     "kind": "vocab",
+     "title": "Zıt anlamlılar",
+     "subtitle": "rapide · lent · facile …",
+     "intro": "Hızlı-yavaş, kolay-zor…",
+     "v": [
+      [
+       "rapide",
+       "hızlı",
+       "rapid",
+       "🐇"
+      ],
+      [
+       "lent",
+       "yavaş",
+       "lã",
+       "🐢"
+      ],
+      [
+       "facile",
+       "kolay",
+       "fasil",
+       "🪶"
+      ],
+      [
+       "difficile",
+       "zor",
+       "difisil",
+       "🧗"
+      ],
+      [
+       "cher",
+       "pahalı",
+       "şer",
+       "💎"
+      ],
+      [
+       "pas cher",
+       "ucuz",
+       "pa şer",
+       "🏷️"
+      ],
+      [
+       "intéressant",
+       "ilginç",
+       "ẽteresã",
+       "🤩"
+      ]
+     ]
+    },
+    {
+     "id": "u11l5",
+     "kind": "vocab",
+     "title": "Sık zarflar",
+     "subtitle": "très · un peu · bien …",
+     "intro": "Çok, biraz, hızlıca…",
+     "v": [
+      [
+       "très",
+       "çok",
+       "tre"
+      ],
+      [
+       "un peu",
+       "biraz",
+       "œ̃ pö",
+       "🤏"
+      ],
+      [
+       "bien",
+       "iyi",
+       "byẽ",
+       "👍"
+      ],
+      [
+       "mal",
+       "kötü",
+       "mal",
+       "👎"
+      ],
+      [
+       "souvent",
+       "sık sık",
+       "suvã",
+       "🔁"
+      ],
+      [
+       "rarement",
+       "nadiren",
+       "rarmã"
+      ],
+      [
+       "déjà",
+       "zaten, artık",
+       "deja",
+       "✅"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u12",
+   "level": "baslangic",
+   "title": "Ev hayatı",
+   "subtitle": "Günlük rutin, ev işleri ve evdeki eşyalar · 5 ders",
+   "lessons": [
+    {
+     "id": "u12l1",
+     "kind": "vocab",
+     "title": "Sabah rutini",
+     "subtitle": "se réveiller · se lever · se laver le visage …",
+     "intro": "Uyanmak, yıkanmak, giyinmek…",
+     "v": [
+      [
+       "se réveiller",
+       "uyanmak",
+       "sı reveye",
+       "⏰"
+      ],
+      [
+       "se lever",
+       "kalkmak",
+       "sı lıve",
+       "🛏️"
+      ],
+      [
+       "se laver le visage",
+       "yüz yıkamak",
+       "sı lave lö vizaj",
+       "🧼"
+      ],
+      [
+       "s'habiller",
+       "giyinmek",
+       "sabiye",
+       "👕"
+      ],
+      [
+       "prendre le petit-déjeuner",
+       "kahvaltı etmek",
+       "prãdr lö pıti dejöne",
+       "🍳"
+      ],
+      [
+       "se brosser les dents",
+       "dişleri fırçalamak",
+       "sı brose le dã",
+       "🪥"
+      ],
+      [
+       "se dépêcher",
+       "acele etmek",
+       "sı depeşe",
+       "🏃"
+      ]
+     ]
+    },
+    {
+     "id": "u12l2",
+     "kind": "vocab",
+     "title": "Ev işleri",
+     "subtitle": "ranger · cuisiner · faire la lessive …",
+     "intro": "Temizlik, yemek, çamaşır…",
+     "v": [
+      [
+       "ranger",
+       "toplamak, temizlemek",
+       "rãje",
+       "🧹"
+      ],
+      [
+       "cuisiner",
+       "yemek yapmak",
+       "küizine",
+       "🍲"
+      ],
+      [
+       "faire la lessive",
+       "çamaşır yıkamak",
+       "fer la lesiv",
+       "🧺"
+      ],
+      [
+       "faire la vaisselle",
+       "bulaşık yıkamak",
+       "fer la vesel",
+       "🍽️"
+      ],
+      [
+       "repasser",
+       "ütülemek",
+       "rıpase",
+       "👔"
+      ],
+      [
+       "l'aspirateur",
+       "elektrik süpürgesi",
+       "laspiratör",
+       "🧹",
+       "m"
+      ],
+      [
+       "les poubelles",
+       "çöp",
+       "le pubel",
+       "🗑️"
+      ]
+     ]
+    },
+    {
+     "id": "u12l3",
+     "kind": "vocab",
+     "title": "Mutfak eşyaları",
+     "subtitle": "l'assiette · la cuillère · la fourchette …",
+     "intro": "Tabak, bıçak, kaşık…",
+     "v": [
+      [
+       "l'assiette",
+       "tabak",
+       "lasyet",
+       "🍽️",
+       "f"
+      ],
+      [
+       "la cuillère",
+       "kaşık",
+       "la küiyer",
+       "🥄",
+       "f"
+      ],
+      [
+       "la fourchette",
+       "çatal",
+       "la furşet",
+       "🍴",
+       "f"
+      ],
+      [
+       "le couteau",
+       "bıçak",
+       "lö kuto",
+       "🔪",
+       "m"
+      ],
+      [
+       "la casserole",
+       "tencere",
+       "la kasrol",
+       "🍲",
+       "f"
+      ],
+      [
+       "le frigo",
+       "buzdolabı",
+       "lö frigo",
+       "🧊",
+       "m"
+      ],
+      [
+       "la cuisinière",
+       "ocak",
+       "la küizinyer",
+       "🔥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u12l4",
+     "kind": "vocab",
+     "title": "Banyo",
+     "subtitle": "la salle de bain · le savon · la brosse à dents …",
+     "intro": "Sabun, diş fırçası, ayna…",
+     "v": [
+      [
+       "la salle de bain",
+       "banyo",
+       "la sal dı bẽ",
+       "🛁",
+       "f"
+      ],
+      [
+       "le savon",
+       "sabun",
+       "lö savõ",
+       "🧼",
+       "m"
+      ],
+      [
+       "la brosse à dents",
+       "diş fırçası",
+       "la bros a dã",
+       "🪥",
+       "f"
+      ],
+      [
+       "le miroir",
+       "ayna",
+       "lö mirvar",
+       "🪞",
+       "m"
+      ],
+      [
+       "le shampooing",
+       "şampuan",
+       "lö şãpvẽ",
+       "🧴",
+       "m"
+      ],
+      [
+       "les toilettes",
+       "tuvalet",
+       "le tvalet",
+       "🚽"
+      ],
+      [
+       "le peigne",
+       "tarak",
+       "lö peny",
+       "🪮",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u12l5",
+     "kind": "vocab",
+     "title": "Akşam",
+     "subtitle": "le soir · la télé · dîner …",
+     "intro": "Dinlenmek, televizyon, uyumak…",
+     "v": [
+      [
+       "le soir",
+       "akşam",
+       "lö svar",
+       "🌆",
+       "m"
+      ],
+      [
+       "la télé",
+       "televizyon",
+       "la tele",
+       "📺",
+       "f"
+      ],
+      [
+       "dîner",
+       "akşam yemeği yemek",
+       "dine",
+       "🍽️"
+      ],
+      [
+       "se détendre",
+       "dinlenmek",
+       "sı detãdr",
+       "🛋️"
+      ],
+      [
+       "aller au lit",
+       "yatmak",
+       "ale o li",
+       "🛌"
+      ],
+      [
+       "bonne nuit",
+       "iyi geceler",
+       "bon nüi",
+       "🌙"
+      ],
+      [
+       "le rêve",
+       "rüya",
+       "lö rev",
+       "💤",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u13",
+   "level": "baslangic",
+   "title": "Bağlantı kelimeleri",
+   "subtitle": "Cümleleri birbirine bağlayan küçük kelimeler · 5 ders",
+   "lessons": [
+    {
+     "id": "u13l1",
+     "kind": "vocab",
+     "title": "Bağlaçlar",
+     "subtitle": "et · mais · ou …",
+     "intro": "Ve, ama, çünkü…",
+     "v": [
+      [
+       "et",
+       "ve",
+       "e",
+       "➕"
+      ],
+      [
+       "mais",
+       "ama",
+       "me",
+       "↔️"
+      ],
+      [
+       "ou",
+       "veya",
+       "u",
+       "🔀"
+      ],
+      [
+       "parce que",
+       "çünkü",
+       "pars kı",
+       "💡"
+      ],
+      [
+       "si",
+       "eğer",
+       "si",
+       "❓"
+      ],
+      [
+       "pour",
+       "-mek için",
+       "pur",
+       "🎯"
+      ],
+      [
+       "donc",
+       "bu yüzden",
+       "dõk",
+       "➡️"
+      ]
+     ]
+    },
+    {
+     "id": "u13l2",
+     "kind": "vocab",
+     "title": "Yer edatları",
+     "subtitle": "dans · sur · sous …",
+     "intro": "İçinde, üstünde, yanında…",
+     "v": [
+      [
+       "dans",
+       "içinde, -de",
+       "dã",
+       "📦"
+      ],
+      [
+       "sur",
+       "üstünde, -de",
+       "sür",
+       "🔝"
+      ],
+      [
+       "sous",
+       "altında",
+       "su",
+       "⬇️"
+      ],
+      [
+       "derrière",
+       "arkasında",
+       "deryer",
+       "🔙"
+      ],
+      [
+       "devant",
+       "önünde",
+       "dıvã",
+       "⏩"
+      ],
+      [
+       "à côté de",
+       "yanında",
+       "a kote dı",
+       "↔️"
+      ],
+      [
+       "entre",
+       "arasında",
+       "ãtr",
+       "⏸️"
+      ]
+     ]
+    },
+    {
+     "id": "u13l3",
+     "kind": "vocab",
+     "title": "Miktar",
+     "subtitle": "beaucoup · peu · tout le monde …",
+     "intro": "Çok, az, hepsi…",
+     "v": [
+      [
+       "beaucoup",
+       "çok (miktar)",
+       "boku",
+       "📈"
+      ],
+      [
+       "peu",
+       "az",
+       "pö",
+       "📉"
+      ],
+      [
+       "tout le monde",
+       "herkes, hepsi",
+       "tu lö mõd",
+       "👥"
+      ],
+      [
+       "rien",
+       "hiçbir şey",
+       "ryẽ",
+       "🚫"
+      ],
+      [
+       "chaque",
+       "her",
+       "şak",
+       "🔁"
+      ],
+      [
+       "la moitié",
+       "yarım",
+       "la mvatye",
+       "🌓",
+       "f"
+      ],
+      [
+       "assez",
+       "yeterli",
+       "ase",
+       "✅"
+      ]
+     ]
+    },
+    {
+     "id": "u13l4",
+     "kind": "vocab",
+     "title": "Fikir bildirme",
+     "subtitle": "je pense · à mon avis · je suis d'accord …",
+     "intro": "Bence, katılıyorum…",
+     "v": [
+      [
+       "je pense",
+       "bence, düşünüyorum",
+       "jö pãs",
+       "💭"
+      ],
+      [
+       "à mon avis",
+       "bana göre",
+       "a mõ navi",
+       "🗣️"
+      ],
+      [
+       "je suis d'accord",
+       "katılıyorum",
+       "jö süi dakor",
+       "🤝"
+      ],
+      [
+       "je ne suis pas d'accord",
+       "katılmıyorum",
+       "jö nö süi pa dakor",
+       "🙅"
+      ],
+      [
+       "c'est vrai",
+       "doğru, gerçek",
+       "se vre",
+       "✔️"
+      ],
+      [
+       "bien sûr que non",
+       "tabii ki hayır",
+       "byẽ sür kı nõ",
+       "❌"
+      ],
+      [
+       "peut-être",
+       "belki",
+       "pötetr",
+       "🤷"
+      ]
+     ]
+    },
+    {
+     "id": "u13l5",
+     "kind": "vocab",
+     "title": "Sık ifadeler",
+     "subtitle": "tout va bien · pas de problème · allez ! …",
+     "intro": "Her gün duyacağın kalıplar.",
+     "v": [
+      [
+       "tout va bien",
+       "her şey yolunda",
+       "tu va byẽ",
+       "👌"
+      ],
+      [
+       "pas de problème",
+       "sorun yok",
+       "pa dı problem",
+       "🙂"
+      ],
+      [
+       "allez !",
+       "hadi",
+       "ale",
+       "🚀"
+      ],
+      [
+       "euh…",
+       "eee, şey",
+       "ö",
+       "🤔"
+      ],
+      [
+       "voilà",
+       "işte",
+       "vvala",
+       "👉"
+      ],
+      [
+       "c'est vrai ?",
+       "gerçekten mi?",
+       "se vre",
+       "😮"
+      ],
+      [
+       "chut !",
+       "sessiz ol!",
+       "şüt",
+       "🤫"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u14",
+   "level": "baslangic",
+   "title": "Sohbet kalıpları",
+   "subtitle": "Telefon, randevu, davet ve kutlama · 5 ders",
+   "lessons": [
+    {
+     "id": "u14l1",
+     "kind": "vocab",
+     "title": "Telefonda",
+     "subtitle": "allô ? · qui est-ce ? · rappelez-moi …",
+     "intro": "Alo, kim arıyor?…",
+     "v": [
+      [
+       "allô ?",
+       "alo",
+       "alo",
+       "📞"
+      ],
+      [
+       "qui est-ce ?",
+       "kim o?",
+       "ki es",
+       "❔"
+      ],
+      [
+       "rappelez-moi",
+       "geri arayın",
+       "raple mva",
+       "🔁"
+      ],
+      [
+       "je ne vous entends pas",
+       "sizi duyamıyorum",
+       "jö nö vu zãtã pa",
+       "🔇"
+      ],
+      [
+       "un instant",
+       "bir dakika",
+       "œ̃ nẽstã",
+       "⏳"
+      ],
+      [
+       "le numéro de téléphone",
+       "telefon numarası",
+       "lö nümero dı telefon",
+       "🔢",
+       "m"
+      ],
+      [
+       "écris-moi",
+       "bana yaz",
+       "ekri mva",
+       "💬"
+      ]
+     ]
+    },
+    {
+     "id": "u14l2",
+     "kind": "vocab",
+     "title": "Randevu",
+     "subtitle": "à quelle heure ? · quand ça t'arrange ? · on se voit …",
+     "intro": "Ne zaman, saat kaçta?…",
+     "v": [
+      [
+       "à quelle heure ?",
+       "saat kaçta?",
+       "a kel ör",
+       "🕒"
+      ],
+      [
+       "quand ça t'arrange ?",
+       "ne zaman uygun?",
+       "kã sa tarãj",
+       "📅"
+      ],
+      [
+       "on se voit",
+       "buluşalım",
+       "õ sı vva",
+       "🤝"
+      ],
+      [
+       "à trois heures",
+       "saat üçte",
+       "a trva zör",
+       "🕒"
+      ],
+      [
+       "je suis en retard",
+       "geç kalıyorum",
+       "jö süi ã rıtar",
+       "⌛"
+      ],
+      [
+       "je suis déjà là",
+       "zaten buradayım",
+       "jö süi deja la",
+       "📍"
+      ],
+      [
+       "d'accord",
+       "anlaştık",
+       "dakor",
+       "✅"
+      ]
+     ]
+    },
+    {
+     "id": "u14l3",
+     "kind": "vocab",
+     "title": "Davet",
+     "subtitle": "venez chez nous · avec plaisir · malheureusement …",
+     "intro": "Gel, misafir ol…",
+     "v": [
+      [
+       "venez chez nous",
+       "misafirliğe gelin",
+       "vıne şe nu",
+       "🏠"
+      ],
+      [
+       "avec plaisir",
+       "memnuniyetle",
+       "avek plezir",
+       "😊"
+      ],
+      [
+       "malheureusement",
+       "maalesef",
+       "malörözmã",
+       "😔"
+      ],
+      [
+       "je ne peux pas",
+       "yapamam, gelemem",
+       "jö nö pö pa",
+       "🙅"
+      ],
+      [
+       "entre donc",
+       "içeri gel",
+       "ãtr dõk",
+       "🚪"
+      ],
+      [
+       "fais comme chez toi",
+       "evinizdeymiş gibi rahat olun",
+       "fe kom şe tva",
+       "🛋️"
+      ],
+      [
+       "servez-vous",
+       "buyurun (ikram)",
+       "serve vu",
+       "🍰"
+      ]
+     ]
+    },
+    {
+     "id": "u14l4",
+     "kind": "vocab",
+     "title": "Kutlama",
+     "subtitle": "félicitations ! · joyeux anniversaire ! · bonne année ! …",
+     "intro": "Tebrikler, doğum günün kutlu olsun…",
+     "v": [
+      [
+       "félicitations !",
+       "tebrikler!",
+       "felisitasyõ",
+       "🎉"
+      ],
+      [
+       "joyeux anniversaire !",
+       "doğum günün kutlu olsun!",
+       "jvayö zaniverser",
+       "🎂"
+      ],
+      [
+       "bonne année !",
+       "mutlu yıllar!",
+       "bon ane",
+       "🎆"
+      ],
+      [
+       "bonne chance !",
+       "bol şans!",
+       "bon şãs",
+       "🍀"
+      ],
+      [
+       "à tes souhaits !",
+       "çok yaşa!",
+       "a te sue",
+       "🤧"
+      ],
+      [
+       "santé !",
+       "şerefe!",
+       "sãte",
+       "🥂"
+      ],
+      [
+       "le cadeau",
+       "hediye",
+       "lö kado",
+       "🎁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u14l5",
+     "kind": "vocab",
+     "title": "Vedalaşma",
+     "subtitle": "à plus · à demain · bonne continuation …",
+     "intro": "Görüşürüz, kendine iyi bak…",
+     "v": [
+      [
+       "à plus",
+       "görüşmek üzere",
+       "a plüs",
+       "👋"
+      ],
+      [
+       "à demain",
+       "yarın görüşürüz",
+       "a dımẽ",
+       "📆"
+      ],
+      [
+       "bonne continuation",
+       "her şey gönlünce olsun",
+       "bon kõtinüasyõ",
+       "🌈"
+      ],
+      [
+       "prends soin de toi",
+       "kendine iyi bak",
+       "prã svẽ dı tva",
+       "💚"
+      ],
+      [
+       "bon voyage",
+       "iyi yolculuklar",
+       "bõ vvayaj",
+       "🛣️"
+      ],
+      [
+       "tu vas me manquer",
+       "seni özleyeceğim",
+       "tü va mö mãke",
+       "🥺"
+      ],
+      [
+       "donne des nouvelles !",
+       "haber ver!",
+       "don de nuvel",
+       "✉️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u15",
+   "level": "baslangic",
+   "title": "Saat ve takvim",
+   "subtitle": "Saat, aylar, sıklık ve zaman kalıpları · 5 ders",
+   "lessons": [
+    {
+     "id": "u15l1",
+     "kind": "vocab",
+     "title": "Saat kaç?",
+     "subtitle": "Quelle heure est-il ? · l'heure · et demie …",
+     "intro": "Saati sormak ve günün bölümleri.",
+     "v": [
+      [
+       "Quelle heure est-il ?",
+       "saat kaç?",
+       "kel ör etil",
+       "🕐"
+      ],
+      [
+       "l'heure",
+       "saat (süre)",
+       "lör",
+       "🕒",
+       "f"
+      ],
+      [
+       "et demie",
+       "buçuk",
+       "e dımi",
+       "🌓"
+      ],
+      [
+       "le quart",
+       "çeyrek",
+       "lö kar",
+       "🕞",
+       "m"
+      ],
+      [
+       "le matin",
+       "sabah",
+       "lö matẽ",
+       "🌅",
+       "m"
+      ],
+      [
+       "midi",
+       "öğlen",
+       "midi",
+       "🌞",
+       "m"
+      ],
+      [
+       "la nuit",
+       "gece",
+       "la nüi",
+       "🌃",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u15l2",
+     "kind": "vocab",
+     "title": "Aylar 1",
+     "subtitle": "janvier · février · mars …",
+     "intro": "Ocaktan hazirana.",
+     "v": [
+      [
+       "janvier",
+       "ocak",
+       "jãvye",
+       "❄️",
+       "m"
+      ],
+      [
+       "février",
+       "şubat",
+       "fevriye",
+       "🌨️",
+       "m"
+      ],
+      [
+       "mars",
+       "mart",
+       "mars",
+       "🌱",
+       "m"
+      ],
+      [
+       "avril",
+       "nisan",
+       "avril",
+       "🌷",
+       "m"
+      ],
+      [
+       "mai",
+       "mayıs",
+       "me",
+       "🌼",
+       "m"
+      ],
+      [
+       "juin",
+       "haziran",
+       "jüẽ",
+       "☀️",
+       "m"
+      ],
+      [
+       "l'année",
+       "yıl",
+       "lane",
+       "📅",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u15l3",
+     "kind": "vocab",
+     "title": "Aylar 2",
+     "subtitle": "juillet · août · septembre …",
+     "intro": "Temmuzdan araliğa.",
+     "v": [
+      [
+       "juillet",
+       "temmuz",
+       "jüiye",
+       "🏖️",
+       "m"
+      ],
+      [
+       "août",
+       "ağustos",
+       "ut",
+       "🍉",
+       "m"
+      ],
+      [
+       "septembre",
+       "eylül",
+       "septãbr",
+       "🍂",
+       "m"
+      ],
+      [
+       "octobre",
+       "ekim",
+       "oktobr",
+       "🎃",
+       "m"
+      ],
+      [
+       "novembre",
+       "kasım",
+       "novãbr",
+       "🌧️",
+       "m"
+      ],
+      [
+       "décembre",
+       "aralık",
+       "desãbr",
+       "🎄",
+       "m"
+      ],
+      [
+       "la date",
+       "tarih",
+       "la dat",
+       "📆",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u15l4",
+     "kind": "vocab",
+     "title": "Ne sıklıkla?",
+     "subtitle": "tous les jours · parfois · d'habitude …",
+     "intro": "Her gün, bazen, genellikle…",
+     "v": [
+      [
+       "tous les jours",
+       "her gün",
+       "tu le jur",
+       "🔁"
+      ],
+      [
+       "parfois",
+       "bazen",
+       "parfva",
+       "🤷"
+      ],
+      [
+       "d'habitude",
+       "genellikle",
+       "dabitüd",
+       "📊"
+      ],
+      [
+       "le week-end",
+       "hafta sonu",
+       "lö vikend",
+       "🛋️",
+       "m"
+      ],
+      [
+       "la semaine dernière",
+       "geçen hafta",
+       "la sımen dernyer",
+       "⏪"
+      ],
+      [
+       "la semaine prochaine",
+       "gelecek hafta",
+       "la sımen proşen",
+       "⏩"
+      ],
+      [
+       "tôt",
+       "erken",
+       "to",
+       "🐓"
+      ]
+     ]
+    },
+    {
+     "id": "u15l5",
+     "kind": "vocab",
+     "title": "Zaman kalıpları",
+     "subtitle": "tard · bientôt · tout de suite …",
+     "intro": "Geç, yakında, hemen…",
+     "v": [
+      [
+       "tard",
+       "geç",
+       "tar",
+       "🦉"
+      ],
+      [
+       "bientôt",
+       "yakında",
+       "byẽto",
+       "🔜"
+      ],
+      [
+       "tout de suite",
+       "hemen",
+       "tu dı süit",
+       "⚡"
+      ],
+      [
+       "pas encore",
+       "henüz değil",
+       "pa zãkor",
+       "⏳"
+      ],
+      [
+       "toute la journée",
+       "bütün gün",
+       "tut la jurne",
+       "🗓️"
+      ],
+      [
+       "l'après-midi",
+       "öğleden sonra",
+       "lapremidi",
+       "🌤️",
+       "m"
+      ],
+      [
+       "minuit",
+       "gece yarısı",
+       "minüi",
+       "🕛",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u16",
+   "level": "baslangic",
+   "title": "Dünya ve diller",
+   "subtitle": "Ülkeler, diller, yönler ve dil konuşmak · 5 ders",
+   "lessons": [
+    {
+     "id": "u16l1",
+     "kind": "vocab",
+     "title": "Ülkeler",
+     "subtitle": "la Turquie · la Russie · l'Allemagne …",
+     "intro": "Türkiye, Rusya, Almanya…",
+     "v": [
+      [
+       "la Turquie",
+       "Türkiye",
+       "la türki",
+       "🇹🇷",
+       "f"
+      ],
+      [
+       "la Russie",
+       "Rusya",
+       "la rüsi",
+       "🇷🇺",
+       "f"
+      ],
+      [
+       "l'Allemagne",
+       "Almanya",
+       "lalmany",
+       "🇩🇪",
+       "f"
+      ],
+      [
+       "la France",
+       "Fransa",
+       "la frãs",
+       "🇫🇷",
+       "f"
+      ],
+      [
+       "l'Italie",
+       "İtalya",
+       "litali",
+       "🇮🇹",
+       "f"
+      ],
+      [
+       "l'Angleterre",
+       "İngiltere",
+       "lãglıter",
+       "🇬🇧",
+       "f"
+      ],
+      [
+       "l'Amérique",
+       "Amerika",
+       "lamerik",
+       "🇺🇸",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u16l2",
+     "kind": "vocab",
+     "title": "Diller",
+     "subtitle": "la langue · le turc · le russe …",
+     "intro": "Türkçe, Rusça, İngilizce…",
+     "v": [
+      [
+       "la langue",
+       "dil",
+       "la lãg",
+       "🗣️",
+       "f"
+      ],
+      [
+       "le turc",
+       "Türkçe",
+       "lö türk",
+       "🇹🇷",
+       "m"
+      ],
+      [
+       "le russe",
+       "Rusça",
+       "lö rüs",
+       "🇷🇺",
+       "m"
+      ],
+      [
+       "l'anglais",
+       "İngilizce",
+       "lãgle",
+       "🇬🇧",
+       "m"
+      ],
+      [
+       "l'allemand",
+       "Almanca",
+       "lalmã",
+       "🇩🇪",
+       "m"
+      ],
+      [
+       "le français",
+       "Fransızca",
+       "lö frãse",
+       "🇫🇷",
+       "m"
+      ],
+      [
+       "l'italien",
+       "İtalyanca",
+       "litalyẽ",
+       "🇮🇹",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u16l3",
+     "kind": "vocab",
+     "title": "Dünyada",
+     "subtitle": "le monde · le pays · la ville …",
+     "intro": "Ülke, şehir, köy…",
+     "v": [
+      [
+       "le monde",
+       "dünya",
+       "lö mõd",
+       "🌍",
+       "m"
+      ],
+      [
+       "le pays",
+       "ülke",
+       "lö pei",
+       "🗺️",
+       "m"
+      ],
+      [
+       "la ville",
+       "şehir",
+       "la vil",
+       "🏙️",
+       "f"
+      ],
+      [
+       "le village",
+       "köy",
+       "lö vilaj",
+       "🏡",
+       "m"
+      ],
+      [
+       "la capitale",
+       "başkent",
+       "la kapital",
+       "🏛️",
+       "f"
+      ],
+      [
+       "l'étranger",
+       "yabancı",
+       "letrãje",
+       "🧳",
+       "m"
+      ],
+      [
+       "la frontière",
+       "sınır",
+       "la frõtyer",
+       "🚧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u16l4",
+     "kind": "vocab",
+     "title": "Yönler",
+     "subtitle": "le nord · le sud · l'est …",
+     "intro": "Kuzey, güney, doğu, batı…",
+     "v": [
+      [
+       "le nord",
+       "kuzey",
+       "lö nor",
+       "⬆️",
+       "m"
+      ],
+      [
+       "le sud",
+       "güney",
+       "lö süd",
+       "⬇️",
+       "m"
+      ],
+      [
+       "l'est",
+       "doğu",
+       "lest",
+       "➡️",
+       "m"
+      ],
+      [
+       "l'ouest",
+       "batı",
+       "luest",
+       "⬅️",
+       "m"
+      ],
+      [
+       "le centre",
+       "merkez",
+       "lö sãtr",
+       "🎯",
+       "m"
+      ],
+      [
+       "le coin",
+       "köşe",
+       "lö kvẽ",
+       "📐",
+       "m"
+      ],
+      [
+       "en face",
+       "karşısında",
+       "ã fas",
+       "↔️"
+      ]
+     ]
+    },
+    {
+     "id": "u16l5",
+     "kind": "vocab",
+     "title": "Dil konuşmak",
+     "subtitle": "Quelles langues parles-tu ? · Vous parlez turc ? · Qu'est-ce que ça veut dire ? …",
+     "intro": "Hangi dilleri konuşuyorsun?…",
+     "v": [
+      [
+       "Quelles langues parles-tu ?",
+       "hangi dilleri konuşuyorsun?",
+       "kel lãg parl tü",
+       "🗣️"
+      ],
+      [
+       "Vous parlez turc ?",
+       "Türkçe konuşuyor musunuz?",
+       "vu parle türk",
+       "🇹🇷"
+      ],
+      [
+       "Qu'est-ce que ça veut dire ?",
+       "bu ne demek?",
+       "kes kı sa vö dir",
+       "❓"
+      ],
+      [
+       "Comment on dit … ?",
+       "… nasıl denir?",
+       "komã õ di",
+       "💬"
+      ],
+      [
+       "Vous pouvez l'écrire ?",
+       "yazar mısınız lütfen?",
+       "vu puve lekrir",
+       "✍️"
+      ],
+      [
+       "Je vois",
+       "anladım",
+       "jö vva",
+       "💡"
+      ],
+      [
+       "J'apprends une langue",
+       "dil öğreniyorum",
+       "japrã ün lãg",
+       "📚"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u17",
+   "level": "baslangic",
+   "title": "Markette",
+   "subtitle": "Market, kahvaltılık, ölçüler ve alışveriş kalıpları · 5 ders",
+   "lessons": [
+    {
+     "id": "u17l1",
+     "kind": "vocab",
+     "title": "Markette",
+     "subtitle": "le supermarché · le panier · le sachet …",
+     "intro": "Sepet, poşet, fiyat…",
+     "v": [
+      [
+       "le supermarché",
+       "süpermarket",
+       "lö süpermarşe",
+       "🏪",
+       "m"
+      ],
+      [
+       "le panier",
+       "sepet",
+       "lö panye",
+       "🧺",
+       "m"
+      ],
+      [
+       "le sachet",
+       "poşet",
+       "lö saşe",
+       "🛍️",
+       "m"
+      ],
+      [
+       "le prix",
+       "fiyat",
+       "lö pri",
+       "🏷️",
+       "m"
+      ],
+      [
+       "la réduction",
+       "indirim",
+       "la redüksyõ",
+       "💸",
+       "f"
+      ],
+      [
+       "la queue",
+       "sıra, kuyruk",
+       "la kö",
+       "🧍",
+       "f"
+      ],
+      [
+       "le rayon",
+       "raf",
+       "lö reyõ",
+       "🗄️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u17l2",
+     "kind": "vocab",
+     "title": "Kahvaltılık",
+     "subtitle": "le beurre · le miel · la confiture …",
+     "intro": "Tereyağı, bal, reçel…",
+     "v": [
+      [
+       "le beurre",
+       "tereyağı",
+       "lö bör",
+       "🧈",
+       "m"
+      ],
+      [
+       "le miel",
+       "bal",
+       "lö myel",
+       "🍯",
+       "m"
+      ],
+      [
+       "la confiture",
+       "reçel",
+       "la kõfitür",
+       "🍓",
+       "f"
+      ],
+      [
+       "les olives",
+       "zeytin",
+       "le zoliv",
+       "🫒"
+      ],
+      [
+       "le sucre",
+       "şeker",
+       "lö sükr",
+       "🍬",
+       "m"
+      ],
+      [
+       "le sel",
+       "tuz",
+       "lö sel",
+       "🧂",
+       "m"
+      ],
+      [
+       "le yaourt",
+       "yoğurt",
+       "lö yaurt",
+       "🥛",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u17l3",
+     "kind": "vocab",
+     "title": "Ölçüler",
+     "subtitle": "le kilo · le gramme · le litre …",
+     "intro": "Kilo, litre, şişe…",
+     "v": [
+      [
+       "le kilo",
+       "kilogram",
+       "lö kilo",
+       "⚖️",
+       "m"
+      ],
+      [
+       "le gramme",
+       "gram",
+       "lö gram",
+       "🪶",
+       "m"
+      ],
+      [
+       "le litre",
+       "litre",
+       "lö litr",
+       "🥤",
+       "m"
+      ],
+      [
+       "la bouteille",
+       "şişe",
+       "la butey",
+       "🍾",
+       "f"
+      ],
+      [
+       "le paquet",
+       "paket",
+       "lö pake",
+       "📦",
+       "m"
+      ],
+      [
+       "la boîte",
+       "kutu",
+       "la bvat",
+       "🗃️",
+       "f"
+      ],
+      [
+       "le morceau",
+       "parça",
+       "lö morso",
+       "🧩",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u17l4",
+     "kind": "vocab",
+     "title": "Meyve ve sebze 2",
+     "subtitle": "le raisin · la pastèque · la cerise …",
+     "intro": "Üzüm, karpuz, kiraz…",
+     "v": [
+      [
+       "le raisin",
+       "üzüm",
+       "lö rezẽ",
+       "🍇",
+       "m"
+      ],
+      [
+       "la pastèque",
+       "karpuz",
+       "la pastek",
+       "🍉",
+       "f"
+      ],
+      [
+       "la cerise",
+       "kiraz",
+       "la sıriz",
+       "🍒",
+       "f"
+      ],
+      [
+       "la poire",
+       "armut",
+       "la pvar",
+       "🍐",
+       "f"
+      ],
+      [
+       "la fraise",
+       "çilek",
+       "la frez",
+       "🍓",
+       "f"
+      ],
+      [
+       "la carotte",
+       "havuç",
+       "la karot",
+       "🥕",
+       "f"
+      ],
+      [
+       "le poivron",
+       "biber",
+       "lö pvavrõ",
+       "🌶️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u17l5",
+     "kind": "vocab",
+     "title": "Alışveriş kalıpları",
+     "subtitle": "Un kilo, s'il vous plaît · Et avec ceci ? · C'est tout …",
+     "intro": "Bir kilo lütfen, başka?…",
+     "v": [
+      [
+       "Un kilo, s'il vous plaît",
+       "bir kilo lütfen",
+       "œ̃ kilo sil vu ple",
+       "⚖️"
+      ],
+      [
+       "Et avec ceci ?",
+       "başka bir şey?",
+       "e avek sısi",
+       "➕"
+      ],
+      [
+       "C'est tout",
+       "hepsi bu kadar",
+       "se tu",
+       "✅"
+      ],
+      [
+       "Vous voulez un sac ?",
+       "poşet ister misiniz?",
+       "vu vule œ̃ sak",
+       "🛍️"
+      ],
+      [
+       "la monnaie",
+       "para üstü",
+       "la mone",
+       "🪙",
+       "f"
+      ],
+      [
+       "Je prends ça",
+       "bunu alıyorum",
+       "jö prã sa",
+       "👍"
+      ],
+      [
+       "Je peux l'essayer ?",
+       "deneyebilir miyim?",
+       "jö pö leseye",
+       "👗"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u18",
+   "level": "baslangic",
+   "title": "İnsanlar ve ilişkiler",
+   "subtitle": "Görünüş, kişisel bilgiler, akrabalar ve tanışma · 5 ders",
+   "lessons": [
+    {
+     "id": "u18l1",
+     "kind": "vocab",
+     "title": "Görünüş",
+     "subtitle": "Il est grand · Elle est petite · jeune …",
+     "intro": "Uzun boylu, genç, gözlüklü…",
+     "v": [
+      [
+       "Il est grand",
+       "o uzun boylu",
+       "il e grã",
+       "🦒"
+      ],
+      [
+       "Elle est petite",
+       "o kısa boylu",
+       "el e pıtit",
+       "🐿️"
+      ],
+      [
+       "jeune",
+       "genç",
+       "jön",
+       "🧑"
+      ],
+      [
+       "mince",
+       "zayıf",
+       "mẽs",
+       "🥢"
+      ],
+      [
+       "gros",
+       "kilolu",
+       "gro",
+       "🐻"
+      ],
+      [
+       "barbu",
+       "sakallı",
+       "barbü",
+       "🧔"
+      ],
+      [
+       "avec des lunettes",
+       "gözlüklü",
+       "avek de lünet",
+       "🤓"
+      ]
+     ]
+    },
+    {
+     "id": "u18l2",
+     "kind": "vocab",
+     "title": "Kişisel bilgiler",
+     "subtitle": "l'âge · l'adresse · l'anniversaire …",
+     "intro": "Yaş, adres, doğum günü…",
+     "v": [
+      [
+       "l'âge",
+       "yaş",
+       "laj",
+       "🎂",
+       "m"
+      ],
+      [
+       "l'adresse",
+       "adres",
+       "ladres",
+       "📮",
+       "f"
+      ],
+      [
+       "l'anniversaire",
+       "doğum günü",
+       "laniverser",
+       "🎉",
+       "m"
+      ],
+      [
+       "marié",
+       "evli",
+       "marye",
+       "💍"
+      ],
+      [
+       "célibataire",
+       "bekâr",
+       "selibater",
+       "🙋"
+      ],
+      [
+       "l'e-mail",
+       "e-posta",
+       "limel",
+       "📧",
+       "m"
+      ],
+      [
+       "le nom de famille",
+       "soyadı",
+       "lö nõ dı famiy",
+       "🪪",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u18l3",
+     "kind": "vocab",
+     "title": "Akrabalar",
+     "subtitle": "l'oncle · la tante · le cousin …",
+     "intro": "Amca, teyze, kuzen…",
+     "v": [
+      [
+       "l'oncle",
+       "amca / dayı",
+       "lõkl",
+       "👨",
+       "m"
+      ],
+      [
+       "la tante",
+       "teyze / hala",
+       "la tãt",
+       "👩",
+       "f"
+      ],
+      [
+       "le cousin",
+       "kuzen",
+       "lö kuzẽ",
+       "🧑‍🤝‍🧑",
+       "m"
+      ],
+      [
+       "le petit-enfant",
+       "torun",
+       "lö pıti tãfã",
+       "👶",
+       "m"
+      ],
+      [
+       "l'épouse",
+       "karı, eş",
+       "lepuz",
+       "👰",
+       "f"
+      ],
+      [
+       "le mari",
+       "koca",
+       "lö mari",
+       "🤵",
+       "m"
+      ],
+      [
+       "les proches",
+       "akrabalar",
+       "le proş",
+       "👪"
+      ]
+     ]
+    },
+    {
+     "id": "u18l4",
+     "kind": "vocab",
+     "title": "İlişkiler",
+     "subtitle": "l'amour · le copain / la copine · le mariage …",
+     "intro": "Aşk, sevgili, düğün…",
+     "v": [
+      [
+       "l'amour",
+       "aşk",
+       "lamur",
+       "❤️",
+       "m"
+      ],
+      [
+       "le copain / la copine",
+       "sevgili",
+       "lö kopẽ / la kopin",
+       "💏"
+      ],
+      [
+       "le mariage",
+       "düğün",
+       "lö maryaj",
+       "💒",
+       "m"
+      ],
+      [
+       "la mariée / le marié",
+       "gelin / damat",
+       "la marye / lö marye",
+       "👰"
+      ],
+      [
+       "l'amitié",
+       "arkadaşlık",
+       "lamitye",
+       "🤝",
+       "f"
+      ],
+      [
+       "faire un câlin",
+       "sarılmak",
+       "fer œ̃ kalẽ",
+       "🤗"
+      ],
+      [
+       "le bisou",
+       "öpücük",
+       "lö bizu",
+       "😘",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u18l5",
+     "kind": "vocab",
+     "title": "Kendini anlat",
+     "subtitle": "Tu as quel âge ? · J'ai … ans · Tu es marié ? …",
+     "intro": "Kaç yaşındasın? Nerede yaşıyorsun?…",
+     "v": [
+      [
+       "Tu as quel âge ?",
+       "kaç yaşındasın?",
+       "tü a kel aj",
+       "🎂"
+      ],
+      [
+       "J'ai … ans",
+       "… yaşındayım",
+       "je … ã",
+       "🙋"
+      ],
+      [
+       "Tu es marié ?",
+       "evli misin?",
+       "tü e marye",
+       "💍"
+      ],
+      [
+       "Tu as des enfants ?",
+       "çocuğun var mı?",
+       "tü a de zãfã",
+       "👶"
+      ],
+      [
+       "Où travailles-tu ?",
+       "nerede çalışıyorsun?",
+       "u travay tü",
+       "💼"
+      ],
+      [
+       "Où habites-tu ?",
+       "nerede yaşıyorsun?",
+       "u abit tü",
+       "🏠"
+      ],
+      [
+       "Quels sont tes loisirs ?",
+       "hobilerin neler?",
+       "kel sõ te lvazir",
+       "🎨"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u19",
+   "level": "orta",
+   "title": "Hayvanlar 2",
+   "subtitle": "Vahşi hayvanlar, çiftlik, böcekler, deniz ve kuşlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u19l1",
+     "kind": "vocab",
+     "title": "Vahşi hayvanlar",
+     "subtitle": "le lion · le tigre · l'éléphant …",
+     "intro": "Aslan, kaplan, fil…",
+     "v": [
+      [
+       "le lion",
+       "aslan",
+       "lö lyõ",
+       "🦁",
+       "m"
+      ],
+      [
+       "le tigre",
+       "kaplan",
+       "lö tigr",
+       "🐯",
+       "m"
+      ],
+      [
+       "l'éléphant",
+       "fil",
+       "lelefã",
+       "🐘",
+       "m"
+      ],
+      [
+       "le singe",
+       "maymun",
+       "lö sẽj",
+       "🐒",
+       "m"
+      ],
+      [
+       "le renard",
+       "tilki",
+       "lö rınar",
+       "🦊",
+       "m"
+      ],
+      [
+       "le lapin",
+       "tavşan",
+       "lö lapẽ",
+       "🐇",
+       "m"
+      ],
+      [
+       "le serpent",
+       "yılan",
+       "lö serpã",
+       "🐍",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u19l2",
+     "kind": "vocab",
+     "title": "Çiftlik",
+     "subtitle": "le mouton · la chèvre · le cochon …",
+     "intro": "Koyun, keçi, ördek…",
+     "v": [
+      [
+       "le mouton",
+       "koyun",
+       "lö mutõ",
+       "🐑",
+       "m"
+      ],
+      [
+       "la chèvre",
+       "keçi",
+       "la şevr",
+       "🐐",
+       "f"
+      ],
+      [
+       "le cochon",
+       "domuz",
+       "lö koşõ",
+       "🐖",
+       "m"
+      ],
+      [
+       "le coq",
+       "horoz",
+       "lö kok",
+       "🐓",
+       "m"
+      ],
+      [
+       "le canard",
+       "ördek",
+       "lö kanar",
+       "🦆",
+       "m"
+      ],
+      [
+       "l'âne",
+       "eşek",
+       "lan",
+       "🫏",
+       "m"
+      ],
+      [
+       "la ferme",
+       "çiftlik",
+       "la ferm",
+       "🚜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u19l3",
+     "kind": "vocab",
+     "title": "Böcekler",
+     "subtitle": "l'abeille · la mouche · le moustique …",
+     "intro": "Arı, sinek, kelebek…",
+     "v": [
+      [
+       "l'abeille",
+       "arı",
+       "labey",
+       "🐝",
+       "f"
+      ],
+      [
+       "la mouche",
+       "karasinek",
+       "la muş",
+       "🪰",
+       "f"
+      ],
+      [
+       "le moustique",
+       "sivrisinek",
+       "lö mustik",
+       "🦟",
+       "m"
+      ],
+      [
+       "le papillon",
+       "kelebek",
+       "lö papiyõ",
+       "🦋",
+       "m"
+      ],
+      [
+       "la fourmi",
+       "karınca",
+       "la furmi",
+       "🐜",
+       "f"
+      ],
+      [
+       "l'araignée",
+       "örümcek",
+       "lareny",
+       "🕷️",
+       "f"
+      ],
+      [
+       "la coccinelle",
+       "uğur böceği",
+       "la koksinel",
+       "🐞",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u19l4",
+     "kind": "vocab",
+     "title": "Deniz canlıları",
+     "subtitle": "la baleine · le dauphin · le requin …",
+     "intro": "Balina, yunus, köpekbalığı…",
+     "v": [
+      [
+       "la baleine",
+       "balina",
+       "la balen",
+       "🐋",
+       "f"
+      ],
+      [
+       "le dauphin",
+       "yunus",
+       "lö dofẽ",
+       "🐬",
+       "m"
+      ],
+      [
+       "le requin",
+       "köpekbalığı",
+       "lö rıkẽ",
+       "🦈",
+       "m"
+      ],
+      [
+       "la pieuvre",
+       "ahtapot",
+       "la pyövr",
+       "🐙",
+       "f"
+      ],
+      [
+       "le crabe",
+       "yengeç",
+       "lö krab",
+       "🦀",
+       "m"
+      ],
+      [
+       "la tortue",
+       "kaplumbağa",
+       "la tortü",
+       "🐢",
+       "f"
+      ],
+      [
+       "le phoque",
+       "fok",
+       "lö fok",
+       "🦭",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u19l5",
+     "kind": "vocab",
+     "title": "Kuşlar",
+     "subtitle": "l'aigle · le pigeon · le perroquet …",
+     "intro": "Kartal, güvercin, papağan…",
+     "v": [
+      [
+       "l'aigle",
+       "kartal",
+       "legl",
+       "🦅",
+       "m"
+      ],
+      [
+       "le pigeon",
+       "güvercin",
+       "lö pijõ",
+       "🕊️",
+       "m"
+      ],
+      [
+       "le perroquet",
+       "papağan",
+       "lö peroke",
+       "🦜",
+       "m"
+      ],
+      [
+       "le hibou",
+       "baykuş",
+       "lö ibu",
+       "🦉",
+       "m"
+      ],
+      [
+       "le pingouin",
+       "penguen",
+       "lö pẽgvẽ",
+       "🐧",
+       "m"
+      ],
+      [
+       "le cygne",
+       "kuğu",
+       "lö siny",
+       "🦢",
+       "m"
+      ],
+      [
+       "le nid",
+       "yuva",
+       "lö ni",
+       "🪺",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u20",
+   "level": "orta",
+   "title": "Doğa 2",
+   "subtitle": "Hava olayları, manzara, bitkiler, gökyüzü, malzemeler · 5 ders",
+   "lessons": [
+    {
+     "id": "u20l1",
+     "kind": "vocab",
+     "title": "Hava olayları",
+     "subtitle": "le nuage · la tempête · le brouillard …",
+     "intro": "Bulut, fırtına, sis…",
+     "v": [
+      [
+       "le nuage",
+       "bulut",
+       "lö nüaj",
+       "☁️",
+       "m"
+      ],
+      [
+       "la tempête",
+       "fırtına",
+       "la tãpet",
+       "⛈️",
+       "f"
+      ],
+      [
+       "le brouillard",
+       "sis",
+       "lö bruyar",
+       "🌫️",
+       "m"
+      ],
+      [
+       "l'éclair",
+       "şimşek",
+       "lekler",
+       "⚡",
+       "m"
+      ],
+      [
+       "le tonnerre",
+       "gök gürültüsü",
+       "lö toner",
+       "🌩️",
+       "m"
+      ],
+      [
+       "l'arc-en-ciel",
+       "gökkuşağı",
+       "larkãsyel",
+       "🌈",
+       "m"
+      ],
+      [
+       "la grêle",
+       "dolu",
+       "la grel",
+       "🌨️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u20l2",
+     "kind": "vocab",
+     "title": "Manzara",
+     "subtitle": "le lac · l'île · la vallée …",
+     "intro": "Göl, ada, vadi…",
+     "v": [
+      [
+       "le lac",
+       "göl",
+       "lö lak",
+       "🏞️",
+       "m"
+      ],
+      [
+       "l'île",
+       "ada",
+       "lil",
+       "🏝️",
+       "f"
+      ],
+      [
+       "la vallée",
+       "vadi",
+       "la vale",
+       "🏔️",
+       "f"
+      ],
+      [
+       "le désert",
+       "çöl",
+       "lö dezer",
+       "🏜️",
+       "m"
+      ],
+      [
+       "la cascade",
+       "şelale",
+       "la kaskad",
+       "💦",
+       "f"
+      ],
+      [
+       "la côte",
+       "kıyı",
+       "la kot",
+       "🏖️",
+       "f"
+      ],
+      [
+       "la colline",
+       "tepe",
+       "la kolin",
+       "⛰️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u20l3",
+     "kind": "vocab",
+     "title": "Bitkiler",
+     "subtitle": "la plante · la feuille · l'herbe …",
+     "intro": "Bitki, yaprak, çimen…",
+     "v": [
+      [
+       "la plante",
+       "bitki",
+       "la plãt",
+       "🌱",
+       "f"
+      ],
+      [
+       "la feuille",
+       "yaprak",
+       "la föy",
+       "🍃",
+       "f"
+      ],
+      [
+       "l'herbe",
+       "çimen",
+       "lerb",
+       "🌿",
+       "f"
+      ],
+      [
+       "la rose",
+       "gül",
+       "la roz",
+       "🌹",
+       "f"
+      ],
+      [
+       "la branche",
+       "dal",
+       "la brãş",
+       "🌿",
+       "f"
+      ],
+      [
+       "la racine",
+       "kök",
+       "la rasin",
+       "🫚",
+       "f"
+      ],
+      [
+       "la graine",
+       "tohum",
+       "la gren",
+       "🌰",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u20l4",
+     "kind": "vocab",
+     "title": "Gökyüzü",
+     "subtitle": "l'étoile · la lune · la planète …",
+     "intro": "Yıldız, ay, gezegen…",
+     "v": [
+      [
+       "l'étoile",
+       "yıldız",
+       "letval",
+       "⭐",
+       "f"
+      ],
+      [
+       "la lune",
+       "ay (gökteki)",
+       "la lün",
+       "🌙",
+       "f"
+      ],
+      [
+       "la planète",
+       "gezegen",
+       "la planet",
+       "🪐",
+       "f"
+      ],
+      [
+       "l'espace",
+       "uzay",
+       "lespas",
+       "🚀",
+       "m"
+      ],
+      [
+       "le lever du soleil",
+       "gün doğumu",
+       "lö lıve dü soley",
+       "🌅",
+       "m"
+      ],
+      [
+       "le coucher du soleil",
+       "gün batımı",
+       "lö kuşe dü soley",
+       "🌇",
+       "m"
+      ],
+      [
+       "l'ombre",
+       "gölge",
+       "lõbr",
+       "🌑",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u20l5",
+     "kind": "vocab",
+     "title": "Malzemeler",
+     "subtitle": "la pierre · le bois · le métal …",
+     "intro": "Taş, tahta, altın…",
+     "v": [
+      [
+       "la pierre",
+       "taş",
+       "la pyer",
+       "🪨",
+       "f"
+      ],
+      [
+       "le bois",
+       "tahta",
+       "lö bva",
+       "🪵",
+       "m"
+      ],
+      [
+       "le métal",
+       "metal",
+       "lö metal",
+       "⚙️",
+       "m"
+      ],
+      [
+       "l'or",
+       "altın",
+       "lor",
+       "🥇",
+       "m"
+      ],
+      [
+       "l'argent métal",
+       "gümüş",
+       "larjã metal",
+       "🥈",
+       "m"
+      ],
+      [
+       "le verre",
+       "cam",
+       "lö ver",
+       "🪟",
+       "m"
+      ],
+      [
+       "le papier",
+       "kâğıt",
+       "lö papye",
+       "📄",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u21",
+   "level": "orta",
+   "title": "Şehir 2",
+   "subtitle": "Binalar, sokak, trafik, hizmetler, eğlence · 5 ders",
+   "lessons": [
+    {
+     "id": "u21l1",
+     "kind": "vocab",
+     "title": "Binalar",
+     "subtitle": "le bâtiment · la tour · la poste …",
+     "intro": "Bina, kule, kütüphane…",
+     "v": [
+      [
+       "le bâtiment",
+       "bina",
+       "lö batimã",
+       "🏢",
+       "m"
+      ],
+      [
+       "la tour",
+       "kule",
+       "la tur",
+       "🗼",
+       "f"
+      ],
+      [
+       "la poste",
+       "postane",
+       "la post",
+       "📮",
+       "f"
+      ],
+      [
+       "la bibliothèque",
+       "kütüphane",
+       "la bibliyotek",
+       "📚",
+       "f"
+      ],
+      [
+       "l'université",
+       "üniversite",
+       "lüniversite",
+       "🎓",
+       "f"
+      ],
+      [
+       "l'usine",
+       "fabrika",
+       "lüzin",
+       "🏭",
+       "f"
+      ],
+      [
+       "le stade",
+       "stadyum",
+       "lö stad",
+       "🏟️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u21l2",
+     "kind": "vocab",
+     "title": "Sokakta",
+     "subtitle": "le trottoir · le carrefour · le feu rouge …",
+     "intro": "Kaldırım, kavşak, durak…",
+     "v": [
+      [
+       "le trottoir",
+       "kaldırım",
+       "lö trotvar",
+       "🚶",
+       "m"
+      ],
+      [
+       "le carrefour",
+       "kavşak",
+       "lö karfur",
+       "🔀",
+       "m"
+      ],
+      [
+       "le feu rouge",
+       "trafik ışığı",
+       "lö fö ruj",
+       "🚥",
+       "m"
+      ],
+      [
+       "la fontaine",
+       "çeşme",
+       "la fõten",
+       "⛲",
+       "f"
+      ],
+      [
+       "le parking",
+       "otopark",
+       "lö parking",
+       "🅿️",
+       "m"
+      ],
+      [
+       "l'arrêt de bus",
+       "durak",
+       "lare dı büs",
+       "🚏",
+       "m"
+      ],
+      [
+       "le passage piéton",
+       "yaya geçidi",
+       "lö pasaj pyetõ",
+       "🚸",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u21l3",
+     "kind": "vocab",
+     "title": "Trafik",
+     "subtitle": "la circulation · l'accident · l'embouteillage …",
+     "intro": "Kaza, benzin, ehliyet…",
+     "v": [
+      [
+       "la circulation",
+       "trafik",
+       "la sirkülasyõ",
+       "🚗",
+       "f"
+      ],
+      [
+       "l'accident",
+       "kaza",
+       "laksidã",
+       "💥",
+       "m"
+      ],
+      [
+       "l'embouteillage",
+       "trafik sıkışıklığı",
+       "lãbuteyaj",
+       "🚙",
+       "m"
+      ],
+      [
+       "l'essence",
+       "benzin",
+       "lesãs",
+       "⛽",
+       "f"
+      ],
+      [
+       "le permis de conduire",
+       "ehliyet",
+       "lö permi dı kõdüir",
+       "🪪",
+       "m"
+      ],
+      [
+       "conduire",
+       "araba kullanmak",
+       "kõdüir",
+       "🚘"
+      ],
+      [
+       "se garer",
+       "park etmek",
+       "sı gare",
+       "🅿️"
+      ]
+     ]
+    },
+    {
+     "id": "u21l4",
+     "kind": "vocab",
+     "title": "Hizmetler",
+     "subtitle": "le commissariat · les pompiers · le pharmacien …",
+     "intro": "Karakol, itfaiye, berber…",
+     "v": [
+      [
+       "le commissariat",
+       "polis karakolu",
+       "lö komisarya",
+       "👮",
+       "m"
+      ],
+      [
+       "les pompiers",
+       "itfaiye",
+       "le põpye",
+       "🚒"
+      ],
+      [
+       "le pharmacien",
+       "eczacı",
+       "lö farmasyẽ",
+       "💊",
+       "m"
+      ],
+      [
+       "le coiffeur",
+       "kuaför",
+       "lö kvaför",
+       "💈",
+       "m"
+      ],
+      [
+       "la boulangerie",
+       "fırın (ekmekçi)",
+       "la bulãjri",
+       "🥖",
+       "f"
+      ],
+      [
+       "la boucherie",
+       "kasap",
+       "la buşri",
+       "🥩",
+       "f"
+      ],
+      [
+       "le fleuriste",
+       "çiçekçi",
+       "lö flörist",
+       "💐",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u21l5",
+     "kind": "vocab",
+     "title": "Eğlence yerleri",
+     "subtitle": "le cinéma · le théâtre · le concert …",
+     "intro": "Sinema, tiyatro, konser…",
+     "v": [
+      [
+       "le cinéma",
+       "sinema",
+       "lö sinema",
+       "🎬",
+       "m"
+      ],
+      [
+       "le théâtre",
+       "tiyatro",
+       "lö teatr",
+       "🎭",
+       "m"
+      ],
+      [
+       "le concert",
+       "konser",
+       "lö kõser",
+       "🎤",
+       "m"
+      ],
+      [
+       "le bistrot",
+       "kafe",
+       "lö bistro",
+       "☕",
+       "m"
+      ],
+      [
+       "le bar",
+       "bar",
+       "lö bar",
+       "🍸",
+       "m"
+      ],
+      [
+       "le zoo",
+       "hayvanat bahçesi",
+       "lö zoo",
+       "🦒",
+       "m"
+      ],
+      [
+       "le parc d'attractions",
+       "lunapark",
+       "lö park datraksyõ",
+       "🎡",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u22",
+   "level": "orta",
+   "title": "Ev 2",
+   "subtitle": "Evin bölümleri, mobilya, eşyalar, aletler, bahçe · 5 ders",
+   "lessons": [
+    {
+     "id": "u22l1",
+     "kind": "vocab",
+     "title": "Evin bölümleri",
+     "subtitle": "le mur · le toit · le sol …",
+     "intro": "Duvar, çatı, merdiven…",
+     "v": [
+      [
+       "le mur",
+       "duvar",
+       "lö mür",
+       "🧱",
+       "m"
+      ],
+      [
+       "le toit",
+       "çatı",
+       "lö tva",
+       "🏠",
+       "m"
+      ],
+      [
+       "le sol",
+       "zemin",
+       "lö sol",
+       "🟫",
+       "m"
+      ],
+      [
+       "le plafond",
+       "tavan",
+       "lö plafõ",
+       "⬆️",
+       "m"
+      ],
+      [
+       "l'escalier",
+       "merdiven",
+       "leskalye",
+       "🪜",
+       "m"
+      ],
+      [
+       "le balcon",
+       "balkon",
+       "lö balkõ",
+       "🏙️",
+       "m"
+      ],
+      [
+       "le couloir",
+       "koridor",
+       "lö kulvar",
+       "🚪",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u22l2",
+     "kind": "vocab",
+     "title": "Mobilya",
+     "subtitle": "l'armoire · le fauteuil · le tapis …",
+     "intro": "Dolap, koltuk, halı…",
+     "v": [
+      [
+       "l'armoire",
+       "dolap",
+       "larmvar",
+       "🗄️",
+       "f"
+      ],
+      [
+       "le fauteuil",
+       "koltuk",
+       "lö fotöy",
+       "💺",
+       "m"
+      ],
+      [
+       "le tapis",
+       "halı",
+       "lö tapi",
+       "🟥",
+       "m"
+      ],
+      [
+       "le rideau",
+       "perde",
+       "lö rido",
+       "🪟",
+       "m"
+      ],
+      [
+       "l'oreiller",
+       "yastık",
+       "loreye",
+       "🛏️",
+       "m"
+      ],
+      [
+       "la couverture",
+       "battaniye",
+       "la kuvertür",
+       "🛌",
+       "f"
+      ],
+      [
+       "le tiroir",
+       "çekmece",
+       "lö tirvar",
+       "🗃️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u22l3",
+     "kind": "vocab",
+     "title": "Ev eşyaları",
+     "subtitle": "la machine à laver · le micro-ondes · le four …",
+     "intro": "Çamaşır makinesi, fırın, vazo…",
+     "v": [
+      [
+       "la machine à laver",
+       "çamaşır makinesi",
+       "la maşin a lave",
+       "🧺",
+       "f"
+      ],
+      [
+       "le micro-ondes",
+       "mikrodalga",
+       "lö mikroõd",
+       "📡",
+       "m"
+      ],
+      [
+       "le four",
+       "fırın (mutfak)",
+       "lö fur",
+       "♨️",
+       "m"
+      ],
+      [
+       "la bouilloire",
+       "su ısıtıcısı",
+       "la buyvar",
+       "🫖",
+       "f"
+      ],
+      [
+       "le vase",
+       "vazo",
+       "lö vaz",
+       "🏺",
+       "m"
+      ],
+      [
+       "le tableau",
+       "tablo",
+       "lö tablo",
+       "🖼️",
+       "m"
+      ],
+      [
+       "la bougie",
+       "mum",
+       "la buji",
+       "🕯️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u22l4",
+     "kind": "vocab",
+     "title": "Aletler",
+     "subtitle": "le marteau · les ciseaux · le clou …",
+     "intro": "Çekiç, makas, çivi…",
+     "v": [
+      [
+       "le marteau",
+       "çekiç",
+       "lö marto",
+       "🔨",
+       "m"
+      ],
+      [
+       "les ciseaux",
+       "makas",
+       "le sizo",
+       "✂️"
+      ],
+      [
+       "le clou",
+       "çivi",
+       "lö klu",
+       "📌",
+       "m"
+      ],
+      [
+       "la corde",
+       "ip",
+       "la kord",
+       "🧵",
+       "f"
+      ],
+      [
+       "la pile",
+       "pil",
+       "la pil",
+       "🔋",
+       "f"
+      ],
+      [
+       "l'ampoule",
+       "ampul",
+       "lãpul",
+       "💡",
+       "f"
+      ],
+      [
+       "le seau",
+       "kova",
+       "lö so",
+       "🪣",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u22l5",
+     "kind": "vocab",
+     "title": "Bahçe",
+     "subtitle": "le jardin · la clôture · le pot de fleurs …",
+     "intro": "Bahçe, çit, saksı…",
+     "v": [
+      [
+       "le jardin",
+       "bahçe",
+       "lö jardẽ",
+       "🏡",
+       "m"
+      ],
+      [
+       "la clôture",
+       "çit",
+       "la klotür",
+       "🚧",
+       "f"
+      ],
+      [
+       "le pot de fleurs",
+       "saksı",
+       "lö po dı flör",
+       "🪴",
+       "m"
+      ],
+      [
+       "le tuyau",
+       "hortum",
+       "lö tüyo",
+       "💧",
+       "m"
+      ],
+      [
+       "la pelle",
+       "kürek",
+       "la pel",
+       "⛏️",
+       "f"
+      ],
+      [
+       "arroser",
+       "sulamak",
+       "aroze",
+       "💦"
+      ],
+      [
+       "tondre la pelouse",
+       "çim biçmek",
+       "tõdr la pıluz",
+       "🌱"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u23",
+   "level": "orta",
+   "title": "Yemek 2",
+   "subtitle": "Sebzeler, meyveler, et, tatlılar, pişirme · 5 ders",
+   "lessons": [
+    {
+     "id": "u23l1",
+     "kind": "vocab",
+     "title": "Sebzeler",
+     "subtitle": "le chou · l'aubergine · le champignon …",
+     "intro": "Lahana, patlıcan, mantar…",
+     "v": [
+      [
+       "le chou",
+       "lahana",
+       "lö şu",
+       "🥬",
+       "m"
+      ],
+      [
+       "l'aubergine",
+       "patlıcan",
+       "lobergin",
+       "🍆",
+       "f"
+      ],
+      [
+       "le champignon",
+       "mantar",
+       "lö şãpinyõ",
+       "🍄",
+       "m"
+      ],
+      [
+       "l'ail",
+       "sarımsak",
+       "lay",
+       "🧄",
+       "m"
+      ],
+      [
+       "le maïs",
+       "mısır",
+       "lö mais",
+       "🌽",
+       "m"
+      ],
+      [
+       "les petits pois",
+       "bezelye",
+       "le pıti pva",
+       "🫛"
+      ],
+      [
+       "les épinards",
+       "ıspanak",
+       "le zepinar",
+       "🥬"
+      ]
+     ]
+    },
+    {
+     "id": "u23l2",
+     "kind": "vocab",
+     "title": "Meyveler 3",
+     "subtitle": "la pêche · l'abricot · l'ananas …",
+     "intro": "Şeftali, kayısı, ananas…",
+     "v": [
+      [
+       "la pêche",
+       "şeftali",
+       "la peş",
+       "🍑",
+       "f"
+      ],
+      [
+       "l'abricot",
+       "kayısı",
+       "labriko",
+       "🟠",
+       "m"
+      ],
+      [
+       "l'ananas",
+       "ananas",
+       "lananas",
+       "🍍",
+       "m"
+      ],
+      [
+       "la prune",
+       "erik",
+       "la prün",
+       "🫐",
+       "f"
+      ],
+      [
+       "la figue",
+       "incir",
+       "la fig",
+       "🟣",
+       "f"
+      ],
+      [
+       "la grenade",
+       "nar",
+       "la grınad",
+       "❤️",
+       "f"
+      ],
+      [
+       "le melon",
+       "kavun",
+       "lö mılõ",
+       "🍈",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u23l3",
+     "kind": "vocab",
+     "title": "Et ve deniz ürünleri",
+     "subtitle": "le bœuf · l'agneau · la saucisse …",
+     "intro": "Sığır eti, karides, somon…",
+     "v": [
+      [
+       "le bœuf",
+       "sığır eti",
+       "lö böf",
+       "🥩",
+       "m"
+      ],
+      [
+       "l'agneau",
+       "kuzu eti",
+       "lanyo",
+       "🍖",
+       "m"
+      ],
+      [
+       "la saucisse",
+       "sosis",
+       "la sosis",
+       "🌭",
+       "f"
+      ],
+      [
+       "la crevette",
+       "karides",
+       "la krıvet",
+       "🦐",
+       "f"
+      ],
+      [
+       "le saumon",
+       "somon",
+       "lö somõ",
+       "🐟",
+       "m"
+      ],
+      [
+       "le thon",
+       "ton balığı",
+       "lö tõ",
+       "🐠",
+       "m"
+      ],
+      [
+       "la boulette",
+       "köfte",
+       "la bulet",
+       "🧆",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u23l4",
+     "kind": "vocab",
+     "title": "Tatlılar",
+     "subtitle": "le gâteau · la glace · le chocolat …",
+     "intro": "Pasta, dondurma, çikolata…",
+     "v": [
+      [
+       "le gâteau",
+       "pasta",
+       "lö gato",
+       "🍰",
+       "m"
+      ],
+      [
+       "la glace",
+       "dondurma",
+       "la glas",
+       "🍦",
+       "f"
+      ],
+      [
+       "le chocolat",
+       "çikolata",
+       "lö şokola",
+       "🍫",
+       "m"
+      ],
+      [
+       "le biscuit",
+       "kurabiye",
+       "lö biskvi",
+       "🍪",
+       "m"
+      ],
+      [
+       "le bonbon",
+       "şekerleme",
+       "lö bõbõ",
+       "🍬",
+       "m"
+      ],
+      [
+       "le dessert",
+       "tatlı (yemek sonu)",
+       "lö deser",
+       "🍮",
+       "m"
+      ],
+      [
+       "les crêpes",
+       "krep",
+       "le krep",
+       "🥞"
+      ]
+     ]
+    },
+    {
+     "id": "u23l5",
+     "kind": "vocab",
+     "title": "Pişirme",
+     "subtitle": "faire frire · faire bouillir · cuire au four …",
+     "intro": "Kızartmak, haşlamak, doğramak…",
+     "v": [
+      [
+       "faire frire",
+       "kızartmak",
+       "fer frir",
+       "🍳"
+      ],
+      [
+       "faire bouillir",
+       "haşlamak",
+       "fer buyir",
+       "♨️"
+      ],
+      [
+       "cuire au four",
+       "fırında pişirmek",
+       "küir o fur",
+       "🥖"
+      ],
+      [
+       "couper",
+       "kesmek, doğramak",
+       "kupe",
+       "🔪"
+      ],
+      [
+       "mélanger",
+       "karıştırmak",
+       "melãje",
+       "🥄"
+      ],
+      [
+       "goûter",
+       "tadına bakmak",
+       "gute",
+       "👅"
+      ],
+      [
+       "la recette",
+       "tarif",
+       "la rıset",
+       "📖",
+       "f"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u24",
+   "level": "orta",
+   "title": "Mutfak ve tat",
+   "subtitle": "Tatlar, içecekler, sofra, restoran · 5 ders",
+   "lessons": [
+    {
+     "id": "u24l1",
+     "kind": "vocab",
+     "title": "Tatlar",
+     "subtitle": "sucré · acide · épicé …",
+     "intro": "Tatlı, ekşi, acı…",
+     "v": [
+      [
+       "sucré",
+       "tatlı (tat)",
+       "sükre",
+       "🍬"
+      ],
+      [
+       "acide",
+       "ekşi",
+       "asid",
+       "🍋"
+      ],
+      [
+       "épicé",
+       "acı (baharatlı)",
+       "epise",
+       "🌶️"
+      ],
+      [
+       "amer",
+       "acı (tat)",
+       "amer",
+       "☕"
+      ],
+      [
+       "salé",
+       "tuzlu",
+       "sale",
+       "🧂"
+      ],
+      [
+       "frais",
+       "taze",
+       "fre",
+       "🥬"
+      ],
+      [
+       "affamé",
+       "aç",
+       "afame",
+       "😋"
+      ]
+     ]
+    },
+    {
+     "id": "u24l2",
+     "kind": "vocab",
+     "title": "İçecekler 2",
+     "subtitle": "l'eau gazeuse · la limonade · le chocolat chaud …",
+     "intro": "Maden suyu, limonata, kakao…",
+     "v": [
+      [
+       "l'eau gazeuse",
+       "maden suyu",
+       "lo gazöz",
+       "💧",
+       "f"
+      ],
+      [
+       "la limonade",
+       "limonata",
+       "la limonad",
+       "🍋",
+       "f"
+      ],
+      [
+       "le chocolat chaud",
+       "sıcak çikolata",
+       "lö şokola şo",
+       "☕",
+       "m"
+      ],
+      [
+       "le cocktail",
+       "kokteyl",
+       "lö koktel",
+       "🍹",
+       "m"
+      ],
+      [
+       "le glaçon",
+       "buz küpü",
+       "lö glasõ",
+       "🧊",
+       "m"
+      ],
+      [
+       "j'ai soif",
+       "susadım",
+       "je svaf",
+       "🥤"
+      ],
+      [
+       "la tasse",
+       "kupa",
+       "la tas",
+       "☕",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u24l3",
+     "kind": "vocab",
+     "title": "Sofra",
+     "subtitle": "le gobelet · la serviette de table · la nappe …",
+     "intro": "Bardak, peçete, kase…",
+     "v": [
+      [
+       "le gobelet",
+       "su bardağı",
+       "lö goble",
+       "🥛",
+       "m"
+      ],
+      [
+       "la serviette de table",
+       "peçete",
+       "la servyet dı tabl",
+       "🧻",
+       "f"
+      ],
+      [
+       "la nappe",
+       "masa örtüsü",
+       "la nap",
+       "🟦",
+       "f"
+      ],
+      [
+       "le bol",
+       "kase",
+       "lö bol",
+       "🥣",
+       "m"
+      ],
+      [
+       "la poêle",
+       "tava",
+       "la pval",
+       "🍳",
+       "f"
+      ],
+      [
+       "le plateau",
+       "tepsi",
+       "lö plato",
+       "🍽️",
+       "m"
+      ],
+      [
+       "le décapsuleur",
+       "şişe açacağı",
+       "lö dekapsülör",
+       "🍾",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u24l4",
+     "kind": "vocab",
+     "title": "Restoranda 2",
+     "subtitle": "le serveur · le pourboire · réserver une table …",
+     "intro": "Garson, bahşiş, sipariş…",
+     "v": [
+      [
+       "le serveur",
+       "garson",
+       "lö servör",
+       "🤵",
+       "m"
+      ],
+      [
+       "le pourboire",
+       "bahşiş",
+       "lö purbvar",
+       "💶",
+       "m"
+      ],
+      [
+       "réserver une table",
+       "masa ayırtmak",
+       "rezerve ün tabl",
+       "📞"
+      ],
+      [
+       "commander",
+       "sipariş vermek",
+       "komãde",
+       "📝"
+      ],
+      [
+       "le plat principal",
+       "ana yemek",
+       "lö pla prẽsipal",
+       "🍽️",
+       "m"
+      ],
+      [
+       "le hors-d'œuvre",
+       "ara sıcak, meze",
+       "lö or dövr",
+       "🥗",
+       "m"
+      ],
+      [
+       "le végétarien",
+       "vejetaryen",
+       "lö vejetaryẽ",
+       "🥦",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u24l5",
+     "kind": "vocab",
+     "title": "Yemek sıfatları",
+     "subtitle": "cru · frit · bouilli …",
+     "intro": "Çiğ, kızarmış, ızgara…",
+     "v": [
+      [
+       "cru",
+       "çiğ",
+       "krü",
+       "🥩"
+      ],
+      [
+       "frit",
+       "kızarmış",
+       "fri",
+       "🍟"
+      ],
+      [
+       "bouilli",
+       "haşlanmış",
+       "buyi",
+       "🥚"
+      ],
+      [
+       "grillé",
+       "ızgara",
+       "griye",
+       "🍢"
+      ],
+      [
+       "fait maison",
+       "ev yapımı",
+       "fe mezõ",
+       "🏠"
+      ],
+      [
+       "fade",
+       "lezzetsiz",
+       "fad",
+       "😐"
+      ],
+      [
+       "je n'ai plus faim",
+       "doydum",
+       "jö ne plü fẽ",
+       "😌"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u25",
+   "level": "orta",
+   "title": "Giyim 2",
+   "subtitle": "Giysiler, kumaş, aksesuar, beden, alışveriş · 5 ders",
+   "lessons": [
+    {
+     "id": "u25l1",
+     "kind": "vocab",
+     "title": "Giysiler 2",
+     "subtitle": "le manteau · le short · le pyjama …",
+     "intro": "Palto, şort, pijama…",
+     "v": [
+      [
+       "le manteau",
+       "palto",
+       "lö mãto",
+       "🧥",
+       "m"
+      ],
+      [
+       "le short",
+       "şort",
+       "lö şort",
+       "🩳",
+       "m"
+      ],
+      [
+       "le pyjama",
+       "pijama",
+       "lö pijama",
+       "🛌",
+       "m"
+      ],
+      [
+       "les sous-vêtements",
+       "iç çamaşırı",
+       "le su vetmã",
+       "🩲"
+      ],
+      [
+       "le maillot de bain",
+       "mayo",
+       "lö mayo dı bẽ",
+       "👙",
+       "m"
+      ],
+      [
+       "le costume",
+       "takım elbise",
+       "lö kostüm",
+       "🤵",
+       "m"
+      ],
+      [
+       "le chemisier",
+       "bluz",
+       "lö şımizye",
+       "👚",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u25l2",
+     "kind": "vocab",
+     "title": "Kumaş ve desen",
+     "subtitle": "le coton · la laine · le cuir …",
+     "intro": "Pamuk, yün, çizgili…",
+     "v": [
+      [
+       "le coton",
+       "pamuk (kumaş)",
+       "lö kotõ",
+       "🧶",
+       "m"
+      ],
+      [
+       "la laine",
+       "yün",
+       "la len",
+       "🐑",
+       "f"
+      ],
+      [
+       "le cuir",
+       "deri",
+       "lö küir",
+       "👞",
+       "m"
+      ],
+      [
+       "la soie",
+       "ipek",
+       "la sva",
+       "🎀",
+       "f"
+      ],
+      [
+       "rayé",
+       "çizgili",
+       "reye",
+       "🦓"
+      ],
+      [
+       "à carreaux",
+       "kareli",
+       "a karo",
+       "🏁"
+      ],
+      [
+       "uni",
+       "düz renk",
+       "üni",
+       "⬜"
+      ]
+     ]
+    },
+    {
+     "id": "u25l3",
+     "kind": "vocab",
+     "title": "Aksesuarlar 2",
+     "subtitle": "la ceinture · la cravate · le portefeuille …",
+     "intro": "Kemer, kravat, cüzdan…",
+     "v": [
+      [
+       "la ceinture",
+       "kemer",
+       "la sẽtür",
+       "🪢",
+       "f"
+      ],
+      [
+       "la cravate",
+       "kravat",
+       "la kravat",
+       "👔",
+       "f"
+      ],
+      [
+       "le portefeuille",
+       "cüzdan",
+       "lö portıföy",
+       "👛",
+       "m"
+      ],
+      [
+       "les gants",
+       "eldiven",
+       "le gã",
+       "🧤"
+      ],
+      [
+       "l'écharpe",
+       "atkı",
+       "leşarp",
+       "🧣",
+       "f"
+      ],
+      [
+       "le parapluie",
+       "şemsiye",
+       "lö paraplüi",
+       "☂️",
+       "m"
+      ],
+      [
+       "la bague",
+       "yüzük",
+       "la bag",
+       "💍",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u25l4",
+     "kind": "vocab",
+     "title": "Beden ve uyum",
+     "subtitle": "la taille · serré · large …",
+     "intro": "Beden, dar, bol…",
+     "v": [
+      [
+       "la taille",
+       "beden (numara)",
+       "la tay",
+       "📏",
+       "f"
+      ],
+      [
+       "serré",
+       "dar",
+       "sere",
+       "🤏"
+      ],
+      [
+       "large",
+       "bol",
+       "larj",
+       "👖"
+      ],
+      [
+       "ça te va bien",
+       "yakışıyor",
+       "sa tı va byẽ",
+       "👌"
+      ],
+      [
+       "la mode",
+       "moda",
+       "la mod",
+       "🕶️",
+       "f"
+      ],
+      [
+       "la cabine d'essayage",
+       "deneme kabini",
+       "la kabin deseyaj",
+       "🚪",
+       "f"
+      ],
+      [
+       "la fermeture éclair",
+       "fermuar",
+       "la fermıtür ekler",
+       "🤐",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u25l5",
+     "kind": "vocab",
+     "title": "Alışveriş fiilleri",
+     "subtitle": "payer · essayer · échanger …",
+     "intro": "Ödemek, iade etmek…",
+     "v": [
+      [
+       "payer",
+       "ödemek",
+       "peye",
+       "💳"
+      ],
+      [
+       "essayer",
+       "denemek (giysi)",
+       "eseye",
+       "👗"
+      ],
+      [
+       "échanger",
+       "değiştirmek (ürün)",
+       "eşãje",
+       "🔄"
+      ],
+      [
+       "rendre",
+       "iade etmek",
+       "rãdr",
+       "↩️"
+      ],
+      [
+       "en solde",
+       "indirimde",
+       "ã sold",
+       "🏷️"
+      ],
+      [
+       "dépenser",
+       "harcamak",
+       "depãse",
+       "💸"
+      ],
+      [
+       "économiser",
+       "para biriktirmek",
+       "ekonomize",
+       "🐷"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u26",
+   "level": "orta",
+   "title": "Vücut ve sağlık 2",
+   "subtitle": "Vücut, organlar, hastalıklar, tedavi, hastane · 5 ders",
+   "lessons": [
+    {
+     "id": "u26l1",
+     "kind": "vocab",
+     "title": "Vücut 2",
+     "subtitle": "le visage · le nez · la bouche …",
+     "intro": "Yüz, burun, ağız…",
+     "v": [
+      [
+       "le visage",
+       "yüz",
+       "lö vizaj",
+       "🙂",
+       "m"
+      ],
+      [
+       "le nez",
+       "burun",
+       "lö ne",
+       "👃",
+       "m"
+      ],
+      [
+       "la bouche",
+       "ağız",
+       "la buş",
+       "👄",
+       "f"
+      ],
+      [
+       "le cou",
+       "boyun",
+       "lö ku",
+       "🦒",
+       "m"
+      ],
+      [
+       "l'épaule",
+       "omuz",
+       "lepol",
+       "💪",
+       "f"
+      ],
+      [
+       "le doigt",
+       "parmak",
+       "lö dva",
+       "☝️",
+       "m"
+      ],
+      [
+       "le genou",
+       "diz",
+       "lö jınu",
+       "🦵",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u26l2",
+     "kind": "vocab",
+     "title": "Vücut 3",
+     "subtitle": "le bras · le ventre · la poitrine …",
+     "intro": "Kol, karın, deri…",
+     "v": [
+      [
+       "le bras",
+       "kol",
+       "lö bra",
+       "💪",
+       "m"
+      ],
+      [
+       "le ventre",
+       "karın",
+       "lö vãtr",
+       "🫃",
+       "m"
+      ],
+      [
+       "la poitrine",
+       "göğüs",
+       "la pvatrin",
+       "🫁",
+       "f"
+      ],
+      [
+       "la peau",
+       "deri, cilt",
+       "la po",
+       "🧴",
+       "f"
+      ],
+      [
+       "l'os",
+       "kemik",
+       "los",
+       "🦴",
+       "m"
+      ],
+      [
+       "le sang",
+       "kan",
+       "lö sã",
+       "🩸",
+       "m"
+      ],
+      [
+       "la langue (organe)",
+       "dil (organ)",
+       "la lãg",
+       "👅",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u26l3",
+     "kind": "vocab",
+     "title": "Hastalıklar",
+     "subtitle": "la grippe · la toux · le mal de tête …",
+     "intro": "Grip, öksürük, alerji…",
+     "v": [
+      [
+       "la grippe",
+       "grip",
+       "la grip",
+       "🤒",
+       "f"
+      ],
+      [
+       "la toux",
+       "öksürük",
+       "la tu",
+       "😷",
+       "f"
+      ],
+      [
+       "le mal de tête",
+       "baş ağrısı",
+       "lö mal dı tet",
+       "🤕",
+       "m"
+      ],
+      [
+       "la nausée",
+       "mide bulantısı",
+       "la noze",
+       "🤢",
+       "f"
+      ],
+      [
+       "l'allergie",
+       "alerji",
+       "lalerji",
+       "🤧",
+       "f"
+      ],
+      [
+       "la blessure",
+       "yara",
+       "la blesür",
+       "🩹",
+       "f"
+      ],
+      [
+       "la fracture",
+       "kırık",
+       "la fraktür",
+       "🦴",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u26l4",
+     "kind": "vocab",
+     "title": "Tedavi",
+     "subtitle": "l'ordonnance · le comprimé · la piqûre …",
+     "intro": "Reçete, hap, iğne…",
+     "v": [
+      [
+       "l'ordonnance",
+       "reçete",
+       "lordonãs",
+       "📝",
+       "f"
+      ],
+      [
+       "le comprimé",
+       "hap",
+       "lö kõprime",
+       "💊",
+       "m"
+      ],
+      [
+       "la piqûre",
+       "iğne (aşı)",
+       "la pikür",
+       "💉",
+       "f"
+      ],
+      [
+       "le vaccin",
+       "aşı",
+       "lö vaksẽ",
+       "💉",
+       "m"
+      ],
+      [
+       "le pansement",
+       "yara bandı",
+       "lö pãsmã",
+       "🩹",
+       "m"
+      ],
+      [
+       "il faut vous reposer",
+       "dinlenmek gerek",
+       "il fo vu rıpoze",
+       "🛌"
+      ],
+      [
+       "guérir",
+       "iyileşmek",
+       "gerir",
+       "💚"
+      ]
+     ]
+    },
+    {
+     "id": "u26l5",
+     "kind": "vocab",
+     "title": "Hastanede",
+     "subtitle": "le patient · les urgences · l'opération …",
+     "intro": "Hemşire, ameliyat, acil…",
+     "v": [
+      [
+       "le patient",
+       "hasta (kişi)",
+       "lö pasyã",
+       "🛏️",
+       "m"
+      ],
+      [
+       "les urgences",
+       "acil servis",
+       "le zürjãs",
+       "🚑"
+      ],
+      [
+       "l'opération",
+       "ameliyat",
+       "loperasyõ",
+       "🏥",
+       "f"
+      ],
+      [
+       "le dentiste",
+       "diş hekimi",
+       "lö dãtist",
+       "🦷",
+       "m"
+      ],
+      [
+       "le rendez-vous",
+       "randevu (doktor)",
+       "lö rãdevu",
+       "📅",
+       "m"
+      ],
+      [
+       "l'assurance",
+       "sigorta",
+       "lasürãs",
+       "📄",
+       "f"
+      ],
+      [
+       "le pouls",
+       "nabız",
+       "lö pu",
+       "❤️",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u27",
+   "level": "orta",
+   "title": "Duygular 2",
+   "subtitle": "Duygular, karakter, ruh hali, ilişki fiilleri, tepkiler · 5 ders",
+   "lessons": [
+    {
+     "id": "u27l1",
+     "kind": "vocab",
+     "title": "Duygular 2",
+     "subtitle": "effrayé · surpris · jaloux …",
+     "intro": "Korku, şaşkınlık, kıskançlık…",
+     "v": [
+      [
+       "effrayé",
+       "korkmuş",
+       "efreye",
+       "😨"
+      ],
+      [
+       "surpris",
+       "şaşırmış",
+       "sürpri",
+       "😲"
+      ],
+      [
+       "jaloux",
+       "kıskanç",
+       "jalu",
+       "😒"
+      ],
+      [
+       "nerveux",
+       "gergin",
+       "nervö",
+       "😬"
+      ],
+      [
+       "gêné",
+       "utanmış",
+       "jene",
+       "😳"
+      ],
+      [
+       "fier",
+       "gururlu",
+       "fyer",
+       "😌"
+      ],
+      [
+       "seul",
+       "yalnız",
+       "söl",
+       "🥀"
+      ]
+     ]
+    },
+    {
+     "id": "u27l2",
+     "kind": "vocab",
+     "title": "Karakter 2",
+     "subtitle": "courageux · honnête · poli …",
+     "intro": "Cesur, dürüst, kibar…",
+     "v": [
+      [
+       "courageux",
+       "cesur",
+       "kurajö",
+       "🦁"
+      ],
+      [
+       "honnête",
+       "dürüst",
+       "onet",
+       "🤝"
+      ],
+      [
+       "poli",
+       "kibar",
+       "poli",
+       "🙇"
+      ],
+      [
+       "patient",
+       "sabırlı",
+       "pasyã",
+       "⏳"
+      ],
+      [
+       "travailleur",
+       "çalışkan",
+       "travayör",
+       "🐝"
+      ],
+      [
+       "impoli",
+       "kaba",
+       "ẽpoli",
+       "😤"
+      ],
+      [
+       "égoïste",
+       "bencil",
+       "egoist",
+       "🙄"
+      ]
+     ]
+    },
+    {
+     "id": "u27l3",
+     "kind": "vocab",
+     "title": "Ruh hali",
+     "subtitle": "rire · pleurer · sourire …",
+     "intro": "Gülmek, ağlamak, endişelenmek…",
+     "v": [
+      [
+       "rire",
+       "gülmek",
+       "rir",
+       "😂"
+      ],
+      [
+       "pleurer",
+       "ağlamak",
+       "plöre",
+       "😭"
+      ],
+      [
+       "sourire",
+       "gülümsemek",
+       "surir",
+       "😊"
+      ],
+      [
+       "s'inquiéter",
+       "endişelenmek",
+       "sẽkyete",
+       "😟"
+      ],
+      [
+       "avoir peur",
+       "korkmak",
+       "avvar pör",
+       "😱"
+      ],
+      [
+       "se fâcher",
+       "sinirlenmek",
+       "sı faşe",
+       "😡"
+      ],
+      [
+       "se calmer",
+       "sakinleşmek",
+       "sı kalme",
+       "🧘"
+      ]
+     ]
+    },
+    {
+     "id": "u27l4",
+     "kind": "vocab",
+     "title": "İlişki fiilleri",
+     "subtitle": "faire connaissance · faire confiance · manquer …",
+     "intro": "Tanışmak, güvenmek, özlemek…",
+     "v": [
+      [
+       "faire connaissance",
+       "tanışmak",
+       "fer konesãs",
+       "🤝"
+      ],
+      [
+       "faire confiance",
+       "güvenmek",
+       "fer kõfyãs",
+       "🫱"
+      ],
+      [
+       "manquer",
+       "özlemek",
+       "mãke",
+       "🥺"
+      ],
+      [
+       "pardonner",
+       "affetmek",
+       "pardone",
+       "🕊️"
+      ],
+      [
+       "se disputer",
+       "tartışmak",
+       "sı dispüte",
+       "🗣️"
+      ],
+      [
+       "se marier",
+       "evlenmek",
+       "sı marye",
+       "💒"
+      ],
+      [
+       "se séparer",
+       "ayrılmak (çift)",
+       "sı separe",
+       "💔"
+      ]
+     ]
+    },
+    {
+     "id": "u27l5",
+     "kind": "vocab",
+     "title": "Tepkiler",
+     "subtitle": "génial ! · dommage ! · c'est pas possible ! …",
+     "intro": "Harika!, Ne yazık!, Aman!…",
+     "v": [
+      [
+       "génial !",
+       "harika!",
+       "jenyal",
+       "🤩"
+      ],
+      [
+       "dommage !",
+       "ne yazık!",
+       "domaj",
+       "😞"
+      ],
+      [
+       "c'est pas possible !",
+       "olamaz!",
+       "se pa posibl",
+       "😱"
+      ],
+      [
+       "attention !",
+       "dikkat!",
+       "atãsyõ",
+       "⚠️"
+      ],
+      [
+       "bravo !",
+       "aferin!",
+       "bravo",
+       "👏"
+      ],
+      [
+       "bon rétablissement",
+       "geçmiş olsun",
+       "bõ retablismã",
+       "💐"
+      ],
+      [
+       "bon appétit",
+       "afiyet olsun",
+       "bon apeti",
+       "🍽️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u28",
+   "level": "orta",
+   "title": "İş hayatı 2",
+   "subtitle": "Meslekler, ofis, iş fiilleri, şirket · 5 ders",
+   "lessons": [
+    {
+     "id": "u28l1",
+     "kind": "vocab",
+     "title": "Meslekler 2",
+     "subtitle": "l'avocat · le policier · l'architecte …",
+     "intro": "Avukat, polis, mimar…",
+     "v": [
+      [
+       "l'avocat",
+       "avukat",
+       "lavoka",
+       "⚖️",
+       "m"
+      ],
+      [
+       "le policier",
+       "polis memuru",
+       "lö polisye",
+       "👮",
+       "m"
+      ],
+      [
+       "l'architecte",
+       "mimar",
+       "larşitekt",
+       "📐",
+       "m"
+      ],
+      [
+       "le journaliste",
+       "gazeteci",
+       "lö jurnalist",
+       "📰",
+       "m"
+      ],
+      [
+       "le vendeur",
+       "satış elemanı",
+       "lö vãdör",
+       "🛍️",
+       "m"
+      ],
+      [
+       "l'agriculteur",
+       "çiftçi",
+       "lagrikültör",
+       "👨‍🌾",
+       "m"
+      ],
+      [
+       "le pilote",
+       "pilot",
+       "lö pilot",
+       "👨‍✈️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u28l2",
+     "kind": "vocab",
+     "title": "Meslekler 3",
+     "subtitle": "l'artiste · le musicien · le soldat …",
+     "intro": "Sanatçı, asker, temizlikçi…",
+     "v": [
+      [
+       "l'artiste",
+       "sanatçı",
+       "lartist",
+       "🎨",
+       "m"
+      ],
+      [
+       "le musicien",
+       "müzisyen",
+       "lö müzisyẽ",
+       "🎻",
+       "m"
+      ],
+      [
+       "le soldat",
+       "asker",
+       "lö solda",
+       "🪖",
+       "m"
+      ],
+      [
+       "l'agent d'entretien",
+       "temizlikçi",
+       "lajã dãtrıtyẽ",
+       "🧹",
+       "m"
+      ],
+      [
+       "l'électricien",
+       "elektrikçi",
+       "lelektrisyẽ",
+       "⚡",
+       "m"
+      ],
+      [
+       "le mécanicien",
+       "tamirci",
+       "lö mekanisyẽ",
+       "🔧",
+       "m"
+      ],
+      [
+       "le retraité",
+       "emekli",
+       "lö rıtrete",
+       "👴",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u28l3",
+     "kind": "vocab",
+     "title": "Ofis eşyaları",
+     "subtitle": "le bureau (meuble) · l'imprimante · le dossier …",
+     "intro": "Masa, yazıcı, dosya…",
+     "v": [
+      [
+       "le bureau (meuble)",
+       "yazı masası",
+       "lö büro",
+       "🖥️",
+       "m"
+      ],
+      [
+       "l'imprimante",
+       "yazıcı",
+       "lẽprimãt",
+       "🖨️",
+       "f"
+      ],
+      [
+       "le dossier",
+       "dosya",
+       "lö dosye",
+       "📁",
+       "m"
+      ],
+      [
+       "l'enveloppe",
+       "zarf",
+       "lãvlop",
+       "✉️",
+       "f"
+      ],
+      [
+       "le crayon",
+       "kurşun kalem",
+       "lö kreyõ",
+       "✏️",
+       "m"
+      ],
+      [
+       "la gomme",
+       "silgi",
+       "la gom",
+       "🧽",
+       "f"
+      ],
+      [
+       "le calendrier",
+       "takvim",
+       "lö kalãdriye",
+       "📅",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u28l4",
+     "kind": "vocab",
+     "title": "İş fiilleri",
+     "subtitle": "postuler · embaucher · licencier …",
+     "intro": "Başvurmak, kazanmak, işe almak…",
+     "v": [
+      [
+       "postuler",
+       "başvurmak",
+       "postüle",
+       "📨"
+      ],
+      [
+       "embaucher",
+       "işe almak",
+       "ãboşe",
+       "🤝"
+      ],
+      [
+       "licencier",
+       "kovmak (işten)",
+       "lisãsye",
+       "🚪"
+      ],
+      [
+       "gagner",
+       "kazanmak (para)",
+       "ganye",
+       "💰"
+      ],
+      [
+       "diriger",
+       "yönetmek",
+       "dirije",
+       "📊"
+      ],
+      [
+       "signer",
+       "imzalamak",
+       "sinye",
+       "✍️"
+      ],
+      [
+       "prendre sa retraite",
+       "emekli olmak",
+       "prãdr sa rıtret",
+       "🏖️"
+      ]
+     ]
+    },
+    {
+     "id": "u28l5",
+     "kind": "vocab",
+     "title": "Şirket",
+     "subtitle": "l'entreprise · le client · le produit …",
+     "intro": "Müşteri, ürün, sözleşme…",
+     "v": [
+      [
+       "l'entreprise",
+       "şirket",
+       "lãtrıpriz",
+       "🏢",
+       "f"
+      ],
+      [
+       "le client",
+       "müşteri",
+       "lö kliyã",
+       "🧑‍💼",
+       "m"
+      ],
+      [
+       "le produit",
+       "ürün",
+       "lö prodüi",
+       "📦",
+       "m"
+      ],
+      [
+       "le contrat",
+       "sözleşme",
+       "lö kõtra",
+       "📃",
+       "m"
+      ],
+      [
+       "le projet",
+       "proje",
+       "lö proje",
+       "🗂️",
+       "m"
+      ],
+      [
+       "la facture",
+       "fatura",
+       "la faktür",
+       "🧾",
+       "f"
+      ],
+      [
+       "l'entretien d'embauche",
+       "iş görüşmesi",
+       "lãtrıtyẽ dãboş",
+       "🗣️",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u29",
+   "level": "orta",
+   "title": "Eğitim",
+   "subtitle": "Okul eşyaları, dersler, üniversite, öğrenme, sınav · 5 ders",
+   "lessons": [
+    {
+     "id": "u29l1",
+     "kind": "vocab",
+     "title": "Okul eşyaları",
+     "subtitle": "le cartable · la règle · le tableau noir …",
+     "intro": "Çanta, cetvel, tahta…",
+     "v": [
+      [
+       "le cartable",
+       "okul çantası",
+       "lö kartabl",
+       "🎒",
+       "m"
+      ],
+      [
+       "la règle",
+       "cetvel",
+       "la regl",
+       "📏",
+       "f"
+      ],
+      [
+       "le tableau noir",
+       "tahta (sınıf)",
+       "lö tablo nvar",
+       "🧑‍🏫",
+       "m"
+      ],
+      [
+       "la classe",
+       "sınıf",
+       "la klas",
+       "🏫",
+       "f"
+      ],
+      [
+       "le dictionnaire",
+       "sözlük",
+       "lö diksyoner",
+       "📖",
+       "m"
+      ],
+      [
+       "le manuel",
+       "ders kitabı",
+       "lö manüel",
+       "📚",
+       "m"
+      ],
+      [
+       "les devoirs",
+       "ödev",
+       "le dıvvar",
+       "📝"
+      ]
+     ]
+    },
+    {
+     "id": "u29l2",
+     "kind": "vocab",
+     "title": "Okul dersleri",
+     "subtitle": "les maths · l'histoire · la géographie …",
+     "intro": "Matematik, tarih, fizik…",
+     "v": [
+      [
+       "les maths",
+       "matematik",
+       "le mat",
+       "➗"
+      ],
+      [
+       "l'histoire",
+       "tarih (ders)",
+       "listvar",
+       "🏛️",
+       "f"
+      ],
+      [
+       "la géographie",
+       "coğrafya",
+       "la jeografi",
+       "🌍",
+       "f"
+      ],
+      [
+       "la physique",
+       "fizik",
+       "la fizik",
+       "🔭",
+       "f"
+      ],
+      [
+       "la chimie",
+       "kimya",
+       "la şimi",
+       "🧪",
+       "f"
+      ],
+      [
+       "la biologie",
+       "biyoloji",
+       "la byoloji",
+       "🧬",
+       "f"
+      ],
+      [
+       "la littérature",
+       "edebiyat",
+       "la literatür",
+       "📜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u29l3",
+     "kind": "vocab",
+     "title": "Üniversite",
+     "subtitle": "la faculté · le professeur d'université · la bourse …",
+     "intro": "Öğrenci yurdu, burs, diploma…",
+     "v": [
+      [
+       "la faculté",
+       "fakülte",
+       "la fakülte",
+       "🏛️",
+       "f"
+      ],
+      [
+       "le professeur d'université",
+       "profesör",
+       "lö profesör düniversite",
+       "👨‍🏫",
+       "m"
+      ],
+      [
+       "la bourse",
+       "burs",
+       "la burs",
+       "💶",
+       "f"
+      ],
+      [
+       "le diplôme",
+       "diploma",
+       "lö diplom",
+       "🎓",
+       "m"
+      ],
+      [
+       "la résidence universitaire",
+       "yurt",
+       "la rezidãs üniversiter",
+       "🏠",
+       "f"
+      ],
+      [
+       "le semestre",
+       "dönem",
+       "lö sımestr",
+       "📆",
+       "m"
+      ],
+      [
+       "le cours magistral",
+       "konferans, ders",
+       "lö kur majistral",
+       "🎤",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u29l4",
+     "kind": "vocab",
+     "title": "Öğrenme fiilleri",
+     "subtitle": "répéter · apprendre par cœur · expliquer …",
+     "intro": "Tekrarlamak, ezberlemek…",
+     "v": [
+      [
+       "répéter",
+       "tekrarlamak",
+       "repete",
+       "🔁"
+      ],
+      [
+       "apprendre par cœur",
+       "ezberlemek",
+       "aprãdr par kör",
+       "🧠"
+      ],
+      [
+       "expliquer",
+       "açıklamak",
+       "eksplike",
+       "💬"
+      ],
+      [
+       "traduire",
+       "çevirmek (dil)",
+       "tradüir",
+       "🔤"
+      ],
+      [
+       "faire une erreur",
+       "hata yapmak",
+       "fer ün erör",
+       "❌"
+      ],
+      [
+       "corriger",
+       "düzeltmek",
+       "korije",
+       "✅"
+      ],
+      [
+       "s'entraîner",
+       "pratik yapmak",
+       "sãtrene",
+       "🏋️"
+      ]
+     ]
+    },
+    {
+     "id": "u29l5",
+     "kind": "vocab",
+     "title": "Sınav",
+     "subtitle": "la note · réussir un examen · rater un examen …",
+     "intro": "Not, geçmek, kalmak…",
+     "v": [
+      [
+       "la note",
+       "not (puan)",
+       "la not",
+       "💯",
+       "f"
+      ],
+      [
+       "réussir un examen",
+       "sınavı geçmek",
+       "reüsir œ̃ negzamẽ",
+       "🎉"
+      ],
+      [
+       "rater un examen",
+       "sınavdan kalmak",
+       "rate œ̃ negzamẽ",
+       "😞"
+      ],
+      [
+       "le test",
+       "test",
+       "lö test",
+       "📝",
+       "m"
+      ],
+      [
+       "se préparer",
+       "hazırlanmak",
+       "sı prepare",
+       "📚"
+      ],
+      [
+       "le résultat",
+       "sonuç",
+       "lö rezülta",
+       "📊",
+       "m"
+      ],
+      [
+       "tricher",
+       "kopya çekmek",
+       "trişe",
+       "🙈"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u30",
+   "level": "orta",
+   "title": "Teknoloji 2",
+   "subtitle": "Cihazlar, internet, sosyal medya, fiiller, sorunlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u30l1",
+     "kind": "vocab",
+     "title": "Cihazlar",
+     "subtitle": "la tablette · le casque · l'appareil photo …",
+     "intro": "Tablet, kulaklık, kamera…",
+     "v": [
+      [
+       "la tablette",
+       "tablet",
+       "la tablet",
+       "📱",
+       "f"
+      ],
+      [
+       "le casque",
+       "kulaklık",
+       "lö kask",
+       "🎧",
+       "m"
+      ],
+      [
+       "l'appareil photo",
+       "kamera",
+       "lapareyfoto",
+       "📷",
+       "m"
+      ],
+      [
+       "le clavier",
+       "klavye",
+       "lö klavye",
+       "⌨️",
+       "m"
+      ],
+      [
+       "la souris",
+       "fare (bilgisayar)",
+       "la suri",
+       "🖱️",
+       "f"
+      ],
+      [
+       "l'écran",
+       "ekran",
+       "lekrã",
+       "🖥️",
+       "m"
+      ],
+      [
+       "l'enceinte",
+       "hoparlör",
+       "lãsẽt",
+       "🔊",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u30l2",
+     "kind": "vocab",
+     "title": "İnternet",
+     "subtitle": "le site web · le lien · télécharger …",
+     "intro": "Site, şifre, e-posta…",
+     "v": [
+      [
+       "le site web",
+       "web sitesi",
+       "lö sit veb",
+       "🌐",
+       "m"
+      ],
+      [
+       "le lien",
+       "bağlantı (link)",
+       "lö lyẽ",
+       "🔗",
+       "m"
+      ],
+      [
+       "télécharger",
+       "indirmek",
+       "teleşarje",
+       "⬇️"
+      ],
+      [
+       "mettre en ligne",
+       "yüklemek (yukarı)",
+       "metr ã liny",
+       "⬆️"
+      ],
+      [
+       "le moteur de recherche",
+       "arama motoru",
+       "lö motör dı rışerş",
+       "🔍",
+       "m"
+      ],
+      [
+       "le wifi",
+       "kablosuz ağ",
+       "lö vifi",
+       "📶",
+       "m"
+      ],
+      [
+       "le compte",
+       "hesap (internet)",
+       "lö kõt",
+       "👤",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u30l3",
+     "kind": "vocab",
+     "title": "Sosyal medya",
+     "subtitle": "les réseaux sociaux · partager · liker …",
+     "intro": "Paylaşmak, beğenmek, takip…",
+     "v": [
+      [
+       "les réseaux sociaux",
+       "sosyal medya",
+       "le rezo sosyo",
+       "📱"
+      ],
+      [
+       "partager",
+       "paylaşmak",
+       "partaje",
+       "🔄"
+      ],
+      [
+       "liker",
+       "beğenmek (ikon)",
+       "layke",
+       "👍"
+      ],
+      [
+       "suivre",
+       "takip etmek",
+       "süivr",
+       "➕"
+      ],
+      [
+       "le commentaire",
+       "yorum",
+       "lö komãter",
+       "💬",
+       "m"
+      ],
+      [
+       "la photo",
+       "fotoğraf (dijital)",
+       "la foto",
+       "🖼️",
+       "f"
+      ],
+      [
+       "la vidéo",
+       "video",
+       "la video",
+       "🎥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u30l4",
+     "kind": "vocab",
+     "title": "Teknoloji fiilleri",
+     "subtitle": "allumer · éteindre · enregistrer …",
+     "intro": "Açmak, kapatmak, kaydetmek…",
+     "v": [
+      [
+       "allumer",
+       "açmak (cihaz)",
+       "alüme",
+       "🔛"
+      ],
+      [
+       "éteindre",
+       "kapatmak (cihaz)",
+       "etẽdr",
+       "📴"
+      ],
+      [
+       "enregistrer",
+       "kaydetmek",
+       "ãrıjistre",
+       "💾"
+      ],
+      [
+       "supprimer",
+       "silmek",
+       "süprime",
+       "🗑️"
+      ],
+      [
+       "taper",
+       "yazmak (klavye)",
+       "tape",
+       "⌨️"
+      ],
+      [
+       "recharger",
+       "şarj etmek",
+       "rışarje",
+       "🔋"
+      ],
+      [
+       "cliquer",
+       "tıklamak",
+       "klike",
+       "👆"
+      ]
+     ]
+    },
+    {
+     "id": "u30l5",
+     "kind": "vocab",
+     "title": "Teknik sorunlar",
+     "subtitle": "cassé · ça ne marche pas · la batterie est vide …",
+     "intro": "Bozuk, çalışmıyor…",
+     "v": [
+      [
+       "cassé",
+       "bozuk",
+       "kase",
+       "🔧"
+      ],
+      [
+       "ça ne marche pas",
+       "çalışmıyor",
+       "sa nö marş pa",
+       "🚫"
+      ],
+      [
+       "la batterie est vide",
+       "şarj bitti",
+       "la batri e vid",
+       "🪫"
+      ],
+      [
+       "la mise à jour",
+       "güncelleme",
+       "la miz a jur",
+       "🔄",
+       "f"
+      ],
+      [
+       "le virus",
+       "virüs",
+       "lö virüs",
+       "🦠",
+       "m"
+      ],
+      [
+       "pas de réseau",
+       "bağlantı yok",
+       "pa dı rezo",
+       "📵"
+      ],
+      [
+       "redémarrer",
+       "yeniden başlatmak",
+       "rıdemare",
+       "🔁"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u31",
+   "level": "orta",
+   "title": "Seyahat 2",
+   "subtitle": "Ulaşım, havalimanı, otel, tatil yerleri, seyahat fiilleri · 5 ders",
+   "lessons": [
+    {
+     "id": "u31l1",
+     "kind": "vocab",
+     "title": "Ulaşım 2",
+     "subtitle": "le bateau · la moto · le tramway …",
+     "intro": "Gemi, motosiklet, tramvay…",
+     "v": [
+      [
+       "le bateau",
+       "gemi",
+       "lö bato",
+       "🚢",
+       "m"
+      ],
+      [
+       "la moto",
+       "motosiklet",
+       "la moto",
+       "🏍️",
+       "f"
+      ],
+      [
+       "le tramway",
+       "tramvay",
+       "lö tramvey",
+       "🚋",
+       "m"
+      ],
+      [
+       "le camion",
+       "kamyon",
+       "lö kamyõ",
+       "🚚",
+       "m"
+      ],
+      [
+       "le ferry",
+       "feribot",
+       "lö feri",
+       "⛴️",
+       "m"
+      ],
+      [
+       "l'hélicoptère",
+       "helikopter",
+       "lelikopter",
+       "🚁",
+       "m"
+      ],
+      [
+       "le passager",
+       "yolcu",
+       "lö pasaje",
+       "🧳",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u31l2",
+     "kind": "vocab",
+     "title": "Havalimanı 2",
+     "subtitle": "le départ · l'arrivée · le retard …",
+     "intro": "Kalkış, varış, rötar…",
+     "v": [
+      [
+       "le départ",
+       "kalkış",
+       "lö depar",
+       "🛫",
+       "m"
+      ],
+      [
+       "l'arrivée",
+       "varış",
+       "larive",
+       "🛬",
+       "f"
+      ],
+      [
+       "le retard",
+       "rötar",
+       "lö rıtar",
+       "⏳",
+       "m"
+      ],
+      [
+       "la carte d'embarquement",
+       "biniş kartı",
+       "la kart dãbarkımã",
+       "🎫",
+       "f"
+      ],
+      [
+       "le bagage à main",
+       "el bagajı",
+       "lö bagaj a mẽ",
+       "👜",
+       "m"
+      ],
+      [
+       "la place côté fenêtre",
+       "pencere kenarı koltuk",
+       "la plas kote fınetr",
+       "💺",
+       "f"
+      ],
+      [
+       "la correspondance",
+       "aktarma",
+       "la korespõdãs",
+       "🔀",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u31l3",
+     "kind": "vocab",
+     "title": "Otelde 2",
+     "subtitle": "la réception · la chambre simple · la chambre double …",
+     "intro": "Tek kişilik oda, resepsiyon…",
+     "v": [
+      [
+       "la réception",
+       "resepsiyon",
+       "la resepsyõ",
+       "🛎️",
+       "f"
+      ],
+      [
+       "la chambre simple",
+       "tek kişilik oda",
+       "la şãbr sẽpl",
+       "🛏️",
+       "f"
+      ],
+      [
+       "la chambre double",
+       "çift kişilik oda",
+       "la şãbr dubl",
+       "🛏️",
+       "f"
+      ],
+      [
+       "le service en chambre",
+       "oda servisi",
+       "lö servis ã şãbr",
+       "🍽️",
+       "m"
+      ],
+      [
+       "s'enregistrer",
+       "giriş yapmak (otel)",
+       "sãrıjistre",
+       "🔑"
+      ],
+      [
+       "la vue",
+       "manzara",
+       "la vü",
+       "🏞️",
+       "f"
+      ],
+      [
+       "petit-déjeuner inclus",
+       "kahvaltı dahil",
+       "pıti dejöne ẽklü",
+       "🥐"
+      ]
+     ]
+    },
+    {
+     "id": "u31l4",
+     "kind": "vocab",
+     "title": "Tatil yerleri",
+     "subtitle": "le camping · la tente · la maison d'hôtes …",
+     "intro": "Kamp, dağ evi, otel…",
+     "v": [
+      [
+       "le camping",
+       "kamp",
+       "lö kãping",
+       "⛺",
+       "m"
+      ],
+      [
+       "la tente",
+       "çadır",
+       "la tãt",
+       "⛺",
+       "f"
+      ],
+      [
+       "la maison d'hôtes",
+       "pansiyon",
+       "la mezõ dot",
+       "🏡",
+       "f"
+      ],
+      [
+       "le port",
+       "liman",
+       "lö por",
+       "⚓",
+       "m"
+      ],
+      [
+       "le monument",
+       "anıt",
+       "lö monümã",
+       "🗽",
+       "m"
+      ],
+      [
+       "la vieille ville",
+       "eski şehir",
+       "la vyey vil",
+       "🏘️",
+       "f"
+      ],
+      [
+       "la crème solaire",
+       "güneş kremi",
+       "la krem soler",
+       "🧴",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u31l5",
+     "kind": "vocab",
+     "title": "Seyahat fiilleri",
+     "subtitle": "réserver · rater le bus · faire sa valise …",
+     "intro": "Kaçırmak, ayırtmak, paketlemek…",
+     "v": [
+      [
+       "réserver",
+       "yer ayırtmak",
+       "rezerve",
+       "📲"
+      ],
+      [
+       "rater le bus",
+       "kaçırmak (otobüs)",
+       "rate lö büs",
+       "🏃"
+      ],
+      [
+       "faire sa valise",
+       "bavul hazırlamak",
+       "fer sa valiz",
+       "🧳"
+      ],
+      [
+       "visiter",
+       "ziyaret etmek",
+       "vizite",
+       "🏛️"
+      ],
+      [
+       "se perdre",
+       "kaybolmak",
+       "sı perdr",
+       "🧭"
+      ],
+      [
+       "revenir",
+       "dönmek",
+       "rıvnir",
+       "🔙"
+      ],
+      [
+       "faire du tourisme",
+       "gezmek, dolaşmak",
+       "fer dü turizm",
+       "🚶"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u32",
+   "level": "orta",
+   "title": "Spor ve boş zaman",
+   "subtitle": "Sporlar, ekipman, oyunlar, sanat, müzik · 5 ders",
+   "lessons": [
+    {
+     "id": "u32l1",
+     "kind": "vocab",
+     "title": "Sporlar",
+     "subtitle": "le basket · le tennis · le volley …",
+     "intro": "Basketbol, tenis, voleybol…",
+     "v": [
+      [
+       "le basket",
+       "basketbol",
+       "lö basket",
+       "🏀",
+       "m"
+      ],
+      [
+       "le tennis",
+       "tenis",
+       "lö tenis",
+       "🎾",
+       "m"
+      ],
+      [
+       "le volley",
+       "voleybol",
+       "lö vole",
+       "🏐",
+       "m"
+      ],
+      [
+       "le vélo",
+       "bisiklet sürmek",
+       "lö velo",
+       "🚴",
+       "m"
+      ],
+      [
+       "le ski",
+       "kayak",
+       "lö ski",
+       "⛷️",
+       "m"
+      ],
+      [
+       "la boxe",
+       "boks",
+       "la boks",
+       "🥊",
+       "f"
+      ],
+      [
+       "le yoga",
+       "yoga",
+       "lö yoga",
+       "🧘",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u32l2",
+     "kind": "vocab",
+     "title": "Spor ekipmanı",
+     "subtitle": "le ballon · la raquette · le but …",
+     "intro": "Top, raket, kale…",
+     "v": [
+      [
+       "le ballon",
+       "top",
+       "lö balõ",
+       "⚽",
+       "m"
+      ],
+      [
+       "la raquette",
+       "raket",
+       "la raket",
+       "🎾",
+       "f"
+      ],
+      [
+       "le but",
+       "kale (gol)",
+       "lö büt",
+       "🥅",
+       "m"
+      ],
+      [
+       "la salle de sport",
+       "spor salonu",
+       "la sal dı spor",
+       "🏋️",
+       "f"
+      ],
+      [
+       "la piscine",
+       "havuz",
+       "la pisin",
+       "🏊",
+       "f"
+      ],
+      [
+       "le terrain",
+       "saha",
+       "lö terẽ",
+       "🏟️",
+       "m"
+      ],
+      [
+       "le joueur",
+       "oyuncu",
+       "lö jüör",
+       "🧑‍🦱",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u32l3",
+     "kind": "vocab",
+     "title": "Oyunlar",
+     "subtitle": "les échecs · les cartes · le casse-tête …",
+     "intro": "Satranç, kart, bulmaca…",
+     "v": [
+      [
+       "les échecs",
+       "satranç",
+       "le zeşek",
+       "♟️"
+      ],
+      [
+       "les cartes",
+       "iskambil kartları",
+       "le kart",
+       "🃏"
+      ],
+      [
+       "le casse-tête",
+       "bulmaca",
+       "lö kas tet",
+       "🧩",
+       "m"
+      ],
+      [
+       "le jouet",
+       "oyuncak",
+       "lö jue",
+       "🧸",
+       "m"
+      ],
+      [
+       "le jeu vidéo",
+       "video oyunu",
+       "lö jö video",
+       "🎮",
+       "m"
+      ],
+      [
+       "gagner une partie",
+       "kazanmak (oyun)",
+       "ganye ün parti",
+       "🏆"
+      ],
+      [
+       "perdre",
+       "kaybetmek",
+       "perdr",
+       "😞"
+      ]
+     ]
+    },
+    {
+     "id": "u32l4",
+     "kind": "vocab",
+     "title": "Sanat",
+     "subtitle": "l'art · la sculpture · l'exposition …",
+     "intro": "Resim, heykel, sergi…",
+     "v": [
+      [
+       "l'art",
+       "sanat",
+       "lar",
+       "🎨",
+       "m"
+      ],
+      [
+       "la sculpture",
+       "heykel",
+       "la skültür",
+       "🗿",
+       "f"
+      ],
+      [
+       "l'exposition",
+       "sergi",
+       "lekspozisyõ",
+       "🖼️",
+       "f"
+      ],
+      [
+       "le roman",
+       "roman",
+       "lö romã",
+       "📕",
+       "m"
+      ],
+      [
+       "le poème",
+       "şiir",
+       "lö poem",
+       "📜",
+       "m"
+      ],
+      [
+       "l'écrivain",
+       "yazar",
+       "lekrivẽ",
+       "✍️",
+       "m"
+      ],
+      [
+       "la photographie",
+       "fotoğrafçılık",
+       "la fotografi",
+       "📸",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u32l5",
+     "kind": "vocab",
+     "title": "Müzik aletleri",
+     "subtitle": "la guitare · le piano · le violon …",
+     "intro": "Gitar, piyano, keman…",
+     "v": [
+      [
+       "la guitare",
+       "gitar",
+       "la gitar",
+       "🎸",
+       "f"
+      ],
+      [
+       "le piano",
+       "piyano",
+       "lö pyano",
+       "🎹",
+       "m"
+      ],
+      [
+       "le violon",
+       "keman",
+       "lö vyolõ",
+       "🎻",
+       "m"
+      ],
+      [
+       "le tambour",
+       "davul",
+       "lö tãbur",
+       "🥁",
+       "m"
+      ],
+      [
+       "la flûte",
+       "flüt",
+       "la flüt",
+       "🪈",
+       "f"
+      ],
+      [
+       "la chanson",
+       "şarkı",
+       "la şãsõ",
+       "🎵",
+       "f"
+      ],
+      [
+       "jouer de la guitare",
+       "çalmak (enstrüman)",
+       "jue dı la gitar",
+       "🎼"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u33",
+   "level": "orta",
+   "title": "Sayılar ve zaman 3",
+   "subtitle": "Büyük sayılar, sıra sayıları, matematik, zaman · 5 ders",
+   "lessons": [
+    {
+     "id": "u33l1",
+     "kind": "vocab",
+     "title": "Sayılar 12–18",
+     "subtitle": "douze · treize · quatorze …",
+     "intro": "On iki, on üç…",
+     "v": [
+      [
+       "douze",
+       "on iki",
+       "duz",
+       "🔢"
+      ],
+      [
+       "treize",
+       "on üç",
+       "trez",
+       "🔢"
+      ],
+      [
+       "quatorze",
+       "on dört",
+       "katorz",
+       "🔢"
+      ],
+      [
+       "quinze",
+       "on beş",
+       "kẽz",
+       "🔢"
+      ],
+      [
+       "seize",
+       "on altı",
+       "sez",
+       "🔢"
+      ],
+      [
+       "dix-sept",
+       "on yedi",
+       "diset",
+       "🔢"
+      ],
+      [
+       "dix-huit",
+       "on sekiz",
+       "dizüit",
+       "🔢"
+      ]
+     ]
+    },
+    {
+     "id": "u33l2",
+     "kind": "vocab",
+     "title": "Onluklar",
+     "subtitle": "trente · quarante · soixante …",
+     "intro": "Otuz, kırk, milyon…",
+     "v": [
+      [
+       "trente",
+       "otuz",
+       "trãt",
+       "🔢"
+      ],
+      [
+       "quarante",
+       "kırk",
+       "karãt",
+       "🔢"
+      ],
+      [
+       "soixante",
+       "altmış",
+       "svasãt",
+       "🔢"
+      ],
+      [
+       "soixante-dix",
+       "yetmiş",
+       "svasãt dis",
+       "🔢"
+      ],
+      [
+       "quatre-vingts",
+       "seksen",
+       "katrıvẽ",
+       "🔢"
+      ],
+      [
+       "quatre-vingt-dix",
+       "doksan",
+       "katrıvẽ dis",
+       "🔢"
+      ],
+      [
+       "un million",
+       "milyon",
+       "œ̃ milyõ",
+       "💰",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u33l3",
+     "kind": "vocab",
+     "title": "Sıra sayıları",
+     "subtitle": "premier · deuxième · troisième …",
+     "intro": "Birinci, ikinci, sonuncu…",
+     "v": [
+      [
+       "premier",
+       "birinci",
+       "prımye",
+       "🥇"
+      ],
+      [
+       "deuxième",
+       "ikinci",
+       "döziyem",
+       "🥈"
+      ],
+      [
+       "troisième",
+       "üçüncü",
+       "trvazyem",
+       "🥉"
+      ],
+      [
+       "quatrième",
+       "dördüncü",
+       "katriyem",
+       "4️⃣"
+      ],
+      [
+       "cinquième",
+       "beşinci",
+       "sẽkyem",
+       "5️⃣"
+      ],
+      [
+       "dixième",
+       "onuncu",
+       "diziyem",
+       "🔟"
+      ],
+      [
+       "dernier",
+       "sonuncu",
+       "dernye",
+       "🏁"
+      ]
+     ]
+    },
+    {
+     "id": "u33l4",
+     "kind": "vocab",
+     "title": "Matematik",
+     "subtitle": "additionner · soustraire · multiplier …",
+     "intro": "Toplamak, çıkarmak, yüzde…",
+     "v": [
+      [
+       "additionner",
+       "toplamak",
+       "adisyone",
+       "➕"
+      ],
+      [
+       "soustraire",
+       "çıkarmak (işlem)",
+       "sustrer",
+       "➖"
+      ],
+      [
+       "multiplier",
+       "çarpmak",
+       "mültipliye",
+       "✖️"
+      ],
+      [
+       "diviser",
+       "bölmek",
+       "divize",
+       "➗"
+      ],
+      [
+       "égale",
+       "eşittir",
+       "egal",
+       "🟰"
+      ],
+      [
+       "le pourcentage",
+       "yüzde",
+       "lö pursãtaj",
+       "💯",
+       "m"
+      ],
+      [
+       "le nombre",
+       "sayı",
+       "lö nõbr",
+       "🔢",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u33l5",
+     "kind": "vocab",
+     "title": "Zaman 3",
+     "subtitle": "le siècle · la décennie · la seconde …",
+     "intro": "Yüzyıl, saniye, gelecek…",
+     "v": [
+      [
+       "le siècle",
+       "yüzyıl",
+       "lö syekl",
+       "🏛️",
+       "m"
+      ],
+      [
+       "la décennie",
+       "on yıl",
+       "la deseni",
+       "📅",
+       "f"
+      ],
+      [
+       "la seconde",
+       "saniye",
+       "la sıgõd",
+       "⏱️",
+       "f"
+      ],
+      [
+       "le moment",
+       "an",
+       "lö momã",
+       "✨",
+       "m"
+      ],
+      [
+       "le passé",
+       "geçmiş",
+       "lö pase",
+       "⏪",
+       "m"
+      ],
+      [
+       "l'avenir",
+       "gelecek",
+       "lavnir",
+       "⏩",
+       "m"
+      ],
+      [
+       "l'époque",
+       "çağ, dönem",
+       "lepok",
+       "📜",
+       "f"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u34",
+   "level": "orta",
+   "title": "Fiiller 1",
+   "subtitle": "Hareket, el hareketleri, algı, düşünce, iletişim · 5 ders",
+   "lessons": [
+    {
+     "id": "u34l1",
+     "kind": "vocab",
+     "title": "Hareket 2",
+     "subtitle": "tomber · sauter · grimper …",
+     "intro": "Düşmek, atlamak, tırmanmak…",
+     "v": [
+      [
+       "tomber",
+       "düşmek",
+       "tõbe",
+       "🤕"
+      ],
+      [
+       "sauter",
+       "atlamak",
+       "sote",
+       "🦘"
+      ],
+      [
+       "grimper",
+       "tırmanmak",
+       "grẽpe",
+       "🧗"
+      ],
+      [
+       "tourner",
+       "dönmek (sağa/sola)",
+       "turne",
+       "↪️"
+      ],
+      [
+       "entrer",
+       "girmek",
+       "ãtre",
+       "🚪"
+      ],
+      [
+       "sortir",
+       "çıkmak (dışarı)",
+       "sortir",
+       "🚶"
+      ],
+      [
+       "traverser",
+       "karşıya geçmek",
+       "traverse",
+       "🚸"
+      ]
+     ]
+    },
+    {
+     "id": "u34l2",
+     "kind": "vocab",
+     "title": "El hareketleri",
+     "subtitle": "tenir · lancer · attraper …",
+     "intro": "Tutmak, atmak, çekmek…",
+     "v": [
+      [
+       "tenir",
+       "tutmak",
+       "tınir",
+       "✋"
+      ],
+      [
+       "lancer",
+       "atmak, fırlatmak",
+       "lãse",
+       "🤾"
+      ],
+      [
+       "attraper",
+       "yakalamak",
+       "atrape",
+       "🧤"
+      ],
+      [
+       "tirer",
+       "çekmek",
+       "tire",
+       "🫸"
+      ],
+      [
+       "pousser",
+       "itmek",
+       "puse",
+       "🫷"
+      ],
+      [
+       "porter",
+       "taşımak",
+       "porte",
+       "📦"
+      ],
+      [
+       "lâcher",
+       "bırakmak",
+       "laşe",
+       "👐"
+      ]
+     ]
+    },
+    {
+     "id": "u34l3",
+     "kind": "vocab",
+     "title": "Algı",
+     "subtitle": "sentir une odeur · toucher · remarquer …",
+     "intro": "Koklamak, dokunmak, fark etmek…",
+     "v": [
+      [
+       "sentir une odeur",
+       "koklamak",
+       "sãtir ün odör",
+       "👃"
+      ],
+      [
+       "toucher",
+       "dokunmak",
+       "tuşe",
+       "👆"
+      ],
+      [
+       "remarquer",
+       "fark etmek",
+       "rımarke",
+       "👀"
+      ],
+      [
+       "regarder",
+       "izlemek",
+       "rıgarde",
+       "📺"
+      ],
+      [
+       "observer",
+       "bakmak",
+       "opserve",
+       "🔍"
+      ],
+      [
+       "ressentir",
+       "hissetmek",
+       "rısãtir",
+       "🫶"
+      ],
+      [
+       "reconnaître",
+       "tanımak (biri)",
+       "rıkonetr",
+       "🙋"
+      ]
+     ]
+    },
+    {
+     "id": "u34l4",
+     "kind": "vocab",
+     "title": "Düşünce",
+     "subtitle": "se souvenir · oublier · décider …",
+     "intro": "Hatırlamak, unutmak, karar vermek…",
+     "v": [
+      [
+       "se souvenir",
+       "hatırlamak",
+       "sı suvnir",
+       "🧠"
+      ],
+      [
+       "oublier",
+       "unutmak",
+       "ubliye",
+       "🤷"
+      ],
+      [
+       "décider",
+       "karar vermek",
+       "deside",
+       "⚖️"
+      ],
+      [
+       "croire",
+       "inanmak",
+       "krvar",
+       "🙏"
+      ],
+      [
+       "rêver",
+       "hayal etmek",
+       "reve",
+       "💭"
+      ],
+      [
+       "se demander",
+       "merak etmek",
+       "sı dımãde",
+       "❓"
+      ],
+      [
+       "deviner",
+       "tahmin etmek",
+       "dıvine",
+       "🎯"
+      ]
+     ]
+    },
+    {
+     "id": "u34l5",
+     "kind": "vocab",
+     "title": "İletişim 2",
+     "subtitle": "demander · répondre · dire …",
+     "intro": "Sormak, anlatmak, bağırmak…",
+     "v": [
+      [
+       "demander",
+       "sormak",
+       "dımãde",
+       "❔"
+      ],
+      [
+       "répondre",
+       "cevap vermek",
+       "repõdr",
+       "💬"
+      ],
+      [
+       "dire",
+       "söylemek",
+       "dir",
+       "🗣️"
+      ],
+      [
+       "raconter",
+       "anlatmak",
+       "rakõte",
+       "📖"
+      ],
+      [
+       "crier",
+       "bağırmak",
+       "kriye",
+       "📢"
+      ],
+      [
+       "chuchoter",
+       "fısıldamak",
+       "şüşote",
+       "🤫"
+      ],
+      [
+       "appeler",
+       "telefonla aramak",
+       "aple",
+       "📞"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u35",
+   "level": "orta",
+   "title": "Fiiller 2",
+   "subtitle": "Başlamak ve bitirmek, sahiplik, değişim, günlük işler, sosyal · 5 ders",
+   "lessons": [
+    {
+     "id": "u35l1",
+     "kind": "vocab",
+     "title": "Başlamak ve bitirmek",
+     "subtitle": "commencer · finir · continuer …",
+     "intro": "Başlamak, beklemek, başarmak…",
+     "v": [
+      [
+       "commencer",
+       "başlamak",
+       "komãse",
+       "🚦"
+      ],
+      [
+       "finir",
+       "bitirmek",
+       "finir",
+       "🏁"
+      ],
+      [
+       "continuer",
+       "devam etmek",
+       "kõtinüe",
+       "▶️"
+      ],
+      [
+       "s'arrêter",
+       "durmak",
+       "sarete",
+       "✋"
+      ],
+      [
+       "attendre",
+       "beklemek",
+       "atãdr",
+       "⏳"
+      ],
+      [
+       "tenter",
+       "çalışmak, uğraşmak (denemek)",
+       "tãte",
+       "💪"
+      ],
+      [
+       "réussir",
+       "başarmak",
+       "reüsir",
+       "🏆"
+      ]
+     ]
+    },
+    {
+     "id": "u35l2",
+     "kind": "vocab",
+     "title": "Sahiplik",
+     "subtitle": "donner · prendre · apporter …",
+     "intro": "Vermek, almak, göndermek…",
+     "v": [
+      [
+       "donner",
+       "vermek",
+       "done",
+       "🎁"
+      ],
+      [
+       "prendre",
+       "almak",
+       "prãdr",
+       "🤲"
+      ],
+      [
+       "apporter",
+       "getirmek",
+       "aporte",
+       "🛍️"
+      ],
+      [
+       "envoyer",
+       "göndermek",
+       "ãvvaye",
+       "📤"
+      ],
+      [
+       "trouver",
+       "bulmak",
+       "truve",
+       "🔎"
+      ],
+      [
+       "garder",
+       "saklamak (tutmak)",
+       "garde",
+       "📦"
+      ],
+      [
+       "emprunter",
+       "ödünç almak",
+       "ãprœ̃te",
+       "🔄"
+      ]
+     ]
+    },
+    {
+     "id": "u35l3",
+     "kind": "vocab",
+     "title": "Değişim",
+     "subtitle": "changer · grandir · augmenter …",
+     "intro": "Büyümek, artmak, kırmak…",
+     "v": [
+      [
+       "changer",
+       "değişmek",
+       "şãje",
+       "🔄"
+      ],
+      [
+       "grandir",
+       "büyümek",
+       "grãdir",
+       "🌱"
+      ],
+      [
+       "augmenter",
+       "artmak",
+       "ogmãte",
+       "📈"
+      ],
+      [
+       "diminuer",
+       "azalmak",
+       "diminüe",
+       "📉"
+      ],
+      [
+       "casser",
+       "kırmak",
+       "kase",
+       "💔"
+      ],
+      [
+       "réparer",
+       "tamir etmek",
+       "repare",
+       "🔧"
+      ],
+      [
+       "ouvrir",
+       "açmak (kapı)",
+       "uvrir",
+       "🚪"
+      ]
+     ]
+    },
+    {
+     "id": "u35l4",
+     "kind": "vocab",
+     "title": "Günlük işler 2",
+     "subtitle": "fermer · laver · nettoyer …",
+     "intro": "Kapatmak, koymak, saklamak…",
+     "v": [
+      [
+       "fermer",
+       "kapatmak (kapı)",
+       "ferme",
+       "🚪"
+      ],
+      [
+       "laver",
+       "yıkamak",
+       "lave",
+       "🫧"
+      ],
+      [
+       "nettoyer",
+       "temizlemek",
+       "netvaye",
+       "🧽"
+      ],
+      [
+       "mettre",
+       "koymak",
+       "metr",
+       "📥"
+      ],
+      [
+       "ramasser",
+       "yerden almak",
+       "ramase",
+       "🫳"
+      ],
+      [
+       "accrocher",
+       "asmak",
+       "akroşe",
+       "🪝"
+      ],
+      [
+       "cacher",
+       "saklamak (gizlemek)",
+       "kaşe",
+       "🙈"
+      ]
+     ]
+    },
+    {
+     "id": "u35l5",
+     "kind": "vocab",
+     "title": "Sosyal fiiller",
+     "subtitle": "inviter · participer · remercier …",
+     "intro": "Davet etmek, söz vermek…",
+     "v": [
+      [
+       "inviter",
+       "davet etmek",
+       "ẽvite",
+       "💌"
+      ],
+      [
+       "participer",
+       "katılmak",
+       "partisipe",
+       "🙋"
+      ],
+      [
+       "remercier",
+       "teşekkür etmek",
+       "rımersye",
+       "🙏"
+      ],
+      [
+       "s'excuser",
+       "özür dilemek",
+       "sekskuze",
+       "🙇"
+      ],
+      [
+       "promettre",
+       "söz vermek",
+       "prometr",
+       "🤞"
+      ],
+      [
+       "permettre",
+       "izin vermek",
+       "permetr",
+       "✅"
+      ],
+      [
+       "interdire",
+       "yasaklamak",
+       "ẽterdir",
+       "⛔"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u36",
+   "level": "orta",
+   "title": "Sıfatlar 1",
+   "subtitle": "Boyut, renkler, durum, doku, değerlendirme · 5 ders",
+   "lessons": [
+    {
+     "id": "u36l1",
+     "kind": "vocab",
+     "title": "Boyut ve şekil",
+     "subtitle": "spacieux · énorme · minuscule …",
+     "intro": "Geniş, kocaman, yuvarlak…",
+     "v": [
+      [
+       "spacieux",
+       "geniş",
+       "spasyö",
+       "↔️"
+      ],
+      [
+       "énorme",
+       "kocaman",
+       "enorm",
+       "🐋"
+      ],
+      [
+       "minuscule",
+       "küçücük",
+       "minüskül",
+       "🐜"
+      ],
+      [
+       "plat",
+       "düz, yassı",
+       "pla",
+       "📄"
+      ],
+      [
+       "rond",
+       "yuvarlak",
+       "rõ",
+       "⚪"
+      ],
+      [
+       "carré",
+       "kare",
+       "kare",
+       "⬛"
+      ],
+      [
+       "profond",
+       "derin",
+       "profõ",
+       "🌊"
+      ]
+     ]
+    },
+    {
+     "id": "u36l2",
+     "kind": "vocab",
+     "title": "Renkler 2",
+     "subtitle": "orange · violet · rose …",
+     "intro": "Turuncu, mor, pembe…",
+     "v": [
+      [
+       "orange",
+       "turuncu",
+       "orãj",
+       "🟠"
+      ],
+      [
+       "violet",
+       "mor",
+       "vyole",
+       "🟣"
+      ],
+      [
+       "rose",
+       "pembe",
+       "roz",
+       "🩷"
+      ],
+      [
+       "marron",
+       "kahverengi",
+       "marõ",
+       "🟤"
+      ],
+      [
+       "clair",
+       "açık (renk)",
+       "kler",
+       "⚪"
+      ],
+      [
+       "foncé",
+       "koyu",
+       "fõse",
+       "⚫"
+      ],
+      [
+       "coloré",
+       "renkli",
+       "kolore",
+       "🌈"
+      ]
+     ]
+    },
+    {
+     "id": "u36l3",
+     "kind": "vocab",
+     "title": "Durum",
+     "subtitle": "plein · vide · sale …",
+     "intro": "Dolu, boş, ıslak…",
+     "v": [
+      [
+       "plein",
+       "dolu",
+       "plẽ",
+       "🫙"
+      ],
+      [
+       "vide",
+       "boş",
+       "vid",
+       "🫙"
+      ],
+      [
+       "sale",
+       "kirli",
+       "sal",
+       "🟫"
+      ],
+      [
+       "mouillé",
+       "ıslak",
+       "muye",
+       "💧"
+      ],
+      [
+       "sec",
+       "kuru",
+       "sek",
+       "🏜️"
+      ],
+      [
+       "silencieux",
+       "sessiz",
+       "silãsyö",
+       "🤫"
+      ],
+      [
+       "bruyant",
+       "gürültülü",
+       "brüiyã",
+       "📢"
+      ]
+     ]
+    },
+    {
+     "id": "u36l4",
+     "kind": "vocab",
+     "title": "Doku ve ağırlık",
+     "subtitle": "tiède · frais (temps) · doux …",
+     "intro": "Ilık, yumuşak, ağır…",
+     "v": [
+      [
+       "tiède",
+       "ılık",
+       "tyed",
+       "🌡️"
+      ],
+      [
+       "frais (temps)",
+       "serin",
+       "fre",
+       "🌬️"
+      ],
+      [
+       "doux",
+       "yumuşak",
+       "du",
+       "☁️"
+      ],
+      [
+       "dur",
+       "sert",
+       "dür",
+       "🪨"
+      ],
+      [
+       "lisse",
+       "pürüzsüz",
+       "lis",
+       "🪞"
+      ],
+      [
+       "rugueux",
+       "pürüzlü",
+       "rügö",
+       "🪵"
+      ],
+      [
+       "lourd",
+       "ağır",
+       "lur",
+       "🏋️"
+      ]
+     ]
+    },
+    {
+     "id": "u36l5",
+     "kind": "vocab",
+     "title": "Değerlendirme",
+     "subtitle": "excellent · terrible · important …",
+     "intro": "Mükemmel, önemli, mümkün…",
+     "v": [
+      [
+       "excellent",
+       "mükemmel",
+       "ekselã",
+       "🌟"
+      ],
+      [
+       "terrible",
+       "berbat",
+       "teribl",
+       "👎"
+      ],
+      [
+       "important",
+       "önemli",
+       "ẽportã",
+       "❗"
+      ],
+      [
+       "nécessaire",
+       "gerekli",
+       "neseser",
+       "📌"
+      ],
+      [
+       "possible",
+       "mümkün",
+       "posibl",
+       "✅"
+      ],
+      [
+       "impossible",
+       "imkânsız",
+       "ẽposibl",
+       "🚫"
+      ],
+      [
+       "naturel",
+       "doğal",
+       "natürel",
+       "🍃"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u37",
+   "level": "orta",
+   "title": "Sıfatlar 2",
+   "subtitle": "Zaman, durum, nitelik, kişilik, karşılaştırma · 5 ders",
+   "lessons": [
+    {
+     "id": "u37l1",
+     "kind": "vocab",
+     "title": "Zamanla ilgili",
+     "subtitle": "ancien · moderne · quotidien …",
+     "intro": "Eski, modern, günlük…",
+     "v": [
+      [
+       "ancien",
+       "antik, eski",
+       "ãsyẽ",
+       "🏺"
+      ],
+      [
+       "moderne",
+       "modern",
+       "modern",
+       "🏙️"
+      ],
+      [
+       "quotidien",
+       "günlük",
+       "kotidyẽ",
+       "📆"
+      ],
+      [
+       "hebdomadaire",
+       "haftalık",
+       "ebdomader",
+       "🗓️"
+      ],
+      [
+       "annuel",
+       "yıllık",
+       "anüel",
+       "📅"
+      ],
+      [
+       "temporaire",
+       "geçici",
+       "tãporer",
+       "⏳"
+      ],
+      [
+       "permanent",
+       "kalıcı",
+       "permanã",
+       "♾️"
+      ]
+     ]
+    },
+    {
+     "id": "u37l2",
+     "kind": "vocab",
+     "title": "Durum 2",
+     "subtitle": "prêt · occupé · libre …",
+     "intro": "Hazır, meşgul, zengin…",
+     "v": [
+      [
+       "prêt",
+       "hazır",
+       "pre",
+       "✅"
+      ],
+      [
+       "occupé",
+       "meşgul",
+       "oküpe",
+       "📵"
+      ],
+      [
+       "libre",
+       "serbest, boş",
+       "libr",
+       "🕊️"
+      ],
+      [
+       "sûr",
+       "güvenli",
+       "sür",
+       "🛡️"
+      ],
+      [
+       "confortable",
+       "rahat",
+       "kõfortabl",
+       "🛋️"
+      ],
+      [
+       "riche",
+       "zengin",
+       "riş",
+       "💰"
+      ],
+      [
+       "pauvre",
+       "fakir",
+       "povr",
+       "🪙"
+      ]
+     ]
+    },
+    {
+     "id": "u37l3",
+     "kind": "vocab",
+     "title": "Nitelik",
+     "subtitle": "célèbre · bizarre · normal …",
+     "intro": "Ünlü, garip, basit…",
+     "v": [
+      [
+       "célèbre",
+       "ünlü",
+       "selebr",
+       "⭐"
+      ],
+      [
+       "bizarre",
+       "garip",
+       "bizar",
+       "🤨"
+      ],
+      [
+       "normal",
+       "normal",
+       "normal",
+       "😐"
+      ],
+      [
+       "secret",
+       "gizli",
+       "sıkre",
+       "🤫"
+      ],
+      [
+       "simple",
+       "basit",
+       "sẽpl",
+       "1️⃣"
+      ],
+      [
+       "compliqué",
+       "karmaşık",
+       "kõplike",
+       "🧩"
+      ],
+      [
+       "populaire",
+       "popüler",
+       "popüler",
+       "🔥"
+      ]
+     ]
+    },
+    {
+     "id": "u37l4",
+     "kind": "vocab",
+     "title": "Kişilik 3",
+     "subtitle": "doué · respectueux · généreux …",
+     "intro": "Yetenekli, cömert, meraklı…",
+     "v": [
+      [
+       "doué",
+       "yetenekli",
+       "due",
+       "🎯"
+      ],
+      [
+       "respectueux",
+       "saygılı",
+       "respektüö",
+       "🙇"
+      ],
+      [
+       "généreux",
+       "cömert",
+       "jenerö",
+       "🎁"
+      ],
+      [
+       "avare",
+       "cimri",
+       "avar",
+       "🪙"
+      ],
+      [
+       "déterminé",
+       "kararlı",
+       "determine",
+       "💪"
+      ],
+      [
+       "curieux",
+       "meraklı",
+       "küryö",
+       "🧐"
+      ],
+      [
+       "responsable",
+       "sorumlu",
+       "respõsabl",
+       "📋"
+      ]
+     ]
+    },
+    {
+     "id": "u37l5",
+     "kind": "vocab",
+     "title": "Karşılaştırma",
+     "subtitle": "plus · le plus · aussi … que …",
+     "intro": "Daha, en, aynı…",
+     "v": [
+      [
+       "plus",
+       "daha (fazla)",
+       "plüs",
+       "➕"
+      ],
+      [
+       "le plus",
+       "en (üstünlük)",
+       "lö plüs",
+       "🏆"
+      ],
+      [
+       "aussi … que",
+       "… kadar …",
+       "osi … kı",
+       "⚖️"
+      ],
+      [
+       "semblable",
+       "benzer",
+       "sãblabl",
+       "👯"
+      ],
+      [
+       "différent",
+       "farklı",
+       "diferã",
+       "🔀"
+      ],
+      [
+       "pareil",
+       "aynı",
+       "parey",
+       "🟰"
+      ],
+      [
+       "comme",
+       "gibi",
+       "kom",
+       "🪞"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u38",
+   "level": "orta",
+   "title": "Zarflar ve bağlaçlar",
+   "subtitle": "Yer, zaman, tarz, bağlaçlar, sorular · 5 ders",
+   "lessons": [
+    {
+     "id": "u38l1",
+     "kind": "vocab",
+     "title": "Yer zarfları",
+     "subtitle": "dedans · dehors · en haut …",
+     "intro": "İçeride, dışarıda, her yerde…",
+     "v": [
+      [
+       "dedans",
+       "içeride",
+       "dıdã",
+       "🏠"
+      ],
+      [
+       "dehors",
+       "dışarıda",
+       "dıor",
+       "🌳"
+      ],
+      [
+       "en haut",
+       "yukarıda",
+       "ã o",
+       "⬆️"
+      ],
+      [
+       "en bas",
+       "aşağıda",
+       "ã ba",
+       "⬇️"
+      ],
+      [
+       "partout",
+       "her yerde",
+       "partu",
+       "🌍"
+      ],
+      [
+       "nulle part",
+       "hiçbir yerde",
+       "nül par",
+       "🚫"
+      ],
+      [
+       "quelque part",
+       "bir yerde",
+       "kelkı par",
+       "📍"
+      ]
+     ]
+    },
+    {
+     "id": "u38l2",
+     "kind": "vocab",
+     "title": "Zaman zarfları 2",
+     "subtitle": "avant · alors · enfin …",
+     "intro": "Önce, sonunda, aniden…",
+     "v": [
+      [
+       "avant",
+       "önce, eskiden",
+       "avã",
+       "⏮️"
+      ],
+      [
+       "alors",
+       "o zaman",
+       "alor",
+       "➡️"
+      ],
+      [
+       "enfin",
+       "sonunda",
+       "ãfẽ",
+       "🏁"
+      ],
+      [
+       "soudain",
+       "aniden",
+       "sudẽ",
+       "⚡"
+      ],
+      [
+       "toujours (encore)",
+       "hâlâ",
+       "tujur ãkor",
+       "⏳"
+      ],
+      [
+       "une fois",
+       "bir kez",
+       "ün fva",
+       "1️⃣"
+      ],
+      [
+       "de nouveau",
+       "tekrar",
+       "dı nuvo",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u38l3",
+     "kind": "vocab",
+     "title": "Nasıl?",
+     "subtitle": "ensemble · tout seul · prudemment …",
+     "intro": "Birlikte, dikkatlice, yüksek sesle…",
+     "v": [
+      [
+       "ensemble",
+       "birlikte",
+       "ãsãbl",
+       "👫"
+      ],
+      [
+       "tout seul",
+       "tek başına",
+       "tu söl",
+       "🧍"
+      ],
+      [
+       "prudemment",
+       "dikkatlice",
+       "prüdamã",
+       "🔍"
+      ],
+      [
+       "doucement",
+       "sessizce",
+       "dusmã",
+       "🤫"
+      ],
+      [
+       "fort",
+       "yüksek sesle",
+       "for",
+       "📢"
+      ],
+      [
+       "correctement",
+       "doğru şekilde",
+       "korektımã",
+       "✅"
+      ],
+      [
+       "par hasard",
+       "yanlışlıkla",
+       "par azar",
+       "😬"
+      ]
+     ]
+    },
+    {
+     "id": "u38l4",
+     "kind": "vocab",
+     "title": "Bağlaçlar 2",
+     "subtitle": "cependant · au fait · par exemple …",
+     "intro": "Ancak, örneğin, ayrıca…",
+     "v": [
+      [
+       "cependant",
+       "ancak, fakat",
+       "sıpãdã",
+       "↔️"
+      ],
+      [
+       "au fait",
+       "bu arada",
+       "o fet",
+       "💡"
+      ],
+      [
+       "par exemple",
+       "örneğin",
+       "par egzãpl",
+       "📝"
+      ],
+      [
+       "de plus",
+       "ayrıca",
+       "dı plüs",
+       "➕"
+      ],
+      [
+       "malgré",
+       "-e rağmen",
+       "malgre",
+       "🌧️"
+      ],
+      [
+       "ainsi",
+       "böylece",
+       "ẽsi",
+       "➡️"
+      ],
+      [
+       "sinon",
+       "yoksa, aksi halde",
+       "sinõ",
+       "⚠️"
+      ]
+     ]
+    },
+    {
+     "id": "u38l5",
+     "kind": "vocab",
+     "title": "Soru kalıpları 2",
+     "subtitle": "lequel · à qui · combien de temps …",
+     "intro": "Hangisi, kimin, ne kadar süre…",
+     "v": [
+      [
+       "lequel",
+       "hangisi",
+       "lıkel",
+       "🤔"
+      ],
+      [
+       "à qui",
+       "kimin",
+       "a ki",
+       "👤"
+      ],
+      [
+       "combien de temps",
+       "ne kadar süre",
+       "kõbyẽ dı tã",
+       "⏱️"
+      ],
+      [
+       "à quelle fréquence",
+       "ne sıklıkla",
+       "a kel frekãs",
+       "🔁"
+      ],
+      [
+       "pourquoi pas",
+       "neden olmasın",
+       "purkva pa",
+       "🤷"
+      ],
+      [
+       "quel genre de",
+       "ne tür",
+       "kel jãr dı",
+       "🗂️"
+      ],
+      [
+       "combien de",
+       "kaç tane",
+       "kõbyẽ dı",
+       "🔢"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u39",
+   "level": "orta",
+   "title": "Toplum ve haberler",
+   "subtitle": "Devlet, hukuk, medya, toplum, gündem · 5 ders",
+   "lessons": [
+    {
+     "id": "u39l1",
+     "kind": "vocab",
+     "title": "Devlet",
+     "subtitle": "l'État · le gouvernement · le président …",
+     "intro": "Hükümet, seçim, yasa…",
+     "v": [
+      [
+       "l'État",
+       "devlet",
+       "leta",
+       "🏛️",
+       "m"
+      ],
+      [
+       "le gouvernement",
+       "hükümet",
+       "lö guvernımã",
+       "🏢",
+       "m"
+      ],
+      [
+       "le président",
+       "cumhurbaşkanı",
+       "lö prezidã",
+       "🎖️",
+       "m"
+      ],
+      [
+       "les élections",
+       "seçim",
+       "le zeleksyõ",
+       "🗳️"
+      ],
+      [
+       "voter",
+       "oy vermek",
+       "vote",
+       "✅"
+      ],
+      [
+       "la loi",
+       "yasa",
+       "la lva",
+       "📜",
+       "f"
+      ],
+      [
+       "le citoyen",
+       "vatandaş",
+       "lö sitvayẽ",
+       "🧑",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u39l2",
+     "kind": "vocab",
+     "title": "Hukuk",
+     "subtitle": "le tribunal · le juge · le crime …",
+     "intro": "Mahkeme, suç, ceza…",
+     "v": [
+      [
+       "le tribunal",
+       "mahkeme",
+       "lö tribünal",
+       "⚖️",
+       "m"
+      ],
+      [
+       "le juge",
+       "hâkim",
+       "lö jüj",
+       "👩‍⚖️",
+       "m"
+      ],
+      [
+       "le crime",
+       "suç",
+       "lö krim",
+       "🚨",
+       "m"
+      ],
+      [
+       "le voleur",
+       "hırsız",
+       "lö volör",
+       "🦹",
+       "m"
+      ],
+      [
+       "l'amende",
+       "para cezası",
+       "lamãd",
+       "💸",
+       "f"
+      ],
+      [
+       "la règle du jeu",
+       "kural",
+       "la regl dü jö",
+       "📏",
+       "f"
+      ],
+      [
+       "le droit",
+       "hak",
+       "lö drva",
+       "✊",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u39l3",
+     "kind": "vocab",
+     "title": "Medya",
+     "subtitle": "les informations · le journal · la radio …",
+     "intro": "Gazete, radyo, reklam…",
+     "v": [
+      [
+       "les informations",
+       "haberler",
+       "le zẽformasyõ",
+       "📰"
+      ],
+      [
+       "le journal",
+       "gazete",
+       "lö jurnal",
+       "🗞️",
+       "m"
+      ],
+      [
+       "la radio",
+       "radyo",
+       "la radyo",
+       "📻",
+       "f"
+      ],
+      [
+       "la publicité",
+       "reklam",
+       "la püblisite",
+       "📣",
+       "f"
+      ],
+      [
+       "l'article",
+       "makale",
+       "lartikl",
+       "📝",
+       "m"
+      ],
+      [
+       "l'interview",
+       "röportaj",
+       "lẽtervyu",
+       "🎙️",
+       "f"
+      ],
+      [
+       "l'émission",
+       "yayın, program",
+       "lemisyõ",
+       "📺",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u39l4",
+     "kind": "vocab",
+     "title": "Toplum",
+     "subtitle": "la société · la population · la culture …",
+     "intro": "Kültür, gelenek, barış…",
+     "v": [
+      [
+       "la société",
+       "toplum",
+       "la sosyete",
+       "👥",
+       "f"
+      ],
+      [
+       "la population",
+       "nüfus",
+       "la popülasyõ",
+       "📊",
+       "f"
+      ],
+      [
+       "la culture",
+       "kültür",
+       "la kültür",
+       "🎭",
+       "f"
+      ],
+      [
+       "la tradition",
+       "gelenek",
+       "la tradisyõ",
+       "🎎",
+       "f"
+      ],
+      [
+       "la religion",
+       "din",
+       "la rılijyõ",
+       "🕊️",
+       "f"
+      ],
+      [
+       "la guerre",
+       "savaş",
+       "la ger",
+       "⚔️",
+       "f"
+      ],
+      [
+       "la paix",
+       "barış",
+       "la pe",
+       "☮️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u39l5",
+     "kind": "vocab",
+     "title": "Gündem",
+     "subtitle": "l'événement · le problème · la solution …",
+     "intro": "Olay, sorun, çözüm…",
+     "v": [
+      [
+       "l'événement",
+       "olay",
+       "levenmã",
+       "📅",
+       "m"
+      ],
+      [
+       "le problème",
+       "sorun",
+       "lö problem",
+       "❗",
+       "m"
+      ],
+      [
+       "la solution",
+       "çözüm",
+       "la solüsyõ",
+       "💡",
+       "f"
+      ],
+      [
+       "la crise",
+       "kriz",
+       "la kriz",
+       "📉",
+       "f"
+      ],
+      [
+       "le développement",
+       "gelişme",
+       "lö devlopmã",
+       "📈",
+       "m"
+      ],
+      [
+       "le succès",
+       "başarı",
+       "lö sükse",
+       "🏅",
+       "m"
+      ],
+      [
+       "le débat",
+       "tartışma (fikir)",
+       "lö deba",
+       "🗣️",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u40",
+   "level": "orta",
+   "title": "Para ve banka",
+   "subtitle": "Banka, para birimleri, para işleri, kira, ekonomi · 5 ders",
+   "lessons": [
+    {
+     "id": "u40l1",
+     "kind": "vocab",
+     "title": "Bankada",
+     "subtitle": "l'agence bancaire · le distributeur · les intérêts …",
+     "intro": "ATM, faiz, kredi…",
+     "v": [
+      [
+       "l'agence bancaire",
+       "banka şubesi",
+       "lajãs bãker",
+       "🏦",
+       "f"
+      ],
+      [
+       "le distributeur",
+       "ATM",
+       "lö distribütör",
+       "🏧",
+       "m"
+      ],
+      [
+       "les intérêts",
+       "faiz",
+       "le zẽtere",
+       "📈"
+      ],
+      [
+       "le prêt",
+       "kredi",
+       "lö pre",
+       "💳",
+       "m"
+      ],
+      [
+       "la dette",
+       "borç",
+       "la det",
+       "📉",
+       "f"
+      ],
+      [
+       "le virement",
+       "havale",
+       "lö virmã",
+       "🔁",
+       "m"
+      ],
+      [
+       "la devise",
+       "döviz",
+       "la dıviz",
+       "💱",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u40l2",
+     "kind": "vocab",
+     "title": "Para birimleri",
+     "subtitle": "la pièce · le billet de banque · l'euro …",
+     "intro": "Bozuk para, euro, bütçe…",
+     "v": [
+      [
+       "la pièce",
+       "bozuk para",
+       "la pyes",
+       "🪙",
+       "f"
+      ],
+      [
+       "le billet de banque",
+       "banknot",
+       "lö biye dı bãk",
+       "💵",
+       "m"
+      ],
+      [
+       "l'euro",
+       "euro",
+       "löro",
+       "💶",
+       "m"
+      ],
+      [
+       "le dollar",
+       "dolar",
+       "lö dolar",
+       "💲",
+       "m"
+      ],
+      [
+       "la livre turque",
+       "Türk lirası",
+       "la livr türk",
+       "🇹🇷",
+       "f"
+      ],
+      [
+       "le budget",
+       "bütçe",
+       "lö büdje",
+       "📊",
+       "m"
+      ],
+      [
+       "le coût",
+       "maliyet",
+       "lö ku",
+       "🧾",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u40l3",
+     "kind": "vocab",
+     "title": "Para işleri",
+     "subtitle": "retirer de l'argent · déposer · changer de l'argent …",
+     "intro": "Para çekmek, satmak, kiralamak…",
+     "v": [
+      [
+       "retirer de l'argent",
+       "para çekmek",
+       "rıtire dı larjã",
+       "🏧"
+      ],
+      [
+       "déposer",
+       "para yatırmak",
+       "depoze",
+       "🏦"
+      ],
+      [
+       "changer de l'argent",
+       "döviz bozdurmak",
+       "şãje dı larjã",
+       "💱"
+      ],
+      [
+       "prêter",
+       "borç vermek",
+       "prete",
+       "🤝"
+      ],
+      [
+       "investir",
+       "yatırım yapmak",
+       "ẽvestir",
+       "📈"
+      ],
+      [
+       "vendre",
+       "satmak",
+       "vãdr",
+       "🏷️"
+      ],
+      [
+       "louer",
+       "kiralamak",
+       "lue",
+       "🔑"
+      ]
+     ]
+    },
+    {
+     "id": "u40l4",
+     "kind": "vocab",
+     "title": "Ev ve kira",
+     "subtitle": "le loyer · le propriétaire · le locataire …",
+     "intro": "Kira, ev sahibi, taşınmak…",
+     "v": [
+      [
+       "le loyer",
+       "kira",
+       "lö lvaye",
+       "🏠",
+       "m"
+      ],
+      [
+       "le propriétaire",
+       "ev sahibi",
+       "lö propriyeter",
+       "🧔",
+       "m"
+      ],
+      [
+       "le locataire",
+       "kiracı",
+       "lö lokater",
+       "🧑",
+       "m"
+      ],
+      [
+       "la caution",
+       "depozito",
+       "la kosyõ",
+       "💰",
+       "f"
+      ],
+      [
+       "l'électricité",
+       "elektrik",
+       "lelektrisite",
+       "⚡",
+       "f"
+      ],
+      [
+       "le chauffage",
+       "ısıtma",
+       "lö şofaj",
+       "🔥",
+       "m"
+      ],
+      [
+       "déménager",
+       "taşınmak",
+       "demenaje",
+       "📦"
+      ]
+     ]
+    },
+    {
+     "id": "u40l5",
+     "kind": "vocab",
+     "title": "Ekonomi",
+     "subtitle": "l'économie · l'inflation · l'impôt …",
+     "intro": "Vergi, işsizlik, ihracat…",
+     "v": [
+      [
+       "l'économie",
+       "ekonomi",
+       "lekonomi",
+       "💹",
+       "f"
+      ],
+      [
+       "l'inflation",
+       "enflasyon",
+       "lẽflasyõ",
+       "🎈",
+       "f"
+      ],
+      [
+       "l'impôt",
+       "vergi",
+       "lẽpo",
+       "🧾",
+       "m"
+      ],
+      [
+       "le chômage",
+       "işsizlik",
+       "lö şomaj",
+       "📉",
+       "m"
+      ],
+      [
+       "l'exportation",
+       "ihracat",
+       "leksportasyõ",
+       "🚢",
+       "f"
+      ],
+      [
+       "l'importation",
+       "ithalat",
+       "lẽportasyõ",
+       "📦",
+       "f"
+      ],
+      [
+       "le marché",
+       "pazar, piyasa",
+       "lö marşe",
+       "🏪",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u41",
+   "level": "orta",
+   "title": "Çevre ve coğrafya",
+   "subtitle": "Çevre, coğrafya, afetler, kırsal yaşam, hava durumu · 5 ders",
+   "lessons": [
+    {
+     "id": "u41l1",
+     "kind": "vocab",
+     "title": "Çevre",
+     "subtitle": "l'environnement · la pollution · le recyclage …",
+     "intro": "Kirlilik, geri dönüşüm, iklim…",
+     "v": [
+      [
+       "l'environnement",
+       "çevre",
+       "lãvironmã",
+       "🌍",
+       "m"
+      ],
+      [
+       "la pollution",
+       "kirlilik",
+       "la polüsyõ",
+       "🏭",
+       "f"
+      ],
+      [
+       "le recyclage",
+       "geri dönüşüm",
+       "lö rısiklaj",
+       "♻️",
+       "m"
+      ],
+      [
+       "le climat",
+       "iklim",
+       "lö klima",
+       "🌡️",
+       "m"
+      ],
+      [
+       "l'énergie",
+       "enerji",
+       "lenerji",
+       "🔋",
+       "f"
+      ],
+      [
+       "l'énergie solaire",
+       "güneş enerjisi",
+       "lenerji soler",
+       "☀️",
+       "f"
+      ],
+      [
+       "protéger",
+       "korumak",
+       "proteje",
+       "🛡️"
+      ]
+     ]
+    },
+    {
+     "id": "u41l2",
+     "kind": "vocab",
+     "title": "Coğrafya",
+     "subtitle": "le continent · l'océan · la péninsule …",
+     "intro": "Kıta, okyanus, yanardağ…",
+     "v": [
+      [
+       "le continent",
+       "kıta",
+       "lö kõtinã",
+       "🗺️",
+       "m"
+      ],
+      [
+       "l'océan",
+       "okyanus",
+       "loseã",
+       "🌊",
+       "m"
+      ],
+      [
+       "la péninsule",
+       "yarımada",
+       "la penẽsül",
+       "🏝️",
+       "f"
+      ],
+      [
+       "le volcan",
+       "yanardağ",
+       "lö volkã",
+       "🌋",
+       "m"
+      ],
+      [
+       "la grotte",
+       "mağara",
+       "la grot",
+       "🕳️",
+       "f"
+      ],
+      [
+       "le glacier",
+       "buzul",
+       "lö glasye",
+       "🧊",
+       "m"
+      ],
+      [
+       "le sable",
+       "kum",
+       "lö sabl",
+       "🏖️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u41l3",
+     "kind": "vocab",
+     "title": "Doğal afetler",
+     "subtitle": "le tremblement de terre · l'inondation · la sécheresse …",
+     "intro": "Deprem, sel, kuraklık…",
+     "v": [
+      [
+       "le tremblement de terre",
+       "deprem",
+       "lö trãblımã dı ter",
+       "🌐",
+       "m"
+      ],
+      [
+       "l'inondation",
+       "sel",
+       "linõdasyõ",
+       "🌊",
+       "f"
+      ],
+      [
+       "la sécheresse",
+       "kuraklık",
+       "la seşres",
+       "🏜️",
+       "f"
+      ],
+      [
+       "l'ouragan",
+       "kasırga",
+       "luragã",
+       "🌀",
+       "m"
+      ],
+      [
+       "le tsunami",
+       "tsunami",
+       "lö tsünami",
+       "🌊",
+       "m"
+      ],
+      [
+       "le glissement de terrain",
+       "heyelan",
+       "lö glismã dı terẽ",
+       "⛰️",
+       "m"
+      ],
+      [
+       "l'avalanche",
+       "çığ",
+       "lavalãş",
+       "🏔️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u41l4",
+     "kind": "vocab",
+     "title": "Kırsal yaşam",
+     "subtitle": "le champ · la grange · le tracteur …",
+     "intro": "Tarla, traktör, hasat…",
+     "v": [
+      [
+       "le champ",
+       "tarla",
+       "lö şã",
+       "🌾",
+       "m"
+      ],
+      [
+       "la grange",
+       "ahır",
+       "la grãj",
+       "🐄",
+       "f"
+      ],
+      [
+       "le tracteur",
+       "traktör",
+       "lö traktör",
+       "🚜",
+       "m"
+      ],
+      [
+       "la récolte",
+       "hasat",
+       "la rekolt",
+       "🌽",
+       "f"
+      ],
+      [
+       "semer",
+       "ekmek (tohum)",
+       "sıme",
+       "🌱"
+      ],
+      [
+       "la terre",
+       "toprak",
+       "la ter",
+       "🟫",
+       "f"
+      ],
+      [
+       "le puits",
+       "kuyu",
+       "lö püi",
+       "🪣",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u41l5",
+     "kind": "vocab",
+     "title": "Hava durumu 2",
+     "subtitle": "le degré · l'humidité · la météo …",
+     "intro": "Derece, nem, güneşli…",
+     "v": [
+      [
+       "le degré",
+       "derece",
+       "lö dıgre",
+       "🌡️",
+       "m"
+      ],
+      [
+       "l'humidité",
+       "nem",
+       "lümidite",
+       "💧",
+       "f"
+      ],
+      [
+       "la météo",
+       "hava tahmini",
+       "la meteo",
+       "📺",
+       "f"
+      ],
+      [
+       "ensoleillé",
+       "güneşli",
+       "ãsoleye",
+       "☀️"
+      ],
+      [
+       "nuageux",
+       "bulutlu",
+       "nüajö",
+       "☁️"
+      ],
+      [
+       "pluvieux",
+       "yağmurlu",
+       "plüvyö",
+       "🌧️"
+      ],
+      [
+       "venteux",
+       "rüzgârlı",
+       "vãtö",
+       "💨"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u42",
+   "level": "orta",
+   "title": "Yaşam olayları",
+   "subtitle": "Yaşam evreleri, özel günler, çocuklar, ev hayatı, evcil hayvanlar · 5 ders",
+   "lessons": [
+    {
+     "id": "u42l1",
+     "kind": "vocab",
+     "title": "Yaşam evreleri",
+     "subtitle": "naître · la petite enfance · l'enfance …",
+     "intro": "Doğmak, çocukluk, yaşlılık…",
+     "v": [
+      [
+       "naître",
+       "doğmak",
+       "netr",
+       "👶"
+      ],
+      [
+       "la petite enfance",
+       "bebeklik",
+       "la pıtit ãfãs",
+       "🍼",
+       "f"
+      ],
+      [
+       "l'enfance",
+       "çocukluk",
+       "lãfãs",
+       "🧒",
+       "f"
+      ],
+      [
+       "la jeunesse",
+       "gençlik",
+       "la jönes",
+       "🧑",
+       "f"
+      ],
+      [
+       "l'adulte",
+       "yetişkin",
+       "ladült",
+       "🧑‍💼",
+       "m"
+      ],
+      [
+       "la vieillesse",
+       "yaşlılık",
+       "la vyeyes",
+       "👵",
+       "f"
+      ],
+      [
+       "mourir",
+       "ölmek",
+       "murir",
+       "🥀"
+      ]
+     ]
+    },
+    {
+     "id": "u42l2",
+     "kind": "vocab",
+     "title": "Özel günler",
+     "subtitle": "la naissance · les fiançailles · la remise des diplômes …",
+     "intro": "Nişan, mezuniyet, bayram…",
+     "v": [
+      [
+       "la naissance",
+       "doğum",
+       "la nesãs",
+       "🍼",
+       "f"
+      ],
+      [
+       "les fiançailles",
+       "nişan",
+       "le fyãsay",
+       "💍"
+      ],
+      [
+       "la remise des diplômes",
+       "mezuniyet",
+       "la rımiz de diplom",
+       "🎓",
+       "f"
+      ],
+      [
+       "l'enterrement",
+       "cenaze",
+       "lãtermã",
+       "🕯️",
+       "m"
+      ],
+      [
+       "l'anniversaire de mariage",
+       "yıl dönümü",
+       "laniverser dı maryaj",
+       "💐",
+       "m"
+      ],
+      [
+       "la retraite",
+       "emeklilik",
+       "la rıtret",
+       "🏖️",
+       "f"
+      ],
+      [
+       "la fête",
+       "bayram, şenlik",
+       "la fet",
+       "🎊",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u42l3",
+     "kind": "vocab",
+     "title": "Çocuklar",
+     "subtitle": "la poussette · la couche · l'aire de jeux …",
+     "intro": "Bebek arabası, kreş, masal…",
+     "v": [
+      [
+       "la poussette",
+       "bebek arabası",
+       "la puset",
+       "🛒",
+       "f"
+      ],
+      [
+       "la couche",
+       "bebek bezi",
+       "la kuş",
+       "🧷",
+       "f"
+      ],
+      [
+       "l'aire de jeux",
+       "oyun parkı",
+       "ler dı jö",
+       "🛝",
+       "f"
+      ],
+      [
+       "la maternelle",
+       "anaokulu",
+       "la maternel",
+       "🏫",
+       "f"
+      ],
+      [
+       "le berceau",
+       "beşik",
+       "lö berso",
+       "🛏️",
+       "m"
+      ],
+      [
+       "la tétine",
+       "emzik",
+       "la tetin",
+       "🍼",
+       "f"
+      ],
+      [
+       "le conte de fées",
+       "masal",
+       "lö kõt dı fe",
+       "📖",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u42l4",
+     "kind": "vocab",
+     "title": "Ev hayatı 3",
+     "subtitle": "l'invité · la liste de courses · le lave-vaisselle …",
+     "intro": "Misafir, kapı zili, posta kutusu…",
+     "v": [
+      [
+       "l'invité",
+       "misafir",
+       "lẽvite",
+       "🧳",
+       "m"
+      ],
+      [
+       "la liste de courses",
+       "alışveriş listesi",
+       "la list dı kurs",
+       "📝",
+       "f"
+      ],
+      [
+       "le lave-vaisselle",
+       "bulaşık makinesi",
+       "lö lav vesel",
+       "🍽️",
+       "m"
+      ],
+      [
+       "le fer à repasser",
+       "ütü",
+       "lö fer a rıpase",
+       "👔",
+       "m"
+      ],
+      [
+       "le cintre",
+       "askı",
+       "lö sẽtr",
+       "🪝",
+       "m"
+      ],
+      [
+       "la sonnette",
+       "kapı zili",
+       "la sonet",
+       "🔔",
+       "f"
+      ],
+      [
+       "la boîte aux lettres",
+       "posta kutusu",
+       "la bvat o letr",
+       "📬",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u42l5",
+     "kind": "vocab",
+     "title": "Evcil hayvanlar",
+     "subtitle": "l'animal de compagnie · la nourriture pour animaux · la laisse …",
+     "intro": "Mama, tasma, veteriner…",
+     "v": [
+      [
+       "l'animal de compagnie",
+       "evcil hayvan",
+       "lanimal dı kõpany",
+       "🐾",
+       "m"
+      ],
+      [
+       "la nourriture pour animaux",
+       "mama",
+       "la nuritür pur animo",
+       "🥣",
+       "f"
+      ],
+      [
+       "la laisse",
+       "tasma",
+       "la les",
+       "🦮",
+       "f"
+      ],
+      [
+       "le vétérinaire",
+       "veteriner",
+       "lö veteriner",
+       "🩺",
+       "m"
+      ],
+      [
+       "l'aquarium",
+       "akvaryum",
+       "lakvaryom",
+       "🐠",
+       "m"
+      ],
+      [
+       "la cage",
+       "kafes",
+       "la kaj",
+       "🐦",
+       "f"
+      ],
+      [
+       "le chiot",
+       "yavru köpek",
+       "lö şyo",
+       "🐶",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u43",
+   "level": "orta",
+   "title": "Soyut kavramlar",
+   "subtitle": "Fikirler, duygular, nitelikler, iletişim, plan ve fırsat · 5 ders",
+   "lessons": [
+    {
+     "id": "u43l1",
+     "kind": "vocab",
+     "title": "Fikirler",
+     "subtitle": "l'idée · la pensée · le sens …",
+     "intro": "Fikir, anlam, sebep…",
+     "v": [
+      [
+       "l'idée",
+       "fikir",
+       "lide",
+       "💡",
+       "f"
+      ],
+      [
+       "la pensée",
+       "düşünce",
+       "la pãse",
+       "💭",
+       "f"
+      ],
+      [
+       "le sens",
+       "anlam",
+       "lö sãs",
+       "📖",
+       "m"
+      ],
+      [
+       "la raison",
+       "sebep",
+       "la rezõ",
+       "❓",
+       "f"
+      ],
+      [
+       "l'objectif",
+       "amaç",
+       "lobjektif",
+       "🎯",
+       "m"
+      ],
+      [
+       "l'exemple",
+       "örnek",
+       "legzãpl",
+       "📝",
+       "m"
+      ],
+      [
+       "la vérité",
+       "gerçek, hakikat",
+       "la verite",
+       "✔️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u43l2",
+     "kind": "vocab",
+     "title": "Duygu isimleri",
+     "subtitle": "le bonheur · la tristesse · la peur …",
+     "intro": "Mutluluk, umut, öfke…",
+     "v": [
+      [
+       "le bonheur",
+       "mutluluk",
+       "lö bonör",
+       "😊",
+       "m"
+      ],
+      [
+       "la tristesse",
+       "üzüntü",
+       "la tristes",
+       "😢",
+       "f"
+      ],
+      [
+       "la peur",
+       "korku",
+       "la pör",
+       "😨",
+       "f"
+      ],
+      [
+       "l'espoir",
+       "umut",
+       "lespvar",
+       "🌅",
+       "m"
+      ],
+      [
+       "la colère",
+       "öfke",
+       "la koler",
+       "😠",
+       "f"
+      ],
+      [
+       "la joie",
+       "sevinç",
+       "la jva",
+       "🥳",
+       "f"
+      ],
+      [
+       "la sérénité",
+       "huzur",
+       "la serenite",
+       "🧘",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u43l3",
+     "kind": "vocab",
+     "title": "Nitelik isimleri",
+     "subtitle": "la beauté · la force · la santé …",
+     "intro": "Güzellik, sağlık, özgürlük…",
+     "v": [
+      [
+       "la beauté",
+       "güzellik",
+       "la bote",
+       "🌸",
+       "f"
+      ],
+      [
+       "la force",
+       "güç",
+       "la fors",
+       "💪",
+       "f"
+      ],
+      [
+       "la santé",
+       "sağlık",
+       "la sãte",
+       "❤️‍🩹",
+       "f"
+      ],
+      [
+       "la liberté",
+       "özgürlük",
+       "la liberte",
+       "🕊️",
+       "f"
+      ],
+      [
+       "la connaissance",
+       "bilgi",
+       "la konesãs",
+       "📚",
+       "f"
+      ],
+      [
+       "l'expérience",
+       "deneyim",
+       "leksperyãs",
+       "🧭",
+       "f"
+      ],
+      [
+       "la capacité",
+       "yetenek",
+       "la kapasite",
+       "🎯",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u43l4",
+     "kind": "vocab",
+     "title": "İletişim isimleri",
+     "subtitle": "la conversation · la discussion · le conseil …",
+     "intro": "Sohbet, tavsiye, özür…",
+     "v": [
+      [
+       "la conversation",
+       "konuşma",
+       "la kõversasyõ",
+       "🗣️",
+       "f"
+      ],
+      [
+       "la discussion",
+       "sohbet",
+       "la diskusyõ",
+       "☕",
+       "f"
+      ],
+      [
+       "le conseil",
+       "tavsiye",
+       "lö kõsey",
+       "💬",
+       "m"
+      ],
+      [
+       "la demande",
+       "rica, istek",
+       "la dımãd",
+       "🙏",
+       "f"
+      ],
+      [
+       "la dispute",
+       "kavga, tartışma",
+       "la dispüt",
+       "😤",
+       "f"
+      ],
+      [
+       "la promesse",
+       "söz (vaat)",
+       "la promes",
+       "🤞",
+       "f"
+      ],
+      [
+       "les excuses",
+       "özür",
+       "le zekskuz",
+       "🙇"
+      ]
+     ]
+    },
+    {
+     "id": "u43l5",
+     "kind": "vocab",
+     "title": "Plan ve fırsat",
+     "subtitle": "le plan · l'ordre · le changement …",
+     "intro": "Plan, alışkanlık, şans…",
+     "v": [
+      [
+       "le plan",
+       "plan",
+       "lö plã",
+       "🗒️",
+       "m"
+      ],
+      [
+       "l'ordre",
+       "düzen, rutin",
+       "lordr",
+       "🔁",
+       "m"
+      ],
+      [
+       "le changement",
+       "değişiklik",
+       "lö şãjmã",
+       "🔄",
+       "m"
+      ],
+      [
+       "l'habitude",
+       "alışkanlık",
+       "labitüd",
+       "🔂",
+       "f"
+      ],
+      [
+       "l'occasion",
+       "fırsat",
+       "lokazyõ",
+       "🚪",
+       "f"
+      ],
+      [
+       "la chance",
+       "şans",
+       "la şãs",
+       "🍀",
+       "f"
+      ],
+      [
+       "le risque",
+       "risk",
+       "lö risk",
+       "🎲",
+       "m"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u44",
+   "level": "orta",
+   "title": "Kişisel bakım",
+   "subtitle": "Bakım ürünleri, hijyen, sağlıklı yaşam, uyku, giysi parçaları · 5 ders",
+   "lessons": [
+    {
+     "id": "u44l1",
+     "kind": "vocab",
+     "title": "Bakım ürünleri",
+     "subtitle": "la crème · le parfum · le maquillage …",
+     "intro": "Krem, parfüm, makyaj…",
+     "v": [
+      [
+       "la crème",
+       "krem",
+       "la krem",
+       "🧴",
+       "f"
+      ],
+      [
+       "le parfum",
+       "parfüm",
+       "lö parfœ̃",
+       "🌸",
+       "m"
+      ],
+      [
+       "le maquillage",
+       "makyaj",
+       "lö makiyaj",
+       "💄",
+       "m"
+      ],
+      [
+       "se raser",
+       "tıraş olmak",
+       "sı raze",
+       "🪒"
+      ],
+      [
+       "le déodorant",
+       "deodorant",
+       "lö deodorã",
+       "🧴",
+       "m"
+      ],
+      [
+       "le dentifrice",
+       "diş macunu",
+       "lö dãtifris",
+       "🪥",
+       "m"
+      ],
+      [
+       "le sèche-cheveux",
+       "saç kurutma makinesi",
+       "lö seş şıvö",
+       "💨",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u44l2",
+     "kind": "vocab",
+     "title": "Hijyen",
+     "subtitle": "prendre une douche · prendre un bain · se faire couper les cheveux …",
+     "intro": "Duş almak, tırnak, mendil…",
+     "v": [
+      [
+       "prendre une douche",
+       "duş almak",
+       "prãdr ün duş",
+       "🚿"
+      ],
+      [
+       "prendre un bain",
+       "banyo yapmak",
+       "prãdr œ̃ bẽ",
+       "🛁"
+      ],
+      [
+       "se faire couper les cheveux",
+       "saç kestirmek",
+       "sı fer kupe le şıvö",
+       "💇"
+      ],
+      [
+       "l'ongle",
+       "tırnak",
+       "lõgl",
+       "💅",
+       "m"
+      ],
+      [
+       "la barbe",
+       "sakal",
+       "la barb",
+       "🧔",
+       "f"
+      ],
+      [
+       "le papier toilette",
+       "tuvalet kâğıdı",
+       "lö papye tvalet",
+       "🧻",
+       "m"
+      ],
+      [
+       "le mouchoir",
+       "mendil",
+       "lö muşvar",
+       "🤧",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u44l3",
+     "kind": "vocab",
+     "title": "Sağlıklı yaşam",
+     "subtitle": "le régime · maigrir · grossir …",
+     "intro": "Diyet, vitamin, egzersiz…",
+     "v": [
+      [
+       "le régime",
+       "diyet",
+       "lö rejim",
+       "🥗",
+       "m"
+      ],
+      [
+       "maigrir",
+       "kilo vermek",
+       "megrir",
+       "⚖️"
+      ],
+      [
+       "grossir",
+       "kilo almak",
+       "grosir",
+       "🍔"
+      ],
+      [
+       "la vitamine",
+       "vitamin",
+       "la vitamin",
+       "💊",
+       "f"
+      ],
+      [
+       "l'alimentation saine",
+       "sağlıklı beslenme",
+       "lalimãtasyõ sen",
+       "🥦",
+       "f"
+      ],
+      [
+       "l'exercice",
+       "egzersiz",
+       "legzersis",
+       "🤸",
+       "m"
+      ],
+      [
+       "le jogging",
+       "hafif koşu",
+       "lö coging",
+       "🏃",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u44l4",
+     "kind": "vocab",
+     "title": "Uyku",
+     "subtitle": "somnolent · ronfler · le cauchemar …",
+     "intro": "Uykulu, horlamak, kâbus…",
+     "v": [
+      [
+       "somnolent",
+       "uykulu",
+       "somnolã",
+       "😪"
+      ],
+      [
+       "ronfler",
+       "horlamak",
+       "rõfle",
+       "😴"
+      ],
+      [
+       "le cauchemar",
+       "kâbus",
+       "lö koşmar",
+       "👻",
+       "m"
+      ],
+      [
+       "le réveil",
+       "çalar saat",
+       "lö revey",
+       "⏰",
+       "m"
+      ],
+      [
+       "la sieste",
+       "şekerleme (kısa uyku)",
+       "la syest",
+       "💤",
+       "f"
+      ],
+      [
+       "l'insomnie",
+       "uykusuzluk",
+       "lẽsomni",
+       "🌙",
+       "f"
+      ],
+      [
+       "faire un rêve",
+       "rüya görmek",
+       "fer œ̃ rev",
+       "💭"
+      ]
+     ]
+    },
+    {
+     "id": "u44l5",
+     "kind": "vocab",
+     "title": "Giysi parçaları",
+     "subtitle": "le bouton · la poche · le col …",
+     "intro": "Düğme, cep, terlik…",
+     "v": [
+      [
+       "le bouton",
+       "düğme",
+       "lö butõ",
+       "🔘",
+       "m"
+      ],
+      [
+       "la poche",
+       "cep",
+       "la poş",
+       "👖",
+       "f"
+      ],
+      [
+       "le col",
+       "yaka",
+       "lö kol",
+       "👔",
+       "m"
+      ],
+      [
+       "la manche",
+       "kol (giysi)",
+       "la mãş",
+       "👕",
+       "f"
+      ],
+      [
+       "les lacets",
+       "ayakkabı bağı",
+       "le lase",
+       "👟"
+      ],
+      [
+       "les chaussons",
+       "terlik",
+       "le şosõ",
+       "🩴"
+      ],
+      [
+       "les bottes",
+       "çizme",
+       "le bot",
+       "👢"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u45",
+   "level": "orta",
+   "title": "Günlük kalıplar 2",
+   "subtitle": "Sohbet kalıpları, rica, duygular, yol sorma, restoran · 5 ders",
+   "lessons": [
+    {
+     "id": "u45l1",
+     "kind": "vocab",
+     "title": "Sohbet kalıpları",
+     "subtitle": "je pense aussi · peu importe · laisse tomber …",
+     "intro": "Fark etmez, boş ver, aynen…",
+     "v": [
+      [
+       "je pense aussi",
+       "bence de",
+       "jö pãs osi",
+       "👍"
+      ],
+      [
+       "peu importe",
+       "fark etmez",
+       "pö ẽport",
+       "🤷"
+      ],
+      [
+       "laisse tomber",
+       "boş ver",
+       "les tõbe",
+       "👋"
+      ],
+      [
+       "comme c'est beau !",
+       "ne güzel!",
+       "kom se bo",
+       "😍"
+      ],
+      [
+       "exactement",
+       "aynen, tam olarak",
+       "egzaktımã",
+       "🎯"
+      ],
+      [
+       "je plaisante",
+       "şaka yapıyorum",
+       "jö plezãt",
+       "😜"
+      ],
+      [
+       "tu es sérieux ?",
+       "ciddi misin?",
+       "tü e seryö",
+       "😳"
+      ]
+     ]
+    },
+    {
+     "id": "u45l2",
+     "kind": "vocab",
+     "title": "Rica ve teklif",
+     "subtitle": "je peux vous aider ? · tu veux … ? · pourriez-vous … ? …",
+     "intro": "Yardım edebilir miyim?…",
+     "v": [
+      [
+       "je peux vous aider ?",
+       "yardım edebilir miyim?",
+       "jö pö vu zede",
+       "🙋"
+      ],
+      [
+       "tu veux … ?",
+       "ister misin …?",
+       "tü vö",
+       "🎁"
+      ],
+      [
+       "pourriez-vous … ?",
+       "… -abilir misiniz?",
+       "purye vu",
+       "🙏"
+      ],
+      [
+       "vous avez une minute ?",
+       "bir dakikanız var mı?",
+       "vu zave ün minüt",
+       "⏱️"
+      ],
+      [
+       "si ça ne vous dérange pas",
+       "sakıncası yoksa",
+       "si sa nö vu derãj pa",
+       "🤝"
+      ],
+      [
+       "désolé de vous déranger",
+       "rahatsız ettiğim için kusura bakmayın",
+       "dezole dı vu derãje",
+       "😅"
+      ],
+      [
+       "merci pour votre aide",
+       "yardımınız için teşekkürler",
+       "mersi pur votr ed",
+       "💐"
+      ]
+     ]
+    },
+    {
+     "id": "u45l3",
+     "kind": "vocab",
+     "title": "Nasıl hissediyorum",
+     "subtitle": "je suis très heureux · je suis épuisé · je n'ai pas le moral …",
+     "intro": "Çok yoruldum, endişeliyim…",
+     "v": [
+      [
+       "je suis très heureux",
+       "çok mutluyum",
+       "jö süi tre zörö",
+       "😄"
+      ],
+      [
+       "je suis épuisé",
+       "çok yoruldum",
+       "jö süi zepüize",
+       "😩"
+      ],
+      [
+       "je n'ai pas le moral",
+       "canım sıkkın",
+       "jö ne pa lö moral",
+       "😔"
+      ],
+      [
+       "j'ai hâte",
+       "heyecanlıyım",
+       "je at",
+       "🤩"
+      ],
+      [
+       "je suis inquiet",
+       "endişeliyim",
+       "jö süi ẽkye",
+       "😟"
+      ],
+      [
+       "je suis surpris",
+       "şaşırdım",
+       "jö süi sürpri",
+       "😲"
+      ],
+      [
+       "je suis soulagé",
+       "rahatladım",
+       "jö süi sulaje",
+       "😮‍💨"
+      ]
+     ]
+    },
+    {
+     "id": "u45l4",
+     "kind": "vocab",
+     "title": "Yol sormak 2",
+     "subtitle": "où est le … le plus proche ? · c'est loin ? · combien de temps à pied ? …",
+     "intro": "En yakın … nerede?…",
+     "v": [
+      [
+       "où est le … le plus proche ?",
+       "en yakın … nerede?",
+       "u e lö … lö plü proş",
+       "📍"
+      ],
+      [
+       "c'est loin ?",
+       "ne kadar uzakta?",
+       "se lvẽ",
+       "🗺️"
+      ],
+      [
+       "combien de temps à pied ?",
+       "yürüyerek ne kadar sürer?",
+       "kõbyẽ dı tã a pye",
+       "🚶"
+      ],
+      [
+       "ce bus va à … ?",
+       "bu otobüs …-e gider mi?",
+       "sı büs va a",
+       "🚌"
+      ],
+      [
+       "vous pouvez me montrer sur la carte ?",
+       "haritada gösterir misiniz?",
+       "vu puve mö mõtre sür la kart",
+       "🗺️"
+      ],
+      [
+       "je suis sur le bon chemin ?",
+       "doğru yolda mıyım?",
+       "jö süi sür lö bõ şımẽ",
+       "🧭"
+      ],
+      [
+       "la deuxième rue à droite",
+       "ikinci sokaktan sağa",
+       "la döziyem rü a drvat",
+       "➡️"
+      ]
+     ]
+    },
+    {
+     "id": "u45l5",
+     "kind": "vocab",
+     "title": "Restoranda 3",
+     "subtitle": "la carte, s'il vous plaît · qu'est-ce que vous me conseillez ? · on partage l'addition …",
+     "intro": "Ne önerirsiniz?…",
+     "v": [
+      [
+       "la carte, s'il vous plaît",
+       "menüyü alabilir miyim?",
+       "la kart sil vu ple",
+       "📋"
+      ],
+      [
+       "qu'est-ce que vous me conseillez ?",
+       "ne önerirsiniz?",
+       "kes kı vu mö kõseye",
+       "🤔"
+      ],
+      [
+       "on partage l'addition",
+       "hesabı bölelim",
+       "õ partaj ladisyõ",
+       "➗"
+      ],
+      [
+       "je peux payer par carte ?",
+       "kartla ödeyebilir miyim?",
+       "jö pö peye par kart",
+       "💳"
+      ],
+      [
+       "ce n'est pas ce que j'ai commandé",
+       "bunu sipariş etmedim",
+       "sı ne pa sı kı je komãde",
+       "❌"
+      ],
+      [
+       "une carafe d'eau, s'il vous plaît",
+       "biraz su alabilir miyim?",
+       "ün karaf do sil vu ple",
+       "💧"
+      ],
+      [
+       "c'était délicieux",
+       "çok lezzetliydi",
+       "sete delisyö",
+       "😋"
       ]
      ]
     }

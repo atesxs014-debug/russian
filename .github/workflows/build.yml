@@ -23,6 +23,10 @@ jobs:
         with:
           python-version: '3.12'
       - run: pip install --quiet edge-tts gTTS
+      - name: ffmpeg (ses sıkıştırma)
+        run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+      - name: Dilbilgisi paketleri güncel mi?
+        run: python scripts/build_grammar.py && git diff --exit-code src/data/grammar || (echo "::error::content/grammar değişmiş ama src/data/grammar yeniden üretilmemiş" && exit 1)
       - uses: actions/cache@v4
         with:
           path: assets/audio
@@ -106,6 +110,11 @@ jobs:
         run: |
           python3 scripts/ci_annotate.py "$RUNNER_TEMP/gradle.log" error Gradle 'What went wrong|error:|e: file|FAILED|Could not|Unresolved|Caused by'
       - run: cp android/app/build/outputs/apk/release/app-release.apk Voxa-${{ github.run_number }}.apk
+      - name: İmza parmak izi
+        run: |
+          AS=$(ls -d $ANDROID_HOME/build-tools/*/ | sort -V | tail -1)apksigner
+          FP=$($AS verify --print-certs Voxa-${{ github.run_number }}.apk | grep -m1 'SHA-256' | awk '{print $NF}')
+          echo "::notice title=APK imzası::SHA-256 $FP"
       - uses: actions/upload-artifact@v4
         with:
           name: android

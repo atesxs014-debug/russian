@@ -13,3 +13,4 @@ npm-debug.*
 .DS_Store
 .env*
 assets/models/*.bin
+__pycache__/

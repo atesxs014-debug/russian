@@ -41,19 +41,80 @@ export async function micPermission(): Promise<boolean> {
   }
 }
 
-export async function startRecording() {
+// ---- voice activity detection: stop automatically when the speaker goes quiet ----
+const SILENCE_MS = 1000; // konuşma bittikten sonra bu kadar sessizlik → dur
+const MAX_MS = 8000; // en uzun kayıt
+const NO_SPEECH_MS = 5000; // hiç konuşma yoksa dur
+let vadTimer: ReturnType<typeof setInterval> | null = null;
+
+function chunkRms(b64: string): number {
+  const bytes = b64ToBytes(b64);
+  const v = new DataView(bytes.buffer, bytes.byteOffset, bytes.byteLength);
+  const n = Math.floor(bytes.length / 2);
+  if (!n) return 0;
+  let sum = 0;
+  for (let i = 0; i < n; i++) {
+    const x = v.getInt16(i * 2, true);
+    sum += x * x;
+  }
+  return Math.sqrt(sum / n);
+}
+
+export type AutoStopReason = 'silence' | 'max' | 'nospeech';
+
+/**
+ * Starts recording. `onAutoStop` fires once when the learner stops talking
+ * (or nothing was said / the max length was reached); then call stopRecording().
+ */
+export async function startRecording(onAutoStop?: (why: AutoStopReason) => void, onLevel?: (level: number) => void) {
   if (recording) return;
   await setAudioModeAsync({ allowsRecording: true, playsInSilentMode: true }).catch(() => {});
   chunks = [];
-  AudioRecord.init({ sampleRate: SAMPLE_RATE, channels: 1, bitsPerSample: 16, audioSource: 6, bufferSize: 4096 });
+  const started = Date.now();
+  let noise = 0;
+  let noiseN = 0;
+  let speaking = false;
+  let lastVoice = 0;
+  let fired = false;
+  const fire = (why: AutoStopReason) => {
+    if (fired) return;
+    fired = true;
+    onAutoStop?.(why);
+  };
+  AudioRecord.init({ sampleRate: SAMPLE_RATE, channels: 1, bitsPerSample: 16, audioSource: 6, bufferSize: 2048 });
   sub?.remove();
-  sub = AudioRecord.on('data', (d) => chunks.push(d));
+  sub = AudioRecord.on('data', (d) => {
+    chunks.push(d);
+    const rms = chunkRms(d);
+    const now = Date.now();
+    // first ~250 ms: learn the room's noise level
+    if (now - started < 250) {
+      noise = (noise * noiseN + rms) / ++noiseN;
+      return;
+    }
+    const threshold = Math.max(700, noise * 2.8);
+    onLevel?.(Math.min(1, rms / (threshold * 3)));
+    if (rms > threshold) {
+      speaking = true;
+      lastVoice = now;
+    } else if (speaking && now - lastVoice > SILENCE_MS) fire('silence');
+  });
   AudioRecord.start();
   recording = true;
+  vadTimer && clearInterval(vadTimer);
+  vadTimer = setInterval(() => {
+    const t = Date.now() - started;
+    if (t > MAX_MS) fire('max');
+    else if (!speaking && t > NO_SPEECH_MS) fire('nospeech');
+  }, 200);
 }
 
 /** Stops recording and returns the raw PCM (16-bit little-endian mono). */
 export async function stopRecording(): Promise<Uint8Array> {
+  if (vadTimer) {
+    clearInterval(vadTimer);
+    vadTimer = null;
+  }
   if (!recording) return new Uint8Array(0);
   recording = false;
   AudioRecord.stop();

@@ -1,32 +1,36 @@
 #!/usr/bin/env python3
-"""Generates native-speaker audio for every letter, word and quote in all language packs.
+"""Generates native-speaker audio for every letter, word, sentence and quote in all language packs.
 
 Runs in GitHub Actions (no API key needed):
   1. Microsoft Edge neural voices (edge-tts)
   2. Fallback: Google Translate voice (gTTS)
 
-Writes assets/audio/<lang>/<hash>.mp3 (+ <hash>_s.mp3 slow) and src/audio/audioMap.ts.
+Writes assets/audio/<lang>/<hash>.mp3 and src/audio/audioMap.ts.
+- One file per text: slow playback is done by the app (pitch-corrected), so no "_s" copies.
+- Files are re-encoded to mono 32 kbps with ffmpeg (speech stays clear, app stays small).
+- Dialogue lines of the second speaker get a male voice (key "<lang>#m:<text>").
 Existing files are kept, so only new texts are generated.
 """
 import asyncio
 import hashlib
 import json
 import pathlib
+import shutil
+import subprocess
 import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 DATA = ROOT / "src" / "data"
 OUT = ROOT / "assets" / "audio"
 MAP = ROOT / "src" / "audio" / "audioMap.ts"
-SLOW = "-35%"
+DONE = ".compressed"  # list of files already re-encoded
 
-# female voice for words (male voice is used for dialogues later)
 VOICES = {
-    "ru": ("ru-RU-SvetlanaNeural", "ru"),
-    "en": ("en-GB-SoniaNeural", "en"),
-    "de": ("de-DE-KatjaNeural", "de"),
-    "fr": ("fr-FR-DeniseNeural", "fr"),
-    "it": ("it-IT-ElsaNeural", "it"),
+    "ru": ("ru-RU-SvetlanaNeural", "ru-RU-DmitryNeural", "ru"),
+    "en": ("en-GB-SoniaNeural", "en-GB-RyanNeural", "en"),
+    "de": ("de-DE-KatjaNeural", "de-DE-ConradNeural", "de"),
+    "fr": ("fr-FR-DeniseNeural", "fr-FR-HenriNeural", "fr"),
+    "it": ("it-IT-ElsaNeural", "it-IT-DiegoNeural", "it"),
 }
 
 
@@ -38,98 +42,158 @@ def key(s: str) -> str:
     return plain(s).lower()
 
 
-def collect(lang: str) -> list[str]:
+def collect(lang: str) -> list[tuple[str, str, bool]]:
+    """(key, text, male) for every text of the language."""
+    texts: dict[tuple[str, bool], str] = {}
+
+    def add(t: str, male: bool = False):
+        if t and plain(t):
+            texts.setdefault((key(t), male), plain(t))
+
+    def walk_units(units):
+        for unit in units:
+            for lesson in unit["lessons"]:
+                for l in lesson.get("letters", []):
+                    add(l["name"])
+                    if l.get("say"):
+                        add(l["say"])
+                    for w in l["words"]:
+                        add(w["t"])
+                for w in lesson.get("words", []):
+                    add(w["t"])
+                for v in lesson.get("v", []):
+                    add(v[0])
+                for r in lesson.get("rules", []):
+                    for w in r["examples"]:
+                        add(w["t"])
+                for d in lesson.get("drills", []):
+                    add(d["s"].replace("___", d["a"]))
+                dlg = lesson.get("dialog")
+                if dlg:
+                    for line in dlg["lines"]:
+                        add(line["t"], male=line["p"] == 1)
+                tx = lesson.get("text")
+                if tx:
+                    add(tx["t"])
+                    for g in tx["gloss"]:
+                        add(g[0])
+
     data = json.loads((DATA / f"{lang}.json").read_text(encoding="utf-8"))
-    texts: dict[str, str] = {}
-
-    def add(t: str):
-        texts.setdefault(key(t), plain(t))
-
-    for unit in data["units"]:
-        for lesson in unit["lessons"]:
-            for l in lesson.get("letters", []):
-                add(l["name"])
-                for w in l["words"]:
-                    add(w["t"])
-            for w in lesson.get("words", []):
-                add(w["t"])
-            for v in lesson.get("v", []):
-                add(v[0])
-            for r in lesson.get("rules", []):
-                for w in r["examples"]:
-                    add(w["t"])
+    walk_units(data["units"])
+    gpath = DATA / "grammar" / f"{lang}.json"
+    if gpath.exists():
+        walk_units([x["unit"] for x in json.loads(gpath.read_text(encoding="utf-8"))["units"]])
     for q in data.get("quotes", []):
         add(q["t"])
-    return sorted(texts.items())
+    conj = DATA / "conj.json"
+    if conj.exists():
+        c = json.loads(conj.read_text(encoding="utf-8")).get(lang)
+        if c:
+            persons = [p.split(" / ")[0].replace("'", "") for p in c["persons"]]
+            for v in c["verbs"]:
+                add(v["inf"])
+                for p, f in zip(persons, v["forms"]):
+                    add(conj_phrase(lang, p, f))
+    return sorted((k, t, m) for (k, m), t in texts.items())
 
 
-def fname(lang: str, k: str) -> str:
-    return hashlib.md5(f"{lang}:{k}".encode("utf-8")).hexdigest()[:12]
+def conj_phrase(lang: str, person: str, form: str) -> str:
+    """'je' + 'ai' → "j'ai" (same rule as the app)."""
+    if lang == "fr" and person == "je" and form[:1].lower() in "aeiouéèêh":
+        return "j'" + form
+    return f"{person} {form}"
 
 
-async def edge(text: str, voice: str, path: pathlib.Path, slow: bool) -> bool:
+def fname(lang: str, k: str, male: bool) -> str:
+    return hashlib.md5(f"{lang}{'#m' if male else ''}:{k}".encode("utf-8")).hexdigest()[:12]
+
+
+async def edge(text: str, voice: str, path: pathlib.Path) -> bool:
     try:
         import edge_tts
 
-        kw = {"rate": SLOW} if slow else {}
-        await edge_tts.Communicate(text, voice, **kw).save(str(path))
+        await edge_tts.Communicate(text, voice).save(str(path))
         return path.exists() and path.stat().st_size > 1000
     except Exception as e:  # noqa: BLE001
         print(f"  edge-tts failed for {text!r}: {e}", file=sys.stderr)
         return False
 
 
-def gtts(text: str, lang: str, path: pathlib.Path, slow: bool) -> bool:
+def gtts(text: str, lang: str, path: pathlib.Path) -> bool:
     try:
         from gtts import gTTS
 
-        gTTS(text, lang=lang, slow=slow).save(str(path))
+        gTTS(text, lang=lang).save(str(path))
         return path.exists() and path.stat().st_size > 500
     except Exception as e:  # noqa: BLE001
         print(f"  gTTS failed for {text!r}: {e}", file=sys.stderr)
         return False
 
 
-async def make(lang: str, k: str, text: str, sem: asyncio.Semaphore) -> None:
-    voice, gl = VOICES[lang]
+async def make(lang: str, k: str, text: str, male: bool, sem: asyncio.Semaphore) -> None:
+    female, man, gl = VOICES[lang]
+    path = OUT / lang / f"{fname(lang, k, male)}.mp3"
+    if path.exists() and path.stat().st_size > 500:
+        return
     async with sem:
-        for slow in (False, True):
-            path = OUT / lang / f"{fname(lang, k)}{'_s' if slow else ''}.mp3"
-            if path.exists() and path.stat().st_size > 500:
-                continue
-            done = False
-            for _ in range(3):
-                if await edge(text, voice, path, slow):
-                    done = True
-                    break
-                await asyncio.sleep(1.5)
-            if not done:
-                done = await asyncio.to_thread(gtts, text, gl, path, slow)
-            if not done:
-                path.unlink(missing_ok=True)
+        for _ in range(3):
+            if await edge(text, man if male else female, path):
+                return
+            await asyncio.sleep(1.5)
+        if not await asyncio.to_thread(gtts, text, gl, path):
+            path.unlink(missing_ok=True)
+
+
+def compress(lang: str) -> None:
+    """Re-encode new files to mono 32 kbps (about a third smaller than edge-tts output)."""
+    if not shutil.which("ffmpeg"):
+        print("ffmpeg yok — sıkıştırma atlandı")
+        return
+    folder = OUT / lang
+    done_file = folder / DONE
+    done = set(done_file.read_text().split()) if done_file.exists() else set()
+    n = 0
+    for f in folder.glob("*.mp3"):
+        if f.name in done:
+            continue
+        tmp = f.with_suffix(".tmp.mp3")
+        r = subprocess.run(
+            ["ffmpeg", "-y", "-loglevel", "error", "-i", str(f), "-ac", "1", "-ar", "22050", "-b:a", "32k", str(tmp)],
+            check=False,
+        )
+        if r.returncode == 0 and tmp.exists() and tmp.stat().st_size > 300:
+            tmp.replace(f)
+            done.add(f.name)
+            n += 1
+        else:
+            tmp.unlink(missing_ok=True)
+    done_file.write_text("\n".join(sorted(done)))
+    print(f"{lang}: {n} dosya sıkıştırıldı")
 
 
 async def main() -> int:
     sem = asyncio.Semaphore(6)
     lines = [
         "// AUTO-GENERATED by scripts/generate_audio.py — do not edit.",
-        "export const AUDIO: Record<string, { n: number; s: number }> = {",
+        "export const AUDIO: Record<string, number> = {",
     ]
     total = ok = 0
     for lang in VOICES:
-        (OUT / lang).mkdir(parents=True, exist_ok=True)
+        folder = OUT / lang
+        folder.mkdir(parents=True, exist_ok=True)
+        for old in folder.glob("*_s.mp3"):  # slow copies from older builds
+            old.unlink()
         items = collect(lang)
-        await asyncio.gather(*(make(lang, k, t, sem) for k, t in items))
-        for k, _ in items:
+        await asyncio.gather(*(make(lang, k, t, m, sem) for k, t, m in items))
+        compress(lang)
+        for k, _, m in items:
             total += 1
-            n = OUT / lang / f"{fname(lang, k)}.mp3"
-            s = OUT / lang / f"{fname(lang, k)}_s.mp3"
-            if n.exists() and s.exists():
+            n = folder / f"{fname(lang, k, m)}.mp3"
+            if n.exists():
                 ok += 1
                 rel = f"../../assets/audio/{lang}"
-                lines.append(
-                    f"  {json.dumps(lang + ':' + k, ensure_ascii=False)}: {{ n: require('{rel}/{n.name}'), s: require('{rel}/{s.name}') }},"
-                )
+                mapkey = f"{lang}{'#m' if m else ''}:{k}"
+                lines.append(f"  {json.dumps(mapkey, ensure_ascii=False)}: require('{rel}/{n.name}'),")
         print(f"{lang}: {len(items)} texts")
     lines.append("};")
     MAP.write_text("\n".join(lines) + "\n", encoding="utf-8")

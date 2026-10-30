@@ -10,6 +10,9 @@ import { ensurePermission, scheduleReminders } from './src/notify';
 import { WHATS_NEW, markWhatsNewSeen, shouldShowWhatsNew } from './src/meta';
 import { dueItems, today } from './src/progress';
 import { langMeta } from './src/course';
+import { Badge, earned } from './src/badges';
+import { scheduleAutoBackup } from './src/cloud';
+import { updateWidget } from './src/widget/update';
 import ProfileScreen from './src/screens/ProfileScreen';
 import HomeScreen from './src/screens/HomeScreen';
 import LessonsScreen from './src/screens/LessonsScreen';
@@ -21,6 +24,7 @@ import { useFonts, Manrope_400Regular, Manrope_500Medium, Manrope_600SemiBold, M
 import LessonScreen from './src/screens/LessonScreen';
 import PracticeScreen from './src/screens/PracticeScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
+import DictionaryScreen from './src/screens/DictionaryScreen';
 import { Button } from './src/ui';
 import { C, R, applyTheme, fs, setFontsReady } from './src/theme';
 
@@ -31,10 +35,12 @@ export type Route =
   | { name: 'weak' }
   | { name: 'test'; unitId: string }
   | { name: 'settings' }
-  | { name: 'speak'; lessonId: string };
+  | { name: 'speak'; lessonId: string }
+  | { name: 'dict' };
 
 function Root() {
-  const { ready, profile, settings, progress } = useApp();
+  const { ready, profile, settings, progress, course, exportBackup, updateSettings } = useApp();
+  const [newBadges, setNewBadges] = useState<Badge[]>([]);
   const scheme = useColorScheme() === 'light' ? 'light' : 'dark';
   const [route, setRoute] = useState<Route>({ name: 'home' });
   const [tab, setTab] = useState<Tab>('home');
@@ -62,6 +68,24 @@ function Root() {
     const learnedThisWeek = Object.values(progress.lessons).filter((l) => l.passedAt && l.passedAt >= weekAgo).length * 8;
     scheduleReminders(settings, { due: dueItems(progress).length, learnedThisWeek, langName: langMeta(settings.lang).name });
   }, [profile?.id, settings.reminder, settings.quiet, settings.weekly, settings.lang, progress.updatedAt]);
+
+  // home-screen widget, automatic cloud backup, new badges
+  useEffect(() => {
+    if (!profile || !ready) return;
+    const dayN = Math.floor(Date.now() / 86400000);
+    const learned = Object.keys(progress.items).filter((id) => id.startsWith('W:'));
+    const pool = learned.length ? learned : Object.keys(course.words).slice(0, 30);
+    const w = course.words[pool[dayN % Math.max(1, pool.length)]];
+    updateWidget({ streak: progress.streak.count, due: dueItems(progress).length, flag: langMeta(settings.lang).flag, word: w ? { t: w.t, tr: w.tr } : undefined, name: profile.name });
+    scheduleAutoBackup(exportBackup);
+    const got = earned(progress, profile.xpTotal, settings.started.length);
+    const fresh = got.filter((b) => !settings.badgesSeen.includes(`${settings.lang}:${b.id}`));
+    if (fresh.length) {
+      // the first time this runs on an existing profile, mark old badges as seen silently
+      if (settings.badgesSeen.length || fresh.length <= 2) setNewBadges(fresh);
+      updateSettings({ badgesSeen: [...settings.badgesSeen, ...fresh.map((b) => `${settings.lang}:${b.id}`)] });
+    }
+  }, [progress.updatedAt, profile?.id, settings.lang, ready]);
 
   useEffect(() => {
     const sub = BackHandler.addEventListener('hardwareBackPress', () => {
@@ -112,6 +136,9 @@ function Root() {
       case 'settings':
         screen = <SettingsScreen onClose={home} />;
         break;
+      case 'dict':
+        screen = <DictionaryScreen onClose={home} />;
+        break;
       case 'speak':
         screen = <SpeakDebtScreen key={route.lessonId} lessonId={route.lessonId} onClose={home} />;
         break;
@@ -133,6 +160,20 @@ function Root() {
     <View key={themeKey} style={{ flex: 1, backgroundColor: C.bg }}>
       <StatusBar style={scheme === 'light' ? 'dark' : 'light'} />
       {screen}
+      <Modal visible={newBadges.length > 0 && !whatsNew} transparent animationType="fade" onRequestClose={() => setNewBadges([])}>
+        <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.55)', justifyContent: 'center', padding: 24 }}>
+          <View style={{ backgroundColor: C.bg, borderRadius: R.lg, padding: 22, maxWidth: 420, width: '100%', alignSelf: 'center', alignItems: 'center' }}>
+            <Text style={{ fontSize: 56 }}>{newBadges[0]?.icon}</Text>
+            <Text style={{ color: C.text, fontSize: fs(22), fontWeight: '900', marginTop: 6 }}>Yeni rozet!</Text>
+            {newBadges.map((b) => (
+              <Text key={b.id} style={{ color: C.sub, fontSize: fs(15), marginTop: 6, textAlign: 'center' }}>
+                {b.icon} {b.title} — {b.desc}
+              </Text>
+            ))}
+            <Button title="Harika" onPress={() => setNewBadges([])} style={{ marginTop: 16, alignSelf: 'stretch' }} />
+          </View>
+        </View>
+      </Modal>
       <Modal visible={whatsNew && ready} transparent animationType="fade" onRequestClose={() => setWhatsNew(false)}>
         <View style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.55)', justifyContent: 'center', padding: 24 }}>
           <View style={{ backgroundColor: C.bg, borderRadius: R.lg, padding: 20, maxHeight: '80%', maxWidth: 480, width: '100%', alignSelf: 'center' }}>

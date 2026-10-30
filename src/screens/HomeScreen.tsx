@@ -118,7 +118,7 @@ export default function HomeScreen({ go, setTab }: { go: (r: Route) => void; set
         {update && (
           <Pressable onPress={() => Linking.openURL(update.url)} style={st.update}>
             <Ionicons name="cloud-download-outline" size={20} color={C.primary} />
-            <Text style={st.updateText}>Yeni sürüm hazır (#{update.build}). İndirmek için dokun.</Text>
+            <Text style={st.updateText}>Yeni sürüm hazır (#{update.build}). Dokun, en son sürüm insin.</Text>
           </Pressable>
         )}
 

@@ -2,7 +2,7 @@
   "expo": {
     "name": "Voxa",
     "slug": "voxa",
-    "version": "0.3.0",
+    "version": "0.5.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "automatic",
@@ -22,7 +22,7 @@
     },
     "android": {
       "package": "com.voxa.app",
-      "versionCode": 3,
+      "versionCode": 5,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#6A48E8"
@@ -46,6 +46,24 @@
         {
           "photosPermission": "Profil fotoğrafı seçmek için galerine erişim gerekiyor.",
           "cameraPermission": false
+        }
+      ],
+      [
+        "react-native-android-widget",
+        {
+          "widgets": [
+            {
+              "name": "Voxa",
+              "label": "Voxa",
+              "description": "Seri, bekleyen tekrar ve günün kelimesi",
+              "minWidth": "180dp",
+              "minHeight": "110dp",
+              "targetCellWidth": 3,
+              "targetCellHeight": 2,
+              "previewImage": "./assets/widget-preview.png",
+              "updatePeriodMillis": 1800000
+            }
+          ]
         }
       ]
     ]

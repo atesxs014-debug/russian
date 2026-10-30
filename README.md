@@ -22,15 +22,24 @@ Repo → Settings → Secrets and variables → Actions → `ANDROID_KEYSTORE_B6
 
 ## İçerik
 
-Dil paketleri `src/data/<dil>.json` dosyalarında. Yeni ders eklemek için JSON'a ders ekleyip push etmek yeterli; sesler otomatik üretilir.
+- Kelime paketleri: `src/data/<dil>.json` (dil başına 1.500+ kelime/ifade).
+- Dilbilgisi, diyalog ve okuma: `content/grammar/<dil>.txt` → `python3 scripts/build_grammar.py` → `src/data/grammar/<dil>.json` (CI ikisinin uyumlu olduğunu kontrol eder).
+- Fiil çekimleri: `src/data/conj.json`.
+- Sesler CI'da üretilir (edge-tts, diyaloglarda erkek sesi), mono 32 kbps'e sıkıştırılır; yavaş dinleme aynı kayıttan yapılır.
+
+## Bulut yedek (Supabase)
+
+1. Supabase → SQL Editor → `supabase/schema.sql` içeriğini çalıştır.
+2. Authentication → Providers → Email açık olsun (istersen "Confirm email" kapat).
+3. Project Settings → API'deki URL ve `anon` anahtarını `src/cloudConfig.ts` içine yaz.
 
 ## Yol haritası
 
 1. ✅ 5 dil, ses/alfabe üniteleri, kilit sistemi, ayarlar, bildirimler
-2. ✅ Kelime üniteleri: Rusça 72, İngilizce/Almanca/Fransızca 50, İtalyanca 44 ders
+2. ✅ Kelime üniteleri: dil başına 45 ünite, 1.500+ kelime/ifade
 3. ✅ Konuşma analizi (gömülü Whisper base), kayıt karşılaştırma, telaffuz telafisi
 4. ✅ Lavanta teması, sekmeli sade düzen
-3. Başlangıç seviyesi kelime/diyalog üniteleri (Anya & Dima), Kiril klavye, dikte
-4. Sözlük, çekim tabloları, kopya kağıdı, rozetler, widget, PDF rapor
-5. Orta ve yüksek seviyeler
-6. Supabase bulut yedek (iPhone profili)
+5. ✅ Orta: dilbilgisi üniteleri + diyaloglar; Yüksek: ileri dilbilgisi, okuma, serbest konuşma (arayüz hedef dilde)
+6. ✅ Yazma/dikte (dil klavyesi), sözlük, fiil çekimleri, rozetler, PDF rapor, Android widget
+7. ✅ Supabase bulut yedek (proje anahtarı girilince açılır)
+8. iOS widget (imzasız IPA'da uygulama grubu gerektiği için şimdilik yok)

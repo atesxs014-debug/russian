@@ -48,7 +48,8 @@ function play(src: number, playbackRate = 1): AudioPlayer | null {
     let started = false;
     const start = () => {
       try {
-        if (playbackRate !== 1) p.setPlaybackRate(playbackRate);
+        // pitch correction keeps slowed-down speech natural (no separate slow recordings needed)
+        if (playbackRate !== 1) p.setPlaybackRate(playbackRate, 'high');
       } catch {}
       p.play();
     };
@@ -74,22 +75,21 @@ function play(src: number, playbackRate = 1): AudioPlayer | null {
 
 /**
  * Plays the bundled native-speaker recording at the user's speed (0.5x–1.5x);
- * `slow` forces the 🐢 speed. Falls back to on-device TTS.
+ * `slow` forces the 🐢 speed. `voice` 1 = the male voice (dialogues). Falls back to on-device TTS.
  */
-export function speak(text: string, slow = false) {
+export function speak(text: string, slow = false, voice: 0 | 1 = 0) {
   stopAudio();
-  const key = `${lang}:${plain(text).toLowerCase()}`;
-  const entry = AUDIO[key];
-  const r = slow ? 0.6 : rate;
+  const k = plain(text).toLowerCase();
+  const entry = (voice === 1 ? AUDIO[`${lang}#m:${k}`] : undefined) ?? AUDIO[`${lang}:${k}`];
+  const r = slow ? 0.65 : rate;
   if (entry) {
-    // the slow file is ~0.74x; use it below 0.9x for natural-sounding slow speech
-    const p = r < 0.9 ? play(entry.s, Math.max(0.5, r / 0.74)) : play(entry.n, r);
+    const p = play(entry, Math.max(0.5, r));
     if (p) {
       current = p;
       return;
     }
   }
-  Speech.speak(plain(text), { language: langMeta(lang).locale, rate: Math.max(0.3, r * 0.9) });
+  Speech.speak(plain(text), { language: langMeta(lang).locale, rate: Math.max(0.3, r * 0.9), pitch: voice === 1 ? 0.8 : 1 });
 }
 
 export function feedback(ok: boolean) {

@@ -1,0 +1,354 @@
+# İngilizce — orta seviye dilbilgisi, diyaloglar ve yüksek seviye
+== g1|orta|grammar|u21|to be ve Present Simple|am/is/are, her gün yaptıklarımız
+-- grammar|to be: am, is, are|"Olmak" fiili özneye göre değişir.
+R I am, you are, he/she/it is|I am (I'm), you/we/they are (you're), he/she/it is (he's).
+E I am a teacher.|Ben öğretmenim.
+E They are at home.|Onlar evde.
+R Olumsuz ve soru|Olumsuz: is not (isn't), are not (aren't). Soru: Is he…? Are you…?
+E She isn't tired.|O yorgun değil.
+E Are you ready?|Hazır mısın?
+Q My sister ___ a doctor.|is|am;are;be|Kız kardeşim doktor.|he/she → is
+Q We ___ from Turkey.|are|is;am;be|Türkiye'liyiz.|we → are
+Q I ___ very happy today.|am|is;are;be|Bugün çok mutluyum.|I → am
+Q ___ they your friends?|Are|Is;Am;Do|Onlar senin arkadaşların mı?|they → are
+Q It ___ cold today.|isn't|aren't;am not;don't|Bugün hava soğuk değil.|it → isn't
+Q Where ___ my keys?|are|is;am;does|Anahtarlarım nerede?|çoğul → are
+-- grammar|Present Simple|Alışkanlıklar ve genel gerçekler için.
+R he / she / it + -s|I work, you work, ama he works, she lives, it rains. -o, -sh, -ch → -es: goes, watches.
+E She works in a bank.|O bir bankada çalışıyor.
+E My father watches the news every evening.|Babam her akşam haberleri izler.
+R don't / doesn't|Olumsuz: I don't like…, he doesn't like… (doesn't'tan sonra -s yok).
+E I don't eat meat.|Et yemem.
+E He doesn't drive.|O araba kullanmaz.
+Q He ___ to work by bus.|goes|go;going;gos|O işe otobüsle gider.|he → goes
+Q They ___ in London.|live|lives;living;is living in|Onlar Londra'da yaşıyor.|they → yalın
+Q She ___ like coffee.|doesn't|don't;isn't;not|O kahveyi sevmez.|she → doesn't
+Q My brother ___ football every Sunday.|plays|play;playing;plaies|Erkek kardeşim her pazar futbol oynar.|he → -s
+Q We ___ watch TV in the morning.|don't|doesn't;aren't;not|Sabahları televizyon izlemeyiz.|we → don't
+Q The shop ___ at nine.|opens|open;opening;is open at|Dükkân dokuzda açılır.|it → -s
+-- grammar|Do / Does ile soru|Present Simple'da soru do / does ile kurulur.
+R Do you…? / Does he…?|Do I/you/we/they…? Does he/she/it…? (fiil yalın kalır)
+E Do you speak English?|İngilizce konuşur musun?
+E Does she live here?|O burada mı yaşıyor?
+R Soru kelimeleri|What, where, when, how often + do/does: Where do you work?
+E Where do you work?|Nerede çalışıyorsun?
+E How often does he call you?|Seni ne sıklıkla arar?
+Q ___ you like tea?|Do|Does;Are;Is|Çay sever misin?|you → do
+Q ___ your mother work?|Does|Do;Is;Are|Annen çalışıyor mu?|she → does
+Q What time ___ the train leave?|does|do;is;are|Tren saat kaçta kalkıyor?|it → does
+Q Where ___ they live?|do|does;are;is|Onlar nerede yaşıyor?|they → do
+Q Does he ___ a car?|have|has;having;haves|Onun arabası var mı?|does + yalın fiil
+Q How ___ you go to school?|do|does;are;is|Okula nasıl gidiyorsun?|you → do
+
+== g2|orta|grammar|u25|Past Simple ve düzensiz fiiller|Dün ne oldu?
+-- grammar|Düzenli fiiller: -ed|Geçmişte bitmiş eylemler.
+R Fiil + -ed|work → worked, play → played, live → lived, study → studied.
+E I worked late yesterday.|Dün geç saate kadar çalıştım.
+E We visited my grandmother.|Büyükannemi ziyaret ettik.
+R didn't + yalın fiil|Olumsuz: I didn't work. Soru: Did you work?
+E She didn't call me.|O beni aramadı.
+E Did you watch the match?|Maçı izledin mi?
+Q Yesterday I ___ my room.|cleaned|clean;cleans;cleaning|Dün odamı temizledim.|geçmiş → -ed
+Q They ___ in Paris for two years.|lived|live;lives;living|İki yıl Paris'te yaşadılar.|geçmiş → -ed
+Q She ___ the film last night.|watched|watch;watches;watching|Dün gece filmi izledi.|geçmiş → -ed
+Q We ___ go out because it was raining.|didn't|don't;doesn't;weren't|Yağmur yağdığı için dışarı çıkmadık.|geçmiş olumsuz
+Q ___ you enjoy the party?|Did|Do;Were;Does|Partiden keyif aldın mı?|geçmiş soru
+Q He didn't ___ the email.|answer|answered;answers;answering|E-postaya cevap vermedi.|didn't + yalın
+-- grammar|Düzensiz fiiller|En sık fiillerin geçmiş biçimi farklıdır.
+R go → went, have → had, do → did|go/went, have/had, do/did, make/made, see/saw, come/came.
+E I went to the cinema.|Sinemaya gittim.
+E We had a great time.|Çok güzel vakit geçirdik.
+R buy → bought, eat → ate, take → took|buy/bought, eat/ate, take/took, write/wrote, get/got, say/said.
+E She bought a new phone.|Yeni bir telefon aldı.
+E He took a taxi.|Taksiye bindi.
+Q Last summer we ___ to Spain.|went|goed;go;gone|Geçen yaz İspanya'ya gittik.|go → went
+Q I ___ a strange dream last night.|had|haved;have;has|Dün gece garip bir rüya gördüm.|have → had
+Q She ___ me a long letter.|wrote|writed;write;written|Bana uzun bir mektup yazdı.|write → wrote
+Q We ___ pizza for dinner.|ate|eated;eat;eaten|Akşam yemeğinde pizza yedik.|eat → ate
+Q He ___ "thank you" and left.|said|sayed;says;say|"Teşekkürler" dedi ve gitti.|say → said
+Q I ___ my keys at home.|left|leaved;leave;leaves|Anahtarlarımı evde unuttum.|leave → left
+-- grammar|was / were|"Olmak" fiilinin geçmişi.
+R was / were|I/he/she/it was, you/we/they were.
+E I was tired yesterday.|Dün yorgundum.
+E They were at the beach.|Onlar plajdaydı.
+R wasn't / weren't ve soru|Was he at home? Were you late?
+E The film wasn't very good.|Film pek iyi değildi.
+E Were you at work on Monday?|Pazartesi işte miydin?
+Q The weather ___ terrible.|was|were;be;been|Hava berbattı.|it → was
+Q We ___ very hungry.|were|was;be;been|Çok açtık.|we → were
+Q ___ she at the meeting?|Was|Were;Did;Be|O toplantıda mıydı?|she → was
+Q The shops ___ open on Sunday.|weren't|wasn't;didn't;isn't|Dükkânlar pazar günü açık değildi.|çoğul → weren't
+Q Where ___ you last night?|were|was;did;be|Dün gece neredeydin?|you → were
+Q I ___ born in 1995.|was|were;am;did|1995'te doğdum.|I → was
+
+== g3|orta|grammar|u29|Present Perfect ve gelecek zaman|Hiç … yaptın mı? Yarın ne olacak?
+-- grammar|Present Perfect|Geçmişte olup şimdiyle bağlantılı olaylar.
+R have / has + 3. hâl|I have seen, she has finished. Zaman belirtilmez: Have you ever…?
+E I have been to London.|Londra'ya gittim (bulundum).
+E She has lost her keys.|Anahtarlarını kaybetti (hâlâ kayıp).
+R ever, never, already, yet|Have you ever…? I've never… I've already… Have you finished yet?
+E Have you ever eaten sushi?|Hiç suşi yedin mi?
+E I haven't finished yet.|Henüz bitirmedim.
+Q I ___ never been to Japan.|have|has;am;did|Japonya'ya hiç gitmedim.|I → have
+Q She ___ already left.|has|have;is;did|O çoktan çıktı.|she → has
+Q Have you ever ___ a horse?|ridden|rode;ride;riding|Hiç ata bindin mi?|3. hâl: ridden
+Q We haven't ___ dinner yet.|had|have;has;having|Henüz akşam yemeği yemedik.|3. hâl: had
+Q ___ he finished his homework?|Has|Have;Did;Is|Ödevini bitirdi mi?|he → has
+Q They have ___ in this house for ten years.|lived|live;living;lives|On yıldır bu evde yaşıyorlar.|have + -ed
+-- grammar|will ve going to|Gelecek için iki yol.
+R will: anlık karar, tahmin|I'll help you. It will rain tomorrow.
+E I'll call you later.|Seni sonra ararım.
+E I think it will be sunny.|Bence güneşli olacak.
+R going to: plan|I'm going to visit my parents this weekend.
+E We're going to buy a car.|Araba alacağız (planımız var).
+E She's going to study medicine.|Tıp okuyacak.
+Q The phone is ringing. I ___ answer it.|'ll|am going;did;have|Telefon çalıyor. Ben açarım.|anlık karar → will
+Q We ___ going to travel next month.|are|will;is;have|Gelecek ay seyahat edeceğiz.|plan → be going to
+Q Look at those clouds! It's going ___ rain.|to|will;for;at|Şu bulutlara bak! Yağmur yağacak.|going to + fiil
+Q I think she ___ like the present.|will|is going;does;has|Bence hediyeyi beğenecek.|tahmin → will
+Q He's going to ___ a new job.|start|starts;started;starting|Yeni bir işe başlayacak.|going to + yalın
+Q ___ you help me, please?|Will|Are;Do;Have|Bana yardım eder misin lütfen?|rica → will
+-- grammar|Şimdiki zaman (-ing)|Şu an olanlar: am/is/are + -ing.
+R am / is / are + -ing|I'm reading, she's cooking, they're playing.
+E I'm reading a book now.|Şu an kitap okuyorum.
+E They're playing in the garden.|Bahçede oynuyorlar.
+R Şimdi mi, her zaman mı?|Her zaman: I work in a bank. Şu an: I'm working from home today.
+E He usually walks, but today he's taking the bus.|Genelde yürür ama bugün otobüse biniyor.
+E What are you doing?|Ne yapıyorsun?
+Q Be quiet! The baby ___ sleeping.|is|are;am;does|Sessiz ol! Bebek uyuyor.|it → is
+Q I ___ studying right now.|am|is;are;do|Şu an ders çalışıyorum.|I → am
+Q Look! It ___ snowing.|is|does;are;has|Bak! Kar yağıyor.|it → is
+Q They are ___ dinner.|having|have;has;had|Akşam yemeği yiyorlar.|-ing
+Q What ___ you doing?|are|do;is;does|Ne yapıyorsun?|you → are
+Q She usually ___ tea, but today she's drinking coffee.|drinks|is drinking;drink;drinking|Genelde çay içer ama bugün kahve içiyor.|usually → Present Simple
+
+== g4|orta|grammar|u33|Phrasal verbs|get up, look for, give up …
+-- grammar|Günlük hayat|Fiil + edat, yeni bir anlam.
+R get up, wake up, go out|get up: kalkmak, wake up: uyanmak, go out: dışarı çıkmak.
+E I get up at seven.|Yedide kalkarım.
+E Let's go out tonight.|Bu akşam dışarı çıkalım.
+R turn on / turn off|turn on: açmak (cihaz), turn off: kapatmak.
+E Turn off the lights, please.|Işıkları kapat lütfen.
+E Can you turn on the TV?|Televizyonu açar mısın?
+Q I usually ___ up at 7 a.m.|get|go;take;put|Genelde sabah 7'de kalkarım.|get up = kalkmak
+Q Please turn ___ your phone.|off|out;away;down from|Lütfen telefonunu kapat.|turn off = kapatmak
+Q It's dark. Can you turn ___ the light?|on|in;up to;at|Karanlık. Işığı açar mısın?|turn on = açmak
+Q We're going ___ for dinner tonight.|out|off;away;on|Bu akşam yemeğe dışarı çıkıyoruz.|go out
+Q I ___ up late on Sundays.|wake|turn;look;give|Pazar günleri geç uyanırım.|wake up
+Q Sit ___, please.|down|up;off;away|Oturun lütfen.|sit down
+-- grammar|Arama ve bulma|look for, find out, look after …
+R look for, look after|look for: aramak, look after: bakmak (ilgilenmek).
+E I'm looking for my glasses.|Gözlüğümü arıyorum.
+E She looks after her little brother.|Küçük kardeşine bakıyor.
+R find out, look up|find out: öğrenmek (bilgi), look up: (sözlükte) aramak.
+E I found out the truth.|Gerçeği öğrendim.
+E Look up the word in a dictionary.|Kelimeye sözlükten bak.
+Q What are you looking ___?|for|after;up to;out of|Ne arıyorsun?|look for = aramak
+Q Can you look ___ my cat this weekend?|after|for;up;out|Bu hafta sonu kedime bakabilir misin?|look after = bakmak
+Q I need to find ___ when the train leaves.|out|up;off;over|Trenin ne zaman kalktığını öğrenmem lazım.|find out
+Q If you don't know a word, look it ___.|up|for;after;on|Bir kelimeyi bilmiyorsan, ona bak.|look up
+Q Look ___! A car is coming.|out|up;after;for|Dikkat! Bir araba geliyor.|look out = dikkat
+Q I ran ___ an old friend yesterday.|into|over;out;up|Dün eski bir arkadaşa rastladım.|run into = rastlamak
+-- grammar|Bırakmak ve devam etmek|give up, carry on, put off …
+R give up, carry on|give up: bırakmak, vazgeçmek; carry on: devam etmek.
+E He gave up smoking.|Sigarayı bıraktı.
+E Carry on, please.|Devam edin lütfen.
+R put off, pick up|put off: ertelemek; pick up: almak (birini, bir şeyi).
+E They put off the meeting.|Toplantıyı ertelediler.
+E I'll pick you up at six.|Seni altıda alırım.
+Q Don't give ___! You can do it.|up|out;off;in to|Vazgeçme! Yapabilirsin.|give up
+Q The match was put ___ because of the rain.|off|out;up;away from|Maç yağmur yüzünden ertelendi.|put off = ertelemek
+Q Can you pick me ___ from the station?|up|on;off;out|Beni istasyondan alabilir misin?|pick up
+Q Please carry ___ with your work.|on|up;out to;off|Lütfen işine devam et.|carry on
+Q She took ___ her coat.|off|out;up;away to|Ceketini çıkardı.|take off = çıkarmak
+Q Fill ___ this form, please.|in|on;up to;off|Bu formu doldurun lütfen.|fill in
+
+== d1|orta|dialog|u37|Günlük diyaloglar|Emma ve Jack ile gerçek konuşmalar
+-- dialog|Tanışma|Emma ve Jack ilk kez tanışıyor.|Emma|Jack
+A Hi! I'm Emma. Nice to meet you.|Selam! Ben Emma. Tanıştığıma memnun oldum.
+B Hi Emma, I'm Jack. Nice to meet you too.|Selam Emma, ben Jack. Ben de memnun oldum.
+A Where are you from, Jack?|Nerelisin Jack?
+B I'm from Manchester. And you?|Manchester'danım. Ya sen?
+A I'm from Dublin, but I live in London now.|Dublin'denim ama şimdi Londra'da yaşıyorum.
+B Cool! What do you do?|Harika! Ne iş yapıyorsun?
+A I'm a nurse. What about you?|Hemşireyim. Ya sen?
+B I work in IT. Shall we grab a coffee sometime?|Bilişimde çalışıyorum. Bir ara kahve içelim mi?
+-- dialog|Kafede|Emma garson, Jack sipariş veriyor.|Emma|Jack
+A Hi there! What can I get you?|Merhaba! Size ne getireyim?
+B Could I have a cappuccino, please?|Bir kapuçino alabilir miyim lütfen?
+A Sure. Small or large?|Tabii. Küçük mü büyük mü?
+B Large, please. And a blueberry muffin.|Büyük lütfen. Bir de yaban mersinli kek.
+A Is that to have here or to take away?|Burada mı, yoksa paket mi?
+B To have here, thanks.|Burada, teşekkürler.
+A That's six pounds fifty.|Altı pound elli peni.
+B Here you are. Can I pay by card?|Buyurun. Kartla ödeyebilir miyim?
+-- dialog|Yol sormak|Jack istasyonu arıyor.|Emma|Jack
+B Excuse me, how do I get to the station?|Affedersiniz, istasyona nasıl giderim?
+A Go straight on and take the second left.|Düz gidin ve ikinci soldan dönün.
+B Is it far from here?|Buradan uzak mı?
+A No, it's about ten minutes on foot.|Hayır, yürüyerek on dakika kadar.
+B Is there a bus?|Otobüs var mı?
+A Yes, the number 12 stops right there.|Evet, 12 numara tam orada duruyor.
+B Thanks a lot!|Çok teşekkürler!
+A No problem. Have a nice day!|Sorun değil. İyi günler!
+-- dialog|Hafta sonu planı|Emma, Jack'i sinemaya çağırıyor.|Emma|Jack
+A What are you doing this Saturday?|Bu cumartesi ne yapıyorsun?
+B Nothing special. Why?|Özel bir şey yok. Neden?
+A Do you fancy going to the cinema?|Sinemaya gitmek ister misin?
+B Sounds great! What's on?|Harika olur! Ne oynuyor?
+A There's a new comedy. Everyone says it's hilarious.|Yeni bir komedi var. Herkes çok komik diyor.
+B Perfect. What time shall we meet?|Mükemmel. Saat kaçta buluşalım?
+A How about six outside the cinema?|Altıda sinemanın önünde nasıl?
+B Deal. See you on Saturday!|Anlaştık. Cumartesi görüşürüz!
+
+== y1|yuksek|grammar|end|Koşul cümleleri|If … : gerçek, hayal ve pişmanlık
+-- grammar|Birinci tip (gerçek)|Olası bir durum ve sonucu.
+R If + Present, will + fiil|If it rains, we will stay at home.
+E If you study, you will pass.|Çalışırsan geçersin.
+E If it's sunny, we'll go to the beach.|Güneşli olursa plaja gideriz.
+R unless = if not|Unless you hurry, you'll miss the bus.
+E Unless you hurry, you'll be late.|Acele etmezsen geç kalacaksın.
+E I won't go unless you come with me.|Sen gelmezsen ben gitmem.
+Q If it ___ tomorrow, we'll cancel the picnic.|rains|will rain;rained;raining|Yarın yağmur yağarsa pikniği iptal ederiz.|if + Present
+Q If you heat ice, it ___.|melts|will melted;melted;melting|Buzu ısıtırsan erir.|genel gerçek
+Q She ___ angry if you don't call her.|will be|is being;was;be|Onu aramazsan kızacak.|sonuç → will
+Q ___ you leave now, you'll catch the train.|If|Unless;Will;When will|Şimdi çıkarsan trene yetişirsin.|if
+Q We won't finish ___ we work together.|unless|if;when;because|Birlikte çalışmazsak bitiremeyiz.|unless = if not
+Q If I see him, I ___ tell him.|will|would have;did;am|Onu görürsem söylerim.|will
+-- grammar|İkinci tip (hayal)|Şimdiki ya da geleceğe dair hayali durumlar.
+R If + Past, would + fiil|If I had money, I would travel.
+E If I were rich, I would buy a boat.|Zengin olsaydım bir tekne alırdım.
+E If she lived here, she would visit us.|Burada yaşasaydı bizi ziyaret ederdi.
+R If I were you|Tavsiye: If I were you, I would…
+E If I were you, I'd take the job.|Yerinde olsam işi kabul ederdim.
+E What would you do if you won the lottery?|Piyangoyu kazansan ne yapardın?
+Q If I ___ more time, I would learn Japanese.|had|have;will have;would have|Daha çok vaktim olsaydı Japonca öğrenirdim.|if + Past
+Q If he were taller, he ___ play basketball.|could|can;will;is able|Daha uzun olsaydı basketbol oynayabilirdi.|hayal → could/would
+Q If I ___ you, I'd see a doctor.|were|am;will be;be|Yerinde olsam doktora görünürdüm.|If I were you
+Q What ___ you do if you lost your phone?|would|will;do;did|Telefonunu kaybetsen ne yapardın?|hayal → would
+Q She would be happier if she ___ less.|worked|works;will work;working|Daha az çalışsa daha mutlu olurdu.|if + Past
+Q If we lived by the sea, we ___ swim every day.|would|will;did;are|Denizin yanında yaşasak her gün yüzerdik.|would
+-- grammar|Üçüncü tip (pişmanlık)|Geçmişte olmayan bir durum.
+R If + had + 3. hâl, would have + 3. hâl|If I had known, I would have come.
+E If I had known, I would have helped.|Bilseydim yardım ederdim.
+E If we had left earlier, we wouldn't have missed the flight.|Daha erken çıksaydık uçağı kaçırmazdık.
+R I wish / If only|I wish I had studied harder. (Keşke)
+E I wish I had told her the truth.|Keşke ona gerçeği söyleseydim.
+E If only we had more time!|Keşke daha çok vaktimiz olsaydı!
+Q If she had studied, she ___ passed the exam.|would have|will have;would;had|Çalışsaydı sınavı geçerdi.|would have + 3. hâl
+Q If I ___ the news, I would have called you.|had heard|heard;have heard;would hear|Haberi duysaydım seni arardım.|if + had + 3. hâl
+Q We would have won if we ___ harder.|had tried|tried;have tried;would try|Daha çok çabalasaydık kazanırdık.|if + had + 3. hâl
+Q I wish I ___ that.|hadn't said|didn't say;don't say;won't say|Keşke onu söylemeseydim.|I wish + had
+Q If they had taken a taxi, they ___ been late.|wouldn't have|won't have;wouldn't;didn't|Taksiye binselerdi geç kalmazlardı.|wouldn't have
+Q If only I ___ listened to you!|had|have;would;did|Keşke seni dinleseydim!|if only + had
+
+== y2|yuksek|grammar|end|Edilgen yapı ve dolaylı anlatım|is made, was built, she said that …
+-- grammar|Edilgen: şimdiki ve geçmiş|Eylemi kimin yaptığı önemli değilse.
+R am/is/are + 3. hâl|English is spoken here. The rooms are cleaned every day.
+E English is spoken all over the world.|İngilizce dünyanın her yerinde konuşulur.
+E The rooms are cleaned every day.|Odalar her gün temizlenir.
+R was/were + 3. hâl|The bridge was built in 1890. The letters were sent yesterday.
+E This house was built in 1920.|Bu ev 1920'de yapıldı.
+E The thieves were caught.|Hırsızlar yakalandı.
+Q Cheese ___ made from milk.|is|are;am;does|Peynir sütten yapılır.|tekil → is
+Q The Mona Lisa was ___ by Leonardo.|painted|paint;painting;paints|Mona Lisa Leonardo tarafından yapıldı.|was + 3. hâl
+Q These cars ___ made in Germany.|are|is;does;be|Bu arabalar Almanya'da üretiliyor.|çoğul → are
+Q The letter ___ sent last week.|was|were;are;did|Mektup geçen hafta gönderildi.|geçmiş tekil → was
+Q Our flight ___ cancelled.|has been|have been;has;is being|Uçuşumuz iptal edildi.|Present Perfect edilgen
+Q The new hospital will ___ opened next year.|be|is;been;being|Yeni hastane gelecek yıl açılacak.|will be + 3. hâl
+-- grammar|Dolaylı anlatım|Birinin söylediğini aktarmak.
+R say / tell + that|"I'm tired." → She said (that) she was tired. Zaman bir geri gider.
+E He said he was hungry.|Aç olduğunu söyledi.
+E She told me she lived in Rome.|Bana Roma'da yaşadığını söyledi.
+R Soru aktarma|"Where do you live?" → He asked me where I lived.
+E She asked me if I was ready.|Hazır olup olmadığımı sordu.
+E They asked where the station was.|İstasyonun nerede olduğunu sordular.
+Q "I am busy." → He said he ___ busy.|was|is;were;be|"Meşgulüm." → Meşgul olduğunu söyledi.|am → was
+Q "We live in Paris." → They said they ___ in Paris.|lived|live;living;lives|"Paris'te yaşıyoruz." → Paris'te yaşadıklarını söylediler.|live → lived
+Q She ___ me that she was leaving.|told|said;spoke;talked|Bana gideceğini söyledi.|tell + kişi
+Q He ___ that he would come.|said|told;asked;talked|Geleceğini söyledi.|say + that
+Q "Are you OK?" → She asked me ___ I was OK.|if|that;what;do|"İyi misin?" → İyi olup olmadığımı sordu.|evet/hayır sorusu → if
+Q "I will call you." → He said he ___ call me.|would|will;can;shall|"Seni arayacağım." → Beni arayacağını söyledi.|will → would
+-- grammar|Ettirgen: have something done|Bir işi başkasına yaptırmak.
+R have + nesne + 3. hâl|I had my hair cut. We're having the kitchen painted.
+E I had my car repaired.|Arabamı tamir ettirdim.
+E She's having her nails done.|Tırnaklarını yaptırıyor.
+R get + nesne + 3. hâl|Daha günlük: I need to get my phone fixed.
+E You should get your eyes tested.|Gözlerini kontrol ettirmelisin.
+E We got the house cleaned.|Evi temizlettik.
+Q I had my hair ___ yesterday.|cut|cutted;cutting;to cut|Dün saçımı kestirdim.|have + 3. hâl
+Q We need to get the roof ___.|repaired|repair;repairing;to repair|Çatıyı tamir ettirmemiz lazım.|get + 3. hâl
+Q She is having her dress ___.|made|make;making;makes|Elbisesini diktiriyor.|having + 3. hâl
+Q He ___ his car washed every week.|has|is;does;makes|Her hafta arabasını yıkatır.|has + nesne + 3. hâl
+Q You should get your teeth ___.|checked|check;checking;to check|Dişlerini kontrol ettirmelisin.|get + 3. hâl
+Q They had a new kitchen ___.|installed|install;installing;installs|Yeni bir mutfak taktırdılar.|had + 3. hâl
+
+== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+-- text|A Day in London|Sophie Londra'daki gününü anlatıyor.
+T My name is Sophie and I've lived in London for six years. Every morning I take the Tube to work, which is quick but often crowded. At lunchtime I like to sit in a park with a sandwich, especially when the weather is nice. After work I sometimes meet friends at a pub or go to a museum, because most of them are free. The city is expensive, but there is always something to do. I miss the quiet of my hometown, but London feels like home now.
+TR Benim adım Sophie ve altı yıldır Londra'da yaşıyorum. Her sabah işe metroyla giderim; hızlı ama genelde kalabalık. Öğle arasında, özellikle hava güzelken, bir parkta sandviçimle oturmayı severim. İşten sonra bazen bir pubda arkadaşlarla buluşurum ya da bir müzeye giderim, çünkü çoğu ücretsiz. Şehir pahalı ama her zaman yapacak bir şey vardır. Memleketimin sessizliğini özlüyorum ama Londra artık evim gibi.
+G crowded|kalabalık
+G especially|özellikle
+G free|ücretsiz, serbest
+G expensive|pahalı
+G miss|özlemek
+G quiet|sessizlik, sessiz
+G hometown|memleket
+Q How long has Sophie lived in London?|Six years|Two years;Ten years;One year
+Q How does Sophie go to work?|By Tube|By car;By bike;On foot
+Q Why does she go to museums?|Most of them are free|They are near her house;Her friends work there;It's her job
+-- text|An Email to a Friend|Max arkadaşına üniversite hayatını yazıyor.
+T Hi Sam! How are you? I'm doing well. I started university in September and it's great, although the workload is heavy: we have assignments every week. I share a flat with two students from Brazil and Japan. We cook together on Fridays and try each other's traditional dishes. Last weekend we went hiking in the mountains and got completely lost! Why don't you come and visit me in December? Write back soon. Best wishes, Max.
+TR Selam Sam! Nasılsın? Ben iyiyim. Eylülde üniversiteye başladım ve harika, gerçi iş yükü ağır: her hafta ödevimiz var. Brezilya'dan ve Japonya'dan iki öğrenciyle bir daireyi paylaşıyorum. Cumaları birlikte yemek yapıyor, birbirimizin geleneksel yemeklerini deniyoruz. Geçen hafta sonu dağlarda yürüyüşe çıktık ve tamamen kaybolduk! Aralıkta beni ziyarete gelsene? Yakında yaz. Sevgiler, Max.
+G although|gerçi, -e rağmen
+G workload|iş yükü
+G assignments|ödevler
+G share|paylaşmak
+G dishes|yemekler
+G hiking|doğa yürüyüşü
+G lost|kayıp, kaybolmuş
+Q When did Max start university?|In September|In December;Last weekend;In June
+Q Who does Max live with?|Two students|His parents;His sister;Alone
+Q What happened in the mountains?|They got lost|They found a lake;It snowed;They met Sam
+-- text|Tea Time|İngilizlerin çay alışkanlığı.
+T The British drink about one hundred million cups of tea every day. Most people drink it with milk, and some add sugar. Tea is not just a drink: it is a way to relax, to welcome guests or to take a break at work. In the past, rich families had "afternoon tea" with small sandwiches, scones and cakes. Today this tradition is popular in hotels and cafés, especially with tourists. If someone offers you "a cuppa", they are inviting you for a cup of tea.
+TR İngilizler her gün yaklaşık yüz milyon fincan çay içer. Çoğu kişi sütlü içer, bazıları şeker de ekler. Çay sadece bir içecek değildir: rahatlamanın, misafirleri ağırlamanın ya da işte mola vermenin bir yoludur. Geçmişte zengin aileler küçük sandviçler, skonlar ve keklerle "ikindi çayı" yapardı. Bugün bu gelenek otellerde ve kafelerde, özellikle turistler arasında popülerdir. Biri size "a cuppa" önerirse sizi bir fincan çaya davet ediyordur.
+G about|yaklaşık
+G add|eklemek
+G relax|rahatlamak
+G welcome|ağırlamak, karşılamak
+G break|mola
+G tradition|gelenek
+G offers|önerir, teklif eder
+Q How do most British people drink tea?|With milk|With lemon;With honey;Without anything
+Q What did rich families eat at afternoon tea?|Sandwiches, scones and cakes|Soup and bread;Fish and chips;Fruit only
+Q What is "a cuppa"?|A cup of tea|A small cake;A coffee;A type of sandwich
+
+== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+-- dialog|Fikrini söyle|Şehir mi köy mü? Jack fikrini savunuyor.|Emma|Jack
+A Jack, do you think it's better to live in the city or in the countryside?|Jack, sence şehirde mi yaşamak daha iyi, kırsalda mı?
+B In my opinion, the city. There are more jobs and opportunities.|Bence şehir. Daha çok iş ve fırsat var.
+A But cities are noisy and the air is polluted.|Ama şehirler gürültülü ve hava kirli.
+B That's true, but you can go to concerts and museums.|Doğru, ama konserlere ve müzelere gidebilirsin.
+A I dream of a little cottage by a lake.|Ben göl kenarında küçük bir kulübe hayal ediyorum.
+B It sounds lovely, but I'd get bored there.|Kulağa hoş geliyor ama ben orada sıkılırdım.
+A Well, everyone has different tastes!|Eh, herkesin zevki farklı!
+B Exactly. What matters is being happy where you live.|Aynen. Önemli olan yaşadığın yerde mutlu olmak.
+-- dialog|Doktorda|Jack'in boğazı ağrıyor.|Doctor|Jack
+A Good morning. What seems to be the problem?|Günaydın. Sorun nedir?
+B I've had a sore throat and a headache for three days.|Üç gündür boğazım ve başım ağrıyor.
+A Have you got a temperature?|Ateşiniz var mı?
+B Yes, it was thirty-eight last night.|Evet, dün gece otuz sekizdi.
+A Let me have a look. Yes, your throat is quite red.|Bir bakayım. Evet, boğazınız epey kızarmış.
+B Is it anything serious?|Ciddi bir şey mi?
+A No, it's just a cold. Drink plenty of fluids and get some rest.|Hayır, sadece soğuk algınlığı. Bol sıvı için ve dinlenin.
+B Thank you, doctor. Should I stay off work?|Teşekkürler doktor. İşe gitmemeli miyim?
+-- dialog|İş görüşmesi|Jack bir mühendislik işine başvuruyor.|Emma|Jack
+A Could you tell me a little about yourself?|Biraz kendinizden bahseder misiniz?
+B Sure. I'm an engineer and I've worked for a construction company for five years.|Tabii. Mühendisim ve beş yıldır bir inşaat şirketinde çalışıyorum.
+A Why do you want to work for us?|Neden bizde çalışmak istiyorsunuz?
+B Your company works on exciting projects and I'd like to grow professionally.|Şirketiniz heyecan verici projelerde çalışıyor ve mesleki olarak gelişmek istiyorum.
+A What are your main strengths?|Başlıca güçlü yönleriniz neler?
+B I'm reliable, I work well in a team and I learn quickly.|Güvenilirim, ekipte iyi çalışırım ve hızlı öğrenirim.
+A When would you be able to start?|Ne zaman başlayabilirsiniz?
+B In two weeks, once I've finished my current project.|İki hafta sonra, mevcut projemi bitirince.

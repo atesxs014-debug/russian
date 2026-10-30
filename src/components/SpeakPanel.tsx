@@ -19,7 +19,7 @@ type Props = {
 
 type Phase = 'idle' | 'loading' | 'recording' | 'thinking' | 'result' | 'error';
 
-/** "Şimdi sen söyle" — hold the mic, speak, get a 0–100 score with the wrong letters in red. */
+/** "Şimdi sen söyle" — tap the mic, speak, it stops when you go quiet and scores 0–100 with wrong letters in red. */
 export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) {
   const { settings, course } = useApp();
   const [phase, setPhase] = useState<Phase>('idle');
@@ -29,9 +29,9 @@ export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) 
   const [err, setErr] = useState<string | null>(null);
   const [finished, setFinished] = useState(false);
   const pulse = useRef(new Animated.Value(0)).current;
-  const pressStart = useRef(0);
-  const pressing = useRef(false);
+  const level = useRef(new Animated.Value(0)).current;
   const recRef = useRef(false);
+  const busy = useRef(false);
 
   useEffect(() => {
     setPhase('idle');
@@ -44,7 +44,11 @@ export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) 
   useEffect(() => {
     // warm the model up in the background so the first try is fast
     if (!whisperReady()) loadWhisper().catch(() => {});
-    return () => cleanupRecording();
+    return () => {
+      if (recRef.current) stopRecording().catch(() => {});
+      recRef.current = false;
+      cleanupRecording();
+    };
   }, []);
 
   useEffect(() => {
@@ -54,36 +58,42 @@ export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) 
     return () => loop.stop();
   }, [phase]);
 
-  async function onPressIn() {
-    if (finished || phase === 'thinking' || phase === 'loading') return;
-    pressing.current = true;
+  /** Tap once: start listening. It stops by itself when you go quiet (tap again to stop early). */
+  async function onMic() {
+    if (finished || busy.current || phase === 'thinking' || phase === 'loading') return;
+    if (recRef.current) return finish('manual');
+    busy.current = true;
     setErr(null);
+    setWarn(null);
     stopAudio();
-    if (!(await micPermission())) {
-      setErr('Mikrofon izni gerekli. Telefon ayarlarından Voxa için mikrofonu aç.');
-      setPhase('error');
-      return;
-    }
-    pressStart.current = Date.now();
     try {
-      await startRecording();
+      if (!(await micPermission())) {
+        setErr('Mikrofon izni gerekli. Telefon ayarlarından Voxa için mikrofonu aç.');
+        setPhase('error');
+        return;
+      }
+      await startRecording(
+        (why) => finish(why),
+        (l) => level.setValue(l),
+      );
       recRef.current = true;
       setPhase('recording');
-      if (!pressing.current) onPressOut(); // released while the mic was starting
     } catch {
       setErr('Kayıt başlatılamadı.');
       setPhase('error');
+    } finally {
+      busy.current = false;
     }
   }
 
-  async function onPressOut() {
-    pressing.current = false;
+  async function finish(why: 'silence' | 'max' | 'nospeech' | 'manual') {
     if (!recRef.current) return;
     recRef.current = false;
+    level.setValue(0);
     const pcm = await stopRecording();
-    if (Date.now() - pressStart.current < 350) {
+    if (why === 'nospeech') {
       setPhase(res ? 'result' : 'idle');
-      setWarn('Mikrofonu basılı tut, konuş, sonra bırak.');
+      setWarn('Ses duyamadım. Mikrofona dokun ve kelimeyi yüksek sesle söyle.');
       return;
     }
     const lv = levels(pcm);
@@ -169,13 +179,12 @@ export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) 
 
         <Animated.View style={{ transform: [{ scale: phase === 'recording' ? scale : 1 }] }}>
           <Pressable
-            onPressIn={onPressIn}
-            onPressOut={onPressOut}
+            onPress={onMic}
             disabled={finished}
-            accessibilityLabel="Basılı tut ve konuş"
+            accessibilityLabel={phase === 'recording' ? 'Kaydı durdur' : 'Dokun ve konuş'}
             style={[st.mic, { backgroundColor: phase === 'recording' ? C.bad : C.primary }, finished && { opacity: 0.4 }]}
           >
-            <Ionicons name={phase === 'thinking' || phase === 'loading' ? 'hourglass' : 'mic'} size={34} color={C.onPrimary} />
+            <Ionicons name={phase === 'thinking' || phase === 'loading' ? 'hourglass' : phase === 'recording' ? 'stop' : 'mic'} size={34} color={C.onPrimary} />
           </Pressable>
         </Animated.View>
 
@@ -184,8 +193,13 @@ export default function SpeakPanel({ target, onDone, allowSkip = true }: Props) 
           <Text style={st.smallText}>Benim sesim</Text>
         </Pressable>
       </View>
+      {phase === 'recording' ? (
+        <View style={st.meter}>
+          <Animated.View style={[st.meterFill, { transform: [{ scaleX: level }] }]} />
+        </View>
+      ) : null}
       <Text style={st.hint}>
-        {phase === 'recording' ? 'Dinliyorum… bitince bırak' : phase === 'thinking' ? 'Değerlendiriliyor…' : phase === 'loading' ? 'Konuşma motoru hazırlanıyor (ilk sefer birkaç saniye)…' : 'Basılı tut · konuş · bırak'}
+        {phase === 'recording' ? 'Dinliyorum… susunca kendiliğinden durur' : phase === 'thinking' ? 'Değerlendiriliyor…' : phase === 'loading' ? 'Konuşma motoru hazırlanıyor (ilk sefer birkaç saniye)…' : 'Dokun · söyle · sus'}
       </Text>
 
       {allowSkip && !finished ? (
@@ -217,5 +231,7 @@ const st = themed(() => ({
   smallText: { color: C.sub, fontSize: fs(11), fontWeight: '700' },
   mic: { width: 84, height: 84, borderRadius: 42, alignItems: 'center', justifyContent: 'center' },
   hint: { color: C.sub, fontSize: fs(12), textAlign: 'center', marginTop: 10 },
+  meter: { height: 6, borderRadius: 3, backgroundColor: C.line, marginTop: 12, marginHorizontal: 60, overflow: 'hidden' },
+  meterFill: { height: 6, width: '100%', backgroundColor: C.bad, borderRadius: 3 },
   skip: { color: C.dim, fontSize: fs(13), fontWeight: '700', textDecorationLine: 'underline' },
 }));

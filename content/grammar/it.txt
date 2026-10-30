@@ -1,0 +1,354 @@
+# İtalyanca — orta seviye dilbilgisi, diyaloglar ve yüksek seviye
+== g1|orta|grammar|u21|Artikeller ve şimdiki zaman|il, la, lo, i, gli, le ve fiil çekimi
+-- grammar|il, lo, la, l'|Artikel cinsiyete ve kelimenin ilk harfine göre değişir.
+R Eril: il / lo / l'|il libro; s+ünsüz, z, gn, ps önünde lo: lo zaino, lo studente; ünlüden önce l': l'amico.
+E Il libro è sul tavolo.|Kitap masanın üstünde.
+E Lo studente studia.|Öğrenci ders çalışıyor.
+R Dişil: la / l'|la casa, l'amica. Belirsiz: un / uno (eril), una / un' (dişil).
+E La casa è grande.|Ev büyük.
+E Ho un'amica a Roma.|Roma'da bir kız arkadaşım var.
+Q ___ sole è caldo.|Il|Lo;La;L'|Güneş sıcak.|eril, ünsüz → il
+Q ___ zio di Marco è medico.|Lo|Il;La;L'|Marco'nun amcası doktor.|z → lo
+Q ___ acqua è fredda.|L'|La;Il;Lo|Su soğuk.|ünlüden önce → l'
+Q Ho ___ sorella.|una|un;uno;un'|Bir kız kardeşim var.|dişil → una
+Q Vorrei ___ caffè.|un|uno;una;un'|Bir kahve istiyorum.|eril → un
+Q ___ ragazza si chiama Sofia.|La|Il;Lo;L'|Kızın adı Sofia.|dişil → la
+-- grammar|Çoğul: i, gli, le|Eril -o → -i, dişil -a → -e.
+R i / gli|il libro → i libri; lo studente → gli studenti; l'amico → gli amici.
+E I bambini giocano.|Çocuklar oynuyor.
+E Gli amici arrivano stasera.|Arkadaşlar bu akşam geliyor.
+R le|la casa → le case; l'amica → le amiche.
+E Le case sono antiche.|Evler eski.
+E Le ragazze cantano.|Kızlar şarkı söylüyor.
+Q ___ libri sono nuovi.|I|Gli;Le;Il|Kitaplar yeni.|il → i
+Q ___ studenti sono in classe.|Gli|I;Le;Lo|Öğrenciler sınıfta.|lo → gli
+Q ___ finestre sono aperte.|Le|I;Gli;La|Pencereler açık.|dişil çoğul → le
+Q Ho due ___.|gatti|gatto;gatte;gatta|İki kedim var.|eril çoğul → -i
+Q Le ___ sono rosse.|mele|mela;meli;melà|Elmalar kırmızı.|dişil çoğul → -e
+Q ___ amici di Luca sono simpatici.|Gli|I;Le;Lo|Luca'nın arkadaşları cana yakın.|ünlüden önce → gli
+-- grammar|-are, -ere, -ire fiilleri|Şimdiki zaman çekimi.
+R parlare → parlo, parli, parla|io -o, tu -i, lui/lei -a (-e), noi -iamo, voi -ate/-ete/-ite, loro -ano/-ono.
+E Io parlo italiano.|İtalyanca konuşuyorum.
+E Noi abitiamo a Milano.|Milano'da oturuyoruz.
+R essere ve avere|sono, sei, è, siamo, siete, sono; ho, hai, ha, abbiamo, avete, hanno.
+E Sono stanco.|Yorgunum.
+E Abbiamo un cane.|Bir köpeğimiz var.
+Q Noi ___ inglese.|parliamo|parlate;parlano;parlo|İngilizce konuşuyoruz.|noi → -iamo
+Q Tu ___ a Napoli?|abiti|abita;abito;abitate|Napoli'de mi oturuyorsun?|tu → -i
+Q Loro ___ la pizza.|mangiano|mangia;mangiamo;mangi|Onlar pizza yiyor.|loro → -ano
+Q Lei ___ venti anni.|ha|è;hai;hanno|O yirmi yaşında.|yaş → avere
+Q Voi ___ italiani?|siete|siamo;sono;avete|İtalyan mısınız?|essere, voi → siete
+Q Io ___ il giornale ogni mattina.|leggo|leggi;legge;leggiamo|Her sabah gazete okurum.|io → -o
+
+== g2|orta|grammar|u25|Passato prossimo|Dün ne yaptın?
+-- grammar|avere + participio|Bitmiş geçmiş eylemler.
+R -are → -ato, -ere → -uto, -ire → -ito|mangiare → ho mangiato, avere → ho avuto, dormire → ho dormito.
+E Ho mangiato una pizza.|Pizza yedim.
+E Abbiamo dormito bene.|İyi uyuduk.
+R Düzensiz participio|fare → fatto, prendere → preso, vedere → visto, bere → bevuto, scrivere → scritto.
+E Ha preso il treno.|Trene bindi.
+E Hai visto il film?|Filmi gördün mü?
+Q Ieri ___ mangiato al ristorante.|ho|sono;hai;ha|Dün restoranda yedim.|avere, io → ho
+Q Abbiamo ___ la TV.|guardato|guardare;guardiamo;guardavo|Televizyon izledik.|-are → -ato
+Q Che cosa hai ___ ieri sera?|fatto|fato;fare;facevi|Dün akşam ne yaptın?|fare → fatto
+Q Lei ha ___ un caffè.|bevuto|beuto;bere;beveva|O bir kahve içti.|bere → bevuto
+Q Hanno ___ una lettera.|scritto|scrivuto;scrivere;scrivono|Bir mektup yazdılar.|scrivere → scritto
+Q Non ho ___ niente.|capito|capiuto;capire;capisco|Hiçbir şey anlamadım.|-ire → -ito
+-- grammar|essere + participio|Hareket ve durum değişikliği: participio özneye uyar.
+R andare, venire, partire, arrivare…|sono andato/a, è partita, siamo arrivati.
+E Sono andato a Roma.|Roma'ya gittim.
+E Maria è arrivata ieri.|Maria dün geldi.
+R Uyum: -o, -a, -i, -e|Lui è uscito, lei è uscita, loro sono usciti / uscite.
+E Siamo rimasti a casa.|Evde kaldık.
+E Le ragazze sono partite.|Kızlar yola çıktı.
+Q Io ___ andato al mercato.|sono|ho;è;sei|Pazara gittim.|andare → essere
+Q Lei è ___ alle otto.|uscita|uscito;usciti;uscire|Saat sekizde çıktı.|dişil → -a
+Q Noi ___ arrivati tardi.|siamo|abbiamo;siete;sono|Geç geldik.|arrivare → essere
+Q Loro sono ___ in Italia.|tornati|tornato;tornata;tornare|İtalya'ya döndüler.|eril çoğul → -i
+Q Dove sei ___ in vacanza, Anna?|andata|andato;andati;andare|Tatilde nereye gittin Anna?|kadın → -a
+Q Il treno ___ partito.|è|ha;sono;sei|Tren kalktı.|partire → essere
+-- grammar|Olumsuz ve soru|non + yardımcı fiil.
+R non + avere/essere + participio|Non ho capito. Non è venuto.
+E Non ho dormito.|Uyumadım.
+E Non sono uscita ieri.|Dün dışarı çıkmadım.
+R già, ancora, mai|Hai già mangiato? Non ho ancora finito. Non sono mai stato a Parigi.
+E Hai già mangiato?|Yemek yedin mi (çoktan)?
+E Non sono mai stato in Giappone.|Japonya'ya hiç gitmedim.
+Q Non ___ visto Marco oggi.|ho|sono;è;sei|Bugün Marco'yu görmedim.|vedere → avere
+Q Lui non è ___ alla festa.|venuto|venito;venire;viene|O partiye gelmedi.|venire → venuto
+Q Hai ___ finito?|già|mai;niente;nessuno|Bitirdin mi (çoktan)?|già = çoktan
+Q Non ho ___ finito.|ancora|già;mai più;ieri|Henüz bitirmedim.|non … ancora = henüz
+Q Non sono ___ stato a Londra.|mai|già;ancora;sempre|Londra'ya hiç gitmedim.|non … mai = hiç
+Q Avete ___ la cena?|preparato|preparare;preparando;prepara|Akşam yemeğini hazırladınız mı?|avere + -ato
+
+== g3|orta|grammar|u29|Imperfetto ve futuro|Eskiden … ve yarın …
+-- grammar|Imperfetto|Geçmişte süren durum, alışkanlık, betimleme.
+R -avo, -evo, -ivo|parlare → parlavo, avere → avevo, dormire → dormivo. essere → ero.
+E Da bambino giocavo a calcio.|Çocukken futbol oynardım.
+E Faceva freddo.|Hava soğuktu.
+R Imperfetto mu, passato prossimo mu?|Arka plan → imperfetto, olay → passato prossimo: Dormivo quando hai telefonato.
+E Leggevo quando è suonato il telefono.|Telefon çaldığında kitap okuyordum.
+E Pioveva, quindi siamo rimasti a casa.|Yağmur yağıyordu, o yüzden evde kaldık.
+Q Da piccolo ___ in campagna.|abitavo|abito;abiterò;abiterei|Küçükken kırsalda otururdum.|alışkanlık → imperfetto
+Q Ieri ___ bel tempo.|faceva|fa;farà;facciamo|Dün hava güzeldi.|betimleme → imperfetto
+Q Ogni estate ___ al mare.|andavamo|andiamo;andremo;andate|Her yaz denize giderdik.|alışkanlık → imperfetto
+Q Dormivo quando tu ___.|hai chiamato|chiamavi;chiamerai;chiami|Sen aradığında uyuyordum.|olay → passato prossimo
+Q Mia nonna ___ molto gentile.|era|sarà;eravamo;sarebbe|Büyükannem çok iyi biriydi.|essere → era
+Q Guardavano la TV quando io ___.|sono arrivato|arrivavo;arriverò;arrivo|Ben geldiğimde televizyon izliyorlardı.|olay → passato prossimo
+-- grammar|Futuro semplice|Gelecek: -erò, -erai, -erà…
+R -are/-ere → -erò, -ire → -irò|parlare → parlerò, prendere → prenderò, partire → partirò.
+E Domani lavorerò a casa.|Yarın evde çalışacağım.
+E Partiremo alle sette.|Yedide yola çıkacağız.
+R Düzensiz: sarò, avrò, andrò, farò|essere → sarò, avere → avrò, andare → andrò, fare → farò, venire → verrò.
+E Sarò a casa stasera.|Bu akşam evde olacağım.
+E L'anno prossimo andremo in Spagna.|Gelecek yıl İspanya'ya gideceğiz.
+Q Domani ___ bel tempo.|farà|fa;faceva;ha fatto|Yarın hava güzel olacak.|fare → farà
+Q L'anno prossimo ___ a Roma.|andrò|andavo;sono andato;andrei|Gelecek yıl Roma'ya gideceğim.|andare → andrò
+Q Tu ___ tempo domani?|avrai|hai avuto;avevi;abbia|Yarın vaktin olacak mı?|avere → avrai
+Q Noi ___ il treno delle otto.|prenderemo|prendevamo;abbiamo preso;prenderemmo|Saat sekiz trenine bineceğiz.|-ere → -eremo
+Q Un giorno ___ medico.|sarò|sono stato;ero;sia|Bir gün doktor olacağım.|essere → sarò
+Q Loro ___ alla festa sabato.|verranno|venivano;sono venuti;verrebbero|Cumartesi partiye gelecekler.|venire → verranno
+-- grammar|Condizionale|Kibar istek ve hayal: -rei.
+R Gelecek kökü + -ei, -esti, -ebbe|vorrei, potresti, sarebbe, avremmo.
+E Vorrei un caffè, per favore.|Bir kahve rica ediyorum.
+E Potresti aiutarmi?|Bana yardım edebilir misin?
+R Tavsiye: dovresti|Dovresti dormire di più. Al tuo posto, andrei dal medico.
+E Dovresti studiare di più.|Daha çok çalışmalısın.
+E Al tuo posto, accetterei.|Yerinde olsam kabul ederdim.
+Q ___ una camera per due notti.|Vorrei|Vorrà;Voluto;Vogliamo|İki gecelik bir oda istiyorum.|kibar istek → vorrei
+Q ___ chiudere la finestra, per favore?|Potrebbe|Potuto;Potremmo;Potevano|Pencereyi kapatabilir misiniz lütfen?|kibar → potrebbe
+Q Al tuo posto, non ___.|partirei|parto;partirò;partivo|Yerinde olsam gitmezdim.|tavsiye → condizionale
+Q ___ andare dal dentista.|Dovresti|Dovuto;Dovremmo;Dovevano|Dişçiye gitmelisin.|tavsiye → dovresti
+Q Ci ___ venire con voi.|piacerebbe|piacerebbero;piaciuto;piacessi|Sizinle gelmeyi çok isteriz.|kibar → piacerebbe
+Q Sarebbe bello se tu ___.|venissi|vieni;verrai;venuto|Gelsen güzel olurdu.|se + congiuntivo imperfetto
+
+== g4|orta|grammar|u33|Zamirler|lo, la, gli, le, ci, ne
+-- grammar|Doğrudan nesne: lo, la, li, le|Nesne fiilden önce gelir.
+R lo / la / li / le|Conosci Marco? Sì, lo conosco. Vedi le ragazze? Sì, le vedo.
+E Lo conosco bene.|Onu iyi tanıyorum.
+E La chiamo stasera.|Onu bu akşam arıyorum.
+R mi, ti, ci, vi|Mi senti? Ti amo. Ci aspettano.
+E Mi senti?|Beni duyuyor musun?
+E Vi ringrazio.|Size teşekkür ederim.
+Q Conosci Giulia? Sì, ___ conosco.|la|lo;le;gli|Giulia'yı tanıyor musun? Evet, tanıyorum.|dişil → la
+Q Hai le chiavi? Sì, ___ ho.|le|li;la;gli|Anahtarlar sende mi? Evet, bende.|dişil çoğul → le
+Q Guardi il film? Sì, ___ guardo.|lo|la;gli;li|Filmi izliyor musun? Evet, izliyorum.|eril → lo
+Q Compri i biglietti? Sì, ___ compro.|li|le;gli;lo|Biletleri alıyor musun? Evet, alıyorum.|eril çoğul → li
+Q ___ amo, mamma!|Ti|Tu;Te;Tuo|Seni seviyorum anne!|seni → ti
+Q Ci aspetti? Sì, ___ aspetto.|vi|ci;li;gli|Bizi bekliyor musun? Evet, sizi bekliyorum.|sizi → vi
+-- grammar|Dolaylı nesne: gli, le|"Ona": a + kişi yerine.
+R gli (ona - erkek, onlara), le (ona - kadın)|Parlo a Marco → Gli parlo. Telefono a Anna → Le telefono.
+E Gli do un regalo.|Ona (erkek) bir hediye veriyorum.
+E Le scrivo una lettera.|Ona (kadın) bir mektup yazıyorum.
+R mi piace, ti piace|piacere dolaylı nesne ister: Mi piace la musica. Le piace il cinema?
+E Mi piace il gelato.|Dondurmayı severim.
+E Gli piacciono i cani.|O köpekleri sever.
+Q Telefoni a tuo fratello? Sì, ___ telefono.|gli|le;lo;li|Kardeşini arıyor musun? Evet, arıyorum.|a + erkek → gli
+Q Scrivi a Laura? Sì, ___ scrivo.|le|gli;la;li|Laura'ya yazıyor musun? Evet.|a + kadın → le
+Q ___ piace la pizza?|Ti|Tu;Te;Tuo|Pizzayı sever misin?|piacere + ti
+Q A Marco ___ piacciono i film d'azione.|gli|le;lo;si|Marco aksiyon filmlerini sever.|a + erkek → gli
+Q Che cosa ___ regali, alla nonna?|le|gli;la;lo|Büyükanneye ne hediye ediyorsun?|a + kadın → le
+Q Che cosa dici ai tuoi genitori? ___ dico la verità.|Gli|Le;Li;Ci|Ailene ne diyorsun? Onlara gerçeği söylüyorum.|a + çoğul → gli
+-- grammar|ci ve ne|ci: oraya / orada; ne: ondan, -den, miktar.
+R ci: yer|Vai a Roma? Sì, ci vado. Ci abito da due anni.
+E Ci vado domani.|Oraya yarın gidiyorum.
+E Ci sono molti turisti.|Çok turist var.
+R ne: miktar ve "ondan"|Quanti fratelli hai? Ne ho due. Vuoi del pane? Sì, ne voglio.
+E Ne ho tre.|Üç tane var.
+E Ne parliamo domani.|Ondan yarın konuşuruz.
+Q Vai al mare? Sì, ___ vado.|ci|ne;lo;la|Denize gidiyor musun? Evet, oraya gidiyorum.|yer → ci
+Q Quanti anni hai? ___ ho trenta.|Ne|Ci;Li;Gli|Kaç yaşındasın? Otuz.|miktar → ne
+Q Vuoi del caffè? Sì, ___ voglio un po'.|ne|ci;lo;gli|Biraz kahve ister misin? Evet, biraz isterim.|miktar → ne
+Q Abiti a Torino? Sì, ___ abito.|ci|ne;la;li|Torino'da mı oturuyorsun? Evet, orada.|yer → ci
+Q Quante sorelle hai? ___ ho una.|Ne|Ci;La;Le|Kaç kız kardeşin var? Bir tane.|miktar → ne
+Q In questa città ___ sono tanti musei.|ci|ne;si;lo|Bu şehirde çok müze var.|c'è / ci sono
+
+== d1|orta|dialog|u37|Günlük diyaloglar|Giulia ve Marco ile gerçek konuşmalar
+-- dialog|Fare conoscenza|Giulia ve Marco ilk kez tanışıyor.|Giulia|Marco
+A Ciao! Mi chiamo Giulia. E tu?|Selam! Benim adım Giulia. Ya sen?
+B Ciao Giulia, io sono Marco. Piacere!|Selam Giulia, ben Marco. Memnun oldum!
+A Piacere mio. Di dove sei?|Ben de memnun oldum. Nerelisin?
+B Sono di Napoli. E tu?|Napoli'denim. Ya sen?
+A Di Firenze, ma adesso abito qui.|Floransa'dan, ama şimdi burada oturuyorum.
+B Che bello! Studi qui?|Ne güzel! Burada mı okuyorsun?
+A No, lavoro. Faccio la designer.|Hayır, çalışıyorum. Tasarımcıyım.
+B Interessante! Prendiamo un caffè uno di questi giorni?|İlginç! Bir gün kahve içelim mi?
+-- dialog|Al bar|Giulia garson, Marco sipariş veriyor.|Giulia|Marco
+A Buongiorno! Cosa prende?|Günaydın! Ne alırsınız?
+B Buongiorno. Posso vedere il menù?|Günaydın. Menüye bakabilir miyim?
+A Certo, ecco qua.|Tabii, buyurun.
+B Vorrei un cappuccino e un cornetto alla crema.|Bir kapuçino ve kremalı bir kruvasan istiyorum.
+A Al banco o al tavolo?|Tezgâhta mı masada mı?
+B Al tavolo, grazie.|Masada, teşekkürler.
+A Altro?|Başka?
+B No, grazie. Il conto, per favore.|Hayır, teşekkürler. Hesap lütfen.
+-- dialog|Chiedere la strada|Marco istasyonu arıyor.|Giulia|Marco
+B Scusi, dov'è la stazione?|Affedersiniz, istasyon nerede?
+A Vada sempre dritto e poi giri alla seconda a sinistra.|Hep düz gidin, sonra ikinci sokaktan sola dönün.
+B È lontano?|Uzak mı?
+A No, sono dieci minuti a piedi.|Hayır, yürüyerek on dakika.
+B C'è un autobus?|Otobüs var mı?
+A Sì, il numero 4 si ferma proprio lì.|Evet, 4 numara tam orada duruyor.
+B Grazie mille!|Çok teşekkürler!
+A Prego. Buona giornata!|Rica ederim. İyi günler!
+-- dialog|Il fine settimana|Giulia, Marco'yu sinemaya çağırıyor.|Giulia|Marco
+A Che fai sabato?|Cumartesi ne yapıyorsun?
+B Niente di speciale. Perché?|Özel bir şey yok. Neden?
+A Ti va di andare al cinema?|Sinemaya gitmek ister misin?
+B Volentieri! Che film danno?|Memnuniyetle! Hangi film oynuyor?
+A Una nuova commedia. Dicono che è divertentissima.|Yeni bir komedi. Çok komik diyorlar.
+B Perfetto. A che ora ci vediamo?|Mükemmel. Saat kaçta buluşalım?
+A Alle sei davanti al cinema?|Altıda sinemanın önünde?
+B Va bene. A sabato!|Tamam. Cumartesi görüşürüz!
+
+== y1|yuksek|grammar|end|Congiuntivo|penso che, voglio che, benché
+-- grammar|Congiuntivo presente|Fikir, istek, duygu ve şüphe bildiren ifadelerden sonra.
+R -are → -i, -ere/-ire → -a|parlare → che io parli, prendere → che io prenda, dormire → che io dorma.
+E Penso che lui parli bene.|Bence o iyi konuşuyor.
+E Voglio che tu venga.|Gelmeni istiyorum.
+R Düzensiz: sia, abbia, vada, faccia|essere → sia, avere → abbia, andare → vada, fare → faccia.
+E Spero che sia vero.|Umarım doğrudur.
+E È importante che tu abbia pazienza.|Sabırlı olman önemli.
+Q Penso che Marco ___ ragione.|abbia|ha;avrà;aveva|Bence Marco haklı.|pensare che + congiuntivo
+Q Voglio che voi ___ puntuali.|siate|siete;sarete;eravate|Dakik olmanızı istiyorum.|essere → siate
+Q Spero che tu ___ bene.|stia|stai;starai;stavi|Umarım iyisindir.|stare → stia
+Q È necessario che lui ___ subito.|parta|parte;partirà;partiva|Hemen yola çıkması gerekiyor.|-ire → -a
+Q Credo che loro ___ a Roma.|vivano|vivono;vivranno;vivevano|Bence Roma'da yaşıyorlar.|credere che + congiuntivo
+Q Mia madre vuole che io ___ medicina.|faccia|faccio;farò;facevo|Annem tıp okumamı istiyor.|fare → faccia
+-- grammar|Bağlaçlarla congiuntivo|benché, affinché, prima che, a meno che.
+R benché, sebbene (-e rağmen)|Benché piova, usciamo. Sebbene sia stanco, lavora.
+E Benché sia tardi, resto ancora un po'.|Geç olmasına rağmen biraz daha kalıyorum.
+E Sebbene costi molto, lo compro.|Çok pahalı olmasına rağmen alıyorum.
+R affinché, prima che|Parlo piano affinché tu capisca. Torna prima che faccia buio.
+E Te lo spiego affinché tu capisca.|Anlaman için sana açıklıyorum.
+E Andiamo prima che inizi a piovere.|Yağmur başlamadan gidelim.
+Q Benché ___ freddo, andiamo al mare.|faccia|fa;farà;fatto|Hava soğuk olmasına rağmen denize gidiyoruz.|benché + congiuntivo
+Q Parlo forte affinché tutti mi ___.|sentano|sentono;sentiranno;sentivano|Herkes duysun diye yüksek sesle konuşuyorum.|affinché + congiuntivo
+Q Usciamo prima che ___ buio.|diventi|diventa;diventerà;diventava|Hava kararmadan çıkalım.|prima che + congiuntivo
+Q So che lui ___ in Italia.|è|sia;fosse;sarebbe stato|Onun İtalya'da olduğunu biliyorum.|sapere che → indicativo
+Q Sebbene ___ stanca, Anna continua a lavorare.|sia|è;sarà;era|Yorgun olmasına rağmen Anna çalışmaya devam ediyor.|sebbene + congiuntivo
+Q È un peccato che tu non ___ venire.|possa|puoi;potrai;potevi|Gelememen ne yazık.|duygu → congiuntivo
+-- grammar|Periodo ipotetico|Se + congiuntivo imperfetto, condizionale: hayali koşul.
+R se + -ssi, condizionale|Se avessi tempo, viaggerei. Se fossi ricco, comprerei una barca.
+E Se avessi più tempo, imparerei il giapponese.|Daha çok vaktim olsaydı Japonca öğrenirdim.
+E Se fossi in te, accetterei.|Yerinde olsam kabul ederdim.
+R Gerçek koşul: se + presente|Se piove, resto a casa. Se hai fame, mangia!
+E Se piove, restiamo a casa.|Yağmur yağarsa evde kalırız.
+E Se vuoi, ti aiuto.|İstersen sana yardım ederim.
+Q Se ___ ricco, viaggerei per il mondo.|fossi|sono;sarò;ero|Zengin olsaydım dünyayı gezerdim.|se + congiuntivo imperfetto
+Q Se avessi una macchina, ___ al lavoro in macchina.|andrei|vado;andrò;andavo|Arabam olsaydı işe arabayla giderdim.|sonuç → condizionale
+Q Se ___ in te, chiamerei il medico.|fossi|sono;sarei;ero|Yerinde olsam doktoru arardım.|se fossi in te
+Q Se ___ tempo, verrei con voi.|avessi|ho;avrò;avrei|Vaktim olsaydı sizinle gelirdim.|avere → avessi
+Q Se piove, ___ a casa.|resto|resterei;restassi;restavo|Yağmur yağarsa evde kalırım.|gerçek koşul → presente
+Q Che cosa faresti se ___ alla lotteria?|vincessi|vinci;vincerai;vinceresti|Piyangoyu kazansan ne yapardın?|se + congiuntivo imperfetto
+
+== y2|yuksek|grammar|end|Dolaylı anlatım ve edilgen yapı|ha detto che…, viene costruito
+-- grammar|Dice che …|Şimdiki zamanla aktarma: zaman değişmez.
+R dire che + aynı zaman|«Sono stanco.» → Dice che è stanco.
+E Dice che ama Roma.|Roma'yı sevdiğini söylüyor.
+E Dice che verrà domani.|Yarın geleceğini söylüyor.
+R Soru: se, dove, quando|«Vieni?» → Chiede se vengo. «Dove abiti?» → Chiede dove abito.
+E Chiede se sei libero.|Müsait olup olmadığını soruyor.
+E Vuole sapere dove lavori.|Nerede çalıştığını bilmek istiyor.
+Q «Ho fame.» → Dice che ___ fame.|ha|abbia;avere;avesse|"Açım." → Aç olduğunu söylüyor.|aynı zaman
+Q «Sei pronto?» → Chiede ___ sono pronto.|se|che;dove;cosa|"Hazır mısın?" → Hazır olup olmadığımı soruyor.|evet/hayır → se
+Q «Dove vai?» → Mi chiede dove ___.|vado|vai;va;andiamo|"Nereye gidiyorsun?" → Nereye gittiğimi soruyor.|kişi değişir: vai → vado
+Q Dice ___ parte domani.|che|se;dove;cosa|Yarın gideceğini söylüyor.|dire che
+Q Mi chiede ___ faccio stasera.|cosa|se;quale;chi|Bu akşam ne yaptığımı soruyor.|ne → cosa
+Q «Quando arrivate?» → Chiedono quando ___.|arriviamo|arrivate;arrivano;arrivi|"Ne zaman geliyorsunuz?" → Ne zaman geldiğimizi soruyorlar.|voi → noi
+-- grammar|Ha detto che …|Geçmişle aktarmada zaman bir geri gider.
+R presente → imperfetto|«Sono malato.» → Ha detto che era malato.
+E Ha detto che era stanca.|Yorgun olduğunu söyledi.
+E Ha detto che abitava a Bologna.|Bologna'da oturduğunu söyledi.
+R futuro → condizionale passato|«Verrò.» → Ha detto che sarebbe venuto.
+E Mi hai detto che mi avresti chiamato.|Beni arayacağını söylemiştin.
+E Hanno detto che sarebbero arrivati tardi.|Geç geleceklerini söylediler.
+Q «Sono contento.» → Ha detto che ___ contento.|era|è stato;sarà;sia|"Memnunum." → Memnun olduğunu söyledi.|presente → imperfetto
+Q «Partiremo.» → Hanno detto che ___.|sarebbero partiti|partiranno;partono;partivano|"Yola çıkacağız." → Yola çıkacaklarını söylediler.|futuro → condizionale passato
+Q «Amo il jazz.» → Ha detto che ___ il jazz.|amava|ama;amerà;amerebbe|"Cazı severim." → Cazı sevdiğini söyledi.|presente → imperfetto
+Q Mi ha chiesto ___ avevo fame.|se|che;dove;cosa|Aç olup olmadığımı sordu.|evet/hayır → se
+Q «Ti telefonerò.» → Hai detto che mi ___.|avresti telefonato|telefonerai;telefoni;telefonavi|"Seni ararım." → Beni arayacağını söyledin.|futuro → condizionale passato
+Q «Dov'è la stazione?» → Ha chiesto dove ___ la stazione.|era|è stata;sarà;sia stata|"İstasyon nerede?" → İstasyonun nerede olduğunu sordu.|presente → imperfetto
+-- grammar|Forma passiva ve si impersonale|Edilgen: essere / venire + participio; genel özne: si.
+R essere / venire + participio|La casa è stata costruita nel 1900. Il libro viene letto da molti.
+E Il ponte è stato costruito nel 1890.|Köprü 1890'da yapıldı.
+E La cena viene servita alle otto.|Akşam yemeği saat sekizde servis edilir.
+R si + fiil|In Italia si mangia bene. Qui si parla inglese.
+E In Italia si mangia bene.|İtalya'da iyi yemek yenir.
+E Come si dice "grazie" in turco?|Türkçede "grazie" nasıl denir?
+Q Questo romanzo è stato ___ da Calvino.|scritto|scrivuto;scrivendo;scrivere|Bu roman Calvino tarafından yazıldı.|scrivere → scritto
+Q La lettera ___ spedita ieri.|è stata|sarà;sono state;è stato|Mektup dün gönderildi.|passato prossimo edilgen
+Q In questo ristorante ___ mangia benissimo.|si|ci;ne;lo|Bu restoranda çok iyi yemek yenir.|genel özne → si
+Q Le porte ___ chiuse alle venti.|vengono|viene;hanno;ha|Kapılar saat yirmide kapatılır.|çoğul → vengono
+Q Come ___ dice "buongiorno" in russo?|si|ci;lo;ne|Rusçada "buongiorno" nasıl denir?|si dice
+Q Il museo è stato ___ nel 1850.|aperto|aprito;aprendo;aprire|Müze 1850'de açıldı.|aprire → aperto
+
+== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+-- text|La mia vita a Roma|Chiara Roma'daki hayatını anlatıyor.
+T Mi chiamo Chiara e abito a Roma da nove anni. Ogni mattina vado al lavoro in autobus, anche se spesso è in ritardo e pieno di gente. A pranzo mi piace mangiare un panino in una piazza, soprattutto quando c'è il sole. La sera a volte incontro gli amici per un aperitivo o vado a vedere una mostra. Roma è una città caotica ma bellissima, dove ogni strada racconta una storia. Qualche volta mi manca la mia città natale, ma ormai Roma è casa mia.
+TR Benim adım Chiara ve dokuz yıldır Roma'da oturuyorum. Her sabah işe otobüsle giderim, gerçi otobüs sık sık gecikir ve tıklım tıklım olur. Öğlen, özellikle güneş varken bir meydanda sandviç yemeyi severim. Akşamları bazen arkadaşlarla bir aperitif için buluşurum ya da bir sergiye giderim. Roma kaotik ama çok güzel bir şehir; her sokağı bir hikâye anlatır. Bazen doğduğum şehri özlüyorum ama artık Roma benim evim.
+G anche se|-se bile, gerçi
+G in ritardo|geç, rötarlı
+G pieno|dolu
+G soprattutto|özellikle
+G mostra|sergi
+G racconta|anlatır (raccontare)
+G ormai|artık
+Q Da quanto tempo Chiara abita a Roma?|Da nove anni|Da due anni;Da un anno;Da vent'anni
+Q Come va al lavoro Chiara?|In autobus|In macchina;In bicicletta;A piedi
+Q Dove mangia a pranzo quando c'è il sole?|In una piazza|In ufficio;A casa;In un ristorante elegante
+-- text|Un'e-mail a Paolo|Luca arkadaşına üniversite hayatını yazıyor.
+T Ciao Paolo! Come stai? Io sto bene. A settembre ho cominciato l'università ed è molto interessante, anche se c'è tanto da studiare: abbiamo compiti ogni settimana! Divido un appartamento con due studenti, una spagnola e un coreano. Il venerdì cuciniamo insieme e assaggiamo i piatti dei nostri paesi. Lo scorso fine settimana siamo andati a fare un'escursione in montagna e ci siamo persi completamente! Vieni a trovarmi a dicembre! Scrivimi presto. Un abbraccio, Luca
+TR Selam Paolo! Nasılsın? Ben iyiyim. Eylülde üniversiteye başladım ve çok ilginç, gerçi çalışacak çok şey var: her hafta ödevimiz var! Biri İspanyol, biri Koreli iki öğrenciyle bir daireyi paylaşıyorum. Cumaları birlikte yemek yapıyor, ülkelerimizin yemeklerini tadıyoruz. Geçen hafta sonu dağda yürüyüşe gittik ve tamamen kaybolduk! Aralıkta beni ziyarete gel! Hemen yaz. Sarılarak, Luca
+G cominciato|başladı (cominciare)
+G compiti|ödevler
+G divido|paylaşıyorum (dividere)
+G assaggiamo|tadıyoruz (assaggiare)
+G escursione|doğa yürüyüşü, gezi
+G persi|kaybolmuş (perdersi)
+G abbraccio|sarılma, kucaklama
+Q Quando ha cominciato l'università Luca?|A settembre|A dicembre;In estate;Lo scorso fine settimana
+Q Con chi divide l'appartamento?|Con due studenti|Con i genitori;Con Paolo;Da solo
+Q Che cosa è successo in montagna?|Si sono persi|Ha nevicato;Hanno incontrato Paolo;Hanno trovato un lago
+-- text|Il caffè in Italia|İtalyanların kahve alışkanlığı.
+T In Italia il caffè è un piccolo rito quotidiano. Molti italiani lo bevono al bar, in piedi al banco, in pochi minuti. La mattina si prende spesso un cappuccino con un cornetto, ma dopo pranzo si beve quasi sempre un espresso. Ordinare un cappuccino la sera è considerato un po' strano! Se chiedi semplicemente "un caffè", il barista ti servirà un espresso. Il bar non è solo un posto per bere: è un luogo d'incontro dove si chiacchiera con il barista e con gli amici.
+TR İtalya'da kahve günlük küçük bir ritüeldir. Pek çok İtalyan onu barda, tezgâhta ayakta, birkaç dakikada içer. Sabahları sık sık kruvasanla bir kapuçino alınır ama öğle yemeğinden sonra neredeyse her zaman espresso içilir. Akşam kapuçino sipariş etmek biraz tuhaf karşılanır! Sadece "bir kahve" istersen barista sana espresso verir. Bar yalnızca içmek için bir yer değil: barista ve arkadaşlarla sohbet edilen bir buluşma yeridir.
+G rito|ritüel, tören
+G quotidiano|günlük
+G in piedi|ayakta
+G banco|tezgâh
+G considerato|kabul edilir, sayılır
+G semplicemente|sadece, basitçe
+G chiacchiera|sohbet edilir (chiacchierare)
+Q Dove bevono il caffè molti italiani?|Al bar, in piedi|A casa, a letto;In ufficio;In macchina
+Q Che cosa si beve dopo pranzo?|Un espresso|Un cappuccino;Un tè;Una spremuta
+Q Che cosa ti serve il barista se chiedi "un caffè"?|Un espresso|Un cappuccino;Un caffè americano;Un caffè con latte
+
+== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+-- dialog|Dire la propria opinione|Şehir mi köy mü? Marco fikrini savunuyor.|Giulia|Marco
+A Marco, secondo te è meglio vivere in città o in campagna?|Marco, sence şehirde mi yaşamak daha iyi, kırsalda mı?
+B Secondo me in città. Ci sono più lavoro e più opportunità.|Bence şehirde. Daha çok iş ve fırsat var.
+A Ma in città c'è rumore e l'aria è inquinata.|Ama şehir gürültülü ve hava kirli.
+B È vero, però puoi andare a teatro e ai musei.|Doğru, ama tiyatroya ve müzelere gidebilirsin.
+A Io sogno una casetta in riva a un lago.|Ben göl kıyısında küçük bir ev hayal ediyorum.
+B Sembra bellissimo, ma io mi annoierei.|Kulağa çok güzel geliyor ama ben sıkılırdım.
+A Beh, tutti i gusti sono gusti!|Eh, zevkler ve renkler tartışılmaz!
+B Esatto. L'importante è essere felici dove si vive.|Aynen. Önemli olan yaşadığın yerde mutlu olmak.
+-- dialog|Dal medico|Marco'nun boğazı ağrıyor.|Medico|Marco
+A Buongiorno. Che cosa si sente?|Günaydın. Şikâyetiniz nedir?
+B Da tre giorni ho mal di gola e mal di testa.|Üç gündür boğazım ve başım ağrıyor.
+A Ha la febbre?|Ateşiniz var mı?
+B Sì, ieri sera avevo trentotto.|Evet, dün akşam otuz sekizdi.
+A Apra la bocca, per favore. Sì, la gola è piuttosto rossa.|Ağzınızı açın lütfen. Evet, boğaz epey kızarmış.
+B È qualcosa di grave?|Ciddi bir şey mi?
+A No, è solo un raffreddore. Beva molto e si riposi.|Hayır, sadece soğuk algınlığı. Bol sıvı için ve dinlenin.
+B Grazie, dottore. Ho bisogno di un certificato medico?|Teşekkürler doktor. Rapor gerekiyor mu?
+-- dialog|Colloquio di lavoro|Marco bir mühendislik işine başvuruyor.|Giulia|Marco
+A Mi parli un po' di sé.|Biraz kendinizden bahsedin.
+B Certo. Sono ingegnere e lavoro da cinque anni in un'impresa edile.|Tabii. Mühendisim ve beş yıldır bir inşaat şirketinde çalışıyorum.
+A Perché vuole lavorare con noi?|Neden bizimle çalışmak istiyorsunuz?
+B La vostra azienda ha progetti interessanti e vorrei crescere professionalmente.|Şirketinizin ilginç projeleri var ve mesleki olarak gelişmek istiyorum.
+A Quali sono i suoi punti di forza?|Güçlü yönleriniz neler?
+B Sono affidabile, mi piace lavorare in squadra e imparo in fretta.|Güvenilirim, ekip çalışmasını severim ve çabuk öğrenirim.
+A Quando potrebbe cominciare?|Ne zaman başlayabilirsiniz?
+B Tra due settimane, quando avrò finito il progetto attuale.|İki hafta sonra, mevcut projeyi bitirdiğimde.

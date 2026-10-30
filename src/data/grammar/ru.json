@@ -1,0 +1,2670 @@
+{
+ "units": [
+  {
+   "after": "u21",
+   "unit": {
+    "id": "g1",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Haller 1 (падежи)",
+    "subtitle": "Nerede, neyi, nereye · 3 ders",
+    "lessons": [
+     {
+      "id": "g1l1",
+      "kind": "grammar",
+      "title": "Nerede? (Предложный)",
+      "subtitle": "в / на + -е · -ия → -ии, -ь → -и",
+      "intro": "\"Nerede?\" sorusunda isim в/на'dan sonra çoğunlukla -е alır.",
+      "rules": [
+       {
+        "title": "в / на + -е",
+        "text": "Nerede? sorusunda в (içinde) ya da на (üstünde, -de) sonrası isim çoğunlukla -е alır: Москва → в Москве, стол → на столе.",
+        "examples": [
+         {
+          "t": "Я живу в Москве.",
+          "tr": "Moskova'da yaşıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Книга на столе.",
+          "tr": "Kitap masanın üstünde.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "-ия → -ии, -ь → -и",
+        "text": "-ия ile biten isimler -ии, -ь ile biten dişil isimler -и alır: Россия → в России, тетрадь → в тетради.",
+        "examples": [
+         {
+          "t": "Мы в России.",
+          "tr": "Rusya'dayız.",
+          "read": ""
+         },
+         {
+          "t": "Ручка в тетради.",
+          "tr": "Kalem defterin içinde.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Я живу в ___.",
+        "a": "Москве",
+        "o": [
+         "Москва",
+         "Москву",
+         "Москвой"
+        ],
+        "tr": "Moskova'da yaşıyorum.",
+        "why": "в + -е"
+       },
+       {
+        "s": "Кот на ___.",
+        "a": "диване",
+        "o": [
+         "диван",
+         "дивана",
+         "диваном"
+        ],
+        "tr": "Kedi kanepenin üstünde.",
+        "why": "на + -е"
+       },
+       {
+        "s": "Мы были в ___.",
+        "a": "России",
+        "o": [
+         "Россия",
+         "Россию",
+         "Россией"
+        ],
+        "tr": "Rusya'daydık.",
+        "why": "-ия → -ии"
+       },
+       {
+        "s": "Он работает в ___.",
+        "a": "банке",
+        "o": [
+         "банк",
+         "банка",
+         "банком"
+        ],
+        "tr": "O bankada çalışıyor.",
+        "why": "в + -е"
+       },
+       {
+        "s": "Ключи в ___.",
+        "a": "сумке",
+        "o": [
+         "сумка",
+         "сумку",
+         "сумкой"
+        ],
+        "tr": "Anahtarlar çantada.",
+        "why": "в + -е"
+       },
+       {
+        "s": "Дети в ___.",
+        "a": "школе",
+        "o": [
+         "школа",
+         "школу",
+         "школой"
+        ],
+        "tr": "Çocuklar okulda.",
+        "why": "в + -е"
+       }
+      ]
+     },
+     {
+      "id": "g1l2",
+      "kind": "grammar",
+      "title": "Neyi? (Винительный)",
+      "subtitle": "Dişil: -а → -у, -я → -ю · Eril ve nötr (cansız): değişmez",
+      "intro": "Fiilden etkilenen nesne belirtme hâline girer.",
+      "rules": [
+       {
+        "title": "Dişil: -а → -у, -я → -ю",
+        "text": "Nesne dişilse sonu değişir: книга → книгу, песня → песню.",
+        "examples": [
+         {
+          "t": "Я читаю книгу.",
+          "tr": "Kitap okuyorum.",
+          "read": ""
+         },
+         {
+          "t": "Она любит музыку.",
+          "tr": "O müziği sever.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Eril ve nötr (cansız): değişmez",
+        "text": "Cansız eril ve nötr isimler aynı kalır: дом → дом, молоко → молоко.",
+        "examples": [
+         {
+          "t": "Я вижу дом.",
+          "tr": "Evi görüyorum.",
+          "read": ""
+         },
+         {
+          "t": "Он пьёт молоко.",
+          "tr": "O süt içiyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Я читаю ___.",
+        "a": "газету",
+        "o": [
+         "газета",
+         "газете",
+         "газетой"
+        ],
+        "tr": "Gazete okuyorum.",
+        "why": "-а → -у"
+       },
+       {
+        "s": "Мы смотрим ___.",
+        "a": "фильм",
+        "o": [
+         "фильма",
+         "фильме",
+         "фильмом"
+        ],
+        "tr": "Film izliyoruz.",
+        "why": "eril cansız: değişmez"
+       },
+       {
+        "s": "Она пьёт ___.",
+        "a": "воду",
+        "o": [
+         "вода",
+         "воде",
+         "водой"
+        ],
+        "tr": "O su içiyor.",
+        "why": "-а → -у"
+       },
+       {
+        "s": "Я люблю ___.",
+        "a": "Москву",
+        "o": [
+         "Москва",
+         "Москве",
+         "Москвой"
+        ],
+        "tr": "Moskova'yı seviyorum.",
+        "why": "-а → -у"
+       },
+       {
+        "s": "Он знает эту ___.",
+        "a": "песню",
+        "o": [
+         "песня",
+         "песне",
+         "песней"
+        ],
+        "tr": "O bu şarkıyı biliyor.",
+        "why": "-я → -ю"
+       },
+       {
+        "s": "Я иду в ___.",
+        "a": "школу",
+        "o": [
+         "школе",
+         "школа",
+         "школой"
+        ],
+        "tr": "Okula gidiyorum.",
+        "why": "Nereye? в + belirtme hâli"
+       }
+      ]
+     },
+     {
+      "id": "g1l3",
+      "kind": "grammar",
+      "title": "Nerede mi, nereye mi?",
+      "subtitle": "Где? → -е · Куда? → -у / değişmez",
+      "intro": "Где? (nerede) -е ister, Куда? (nereye) belirtme hâlini ister.",
+      "rules": [
+       {
+        "title": "Где? → -е",
+        "text": "Bir yerde bulunmak: Я в парке. Мама на работе.",
+        "examples": [
+         {
+          "t": "Я в парке.",
+          "tr": "Parktayım.",
+          "read": ""
+         },
+         {
+          "t": "Мама на работе.",
+          "tr": "Annem işte.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Куда? → -у / değişmez",
+        "text": "Bir yere gitmek: Я иду в парк. Мама идёт на работу.",
+        "examples": [
+         {
+          "t": "Я иду в парк.",
+          "tr": "Parka gidiyorum.",
+          "read": ""
+         },
+         {
+          "t": "Мама идёт на работу.",
+          "tr": "Annem işe gidiyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Я иду в ___.",
+        "a": "парк",
+        "o": [
+         "парке",
+         "парка",
+         "парком"
+        ],
+        "tr": "Parka gidiyorum.",
+        "why": "Куда? → belirtme hâli"
+       },
+       {
+        "s": "Я сижу в ___.",
+        "a": "парке",
+        "o": [
+         "парк",
+         "парка",
+         "парком"
+        ],
+        "tr": "Parkta oturuyorum.",
+        "why": "Где? → -е"
+       },
+       {
+        "s": "Мы едем на ___.",
+        "a": "работу",
+        "o": [
+         "работе",
+         "работа",
+         "работой"
+        ],
+        "tr": "İşe gidiyoruz.",
+        "why": "Куда? → -у"
+       },
+       {
+        "s": "Она сейчас на ___.",
+        "a": "работе",
+        "o": [
+         "работу",
+         "работа",
+         "работой"
+        ],
+        "tr": "O şu an işte.",
+        "why": "Где? → -е"
+       },
+       {
+        "s": "Где ты? Я в ___.",
+        "a": "магазине",
+        "o": [
+         "магазин",
+         "магазина",
+         "магазином"
+        ],
+        "tr": "Neredesin? Mağazadayım.",
+        "why": "Где? → -е"
+       },
+       {
+        "s": "Куда вы идёте? В ___.",
+        "a": "театр",
+        "o": [
+         "театре",
+         "театра",
+         "театром"
+        ],
+        "tr": "Nereye gidiyorsunuz? Tiyatroya.",
+        "why": "Куда? → değişmez"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u25",
+   "unit": {
+    "id": "g2",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Haller 2 (падежи)",
+    "subtitle": "Yokluk, sahiplik, kime, kiminle · 3 ders",
+    "lessons": [
+     {
+      "id": "g2l1",
+      "kind": "grammar",
+      "title": "Yokluk ve sahiplik (Родительный)",
+      "subtitle": "нет + -а / -ы · Sahiplik: -а / -ы",
+      "intro": "\"Yok\" derken ve \"-in\" sahipliğinde isim -а / -ы alır.",
+      "rules": [
+       {
+        "title": "нет + -а / -ы",
+        "text": "нет'ten sonra eril/nötr isim -а, dişil isim -ы (ya da -и) alır: брат → нет брата, машина → нет машины.",
+        "examples": [
+         {
+          "t": "У меня нет брата.",
+          "tr": "Erkek kardeşim yok.",
+          "read": ""
+         },
+         {
+          "t": "У нас нет машины.",
+          "tr": "Arabamız yok.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Sahiplik: -а / -ы",
+        "text": "Bir şeyin kime/neye ait olduğu: книга брата (kardeşin kitabı), центр города (şehrin merkezi).",
+        "examples": [
+         {
+          "t": "Это машина папы.",
+          "tr": "Bu babamın arabası.",
+          "read": ""
+         },
+         {
+          "t": "Мы в центре города.",
+          "tr": "Şehir merkezindeyiz.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "У меня нет ___.",
+        "a": "времени",
+        "o": [
+         "время",
+         "временем",
+         "временах"
+        ],
+        "tr": "Vaktim yok.",
+        "why": "время → времени (istisna)"
+       },
+       {
+        "s": "Здесь нет ___.",
+        "a": "магазина",
+        "o": [
+         "магазин",
+         "магазину",
+         "магазином"
+        ],
+        "tr": "Burada mağaza yok.",
+        "why": "нет + -а"
+       },
+       {
+        "s": "У неё нет ___.",
+        "a": "сестры",
+        "o": [
+         "сестра",
+         "сестру",
+         "сестрой"
+        ],
+        "tr": "Onun kız kardeşi yok.",
+        "why": "нет + -ы"
+       },
+       {
+        "s": "Это дом ___.",
+        "a": "брата",
+        "o": [
+         "брат",
+         "брату",
+         "братом"
+        ],
+        "tr": "Bu kardeşimin evi.",
+        "why": "sahiplik: -а"
+       },
+       {
+        "s": "Стакан ___, пожалуйста.",
+        "a": "воды",
+        "o": [
+         "вода",
+         "воду",
+         "водой"
+        ],
+        "tr": "Bir bardak su, lütfen.",
+        "why": "miktar + -ы"
+       },
+       {
+        "s": "У нас нет ___.",
+        "a": "хлеба",
+        "o": [
+         "хлеб",
+         "хлебу",
+         "хлебом"
+        ],
+        "tr": "Ekmeğimiz yok.",
+        "why": "нет + -а"
+       }
+      ]
+     },
+     {
+      "id": "g2l2",
+      "kind": "grammar",
+      "title": "Kime? (Дательный)",
+      "subtitle": "мне, тебе, ему, ей · İsimler: -у / -е",
+      "intro": "\"Bana, sana, anneme\" için yönelme hâli kullanılır.",
+      "rules": [
+       {
+        "title": "мне, тебе, ему, ей",
+        "text": "Bana: мне, sana: тебе, ona (erkek): ему, ona (kadın): ей, bize: нам, size: вам, onlara: им.",
+        "examples": [
+         {
+          "t": "Мне нравится чай.",
+          "tr": "Çayı severim (bana hoş gelir).",
+          "read": ""
+         },
+         {
+          "t": "Ему двадцать лет.",
+          "tr": "O yirmi yaşında.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "İsimler: -у / -е",
+        "text": "Eril isimler -у (брату), dişil isimler -е (маме) alır.",
+        "examples": [
+         {
+          "t": "Я звоню маме.",
+          "tr": "Anneme telefon ediyorum.",
+          "read": ""
+         },
+         {
+          "t": "Дай брату книгу.",
+          "tr": "Kardeşine kitabı ver.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ нравится музыка.",
+        "a": "Мне",
+        "o": [
+         "Я",
+         "Меня",
+         "Мной"
+        ],
+        "tr": "Müziği severim.",
+        "why": "нравится + kime"
+       },
+       {
+        "s": "Я пишу ___.",
+        "a": "маме",
+        "o": [
+         "мама",
+         "маму",
+         "мамой"
+        ],
+        "tr": "Anneme yazıyorum.",
+        "why": "dişil: -е"
+       },
+       {
+        "s": "Позвони ___!",
+        "a": "брату",
+        "o": [
+         "брат",
+         "брата",
+         "братом"
+        ],
+        "tr": "Kardeşini ara!",
+        "why": "eril: -у"
+       },
+       {
+        "s": "Сколько ___ лет?",
+        "a": "тебе",
+        "o": [
+         "ты",
+         "тебя",
+         "тобой"
+        ],
+        "tr": "Kaç yaşındasın?",
+        "why": "yaş: kime"
+       },
+       {
+        "s": "___ холодно.",
+        "a": "Ей",
+        "o": [
+         "Она",
+         "Её",
+         "Ею"
+        ],
+        "tr": "O (kadın) üşüyor.",
+        "why": "холодно + kime"
+       },
+       {
+        "s": "Я дам ___ ключ.",
+        "a": "соседу",
+        "o": [
+         "сосед",
+         "соседа",
+         "соседом"
+        ],
+        "tr": "Komşuya anahtarı vereceğim.",
+        "why": "eril: -у"
+       }
+      ]
+     },
+     {
+      "id": "g2l3",
+      "kind": "grammar",
+      "title": "Kiminle? (Творительный)",
+      "subtitle": "с + -ом / -ой · Meslek: работать кем",
+      "intro": "\"İle\" ve meslek söylerken araç hâli kullanılır.",
+      "rules": [
+       {
+        "title": "с + -ом / -ой",
+        "text": "\"İle\" anlamında с'den sonra eril/nötr -ом, dişil -ой alır: с братом, с мамой.",
+        "examples": [
+         {
+          "t": "Я гуляю с собакой.",
+          "tr": "Köpekle yürüyüş yapıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Чай с молоком.",
+          "tr": "Sütlü çay.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Meslek: работать кем",
+        "text": "работать / стать sonrası meslek araç hâlindedir: работать врачом, стать учителем.",
+        "examples": [
+         {
+          "t": "Он работает врачом.",
+          "tr": "O doktor olarak çalışıyor.",
+          "read": ""
+         },
+         {
+          "t": "Я хочу стать учителем.",
+          "tr": "Öğretmen olmak istiyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Я живу с ___.",
+        "a": "сестрой",
+        "o": [
+         "сестра",
+         "сестру",
+         "сестре"
+        ],
+        "tr": "Kız kardeşimle yaşıyorum.",
+        "why": "с + -ой"
+       },
+       {
+        "s": "Кофе с ___, пожалуйста.",
+        "a": "сахаром",
+        "o": [
+         "сахар",
+         "сахара",
+         "сахару"
+        ],
+        "tr": "Şekerli kahve lütfen.",
+        "why": "с + -ом"
+       },
+       {
+        "s": "Она работает ___.",
+        "a": "учителем",
+        "o": [
+         "учитель",
+         "учителя",
+         "учителю"
+        ],
+        "tr": "O öğretmen olarak çalışıyor.",
+        "why": "meslek: -ем"
+       },
+       {
+        "s": "Мы говорили с ___.",
+        "a": "другом",
+        "o": [
+         "друг",
+         "друга",
+         "другу"
+        ],
+        "tr": "Arkadaşla konuştuk.",
+        "why": "с + -ом"
+       },
+       {
+        "s": "Я пишу ___.",
+        "a": "ручкой",
+        "o": [
+         "ручка",
+         "ручку",
+         "ручке"
+        ],
+        "tr": "Kalemle yazıyorum.",
+        "why": "araç: -ой"
+       },
+       {
+        "s": "Он стал ___.",
+        "a": "врачом",
+        "o": [
+         "врач",
+         "врача",
+         "врачу"
+        ],
+        "tr": "O doktor oldu.",
+        "why": "стать + -ом"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u29",
+   "unit": {
+    "id": "g3",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Geçmiş ve gelecek zaman",
+    "subtitle": "Dün ne yaptın, yarın ne yapacaksın · 3 ders",
+    "lessons": [
+     {
+      "id": "g3l1",
+      "kind": "grammar",
+      "title": "Geçmiş zaman",
+      "subtitle": "Eril -л, dişil -ла · Çoğul -ли, nötr -ло",
+      "intro": "Mastardaki -ть düşer, cinsiyete göre -л / -ла / -ло / -ли eklenir.",
+      "rules": [
+       {
+        "title": "Eril -л, dişil -ла",
+        "text": "читать → он читал, она читала. Konuşan kişinin cinsiyeti önemlidir: я читал (erkek), я читала (kadın).",
+        "examples": [
+         {
+          "t": "Вчера я читал книгу.",
+          "tr": "Dün kitap okudum (erkek).",
+          "read": ""
+         },
+         {
+          "t": "Она работала дома.",
+          "tr": "O evde çalıştı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Çoğul -ли, nötr -ло",
+        "text": "мы/вы/они читали; было, стало gibi nötr özneyle -ло.",
+        "examples": [
+         {
+          "t": "Мы смотрели фильм.",
+          "tr": "Film izledik.",
+          "read": ""
+         },
+         {
+          "t": "Было холодно.",
+          "tr": "Hava soğuktu.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Вчера она ___ в кино.",
+        "a": "была",
+        "o": [
+         "был",
+         "были",
+         "было"
+        ],
+        "tr": "Dün o sinemadaydı.",
+        "why": "dişil: -ла"
+       },
+       {
+        "s": "Мы ___ по-русски.",
+        "a": "говорили",
+        "o": [
+         "говорил",
+         "говорила",
+         "говорило"
+        ],
+        "tr": "Rusça konuştuk.",
+        "why": "çoğul: -ли"
+       },
+       {
+        "s": "Он ___ письмо.",
+        "a": "написал",
+        "o": [
+         "написала",
+         "написали",
+         "написало"
+        ],
+        "tr": "O mektubu yazdı.",
+        "why": "eril: -л"
+       },
+       {
+        "s": "Анна, где ты ___ вчера?",
+        "a": "была",
+        "o": [
+         "был",
+         "были",
+         "быть"
+        ],
+        "tr": "Anna, dün neredeydin?",
+        "why": "kadına: -ла"
+       },
+       {
+        "s": "Дети ___ в парке.",
+        "a": "играли",
+        "o": [
+         "играл",
+         "играла",
+         "играло"
+        ],
+        "tr": "Çocuklar parkta oynadı.",
+        "why": "çoğul: -ли"
+       },
+       {
+        "s": "Вчера ___ дождь.",
+        "a": "был",
+        "o": [
+         "была",
+         "были",
+         "было"
+        ],
+        "tr": "Dün yağmur vardı.",
+        "why": "дождь eril"
+       }
+      ]
+     },
+     {
+      "id": "g3l2",
+      "kind": "grammar",
+      "title": "Gelecek zaman",
+      "subtitle": "буду + mastar · Biten eylem: tek kelime",
+      "intro": "Süren eylemde буду + mastar; biten eylemde tek kelime.",
+      "rules": [
+       {
+        "title": "буду + mastar",
+        "text": "я буду, ты будешь, он будет, мы будем, вы будете, они будут + mastar: Завтра я буду работать.",
+        "examples": [
+         {
+          "t": "Завтра я буду работать.",
+          "tr": "Yarın çalışacağım.",
+          "read": ""
+         },
+         {
+          "t": "Мы будем ждать.",
+          "tr": "Bekleyeceğiz.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Biten eylem: tek kelime",
+        "text": "Bitmiş görünüşlü fiilin şimdiki çekimi gelecek anlamı verir: я позвоню (arayacağım).",
+        "examples": [
+         {
+          "t": "Я позвоню завтра.",
+          "tr": "Yarın arayacağım.",
+          "read": ""
+         },
+         {
+          "t": "Она купит хлеб.",
+          "tr": "O ekmek alacak.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Завтра я ___ дома.",
+        "a": "буду",
+        "o": [
+         "будет",
+         "будем",
+         "был"
+        ],
+        "tr": "Yarın evde olacağım.",
+        "why": "я → буду"
+       },
+       {
+        "s": "Вы ___ смотреть фильм?",
+        "a": "будете",
+        "o": [
+         "будешь",
+         "будут",
+         "буду"
+        ],
+        "tr": "Film izleyecek misiniz?",
+        "why": "вы → будете"
+       },
+       {
+        "s": "Они ___ жить в Москве.",
+        "a": "будут",
+        "o": [
+         "будет",
+         "будем",
+         "будете"
+        ],
+        "tr": "Moskova'da yaşayacaklar.",
+        "why": "они → будут"
+       },
+       {
+        "s": "Ты ___ чай?",
+        "a": "будешь",
+        "o": [
+         "будете",
+         "буду",
+         "будем"
+        ],
+        "tr": "Çay içer misin?",
+        "why": "ты → будешь"
+       },
+       {
+        "s": "Я ___ тебе завтра.",
+        "a": "позвоню",
+        "o": [
+         "позвонил",
+         "позвонить",
+         "позвонят"
+        ],
+        "tr": "Yarın seni arayacağım.",
+        "why": "я + bitmiş fiil"
+       },
+       {
+        "s": "Мы ___ в субботу.",
+        "a": "приедем",
+        "o": [
+         "приехали",
+         "приехать",
+         "приедут"
+        ],
+        "tr": "Cumartesi geleceğiz.",
+        "why": "мы + bitmiş fiil"
+       }
+      ]
+     },
+     {
+      "id": "g3l3",
+      "kind": "grammar",
+      "title": "Dün, bugün, yarın",
+      "subtitle": "вчера, сейчас, завтра · Geçen / gelecek",
+      "intro": "Zaman sözcüğü fiilin zamanını belirler.",
+      "rules": [
+       {
+        "title": "вчера, сейчас, завтра",
+        "text": "вчера (dün) → geçmiş, сейчас (şimdi) → şimdiki, завтра (yarın) → gelecek.",
+        "examples": [
+         {
+          "t": "Сейчас я читаю.",
+          "tr": "Şimdi okuyorum.",
+          "read": ""
+         },
+         {
+          "t": "Завтра мы будем читать.",
+          "tr": "Yarın okuyacağız.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Geçen / gelecek",
+        "text": "в прошлом году (geçen yıl), в следующем году (gelecek yıl), на прошлой неделе (geçen hafta).",
+        "examples": [
+         {
+          "t": "В прошлом году я был в Турции.",
+          "tr": "Geçen yıl Türkiye'deydim.",
+          "read": ""
+         },
+         {
+          "t": "На следующей неделе я буду отдыхать.",
+          "tr": "Gelecek hafta dinleneceğim.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Вчера я ___ дома.",
+        "a": "был",
+        "o": [
+         "буду",
+         "есть",
+         "будь"
+        ],
+        "tr": "Dün evdeydim.",
+        "why": "вчера → geçmiş"
+       },
+       {
+        "s": "Сейчас она ___ книгу.",
+        "a": "читает",
+        "o": [
+         "читала",
+         "будет читать",
+         "читать"
+        ],
+        "tr": "Şimdi o kitap okuyor.",
+        "why": "сейчас → şimdiki"
+       },
+       {
+        "s": "Завтра мы ___ работать.",
+        "a": "будем",
+        "o": [
+         "были",
+         "есть",
+         "будут"
+        ],
+        "tr": "Yarın çalışacağız.",
+        "why": "завтра → gelecek"
+       },
+       {
+        "s": "В прошлом году он ___ в Москве.",
+        "a": "жил",
+        "o": [
+         "живёт",
+         "будет жить",
+         "жить"
+        ],
+        "tr": "Geçen yıl Moskova'da yaşıyordu.",
+        "why": "geçen yıl → geçmiş"
+       },
+       {
+        "s": "На следующей неделе я ___ в отпуск.",
+        "a": "поеду",
+        "o": [
+         "поехал",
+         "ехал",
+         "поехала"
+        ],
+        "tr": "Gelecek hafta tatile gideceğim.",
+        "why": "gelecek → bitmiş fiil"
+       },
+       {
+        "s": "Что ты ___ вчера вечером?",
+        "a": "делал",
+        "o": [
+         "делаешь",
+         "будешь делать",
+         "делать"
+        ],
+        "tr": "Dün akşam ne yaptın?",
+        "why": "вчера → geçmiş"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u33",
+   "unit": {
+    "id": "g4",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Fiil görünüşü",
+    "subtitle": "Süren ve biten eylem, fiil çiftleri, emir · 3 ders",
+    "lessons": [
+     {
+      "id": "g4l1",
+      "kind": "grammar",
+      "title": "Süren ve biten eylem",
+      "subtitle": "Bitmemiş (НСВ): süreç, tekrar · Bitmiş (СВ): sonuç",
+      "intro": "Rusçada çoğu fiilin iki biçimi var: süreç (НСВ) ve sonuç (СВ).",
+      "rules": [
+       {
+        "title": "Bitmemiş (НСВ): süreç, tekrar",
+        "text": "делать, читать, писать: eylemin kendisi, süreci ya da alışkanlık.",
+        "examples": [
+         {
+          "t": "Я долго читал эту книгу.",
+          "tr": "Bu kitabı uzun süre okudum.",
+          "read": ""
+         },
+         {
+          "t": "Каждый день я пишу письма.",
+          "tr": "Her gün mektup yazarım.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Bitmiş (СВ): sonuç",
+        "text": "сделать, прочитать, написать: eylem bitti, sonuç var.",
+        "examples": [
+         {
+          "t": "Я прочитал книгу.",
+          "tr": "Kitabı (bitirip) okudum.",
+          "read": ""
+         },
+         {
+          "t": "Она написала письмо.",
+          "tr": "O mektubu yazdı (bitti).",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Каждый день я ___ газету.",
+        "a": "читаю",
+        "o": [
+         "прочитаю",
+         "прочитал",
+         "прочитала"
+        ],
+        "tr": "Her gün gazete okurum.",
+        "why": "tekrar → НСВ"
+       },
+       {
+        "s": "Я уже ___ эту книгу.",
+        "a": "прочитал",
+        "o": [
+         "читаю",
+         "читать",
+         "буду читать"
+        ],
+        "tr": "Bu kitabı çoktan okudum.",
+        "why": "уже → sonuç, СВ"
+       },
+       {
+        "s": "Она долго ___ письмо.",
+        "a": "писала",
+        "o": [
+         "написала",
+         "напишет",
+         "написать"
+        ],
+        "tr": "O uzun süre mektup yazdı.",
+        "why": "долго → süreç, НСВ"
+       },
+       {
+        "s": "Ты ___ домашнее задание?",
+        "a": "сделал",
+        "o": [
+         "делать",
+         "делай",
+         "сделать"
+        ],
+        "tr": "Ödevini yaptın mı?",
+        "why": "sonuç soruluyor → СВ"
+       },
+       {
+        "s": "Обычно мы ___ в семь.",
+        "a": "ужинаем",
+        "o": [
+         "поужинаем",
+         "поужинали",
+         "поужинать"
+        ],
+        "tr": "Genelde yedide akşam yemeği yeriz.",
+        "why": "обычно → НСВ"
+       },
+       {
+        "s": "Наконец он ___ работу.",
+        "a": "закончил",
+        "o": [
+         "заканчивает",
+         "заканчивать",
+         "кончать"
+        ],
+        "tr": "Sonunda işini bitirdi.",
+        "why": "наконец → СВ"
+       }
+      ]
+     },
+     {
+      "id": "g4l2",
+      "kind": "grammar",
+      "title": "Fiil çiftleri",
+      "subtitle": "Ön ekle: писать → написать · Farklı kök: покупать → купить",
+      "intro": "Bitmiş fiil çoğu zaman ön ek alır, bazen kök değişir.",
+      "rules": [
+       {
+        "title": "Ön ekle: писать → написать",
+        "text": "писать → написать, читать → прочитать, смотреть → посмотреть.",
+        "examples": [
+         {
+          "t": "Давай посмотрим фильм.",
+          "tr": "Hadi film izleyelim.",
+          "read": ""
+         },
+         {
+          "t": "Я напишу тебе.",
+          "tr": "Sana yazacağım.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Farklı kök: покупать → купить",
+        "text": "покупать → купить, говорить → сказать, брать → взять.",
+        "examples": [
+         {
+          "t": "Я купил хлеб.",
+          "tr": "Ekmek aldım.",
+          "read": ""
+         },
+         {
+          "t": "Он сказал «привет».",
+          "tr": "O \"merhaba\" dedi.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Вчера я ___ новый телефон.",
+        "a": "купил",
+        "o": [
+         "покупаю",
+         "купить",
+         "покупать"
+        ],
+        "tr": "Dün yeni bir telefon aldım.",
+        "why": "tek sefer, sonuç → купить"
+       },
+       {
+        "s": "Что он ___?",
+        "a": "сказал",
+        "o": [
+         "сказать",
+         "говорить",
+         "скажи"
+        ],
+        "tr": "O ne dedi?",
+        "why": "sonuç → сказать"
+       },
+       {
+        "s": "Можно ___ твою ручку?",
+        "a": "взять",
+        "o": [
+         "взял",
+         "возьму",
+         "взяла"
+        ],
+        "tr": "Kalemini alabilir miyim?",
+        "why": "можно + mastar"
+       },
+       {
+        "s": "Я часто ___ продукты здесь.",
+        "a": "покупаю",
+        "o": [
+         "купил",
+         "куплю",
+         "купить"
+        ],
+        "tr": "Burada sık sık yiyecek alırım.",
+        "why": "часто → НСВ"
+       },
+       {
+        "s": "Давай ___ этот фильм!",
+        "a": "посмотрим",
+        "o": [
+         "смотрели",
+         "посмотрел",
+         "смотрит"
+        ],
+        "tr": "Hadi bu filmi izleyelim!",
+        "why": "давай + biz"
+       },
+       {
+        "s": "Я ___ тебе письмо завтра.",
+        "a": "напишу",
+        "o": [
+         "написал",
+         "писал",
+         "написать"
+        ],
+        "tr": "Yarın sana mektup yazacağım.",
+        "why": "gelecek, sonuç → СВ"
+       }
+      ]
+     },
+     {
+      "id": "g4l3",
+      "kind": "grammar",
+      "title": "Emir kipi",
+      "subtitle": "-й / -и (+ -те) · Yasak: не + НСВ",
+      "intro": "Rica ve emirde fiil -й / -и alır; kibarca -те eklenir.",
+      "rules": [
+       {
+        "title": "-й / -и (+ -те)",
+        "text": "читай(те), говори(те), смотри(те): Читайте, пожалуйста.",
+        "examples": [
+         {
+          "t": "Читайте, пожалуйста.",
+          "tr": "Okuyun lütfen.",
+          "read": ""
+         },
+         {
+          "t": "Говори медленно!",
+          "tr": "Yavaş konuş!",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Yasak: не + НСВ",
+        "text": "\"Yapma\" derken bitmemiş fiil: не говори, не опаздывай.",
+        "examples": [
+         {
+          "t": "Не опаздывай!",
+          "tr": "Geç kalma!",
+          "read": ""
+         },
+         {
+          "t": "Не волнуйтесь.",
+          "tr": "Endişelenmeyin.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___, пожалуйста, громче.",
+        "a": "Говорите",
+        "o": [
+         "Говорить",
+         "Говорю",
+         "Говорил"
+        ],
+        "tr": "Lütfen daha yüksek sesle konuşun.",
+        "why": "kibar emir: -ите"
+       },
+       {
+        "s": "Не ___!",
+        "a": "опаздывай",
+        "o": [
+         "опоздай",
+         "опоздать",
+         "опаздывать"
+        ],
+        "tr": "Geç kalma!",
+        "why": "yasak → не + НСВ"
+       },
+       {
+        "s": "___ сюда!",
+        "a": "Иди",
+        "o": [
+         "Идти",
+         "Иду",
+         "Идёт"
+        ],
+        "tr": "Buraya gel!",
+        "why": "emir: иди"
+       },
+       {
+        "s": "___ меня, пожалуйста.",
+        "a": "Подождите",
+        "o": [
+         "Подождать",
+         "Подожду",
+         "Подождал"
+        ],
+        "tr": "Beni bekleyin lütfen.",
+        "why": "kibar emir"
+       },
+       {
+        "s": "Не ___, всё хорошо.",
+        "a": "волнуйся",
+        "o": [
+         "волноваться",
+         "волнуюсь",
+         "волновался"
+        ],
+        "tr": "Endişelenme, her şey yolunda.",
+        "why": "не + emir"
+       },
+       {
+        "s": "___ это слово ещё раз.",
+        "a": "Повторите",
+        "o": [
+         "Повторить",
+         "Повторю",
+         "Повторял"
+        ],
+        "tr": "Bu kelimeyi bir kez daha tekrarlayın.",
+        "why": "kibar emir"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u37",
+   "unit": {
+    "id": "d1",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük diyaloglar",
+    "subtitle": "Anya ve Dima ile gerçek konuşmalar · 4 ders",
+    "lessons": [
+     {
+      "id": "d1l1",
+      "kind": "dialog",
+      "title": "Tanışma",
+      "subtitle": "Привет! Меня зовут Аня. А тебя?",
+      "intro": "Anya ve Dima ilk kez tanışıyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Привет! Меня зовут Аня. А тебя?",
+         "tr": "Selam! Benim adım Anya. Ya seninki?"
+        },
+        {
+         "p": 1,
+         "t": "Привет, Аня! Я Дима. Очень приятно.",
+         "tr": "Selam Anya! Ben Dima. Memnun oldum."
+        },
+        {
+         "p": 0,
+         "t": "Мне тоже. Ты откуда?",
+         "tr": "Ben de. Nerelisin?"
+        },
+        {
+         "p": 1,
+         "t": "Я из Казани. А ты?",
+         "tr": "Kazan'danım. Ya sen?"
+        },
+        {
+         "p": 0,
+         "t": "Я из Москвы, но сейчас живу здесь.",
+         "tr": "Moskova'danım ama şimdi burada yaşıyorum."
+        },
+        {
+         "p": 1,
+         "t": "Здорово! Ты здесь учишься?",
+         "tr": "Harika! Burada mı okuyorsun?"
+        },
+        {
+         "p": 0,
+         "t": "Нет, я работаю. Я дизайнер.",
+         "tr": "Hayır, çalışıyorum. Tasarımcıyım."
+        },
+        {
+         "p": 1,
+         "t": "Интересно! Давай выпьем кофе как-нибудь.",
+         "tr": "İlginç! Bir ara kahve içelim."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l2",
+      "kind": "dialog",
+      "title": "Kafede",
+      "subtitle": "Добрый день! Что будете заказывать?",
+      "intro": "Anya garson, Dima sipariş veriyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Добрый день! Что будете заказывать?",
+         "tr": "İyi günler! Ne sipariş edeceksiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Здравствуйте. Можно меню?",
+         "tr": "Merhaba. Menüyü alabilir miyim?"
+        },
+        {
+         "p": 0,
+         "t": "Конечно, вот меню.",
+         "tr": "Tabii, buyurun menü."
+        },
+        {
+         "p": 1,
+         "t": "Мне, пожалуйста, капучино и блины.",
+         "tr": "Bana lütfen bir kapuçino ve krep."
+        },
+        {
+         "p": 0,
+         "t": "С чем блины: с мясом или с сыром?",
+         "tr": "Krep neyle olsun: etli mi peynirli mi?"
+        },
+        {
+         "p": 1,
+         "t": "С сыром, пожалуйста.",
+         "tr": "Peynirli lütfen."
+        },
+        {
+         "p": 0,
+         "t": "Что-нибудь ещё?",
+         "tr": "Başka bir şey?"
+        },
+        {
+         "p": 1,
+         "t": "Нет, спасибо. Счёт, пожалуйста.",
+         "tr": "Hayır, teşekkürler. Hesap lütfen."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l3",
+      "kind": "dialog",
+      "title": "Yol sormak",
+      "subtitle": "Извините, вы не подскажете, где метро?",
+      "intro": "Dima metroyu arıyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Извините, вы не подскажете, где метро?",
+         "tr": "Affedersiniz, metro nerede söyler misiniz?"
+        },
+        {
+         "p": 0,
+         "t": "Метро? Идите прямо, потом налево.",
+         "tr": "Metro mu? Düz gidin, sonra sola."
+        },
+        {
+         "p": 1,
+         "t": "Это далеко?",
+         "tr": "Uzak mı?"
+        },
+        {
+         "p": 0,
+         "t": "Нет, минут пять пешком.",
+         "tr": "Hayır, yürüyerek beş dakika kadar."
+        },
+        {
+         "p": 1,
+         "t": "А автобус туда идёт?",
+         "tr": "Peki oraya otobüs gidiyor mu?"
+        },
+        {
+         "p": 0,
+         "t": "Да, автобус номер семь.",
+         "tr": "Evet, yedi numaralı otobüs."
+        },
+        {
+         "p": 1,
+         "t": "Большое спасибо!",
+         "tr": "Çok teşekkürler!"
+        },
+        {
+         "p": 0,
+         "t": "Не за что. Удачи!",
+         "tr": "Bir şey değil. İyi şanslar!"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l4",
+      "kind": "dialog",
+      "title": "Hafta sonu planı",
+      "subtitle": "Дима, что ты делаешь в субботу?",
+      "intro": "Anya, Dima'yı sinemaya çağırıyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Дима, что ты делаешь в субботу?",
+         "tr": "Dima, cumartesi ne yapıyorsun?"
+        },
+        {
+         "p": 1,
+         "t": "Пока не знаю. А что?",
+         "tr": "Henüz bilmiyorum. Neden?"
+        },
+        {
+         "p": 0,
+         "t": "Хочешь пойти в кино?",
+         "tr": "Sinemaya gitmek ister misin?"
+        },
+        {
+         "p": 1,
+         "t": "С удовольствием! Какой фильм?",
+         "tr": "Memnuniyetle! Hangi film?"
+        },
+        {
+         "p": 0,
+         "t": "Новая комедия. Говорят, очень смешная.",
+         "tr": "Yeni bir komedi. Çok komik diyorlar."
+        },
+        {
+         "p": 1,
+         "t": "Отлично. Во сколько встретимся?",
+         "tr": "Harika. Saat kaçta buluşalım?"
+        },
+        {
+         "p": 0,
+         "t": "Давай в шесть у метро.",
+         "tr": "Altıda metronun yanında olsun."
+        },
+        {
+         "p": 1,
+         "t": "Договорились. До субботы!",
+         "tr": "Anlaştık. Cumartesiye kadar!"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y1",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Hareket fiilleri",
+    "subtitle": "Gitmek, gelmek, ayrılmak · 3 ders",
+    "lessons": [
+     {
+      "id": "y1l1",
+      "kind": "grammar",
+      "title": "идти / ходить",
+      "subtitle": "идти: şu an, tek yön · ходить: alışkanlık, gidip gelme",
+      "intro": "Yürüyerek gitmek: şu an tek yön mü, yoksa gidip gelme mi?",
+      "rules": [
+       {
+        "title": "идти: şu an, tek yön",
+        "text": "Şu anda bir yere doğru gidiyorsan: я иду, ты идёшь, они идут.",
+        "examples": [
+         {
+          "t": "Я иду в магазин.",
+          "tr": "(Şu an) mağazaya gidiyorum.",
+          "read": ""
+         },
+         {
+          "t": "Куда ты идёшь?",
+          "tr": "Nereye gidiyorsun?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "ходить: alışkanlık, gidip gelme",
+        "text": "Düzenli gitme ya da gidip dönme: я хожу, ты ходишь, мы ходили.",
+        "examples": [
+         {
+          "t": "Я хожу в спортзал по понедельникам.",
+          "tr": "Pazartesileri spor salonuna giderim.",
+          "read": ""
+         },
+         {
+          "t": "Вчера мы ходили в театр.",
+          "tr": "Dün tiyatroya gidip geldik.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Сейчас я ___ домой.",
+        "a": "иду",
+        "o": [
+         "хожу",
+         "ходил",
+         "ходить"
+        ],
+        "tr": "Şu an eve gidiyorum.",
+        "why": "şu an, tek yön → идти"
+       },
+       {
+        "s": "Каждый день он ___ на работу.",
+        "a": "ходит",
+        "o": [
+         "идёт",
+         "шёл",
+         "идти"
+        ],
+        "tr": "Her gün işe gider.",
+        "why": "alışkanlık → ходить"
+       },
+       {
+        "s": "Вчера мы ___ в музей.",
+        "a": "ходили",
+        "o": [
+         "шли",
+         "идём",
+         "идут"
+        ],
+        "tr": "Dün müzeye gidip geldik.",
+        "why": "gidip dönme → ходить"
+       },
+       {
+        "s": "Смотри, вон ___ автобус!",
+        "a": "идёт",
+        "o": [
+         "ходит",
+         "ходил",
+         "ходят"
+        ],
+        "tr": "Bak, otobüs geliyor!",
+        "why": "şu an → идти"
+       },
+       {
+        "s": "Ребёнок уже ___.",
+        "a": "ходит",
+        "o": [
+         "идёт",
+         "шёл",
+         "идти"
+        ],
+        "tr": "Bebek artık yürüyor.",
+        "why": "yürüme yeteneği → ходить"
+       },
+       {
+        "s": "Куда вы сейчас ___?",
+        "a": "идёте",
+        "o": [
+         "ходите",
+         "ходили",
+         "ходят"
+        ],
+        "tr": "Şu an nereye gidiyorsunuz?",
+        "why": "сейчас → идти"
+       }
+      ]
+     },
+     {
+      "id": "y1l2",
+      "kind": "grammar",
+      "title": "ехать / ездить",
+      "subtitle": "ехать: araçla, şu an · ездить: araçla, düzenli",
+      "intro": "Araçla gitmek için aynı ayrım geçerli.",
+      "rules": [
+       {
+        "title": "ехать: araçla, şu an",
+        "text": "я еду, ты едешь, они едут: Я еду на работу на метро.",
+        "examples": [
+         {
+          "t": "Я еду на работу на метро.",
+          "tr": "Metroyla işe gidiyorum.",
+          "read": ""
+         },
+         {
+          "t": "Мы едем в Петербург.",
+          "tr": "Petersburg'a gidiyoruz.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "ездить: araçla, düzenli",
+        "text": "я езжу, ты ездишь: Летом мы ездим на море.",
+        "examples": [
+         {
+          "t": "Летом мы ездим на море.",
+          "tr": "Yazın denize gideriz.",
+          "read": ""
+         },
+         {
+          "t": "Ты ездил в Казань?",
+          "tr": "Kazan'a gidip geldin mi?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Сейчас мы ___ в аэропорт.",
+        "a": "едем",
+        "o": [
+         "ездим",
+         "ездили",
+         "ездить"
+        ],
+        "tr": "Şu an havalimanına gidiyoruz.",
+        "why": "şu an → ехать"
+       },
+       {
+        "s": "Каждое лето они ___ в Турцию.",
+        "a": "ездят",
+        "o": [
+         "едут",
+         "ехали",
+         "ехать"
+        ],
+        "tr": "Her yaz Türkiye'ye giderler.",
+        "why": "düzenli → ездить"
+       },
+       {
+        "s": "В прошлом году я ___ в Сочи.",
+        "a": "ездил",
+        "o": [
+         "ехал",
+         "еду",
+         "ехать"
+        ],
+        "tr": "Geçen yıl Soçi'ye gidip geldim.",
+        "why": "gidip dönme → ездить"
+       },
+       {
+        "s": "Смотри, как медленно ___ этот автобус!",
+        "a": "едет",
+        "o": [
+         "ездит",
+         "ездил",
+         "ездят"
+        ],
+        "tr": "Bak, bu otobüs ne kadar yavaş gidiyor!",
+        "why": "şu an → ехать"
+       },
+       {
+        "s": "Ты часто ___ на дачу?",
+        "a": "ездишь",
+        "o": [
+         "едешь",
+         "ехал",
+         "ехать"
+        ],
+        "tr": "Yazlığa sık gider misin?",
+        "why": "часто → ездить"
+       },
+       {
+        "s": "Куда ты сейчас ___?",
+        "a": "едешь",
+        "o": [
+         "ездишь",
+         "ездил",
+         "ездить"
+        ],
+        "tr": "Şu an nereye gidiyorsun (araçla)?",
+        "why": "сейчас → ехать"
+       }
+      ]
+     },
+     {
+      "id": "y1l3",
+      "kind": "grammar",
+      "title": "Ön ekli hareket fiilleri",
+      "subtitle": "при- (varmak), у- (ayrılmak) · в- (girmek), вы- (çıkmak)",
+      "intro": "при-, у-, в-, вы- hareketin yönünü söyler.",
+      "rules": [
+       {
+        "title": "при- (varmak), у- (ayrılmak)",
+        "text": "прийти / приехать: gelmek, varmak; уйти / уехать: ayrılıp gitmek.",
+        "examples": [
+         {
+          "t": "Он пришёл домой в семь.",
+          "tr": "Saat yedide eve geldi.",
+          "read": ""
+         },
+         {
+          "t": "Она уехала в Москву.",
+          "tr": "O Moskova'ya gitti (ayrıldı).",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "в- (girmek), вы- (çıkmak)",
+        "text": "войти: içeri girmek; выйти: dışarı çıkmak.",
+        "examples": [
+         {
+          "t": "Войдите!",
+          "tr": "Girin!",
+          "read": ""
+         },
+         {
+          "t": "Я выхожу из дома в восемь.",
+          "tr": "Sekizde evden çıkarım.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Гости ___ в шесть часов.",
+        "a": "пришли",
+        "o": [
+         "ушли",
+         "вышли",
+         "вошли"
+        ],
+        "tr": "Misafirler saat altıda geldi.",
+        "why": "при- = varmak"
+       },
+       {
+        "s": "Мы ___ из дома в восемь утра.",
+        "a": "вышли",
+        "o": [
+         "вошли",
+         "пришли",
+         "приехали"
+        ],
+        "tr": "Sabah sekizde evden çıktık.",
+        "why": "вы- + из = çıkmak"
+       },
+       {
+        "s": "Пожалуйста, ___ в комнату.",
+        "a": "войдите",
+        "o": [
+         "выйдите",
+         "уйдите",
+         "придите"
+        ],
+        "tr": "Lütfen odaya girin.",
+        "why": "в- = girmek"
+       },
+       {
+        "s": "Она ___ из комнаты и закрыла дверь.",
+        "a": "вышла",
+        "o": [
+         "вошла",
+         "пришла",
+         "приехала"
+        ],
+        "tr": "Odadan çıktı ve kapıyı kapattı.",
+        "why": "вы- = çıkmak"
+       },
+       {
+        "s": "Вчера ко мне ___ брат из Казани.",
+        "a": "приехал",
+        "o": [
+         "уехал",
+         "выехал",
+         "въехал"
+        ],
+        "tr": "Dün kardeşim Kazan'dan bana geldi.",
+        "why": "ко мне + при-"
+       },
+       {
+        "s": "Когда ты ___ из отпуска?",
+        "a": "вернёшься",
+        "o": [
+         "уедешь",
+         "выйдешь",
+         "войдёшь"
+        ],
+        "tr": "Tatilden ne zaman döneceksin?",
+        "why": "dönmek: вернуться"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y2",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Sıfat-fiiller ve zarf-fiiller",
+    "subtitle": "Okuyan, yazılmış, okurken · 3 ders",
+    "lessons": [
+     {
+      "id": "y2l1",
+      "kind": "grammar",
+      "title": "Şimdiki sıfat-fiil (-щий)",
+      "subtitle": "-ущий / -ящий: yapan · Sıfat gibi uyum",
+      "intro": "\"Yapan\" anlamı: читающий (okuyan), говорящий (konuşan).",
+      "rules": [
+       {
+        "title": "-ущий / -ящий: yapan",
+        "text": "Şimdiki zaman 3. çoğuldan: читают → читающий, говорят → говорящий.",
+        "examples": [
+         {
+          "t": "Человек, читающий газету, — мой отец.",
+          "tr": "Gazete okuyan adam benim babam.",
+          "read": ""
+         },
+         {
+          "t": "У них говорящий попугай.",
+          "tr": "Onların konuşan bir papağanı var.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Sıfat gibi uyum",
+        "text": "читающий мальчик, читающая девочка, читающие дети; hâle göre de çekilir.",
+        "examples": [
+         {
+          "t": "Девочка, поющая песню, — моя сестра.",
+          "tr": "Şarkı söyleyen kız benim kardeşim.",
+          "read": ""
+         },
+         {
+          "t": "Работающие люди устают.",
+          "tr": "Çalışan insanlar yorulur.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Мальчик, ___ в футбол, — мой сын.",
+        "a": "играющий",
+        "o": [
+         "играющая",
+         "играющие",
+         "играет"
+        ],
+        "tr": "Futbol oynayan çocuk benim oğlum.",
+        "why": "eril yalın: -ий"
+       },
+       {
+        "s": "Женщина, ___ по телефону, — врач.",
+        "a": "говорящая",
+        "o": [
+         "говорящий",
+         "говорящие",
+         "говорит"
+        ],
+        "tr": "Telefonda konuşan kadın doktor.",
+        "why": "dişil: -ая"
+       },
+       {
+        "s": "Студенты, ___ русский язык, сидят здесь.",
+        "a": "изучающие",
+        "o": [
+         "изучающий",
+         "изучающая",
+         "изучают"
+        ],
+        "tr": "Rusça öğrenen öğrenciler burada oturuyor.",
+        "why": "çoğul: -ие"
+       },
+       {
+        "s": "Я знаю человека, ___ в Москве.",
+        "a": "живущего",
+        "o": [
+         "живущий",
+         "живущая",
+         "живёт"
+        ],
+        "tr": "Moskova'da yaşayan birini tanıyorum.",
+        "why": "знаю кого → -его"
+       },
+       {
+        "s": "Не буди ___ собаку.",
+        "a": "спящую",
+        "o": [
+         "спящий",
+         "спящая",
+         "спит"
+        ],
+        "tr": "Uyuyan köpeği uyandırma.",
+        "why": "belirtme hâli: -ую"
+       },
+       {
+        "s": "Поезд, ___ в Москву, опаздывает.",
+        "a": "идущий",
+        "o": [
+         "идущая",
+         "идущие",
+         "идёт"
+        ],
+        "tr": "Moskova'ya giden tren gecikiyor.",
+        "why": "eril: -ий"
+       }
+      ]
+     },
+     {
+      "id": "y2l2",
+      "kind": "grammar",
+      "title": "Geçmiş sıfat-fiil (-вший / -нный)",
+      "subtitle": "-вший: yapmış olan · -нный / -тый: yapılmış",
+      "intro": "\"Yapmış olan\" ve \"yapılmış\" anlamları.",
+      "rules": [
+       {
+        "title": "-вший: yapmış olan",
+        "text": "Geçmiş kökten: сдал → сдавший, написал → написавший.",
+        "examples": [
+         {
+          "t": "Студент, сдавший экзамен, счастлив.",
+          "tr": "Sınavı geçen öğrenci mutlu.",
+          "read": ""
+         },
+         {
+          "t": "Я видел человека, написавшего эту книгу.",
+          "tr": "Bu kitabı yazan adamı gördüm.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "-нный / -тый: yapılmış",
+        "text": "Edilgen: написать → написанный, открыть → открытый; kısa biçim: дверь открыта.",
+        "examples": [
+         {
+          "t": "Это письмо, написанное вчера.",
+          "tr": "Bu dün yazılmış mektup.",
+          "read": ""
+         },
+         {
+          "t": "Дверь открыта.",
+          "tr": "Kapı açık.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Книга, ___ в 1869 году, очень известна.",
+        "a": "написанная",
+        "o": [
+         "написавшая",
+         "написанный",
+         "пишущая"
+        ],
+        "tr": "1869'da yazılmış kitap çok ünlüdür.",
+        "why": "edilgen, dişil"
+       },
+       {
+        "s": "Художник, ___ эту картину, жил в Париже.",
+        "a": "написавший",
+        "o": [
+         "написанный",
+         "написанная",
+         "написанное"
+        ],
+        "tr": "Bu tabloyu yapan ressam Paris'te yaşadı.",
+        "why": "etken: -вший"
+       },
+       {
+        "s": "Магазин уже ___.",
+        "a": "закрыт",
+        "o": [
+         "закрыла",
+         "закрывший",
+         "закрывать"
+        ],
+        "tr": "Mağaza artık kapalı.",
+        "why": "kısa edilgen"
+       },
+       {
+        "s": "Это ___ окно.",
+        "a": "разбитое",
+        "o": [
+         "разбитый",
+         "разбитая",
+         "разбивший"
+        ],
+        "tr": "Bu kırık (kırılmış) bir pencere.",
+        "why": "nötr: -ое"
+       },
+       {
+        "s": "Девушка, ___ вчера, — моя подруга.",
+        "a": "звонившая",
+        "o": [
+         "звонивший",
+         "звонившие",
+         "звонит"
+        ],
+        "tr": "Dün arayan kız arkadaşım.",
+        "why": "dişil: -ая"
+       },
+       {
+        "s": "Все билеты ___.",
+        "a": "проданы",
+        "o": [
+         "продан",
+         "продана",
+         "продавшие"
+        ],
+        "tr": "Tüm biletler satıldı.",
+        "why": "çoğul kısa biçim"
+       }
+      ]
+     },
+     {
+      "id": "y2l3",
+      "kind": "grammar",
+      "title": "Zarf-fiiller (-я / -в)",
+      "subtitle": "-я: yaparken · -в / -вшись: yapınca",
+      "intro": "\"Yaparken\" ve \"yapınca\" tek kelimeyle.",
+      "rules": [
+       {
+        "title": "-я: yaparken",
+        "text": "Şimdiki kökten: читать → читая, слушать → слушая.",
+        "examples": [
+         {
+          "t": "Читая книгу, он уснул.",
+          "tr": "Kitap okurken uyuyakaldı.",
+          "read": ""
+         },
+         {
+          "t": "Он работает, слушая музыку.",
+          "tr": "Müzik dinleyerek çalışıyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "-в / -вшись: yapınca",
+        "text": "Bitmiş fiilden: сделать → сделав, вернуться → вернувшись.",
+        "examples": [
+         {
+          "t": "Сделав уроки, я пошёл гулять.",
+          "tr": "Ödevi bitirince yürüyüşe çıktım.",
+          "read": ""
+         },
+         {
+          "t": "Прочитав письмо, она заплакала.",
+          "tr": "Mektubu okuyunca ağladı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ музыку, я готовлю ужин.",
+        "a": "Слушая",
+        "o": [
+         "Слушав",
+         "Слушать",
+         "Слушаю"
+        ],
+        "tr": "Müzik dinlerken akşam yemeği hazırlarım.",
+        "why": "aynı anda → -я"
+       },
+       {
+        "s": "___ домой, он сразу лёг спать.",
+        "a": "Вернувшись",
+        "o": [
+         "Возвращаясь",
+         "Вернуться",
+         "Вернулся"
+        ],
+        "tr": "Eve dönünce hemen yattı.",
+        "why": "önce → -вшись"
+       },
+       {
+        "s": "Она говорила, ___.",
+        "a": "улыбаясь",
+        "o": [
+         "улыбаться",
+         "улыбается",
+         "улыбалась"
+        ],
+        "tr": "Gülümseyerek konuşuyordu.",
+        "why": "aynı anda → -я"
+       },
+       {
+        "s": "___ работу, мы пошли в кафе.",
+        "a": "Закончив",
+        "o": [
+         "Заканчивая",
+         "Закончить",
+         "Закончили"
+        ],
+        "tr": "İşi bitirince kafeye gittik.",
+        "why": "önce → -в"
+       },
+       {
+        "s": "Он переходил улицу, ___ по телефону.",
+        "a": "разговаривая",
+        "o": [
+         "разговаривать",
+         "разговаривал",
+         "разговор"
+        ],
+        "tr": "Telefonda konuşarak karşıya geçiyordu.",
+        "why": "aynı anda → -я"
+       },
+       {
+        "s": "___ билет, я пошёл на вокзал.",
+        "a": "Купив",
+        "o": [
+         "Покупать",
+         "Купил",
+         "Купить"
+        ],
+        "tr": "Bileti alınca istasyona gittim.",
+        "why": "önce → -в"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y3",
+    "level": "yuksek",
+    "kind": "text",
+    "title": "Metin okuma ve anlama",
+    "subtitle": "Kısa metinler, bilmediğin kelimeye dokun · 3 ders",
+    "lessons": [
+     {
+      "id": "y3l1",
+      "kind": "text",
+      "title": "Моя Москва",
+      "subtitle": "Меня зовут Ольга. Я живу в …",
+      "intro": "Olga Moskova'daki hayatını anlatıyor.",
+      "text": {
+       "t": "Меня зовут Ольга. Я живу в Москве уже десять лет. Каждое утро я езжу на работу на метро, потому что это быстро и удобно. Вечером я люблю гулять по старому центру. Летом в парках много людей: кто-то читает, кто-то играет в шахматы. Зимой здесь очень холодно, но красиво, когда идёт снег. Иногда я скучаю по родному городу, но Москва стала моим домом.",
+       "tr": "Benim adım Olga. On yıldır Moskova'da yaşıyorum. Her sabah işe metroyla giderim, çünkü hızlı ve rahat. Akşamları eski merkezde yürümeyi severim. Yazın parklarda çok insan olur: kimi okur, kimi satranç oynar. Kışın burası çok soğuk ama kar yağınca güzel. Bazen memleketimi özlüyorum ama Moskova benim evim oldu.",
+       "gloss": [
+        [
+         "уже",
+         "artık, zaten"
+        ],
+        [
+         "удобно",
+         "rahat, kullanışlı"
+        ],
+        [
+         "гулять",
+         "yürüyüş yapmak, gezmek"
+        ],
+        [
+         "шахматы",
+         "satranç"
+        ],
+        [
+         "скучаю",
+         "özlüyorum"
+        ],
+        [
+         "родному",
+         "doğduğu, memleket (родной)"
+        ],
+        [
+         "стала",
+         "oldu (dişil)"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Сколько лет Ольга живёт в Москве?",
+         "a": "Десять лет",
+         "o": [
+          "Пять лет",
+          "Двадцать лет",
+          "Один год"
+         ]
+        },
+        {
+         "q": "Как Ольга ездит на работу?",
+         "a": "На метро",
+         "o": [
+          "На машине",
+          "На автобусе",
+          "Пешком"
+         ]
+        },
+        {
+         "q": "Что люди делают в парках летом?",
+         "a": "Читают и играют в шахматы",
+         "o": [
+          "Плавают в реке",
+          "Катаются на лыжах",
+          "Работают"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y3l2",
+      "kind": "text",
+      "title": "Письмо другу",
+      "subtitle": "Привет, Саша! Как у тебя дела? …",
+      "intro": "Maksim arkadaşına üniversite hayatını yazıyor.",
+      "text": {
+       "t": "Привет, Саша! Как у тебя дела? У меня всё хорошо. В сентябре я начал учиться в университете. Учиться интересно, но очень трудно: каждый день много заданий. Я живу в общежитии с двумя ребятами из Китая и Бразилии. Мы говорим по-русски, и это отличная практика! В выходные мы ходим в кино или готовим вместе. Приезжай ко мне в гости в декабре! Пиши, жду ответа. Твой друг Максим.",
+       "tr": "Selam Saşa! Nasılsın? Bende her şey yolunda. Eylülde üniversitede okumaya başladım. Okumak ilginç ama çok zor: her gün çok ödev var. Yurtta Çin'den ve Brezilya'dan iki gençle yaşıyorum. Rusça konuşuyoruz ve bu harika bir pratik! Hafta sonları sinemaya gideriz ya da birlikte yemek yaparız. Aralıkta bana misafirliğe gel! Yaz, cevabını bekliyorum. Arkadaşın Maksim.",
+       "gloss": [
+        [
+         "начал",
+         "başladı"
+        ],
+        [
+         "трудно",
+         "zor"
+        ],
+        [
+         "заданий",
+         "ödevler (задание)"
+        ],
+        [
+         "общежитии",
+         "yurtta (общежитие)"
+        ],
+        [
+         "ребятами",
+         "gençlerle, çocuklarla"
+        ],
+        [
+         "вместе",
+         "birlikte"
+        ],
+        [
+         "ответа",
+         "cevap (ответ)"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Где учится Максим?",
+         "a": "В университете",
+         "o": [
+          "В школе",
+          "На курсах",
+          "Дома"
+         ]
+        },
+        {
+         "q": "С кем живёт Максим?",
+         "a": "С двумя ребятами",
+         "o": [
+          "С родителями",
+          "Один",
+          "С сестрой"
+         ]
+        },
+        {
+         "q": "Когда Максим приглашает Сашу в гости?",
+         "a": "В декабре",
+         "o": [
+          "В сентябре",
+          "Летом",
+          "В выходные"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y3l3",
+      "kind": "text",
+      "title": "Русская зима",
+      "subtitle": "Зима в России длинная и снежная. …",
+      "intro": "Rusya'da kış ve Yılbaşı.",
+      "text": {
+       "t": "Зима в России длинная и снежная. В некоторых городах температура опускается до минус тридцати градусов. Но люди не сидят дома: они катаются на лыжах и коньках, лепят снеговиков и гуляют в лесу. Самый любимый праздник зимы — Новый год. Семьи собираются за большим столом, едят салат «оливье» и смотрят, как в полночь бьют часы на Красной площади. А первого января многие долго спят!",
+       "tr": "Rusya'da kış uzun ve karlıdır. Bazı şehirlerde sıcaklık eksi otuz dereceye kadar düşer. Ama insanlar evde oturmaz: kayak ve paten kayarlar, kardan adam yaparlar ve ormanda yürürler. Kışın en sevilen bayramı Yılbaşı'dır. Aileler büyük bir masa etrafında toplanır, \"olivye\" salatası yer ve gece yarısı Kızıl Meydan'daki saatin çalışını izler. Bir Ocak'ta da pek çok kişi uzun uzun uyur!",
+       "gloss": [
+        [
+         "снежная",
+         "karlı"
+        ],
+        [
+         "опускается",
+         "düşer, iner"
+        ],
+        [
+         "катаются",
+         "kayarlar (кататься)"
+        ],
+        [
+         "лепят",
+         "şekil verirler, yaparlar (лепить)"
+        ],
+        [
+         "праздник",
+         "bayram"
+        ],
+        [
+         "собираются",
+         "toplanırlar"
+        ],
+        [
+         "полночь",
+         "gece yarısı"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Какая зима в России?",
+         "a": "Длинная и снежная",
+         "o": [
+          "Короткая и тёплая",
+          "Дождливая",
+          "Сухая и жаркая"
+         ]
+        },
+        {
+         "q": "Какой самый любимый праздник зимы?",
+         "a": "Новый год",
+         "o": [
+          "День рождения",
+          "Восьмое марта",
+          "День учителя"
+         ]
+        },
+        {
+         "q": "Что делают многие первого января?",
+         "a": "Долго спят",
+         "o": [
+          "Рано встают",
+          "Идут на работу",
+          "Едут на море"
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y4",
+    "level": "yuksek",
+    "kind": "dialog",
+    "title": "Serbest konuşma",
+    "subtitle": "Fikir söyle, derdini anlat, kendini tanıt · 3 ders",
+    "lessons": [
+     {
+      "id": "y4l1",
+      "kind": "dialog",
+      "title": "Fikrini söyle",
+      "subtitle": "Дима, как ты думаешь, лучше жить в городе или в деревне?",
+      "intro": "Şehir mi köy mü? Dima fikrini savunuyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Дима, как ты думаешь, лучше жить в городе или в деревне?",
+         "tr": "Dima, sence şehirde mi yaşamak daha iyi, köyde mi?"
+        },
+        {
+         "p": 1,
+         "t": "По-моему, в городе. Там больше возможностей и работы.",
+         "tr": "Bence şehirde. Orada daha çok fırsat ve iş var."
+        },
+        {
+         "p": 0,
+         "t": "Но в городе шумно и воздух грязный.",
+         "tr": "Ama şehir gürültülü ve hava kirli."
+        },
+        {
+         "p": 1,
+         "t": "Это правда, зато можно ходить в театры и музеи.",
+         "tr": "Doğru, buna karşın tiyatrolara ve müzelere gidebilirsin."
+        },
+        {
+         "p": 0,
+         "t": "А я мечтаю о маленьком доме у реки.",
+         "tr": "Ben ise nehir kenarında küçük bir ev hayal ediyorum."
+        },
+        {
+         "p": 1,
+         "t": "Звучит прекрасно, но мне там было бы скучно.",
+         "tr": "Kulağa harika geliyor ama ben orada sıkılırdım."
+        },
+        {
+         "p": 0,
+         "t": "Значит, у каждого свой вкус!",
+         "tr": "Demek ki herkesin zevki farklı!"
+        },
+        {
+         "p": 1,
+         "t": "Именно. Главное — жить там, где ты счастлив.",
+         "tr": "Aynen. Önemli olan mutlu olduğun yerde yaşamak."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y4l2",
+      "kind": "dialog",
+      "title": "Doktorda",
+      "subtitle": "Здравствуйте, на что жалуетесь?",
+      "intro": "Dima'nın boğazı ağrıyor.",
+      "dialog": {
+       "who": [
+        "Doktor",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Здравствуйте, на что жалуетесь?",
+         "tr": "Merhaba, şikâyetiniz nedir?"
+        },
+        {
+         "p": 1,
+         "t": "У меня уже три дня болит горло и голова.",
+         "tr": "Üç gündür boğazım ve başım ağrıyor."
+        },
+        {
+         "p": 0,
+         "t": "Температура есть?",
+         "tr": "Ateşiniz var mı?"
+        },
+        {
+         "p": 1,
+         "t": "Да, вчера вечером было тридцать восемь.",
+         "tr": "Evet, dün akşam otuz sekizdi."
+        },
+        {
+         "p": 0,
+         "t": "Откройте рот, пожалуйста. Да, горло красное.",
+         "tr": "Ağzınızı açın lütfen. Evet, boğaz kızarmış."
+        },
+        {
+         "p": 1,
+         "t": "Это что-то серьёзное?",
+         "tr": "Ciddi bir şey mi?"
+        },
+        {
+         "p": 0,
+         "t": "Нет, это простуда. Пейте много чая и отдыхайте.",
+         "tr": "Hayır, soğuk algınlığı. Bol çay için ve dinlenin."
+        },
+        {
+         "p": 1,
+         "t": "Спасибо, доктор. Мне нужен больничный?",
+         "tr": "Teşekkürler doktor. Rapor almam gerekiyor mu?"
+        }
+       ]
+      }
+     },
+     {
+      "id": "y4l3",
+      "kind": "dialog",
+      "title": "İş görüşmesi",
+      "subtitle": "Расскажите немного о себе.",
+      "intro": "Dima bir mühendislik işine başvuruyor.",
+      "dialog": {
+       "who": [
+        "Anya",
+        "Dima"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Расскажите немного о себе.",
+         "tr": "Biraz kendinizden bahseder misiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Меня зовут Дмитрий, я инженер. Пять лет работаю в строительной компании.",
+         "tr": "Adım Dmitriy, mühendisim. Beş yıldır bir inşaat şirketinde çalışıyorum."
+        },
+        {
+         "p": 0,
+         "t": "Почему вы хотите работать у нас?",
+         "tr": "Neden bizde çalışmak istiyorsunuz?"
+        },
+        {
+         "p": 1,
+         "t": "Ваша компания делает интересные проекты, и я хочу развиваться.",
+         "tr": "Şirketiniz ilginç projeler yapıyor ve kendimi geliştirmek istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Какие у вас сильные стороны?",
+         "tr": "Güçlü yönleriniz neler?"
+        },
+        {
+         "p": 1,
+         "t": "Я ответственный, умею работать в команде и быстро учусь.",
+         "tr": "Sorumluluk sahibiyim, ekip çalışmasını bilirim ve hızlı öğrenirim."
+        },
+        {
+         "p": 0,
+         "t": "Когда вы готовы начать?",
+         "tr": "Ne zaman başlamaya hazırsınız?"
+        },
+        {
+         "p": 1,
+         "t": "Через две недели, когда закончу текущий проект.",
+         "tr": "İki hafta sonra, mevcut projeyi bitirince."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "upcoming": []
+}

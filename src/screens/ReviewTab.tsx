@@ -37,6 +37,17 @@ export default function ReviewTab({ go }: { go: (r: Route) => void }) {
           {due > 0 && <Button title="Tekrara başla" icon="play" onPress={() => go({ name: 'review' })} style={{ marginTop: 14 }} />}
         </View>
 
+        <Pressable onPress={() => go({ name: 'dict' })} style={({ pressed }) => [st.row, pressed && { opacity: 0.85 }]}>
+          <View style={[st.icon, { backgroundColor: C.bg2 }]}>
+            <Ionicons name="book-outline" size={20} color={C.primary} />
+          </View>
+          <View style={{ flex: 1, marginLeft: 12 }}>
+            <Text style={st.rowTitle}>Sözlük ve fiil çekimleri</Text>
+            <Text style={st.small}>Kelime ara, dinle, tekrara ekle · çekim tabloları</Text>
+          </View>
+          <Ionicons name="chevron-forward" size={18} color={C.sub} />
+        </Pressable>
+
         <Pressable onPress={() => weak && go({ name: 'weak' })} style={({ pressed }) => [st.row, pressed && weak > 0 && { opacity: 0.85 }]}>
           <View style={[st.icon, { backgroundColor: C.badBg }]}>
             <Ionicons name="fitness-outline" size={20} color={C.bad} />

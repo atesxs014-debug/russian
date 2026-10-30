@@ -4,12 +4,14 @@ import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
 import { Text } from '../Text';
 import { useApp } from '../store';
-import { langMeta } from '../course';
+import { langMeta, unitOptional } from '../course';
 import { lessonLock, testLock, unitOpen, unitProgress } from '../progress';
 import { currentUnitIndex } from '../today';
 import { Bar } from '../ui';
 import { C, LEVELS, LevelId, R, fs, themed } from '../theme';
 import type { Route } from '../../App';
+
+const KIND_LABEL = { grammar: '📘 Dilbilgisi', dialog: '💬 Diyalog', text: '📖 Okuma', vocab: '' } as const;
 
 /** All units of the current language, grouped by level; the current unit is expanded. */
 export default function LessonsScreen({ go }: { go: (r: Route) => void }) {
@@ -59,6 +61,8 @@ export default function LessonsScreen({ go }: { go: (r: Route) => void }) {
                 <View style={{ flex: 1, marginLeft: 12 }}>
                   <Text style={st.unitTitle}>{u.title}</Text>
                   <Text style={st.unitSub}>
+                    {u.kind && u.kind !== 'vocab' ? `${KIND_LABEL[u.kind]} · ` : ''}
+                    {unitOptional(u) ? 'isteğe bağlı · ' : ''}
                     {done}/{u.lessons.length} ders
                     {tScore?.passedAt ? ' · tamamlandı' : ''}
                   </Text>

@@ -1,0 +1,1042 @@
+{
+ "ru": {
+  "persons": [
+   "я",
+   "ты",
+   "он / она",
+   "мы",
+   "вы",
+   "они"
+  ],
+  "pastLabel": "Geçmiş (eril / dişil / çoğul)",
+  "verbs": [
+   {
+    "inf": "делать",
+    "tr": "yapmak",
+    "forms": [
+     "делаю",
+     "делаешь",
+     "делает",
+     "делаем",
+     "делаете",
+     "делают"
+    ],
+    "past": "делал / делала / делали"
+   },
+   {
+    "inf": "говорить",
+    "tr": "konuşmak, söylemek",
+    "forms": [
+     "говорю",
+     "говоришь",
+     "говорит",
+     "говорим",
+     "говорите",
+     "говорят"
+    ],
+    "past": "говорил / говорила / говорили"
+   },
+   {
+    "inf": "знать",
+    "tr": "bilmek",
+    "forms": [
+     "знаю",
+     "знаешь",
+     "знает",
+     "знаем",
+     "знаете",
+     "знают"
+    ],
+    "past": "знал / знала / знали"
+   },
+   {
+    "inf": "читать",
+    "tr": "okumak",
+    "forms": [
+     "читаю",
+     "читаешь",
+     "читает",
+     "читаем",
+     "читаете",
+     "читают"
+    ],
+    "past": "читал / читала / читали"
+   },
+   {
+    "inf": "писать",
+    "tr": "yazmak",
+    "forms": [
+     "пишу",
+     "пишешь",
+     "пишет",
+     "пишем",
+     "пишете",
+     "пишут"
+    ],
+    "past": "писал / писала / писали"
+   },
+   {
+    "inf": "жить",
+    "tr": "yaşamak",
+    "forms": [
+     "живу",
+     "живёшь",
+     "живёт",
+     "живём",
+     "живёте",
+     "живут"
+    ],
+    "past": "жил / жила / жили"
+   },
+   {
+    "inf": "хотеть",
+    "tr": "istemek",
+    "forms": [
+     "хочу",
+     "хочешь",
+     "хочет",
+     "хотим",
+     "хотите",
+     "хотят"
+    ],
+    "past": "хотел / хотела / хотели"
+   },
+   {
+    "inf": "мочь",
+    "tr": "-ebilmek",
+    "forms": [
+     "могу",
+     "можешь",
+     "может",
+     "можем",
+     "можете",
+     "могут"
+    ],
+    "past": "мог / могла / могли"
+   },
+   {
+    "inf": "идти",
+    "tr": "gitmek (yürüyerek)",
+    "forms": [
+     "иду",
+     "идёшь",
+     "идёт",
+     "идём",
+     "идёте",
+     "идут"
+    ],
+    "past": "шёл / шла / шли"
+   },
+   {
+    "inf": "ехать",
+    "tr": "gitmek (araçla)",
+    "forms": [
+     "еду",
+     "едешь",
+     "едет",
+     "едем",
+     "едете",
+     "едут"
+    ],
+    "past": "ехал / ехала / ехали"
+   },
+   {
+    "inf": "любить",
+    "tr": "sevmek",
+    "forms": [
+     "люблю",
+     "любишь",
+     "любит",
+     "любим",
+     "любите",
+     "любят"
+    ],
+    "past": "любил / любила / любили"
+   },
+   {
+    "inf": "есть",
+    "tr": "yemek",
+    "forms": [
+     "ем",
+     "ешь",
+     "ест",
+     "едим",
+     "едите",
+     "едят"
+    ],
+    "past": "ел / ела / ели"
+   },
+   {
+    "inf": "пить",
+    "tr": "içmek",
+    "forms": [
+     "пью",
+     "пьёшь",
+     "пьёт",
+     "пьём",
+     "пьёте",
+     "пьют"
+    ],
+    "past": "пил / пила / пили"
+   },
+   {
+    "inf": "спать",
+    "tr": "uyumak",
+    "forms": [
+     "сплю",
+     "спишь",
+     "спит",
+     "спим",
+     "спите",
+     "спят"
+    ],
+    "past": "спал / спала / спали"
+   },
+   {
+    "inf": "видеть",
+    "tr": "görmek",
+    "forms": [
+     "вижу",
+     "видишь",
+     "видит",
+     "видим",
+     "видите",
+     "видят"
+    ],
+    "past": "видел / видела / видели"
+   }
+  ]
+ },
+ "en": {
+  "persons": [
+   "I",
+   "you",
+   "he / she / it",
+   "we",
+   "you",
+   "they"
+  ],
+  "pastLabel": "Past Simple · Participle",
+  "verbs": [
+   {
+    "inf": "be",
+    "tr": "olmak",
+    "forms": [
+     "am",
+     "are",
+     "is",
+     "are",
+     "are",
+     "are"
+    ],
+    "past": "was / were · been"
+   },
+   {
+    "inf": "have",
+    "tr": "sahip olmak",
+    "forms": [
+     "have",
+     "have",
+     "has",
+     "have",
+     "have",
+     "have"
+    ],
+    "past": "had · had"
+   },
+   {
+    "inf": "do",
+    "tr": "yapmak",
+    "forms": [
+     "do",
+     "do",
+     "does",
+     "do",
+     "do",
+     "do"
+    ],
+    "past": "did · done"
+   },
+   {
+    "inf": "go",
+    "tr": "gitmek",
+    "forms": [
+     "go",
+     "go",
+     "goes",
+     "go",
+     "go",
+     "go"
+    ],
+    "past": "went · gone"
+   },
+   {
+    "inf": "make",
+    "tr": "yapmak, üretmek",
+    "forms": [
+     "make",
+     "make",
+     "makes",
+     "make",
+     "make",
+     "make"
+    ],
+    "past": "made · made"
+   },
+   {
+    "inf": "take",
+    "tr": "almak",
+    "forms": [
+     "take",
+     "take",
+     "takes",
+     "take",
+     "take",
+     "take"
+    ],
+    "past": "took · taken"
+   },
+   {
+    "inf": "see",
+    "tr": "görmek",
+    "forms": [
+     "see",
+     "see",
+     "sees",
+     "see",
+     "see",
+     "see"
+    ],
+    "past": "saw · seen"
+   },
+   {
+    "inf": "come",
+    "tr": "gelmek",
+    "forms": [
+     "come",
+     "come",
+     "comes",
+     "come",
+     "come",
+     "come"
+    ],
+    "past": "came · come"
+   },
+   {
+    "inf": "get",
+    "tr": "almak, edinmek",
+    "forms": [
+     "get",
+     "get",
+     "gets",
+     "get",
+     "get",
+     "get"
+    ],
+    "past": "got · got"
+   },
+   {
+    "inf": "know",
+    "tr": "bilmek",
+    "forms": [
+     "know",
+     "know",
+     "knows",
+     "know",
+     "know",
+     "know"
+    ],
+    "past": "knew · known"
+   },
+   {
+    "inf": "think",
+    "tr": "düşünmek",
+    "forms": [
+     "think",
+     "think",
+     "thinks",
+     "think",
+     "think",
+     "think"
+    ],
+    "past": "thought · thought"
+   },
+   {
+    "inf": "say",
+    "tr": "söylemek",
+    "forms": [
+     "say",
+     "say",
+     "says",
+     "say",
+     "say",
+     "say"
+    ],
+    "past": "said · said"
+   },
+   {
+    "inf": "give",
+    "tr": "vermek",
+    "forms": [
+     "give",
+     "give",
+     "gives",
+     "give",
+     "give",
+     "give"
+    ],
+    "past": "gave · given"
+   },
+   {
+    "inf": "eat",
+    "tr": "yemek",
+    "forms": [
+     "eat",
+     "eat",
+     "eats",
+     "eat",
+     "eat",
+     "eat"
+    ],
+    "past": "ate · eaten"
+   },
+   {
+    "inf": "write",
+    "tr": "yazmak",
+    "forms": [
+     "write",
+     "write",
+     "writes",
+     "write",
+     "write",
+     "write"
+    ],
+    "past": "wrote · written"
+   }
+  ]
+ },
+ "de": {
+  "persons": [
+   "ich",
+   "du",
+   "er / sie / es",
+   "wir",
+   "ihr",
+   "sie / Sie"
+  ],
+  "pastLabel": "Perfekt",
+  "verbs": [
+   {
+    "inf": "sein",
+    "tr": "olmak",
+    "forms": [
+     "bin",
+     "bist",
+     "ist",
+     "sind",
+     "seid",
+     "sind"
+    ],
+    "past": "ist gewesen"
+   },
+   {
+    "inf": "haben",
+    "tr": "sahip olmak",
+    "forms": [
+     "habe",
+     "hast",
+     "hat",
+     "haben",
+     "habt",
+     "haben"
+    ],
+    "past": "hat gehabt"
+   },
+   {
+    "inf": "werden",
+    "tr": "olmak (dönüşmek)",
+    "forms": [
+     "werde",
+     "wirst",
+     "wird",
+     "werden",
+     "werdet",
+     "werden"
+    ],
+    "past": "ist geworden"
+   },
+   {
+    "inf": "können",
+    "tr": "-ebilmek",
+    "forms": [
+     "kann",
+     "kannst",
+     "kann",
+     "können",
+     "könnt",
+     "können"
+    ],
+    "past": "hat gekonnt"
+   },
+   {
+    "inf": "müssen",
+    "tr": "zorunda olmak",
+    "forms": [
+     "muss",
+     "musst",
+     "muss",
+     "müssen",
+     "müsst",
+     "müssen"
+    ],
+    "past": "hat gemusst"
+   },
+   {
+    "inf": "wollen",
+    "tr": "istemek",
+    "forms": [
+     "will",
+     "willst",
+     "will",
+     "wollen",
+     "wollt",
+     "wollen"
+    ],
+    "past": "hat gewollt"
+   },
+   {
+    "inf": "gehen",
+    "tr": "gitmek",
+    "forms": [
+     "gehe",
+     "gehst",
+     "geht",
+     "gehen",
+     "geht",
+     "gehen"
+    ],
+    "past": "ist gegangen"
+   },
+   {
+    "inf": "kommen",
+    "tr": "gelmek",
+    "forms": [
+     "komme",
+     "kommst",
+     "kommt",
+     "kommen",
+     "kommt",
+     "kommen"
+    ],
+    "past": "ist gekommen"
+   },
+   {
+    "inf": "machen",
+    "tr": "yapmak",
+    "forms": [
+     "mache",
+     "machst",
+     "macht",
+     "machen",
+     "macht",
+     "machen"
+    ],
+    "past": "hat gemacht"
+   },
+   {
+    "inf": "sprechen",
+    "tr": "konuşmak",
+    "forms": [
+     "spreche",
+     "sprichst",
+     "spricht",
+     "sprechen",
+     "sprecht",
+     "sprechen"
+    ],
+    "past": "hat gesprochen"
+   },
+   {
+    "inf": "essen",
+    "tr": "yemek",
+    "forms": [
+     "esse",
+     "isst",
+     "isst",
+     "essen",
+     "esst",
+     "essen"
+    ],
+    "past": "hat gegessen"
+   },
+   {
+    "inf": "fahren",
+    "tr": "gitmek (araçla)",
+    "forms": [
+     "fahre",
+     "fährst",
+     "fährt",
+     "fahren",
+     "fahrt",
+     "fahren"
+    ],
+    "past": "ist gefahren"
+   },
+   {
+    "inf": "sehen",
+    "tr": "görmek",
+    "forms": [
+     "sehe",
+     "siehst",
+     "sieht",
+     "sehen",
+     "seht",
+     "sehen"
+    ],
+    "past": "hat gesehen"
+   },
+   {
+    "inf": "lesen",
+    "tr": "okumak",
+    "forms": [
+     "lese",
+     "liest",
+     "liest",
+     "lesen",
+     "lest",
+     "lesen"
+    ],
+    "past": "hat gelesen"
+   },
+   {
+    "inf": "wissen",
+    "tr": "bilmek",
+    "forms": [
+     "weiß",
+     "weißt",
+     "weiß",
+     "wissen",
+     "wisst",
+     "wissen"
+    ],
+    "past": "hat gewusst"
+   }
+  ]
+ },
+ "fr": {
+  "persons": [
+   "je / j'",
+   "tu",
+   "il / elle",
+   "nous",
+   "vous",
+   "ils / elles"
+  ],
+  "pastLabel": "Passé composé (il / elle)",
+  "verbs": [
+   {
+    "inf": "être",
+    "tr": "olmak",
+    "forms": [
+     "suis",
+     "es",
+     "est",
+     "sommes",
+     "êtes",
+     "sont"
+    ],
+    "past": "il a été"
+   },
+   {
+    "inf": "avoir",
+    "tr": "sahip olmak",
+    "forms": [
+     "ai",
+     "as",
+     "a",
+     "avons",
+     "avez",
+     "ont"
+    ],
+    "past": "il a eu"
+   },
+   {
+    "inf": "aller",
+    "tr": "gitmek",
+    "forms": [
+     "vais",
+     "vas",
+     "va",
+     "allons",
+     "allez",
+     "vont"
+    ],
+    "past": "il est allé"
+   },
+   {
+    "inf": "faire",
+    "tr": "yapmak",
+    "forms": [
+     "fais",
+     "fais",
+     "fait",
+     "faisons",
+     "faites",
+     "font"
+    ],
+    "past": "il a fait"
+   },
+   {
+    "inf": "parler",
+    "tr": "konuşmak",
+    "forms": [
+     "parle",
+     "parles",
+     "parle",
+     "parlons",
+     "parlez",
+     "parlent"
+    ],
+    "past": "il a parlé"
+   },
+   {
+    "inf": "pouvoir",
+    "tr": "-ebilmek",
+    "forms": [
+     "peux",
+     "peux",
+     "peut",
+     "pouvons",
+     "pouvez",
+     "peuvent"
+    ],
+    "past": "il a pu"
+   },
+   {
+    "inf": "vouloir",
+    "tr": "istemek",
+    "forms": [
+     "veux",
+     "veux",
+     "veut",
+     "voulons",
+     "voulez",
+     "veulent"
+    ],
+    "past": "il a voulu"
+   },
+   {
+    "inf": "venir",
+    "tr": "gelmek",
+    "forms": [
+     "viens",
+     "viens",
+     "vient",
+     "venons",
+     "venez",
+     "viennent"
+    ],
+    "past": "il est venu"
+   },
+   {
+    "inf": "prendre",
+    "tr": "almak",
+    "forms": [
+     "prends",
+     "prends",
+     "prend",
+     "prenons",
+     "prenez",
+     "prennent"
+    ],
+    "past": "il a pris"
+   },
+   {
+    "inf": "savoir",
+    "tr": "bilmek",
+    "forms": [
+     "sais",
+     "sais",
+     "sait",
+     "savons",
+     "savez",
+     "savent"
+    ],
+    "past": "il a su"
+   },
+   {
+    "inf": "voir",
+    "tr": "görmek",
+    "forms": [
+     "vois",
+     "vois",
+     "voit",
+     "voyons",
+     "voyez",
+     "voient"
+    ],
+    "past": "il a vu"
+   },
+   {
+    "inf": "dire",
+    "tr": "söylemek",
+    "forms": [
+     "dis",
+     "dis",
+     "dit",
+     "disons",
+     "dites",
+     "disent"
+    ],
+    "past": "il a dit"
+   },
+   {
+    "inf": "finir",
+    "tr": "bitirmek",
+    "forms": [
+     "finis",
+     "finis",
+     "finit",
+     "finissons",
+     "finissez",
+     "finissent"
+    ],
+    "past": "il a fini"
+   },
+   {
+    "inf": "manger",
+    "tr": "yemek",
+    "forms": [
+     "mange",
+     "manges",
+     "mange",
+     "mangeons",
+     "mangez",
+     "mangent"
+    ],
+    "past": "il a mangé"
+   },
+   {
+    "inf": "boire",
+    "tr": "içmek",
+    "forms": [
+     "bois",
+     "bois",
+     "boit",
+     "buvons",
+     "buvez",
+     "boivent"
+    ],
+    "past": "il a bu"
+   }
+  ]
+ },
+ "it": {
+  "persons": [
+   "io",
+   "tu",
+   "lui / lei",
+   "noi",
+   "voi",
+   "loro"
+  ],
+  "pastLabel": "Passato prossimo (lui)",
+  "verbs": [
+   {
+    "inf": "essere",
+    "tr": "olmak",
+    "forms": [
+     "sono",
+     "sei",
+     "è",
+     "siamo",
+     "siete",
+     "sono"
+    ],
+    "past": "è stato"
+   },
+   {
+    "inf": "avere",
+    "tr": "sahip olmak",
+    "forms": [
+     "ho",
+     "hai",
+     "ha",
+     "abbiamo",
+     "avete",
+     "hanno"
+    ],
+    "past": "ha avuto"
+   },
+   {
+    "inf": "andare",
+    "tr": "gitmek",
+    "forms": [
+     "vado",
+     "vai",
+     "va",
+     "andiamo",
+     "andate",
+     "vanno"
+    ],
+    "past": "è andato"
+   },
+   {
+    "inf": "fare",
+    "tr": "yapmak",
+    "forms": [
+     "faccio",
+     "fai",
+     "fa",
+     "facciamo",
+     "fate",
+     "fanno"
+    ],
+    "past": "ha fatto"
+   },
+   {
+    "inf": "parlare",
+    "tr": "konuşmak",
+    "forms": [
+     "parlo",
+     "parli",
+     "parla",
+     "parliamo",
+     "parlate",
+     "parlano"
+    ],
+    "past": "ha parlato"
+   },
+   {
+    "inf": "potere",
+    "tr": "-ebilmek",
+    "forms": [
+     "posso",
+     "puoi",
+     "può",
+     "possiamo",
+     "potete",
+     "possono"
+    ],
+    "past": "ha potuto"
+   },
+   {
+    "inf": "volere",
+    "tr": "istemek",
+    "forms": [
+     "voglio",
+     "vuoi",
+     "vuole",
+     "vogliamo",
+     "volete",
+     "vogliono"
+    ],
+    "past": "ha voluto"
+   },
+   {
+    "inf": "venire",
+    "tr": "gelmek",
+    "forms": [
+     "vengo",
+     "vieni",
+     "viene",
+     "veniamo",
+     "venite",
+     "vengono"
+    ],
+    "past": "è venuto"
+   },
+   {
+    "inf": "dire",
+    "tr": "söylemek",
+    "forms": [
+     "dico",
+     "dici",
+     "dice",
+     "diciamo",
+     "dite",
+     "dicono"
+    ],
+    "past": "ha detto"
+   },
+   {
+    "inf": "sapere",
+    "tr": "bilmek",
+    "forms": [
+     "so",
+     "sai",
+     "sa",
+     "sappiamo",
+     "sapete",
+     "sanno"
+    ],
+    "past": "ha saputo"
+   },
+   {
+    "inf": "dovere",
+    "tr": "zorunda olmak",
+    "forms": [
+     "devo",
+     "devi",
+     "deve",
+     "dobbiamo",
+     "dovete",
+     "devono"
+    ],
+    "past": "ha dovuto"
+   },
+   {
+    "inf": "stare",
+    "tr": "durmak, bulunmak",
+    "forms": [
+     "sto",
+     "stai",
+     "sta",
+     "stiamo",
+     "state",
+     "stanno"
+    ],
+    "past": "è stato"
+   },
+   {
+    "inf": "mangiare",
+    "tr": "yemek",
+    "forms": [
+     "mangio",
+     "mangi",
+     "mangia",
+     "mangiamo",
+     "mangiate",
+     "mangiano"
+    ],
+    "past": "ha mangiato"
+   },
+   {
+    "inf": "bere",
+    "tr": "içmek",
+    "forms": [
+     "bevo",
+     "bevi",
+     "beve",
+     "beviamo",
+     "bevete",
+     "bevono"
+    ],
+    "past": "ha bevuto"
+   },
+   {
+    "inf": "dormire",
+    "tr": "uyumak",
+    "forms": [
+     "dormo",
+     "dormi",
+     "dorme",
+     "dormiamo",
+     "dormite",
+     "dormono"
+    ],
+    "past": "ha dormito"
+   }
+  ]
+ }
+}

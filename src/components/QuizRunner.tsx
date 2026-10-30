@@ -7,7 +7,9 @@ import { Question, requeue } from '../quiz';
 import { feedback, speak, stopAudio } from '../audio/player';
 import { reportProblem } from '../meta';
 import { Bar, Button, IconBtn, SoundButton } from '../ui';
-import { C, R, fs, themed } from '../theme';
+import { checkTyped, t } from '../i18n';
+import LangKeyboard from './LangKeyboard';
+import { C, LevelId, R, fs, themed } from '../theme';
 
 export type QuizResult = {
   score: number;
@@ -23,13 +25,15 @@ type Props = {
   lang: string;
   /** Max listens per question (tests: 2). Undefined = unlimited. */
   maxPlays?: number;
+  /** 'yuksek' switches instructions/buttons to the target language. */
+  level?: LevelId;
   onClose: () => void;
   onFinish: (r: QuizResult) => void;
 };
 
 type Stage = 'ask' | 'hint' | 'done';
 
-export default function QuizRunner({ questions, title, lang, maxPlays, onClose, onFinish }: Props) {
+export default function QuizRunner({ questions, title, lang, maxPlays, level, onClose, onFinish }: Props) {
   const insets = useSafeAreaInsets();
   const { width, height } = useWindowDimensions();
   const landscape = width > height;
@@ -37,6 +41,9 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
   const [stage, setStage] = useState<Stage>('ask');
   const [picks, setPicks] = useState<string[]>([]);
   const [plays, setPlays] = useState(0);
+  const [typed, setTyped] = useState('');
+  const [lastOk, setLastOk] = useState(false);
+  const [near, setNear] = useState(false);
   const firstTry = useRef<Record<string, boolean>>({});
   const firstByQuestion = useRef<Record<string, boolean>>({});
   const mistakes = useRef<Question[]>([]);
@@ -56,7 +63,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     if (!q?.audio && !q?.audioAfter) return;
     if (maxPlays !== undefined && stage === 'ask' && plays >= maxPlays) return;
     setPlays((n) => n + 1);
-    speak((q.audio ?? q.audioAfter)!, slow);
+    speak((q.audio ?? q.audioAfter)!, slow, q.audio ? q.voice ?? 0 : 0);
   };
 
   useEffect(() => {
@@ -64,6 +71,9 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     setStage('ask');
     setPicks([]);
     setPlays(0);
+    setTyped('');
+    setLastOk(false);
+    setNear(false);
     setInputReady(false);
     setNextReady(false);
     fbAnim.setValue(0);
@@ -73,7 +83,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     const t = q.audio
       ? setTimeout(() => {
           setPlays(1);
-          speak(q.audio!);
+          speak(q.audio!, false, q.voice ?? 0);
         }, 350)
       : undefined;
     return () => {
@@ -99,11 +109,20 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
 
   const origin = q.origin ?? q.key;
   const last = picks[picks.length - 1];
-  const solved = last === q.answer;
+  const solved = q.input === 'type' ? lastOk : last === q.answer;
 
-  function choose(opt: string) {
+  function checkTypedAnswer() {
+    const v = typed.trim();
+    if (!v || picks.includes(v)) return;
+    const res = checkTyped(v, q.answer);
+    setNear(res === 'near');
+    choose(v, res === 'ok');
+  }
+
+  function choose(opt: string, okOverride?: boolean) {
     if (!inputReady || stage === 'done' || picks.includes(opt)) return;
-    const ok = opt === q.answer;
+    const ok = okOverride ?? opt === q.answer;
+    setLastOk(ok);
     const first = picks.length === 0;
     setPicks((p) => [...p, opt]);
     if (first && !(origin in firstByQuestion.current)) {
@@ -112,7 +131,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
       if (!ok) mistakes.current.push(q);
     }
     feedback(ok);
-    if (ok || !first || q.options.length <= 2) {
+    if (ok || !first || (!q.input && q.options.length <= 2)) {
       // correct, or second try used (2-option questions get no second try)
       setStage('done');
       const after = q.audioAfter ?? q.audio;
@@ -127,7 +146,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     setNextReady(false);
     const rest = queue.slice(1);
     // wrong on the first pick (even if the hint helped) → comes back later in the session
-    if (picks[0] !== q.answer) {
+    if (q.input === 'type' ? !(picks.length === 1 && lastOk) : picks[0] !== q.answer) {
       const again = requeue(q);
       const at = Math.min(rest.length, 2 + Math.floor(Math.random() * 3));
       rest.splice(at, 0, again);
@@ -145,12 +164,13 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
   const limitHit = playsLeft === 0 && stage === 'ask';
 
   const prompt = (
-    <View style={st.prompt}>
+    <View style={[st.prompt, q.input === 'type' && { flex: 0, minHeight: 90, paddingVertical: 8 }]}>
       {q.display ? (
-        <Text style={[st.display, q.display.length > 6 && { fontSize: fs(46) }]} adjustsFontSizeToFit numberOfLines={2}>
+        <Text style={[st.display, q.display.length > 6 && { fontSize: fs(46) }, q.display.length > 16 && { fontSize: fs(28), lineHeight: fs(36) }]} adjustsFontSizeToFit numberOfLines={q.display.length > 16 ? 5 : 2}>
           {q.display}
         </Text>
       ) : null}
+      {q.sub ? <Text style={st.sub}>{q.sub}</Text> : null}
       {q.audio ? (
         <View style={{ marginTop: q.display ? 14 : 0 }}>
           <SoundButton big={!q.display} onPress={() => listen()} onSlow={() => listen(true)} disabled={limitHit} left={stage === 'ask' ? playsLeft : undefined} />
@@ -159,7 +179,21 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
     </View>
   );
 
-  const grid = (
+  const typing = (
+    <View style={{ marginBottom: 12 }}>
+      <View style={[st.typed, stage === 'done' && { borderColor: solved ? C.good : C.bad }]}>
+        <Text style={[st.typedText, !typed && { color: C.dim }]}>{typed || '…'}</Text>
+      </View>
+      {stage !== 'done' ? (
+        <>
+          <LangKeyboard lang={lang} disabled={!inputReady} onKey={(ch) => setTyped((x) => x + ch)} onBack={() => setTyped((x) => x.slice(0, -1))} onSpace={() => setTyped((x) => (x.endsWith(' ') ? x : x + ' '))} />
+          <Button title={t('check', lang, level)} icon="checkmark" disabled={!typed.trim() || !inputReady} onPress={checkTypedAnswer} style={{ marginTop: 10 }} />
+        </>
+      ) : null}
+    </View>
+  );
+
+  const grid = q.input === 'type' ? typing : (
     <View style={st.grid}>
       {q.options.map((opt) => {
         const isAnswer = opt === q.answer;
@@ -223,6 +257,11 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
               {grid}
             </ScrollView>
           </View>
+        ) : q.input === 'type' ? (
+          <ScrollView contentContainerStyle={{ flexGrow: 1, justifyContent: 'flex-end' }} showsVerticalScrollIndicator={false}>
+            {prompt}
+            {grid}
+          </ScrollView>
         ) : (
           <>
             {prompt}
@@ -235,7 +274,7 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
         <Animated.View style={[st.feedback, { backgroundColor: C.goldBg, opacity: fbAnim, transform: [{ translateY: fbAnim.interpolate({ inputRange: [0, 1], outputRange: [12, 0] }) }] }]}>
           <View style={st.fbHead}>
             <Ionicons name="bulb" size={24} color={C.gold} />
-            <Text style={[st.fbTitle, { color: C.gold }]}>İpucu — bir hakkın daha var</Text>
+            <Text style={[st.fbTitle, { color: C.gold }]}>{near ? 'Neredeyse! Bir harfi kontrol et' : t('hintTitle', lang, level)}</Text>
           </View>
           <Text style={st.fbText}>{q.hint}</Text>
         </Animated.View>
@@ -244,11 +283,12 @@ export default function QuizRunner({ questions, title, lang, maxPlays, onClose, 
           <View style={st.fbHead}>
             <Ionicons name={solved ? 'checkmark-circle' : 'close-circle'} size={26} color={solved && picks.length === 1 ? C.good : C.bad} />
             <Text style={[st.fbTitle, { color: solved && picks.length === 1 ? C.good : C.bad }]}>
-              {solved ? (picks.length === 1 ? 'Doğru!' : 'İpucuyla buldun — sonra tekrar gelecek') : 'Yanlış — sonra tekrar gelecek'}
+              {solved ? (picks.length === 1 ? t('correct', lang, level) : 'İpucuyla buldun — sonra tekrar gelecek') : t('wrong', lang, level)}
             </Text>
           </View>
+          {q.input === 'type' && !solved ? <Text style={[st.fbText, { fontWeight: '800' }]}>Doğrusu: {q.answer}</Text> : null}
           <Text style={st.fbText}>{q.explain}</Text>
-          <Button title="Devam" kind={solved && picks.length === 1 ? 'good' : 'bad'} onPress={next} disabled={!nextReady} style={{ marginTop: 12 }} />
+          <Button title={t('continue', lang, level)} kind={solved && picks.length === 1 ? 'good' : 'bad'} onPress={next} disabled={!nextReady} style={{ marginTop: 12 }} />
         </Animated.View>
       ) : (
         <View style={{ height: 8 }} />
@@ -267,6 +307,9 @@ const st = themed(() => ({
   instruction: { color: C.text, fontSize: fs(22), fontWeight: '800' },
   prompt: { flex: 1, alignItems: 'center', justifyContent: 'center', minHeight: 140 },
   display: { color: C.text, fontSize: fs(80), fontWeight: '700', textAlign: 'center' },
+  sub: { color: C.sub, fontSize: fs(15), textAlign: 'center', marginTop: 6 },
+  typed: { minHeight: 56, borderRadius: R.md, borderWidth: 2, borderColor: C.line, backgroundColor: C.card, justifyContent: 'center', paddingHorizontal: 14, marginBottom: 10 },
+  typedText: { color: C.text, fontSize: fs(24), fontWeight: '700' },
   grid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between', rowGap: 12, marginBottom: 14 },
   opt: { width: '48.5%', minHeight: 74, borderRadius: R.md, borderWidth: 2, borderColor: C.line, backgroundColor: C.card, alignItems: 'center', justifyContent: 'center', padding: 10 },
   badge: { position: 'absolute', top: 6, right: 6 },

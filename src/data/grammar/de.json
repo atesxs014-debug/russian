@@ -1,0 +1,2670 @@
+{
+ "units": [
+  {
+   "after": "u21",
+   "unit": {
+    "id": "g1",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Artikeller ve Akkusativ",
+    "subtitle": "der, die, das ve nesne hâli · 3 ders",
+    "lessons": [
+     {
+      "id": "g1l1",
+      "kind": "grammar",
+      "title": "der, die, das",
+      "subtitle": "Belirli artikel · Belirsiz artikel",
+      "intro": "Her ismin bir cinsiyeti ve artikeli var.",
+      "rules": [
+       {
+        "title": "Belirli artikel",
+        "text": "Eril: der Tisch, dişil: die Lampe, nötr: das Buch. Çoğul hep: die Bücher.",
+        "examples": [
+         {
+          "t": "Der Tisch ist groß.",
+          "tr": "Masa büyük.",
+          "read": ""
+         },
+         {
+          "t": "Das Buch ist interessant.",
+          "tr": "Kitap ilginç.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Belirsiz artikel",
+        "text": "Eril/nötr: ein, dişil: eine. Olumsuz: kein / keine.",
+        "examples": [
+         {
+          "t": "Das ist eine Lampe.",
+          "tr": "Bu bir lamba.",
+          "read": ""
+         },
+         {
+          "t": "Ich habe kein Auto.",
+          "tr": "Arabam yok.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ Sonne scheint.",
+        "a": "Die",
+        "o": [
+         "Der",
+         "Das",
+         "Den"
+        ],
+        "tr": "Güneş parlıyor.",
+        "why": "Sonne dişil → die"
+       },
+       {
+        "s": "___ Kind spielt im Garten.",
+        "a": "Das",
+        "o": [
+         "Der",
+         "Die",
+         "Den"
+        ],
+        "tr": "Çocuk bahçede oynuyor.",
+        "why": "Kind nötr → das"
+       },
+       {
+        "s": "___ Mann heißt Peter.",
+        "a": "Der",
+        "o": [
+         "Die",
+         "Das",
+         "Dem"
+        ],
+        "tr": "Adamın adı Peter.",
+        "why": "Mann eril → der"
+       },
+       {
+        "s": "Das ist ___ Katze.",
+        "a": "eine",
+        "o": [
+         "ein",
+         "einen",
+         "einem"
+        ],
+        "tr": "Bu bir kedi.",
+        "why": "dişil → eine"
+       },
+       {
+        "s": "Ich habe ___ Zeit.",
+        "a": "keine",
+        "o": [
+         "kein",
+         "nicht",
+         "keinen"
+        ],
+        "tr": "Vaktim yok.",
+        "why": "Zeit dişil → keine"
+       },
+       {
+        "s": "Die ___ sind neu.",
+        "a": "Bücher",
+        "o": [
+         "Buch",
+         "Buches",
+         "Büchern"
+        ],
+        "tr": "Kitaplar yeni.",
+        "why": "çoğul: die Bücher"
+       }
+      ]
+     },
+     {
+      "id": "g1l2",
+      "kind": "grammar",
+      "title": "Akkusativ",
+      "subtitle": "der → den, ein → einen · Zamirler: mich, dich, ihn",
+      "intro": "Fiilin doğrudan nesnesi: sadece eril artikel değişir.",
+      "rules": [
+       {
+        "title": "der → den, ein → einen",
+        "text": "Ich sehe den Mann. Ich kaufe einen Apfel. (die, das değişmez)",
+        "examples": [
+         {
+          "t": "Ich sehe den Hund.",
+          "tr": "Köpeği görüyorum.",
+          "read": ""
+         },
+         {
+          "t": "Er kauft einen Kaffee.",
+          "tr": "O bir kahve alıyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Zamirler: mich, dich, ihn",
+        "text": "ich → mich, du → dich, er → ihn, sie → sie, wir → uns.",
+        "examples": [
+         {
+          "t": "Ich liebe dich.",
+          "tr": "Seni seviyorum.",
+          "read": ""
+         },
+         {
+          "t": "Kennst du ihn?",
+          "tr": "Onu tanıyor musun?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich trinke ___ Tee.",
+        "a": "den",
+        "o": [
+         "der",
+         "dem",
+         "des"
+        ],
+        "tr": "Çayı içiyorum.",
+        "why": "eril Akkusativ → den"
+       },
+       {
+        "s": "Wir haben ___ Hund.",
+        "a": "einen",
+        "o": [
+         "ein",
+         "eine",
+         "einem"
+        ],
+        "tr": "Bir köpeğimiz var.",
+        "why": "eril → einen"
+       },
+       {
+        "s": "Sie liest ___ Zeitung.",
+        "a": "die",
+        "o": [
+         "den",
+         "der",
+         "dem"
+        ],
+        "tr": "O gazete okuyor.",
+        "why": "dişil değişmez"
+       },
+       {
+        "s": "Ich rufe ___ morgen an.",
+        "a": "dich",
+        "o": [
+         "du",
+         "dir",
+         "dein"
+        ],
+        "tr": "Seni yarın ararım.",
+        "why": "du → dich"
+       },
+       {
+        "s": "Kennst du ___ Lehrer?",
+        "a": "den",
+        "o": [
+         "der",
+         "dem",
+         "des"
+        ],
+        "tr": "Öğretmeni tanıyor musun?",
+        "why": "eril → den"
+       },
+       {
+        "s": "Siehst du das Auto? Ja, ich sehe ___.",
+        "a": "es",
+        "o": [
+         "ihn",
+         "ihm",
+         "sie es"
+        ],
+        "tr": "Arabayı görüyor musun? Evet, onu görüyorum.",
+        "why": "das → es"
+       }
+      ]
+     },
+     {
+      "id": "g1l3",
+      "kind": "grammar",
+      "title": "Akkusativ edatları",
+      "subtitle": "für, ohne · durch, gegen, um",
+      "intro": "für, ohne, durch, gegen, um hep Akkusativ ister.",
+      "rules": [
+       {
+        "title": "für, ohne",
+        "text": "für (için), ohne (-sız): für den Freund, ohne einen Schirm.",
+        "examples": [
+         {
+          "t": "Das Geschenk ist für dich.",
+          "tr": "Hediye senin için.",
+          "read": ""
+         },
+         {
+          "t": "Ich trinke Kaffee ohne Zucker.",
+          "tr": "Kahveyi şekersiz içerim.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "durch, gegen, um",
+        "text": "durch (içinden), gegen (karşı), um (etrafında, saatte): um acht Uhr.",
+        "examples": [
+         {
+          "t": "Wir gehen durch den Park.",
+          "tr": "Parkın içinden geçiyoruz.",
+          "read": ""
+         },
+         {
+          "t": "Der Film beginnt um acht Uhr.",
+          "tr": "Film saat sekizde başlıyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Das ist für ___ Bruder.",
+        "a": "meinen",
+        "o": [
+         "mein",
+         "meinem",
+         "meiner"
+        ],
+        "tr": "Bu erkek kardeşim için.",
+        "why": "für + Akkusativ"
+       },
+       {
+        "s": "Er geht ohne ___ Jacke.",
+        "a": "seine",
+        "o": [
+         "seiner",
+         "seinen",
+         "seinem"
+        ],
+        "tr": "Ceketsiz gidiyor.",
+        "why": "Jacke dişil → seine"
+       },
+       {
+        "s": "Wir fahren durch ___ Stadt.",
+        "a": "die",
+        "o": [
+         "der",
+         "dem",
+         "den"
+        ],
+        "tr": "Şehrin içinden geçiyoruz.",
+        "why": "dişil değişmez"
+       },
+       {
+        "s": "Der Kurs beginnt ___ neun Uhr.",
+        "a": "um",
+        "o": [
+         "am",
+         "im",
+         "für"
+        ],
+        "tr": "Kurs saat dokuzda başlıyor.",
+        "why": "saat → um"
+       },
+       {
+        "s": "Ich bin gegen ___ Plan.",
+        "a": "den",
+        "o": [
+         "der",
+         "dem",
+         "des"
+        ],
+        "tr": "Bu plana karşıyım.",
+        "why": "gegen + Akkusativ"
+       },
+       {
+        "s": "Wir sitzen um ___ Tisch.",
+        "a": "den",
+        "o": [
+         "der",
+         "dem",
+         "die"
+        ],
+        "tr": "Masanın etrafında oturuyoruz.",
+        "why": "um + Akkusativ"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u25",
+   "unit": {
+    "id": "g2",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Dativ ve edatlar",
+    "subtitle": "kime, nerede: mit, bei, in, auf · 3 ders",
+    "lessons": [
+     {
+      "id": "g2l1",
+      "kind": "grammar",
+      "title": "Dativ",
+      "subtitle": "dem / der / dem / den -n · Zamirler: mir, dir, ihm, ihr",
+      "intro": "\"Kime?\" sorusu: dolaylı nesne.",
+      "rules": [
+       {
+        "title": "dem / der / dem / den -n",
+        "text": "Eril/nötr: dem, dişil: der, çoğul: den + -n. Ich gebe dem Kind ein Buch.",
+        "examples": [
+         {
+          "t": "Ich helfe dem Mann.",
+          "tr": "Adama yardım ediyorum.",
+          "read": ""
+         },
+         {
+          "t": "Sie schreibt der Freundin.",
+          "tr": "Kız arkadaşına yazıyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Zamirler: mir, dir, ihm, ihr",
+        "text": "ich → mir, du → dir, er → ihm, sie → ihr, wir → uns.",
+        "examples": [
+         {
+          "t": "Das gefällt mir.",
+          "tr": "Bu hoşuma gidiyor.",
+          "read": ""
+         },
+         {
+          "t": "Wie geht es dir?",
+          "tr": "Nasılsın? (sana nasıl gidiyor)",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich gebe ___ Lehrerin das Heft.",
+        "a": "der",
+        "o": [
+         "die",
+         "den",
+         "dem"
+        ],
+        "tr": "Defteri öğretmene veriyorum.",
+        "why": "dişil Dativ → der"
+       },
+       {
+        "s": "Er hilft ___ Vater.",
+        "a": "dem",
+        "o": [
+         "den",
+         "der",
+         "des"
+        ],
+        "tr": "Babasına yardım ediyor.",
+        "why": "eril Dativ → dem"
+       },
+       {
+        "s": "Das Buch gehört ___.",
+        "a": "mir",
+        "o": [
+         "mich",
+         "ich",
+         "mein"
+        ],
+        "tr": "Kitap benim.",
+        "why": "gehören + Dativ"
+       },
+       {
+        "s": "Wie geht es ___?",
+        "a": "Ihnen",
+        "o": [
+         "Sie",
+         "Ihr",
+         "Ihre"
+        ],
+        "tr": "Nasılsınız?",
+        "why": "Sie → Ihnen"
+       },
+       {
+        "s": "Ich danke ___.",
+        "a": "dir",
+        "o": [
+         "dich",
+         "du",
+         "dein"
+        ],
+        "tr": "Sana teşekkür ederim.",
+        "why": "danken + Dativ"
+       },
+       {
+        "s": "Wir schenken ___ Kindern Spielzeug.",
+        "a": "den",
+        "o": [
+         "die",
+         "der",
+         "dem"
+        ],
+        "tr": "Çocuklara oyuncak hediye ediyoruz.",
+        "why": "çoğul Dativ → den + -n"
+       }
+      ]
+     },
+     {
+      "id": "g2l2",
+      "kind": "grammar",
+      "title": "Dativ edatları",
+      "subtitle": "mit, bei, zu · aus, von, nach, seit",
+      "intro": "mit, bei, nach, von, zu, aus, seit hep Dativ ister.",
+      "rules": [
+       {
+        "title": "mit, bei, zu",
+        "text": "mit (ile), bei (-in yanında), zu (-e doğru): mit dem Bus, zum Arzt.",
+        "examples": [
+         {
+          "t": "Ich fahre mit dem Zug.",
+          "tr": "Trenle gidiyorum.",
+          "read": ""
+         },
+         {
+          "t": "Ich gehe zum Arzt.",
+          "tr": "Doktora gidiyorum.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "aus, von, nach, seit",
+        "text": "aus (-den), von (-den), nach (sonra, -e (şehir/ülke)), seit (-den beri).",
+        "examples": [
+         {
+          "t": "Ich komme aus der Türkei.",
+          "tr": "Türkiye'denim.",
+          "read": ""
+         },
+         {
+          "t": "Ich lerne seit einem Jahr Deutsch.",
+          "tr": "Bir yıldır Almanca öğreniyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich fahre mit ___ Fahrrad.",
+        "a": "dem",
+        "o": [
+         "das",
+         "den",
+         "der"
+        ],
+        "tr": "Bisikletle gidiyorum.",
+        "why": "mit + Dativ, nötr → dem"
+       },
+       {
+        "s": "Sie wohnt bei ___ Eltern.",
+        "a": "ihren",
+        "o": [
+         "ihre",
+         "ihrer",
+         "ihrem"
+        ],
+        "tr": "Ailesinin yanında oturuyor.",
+        "why": "çoğul Dativ → ihren"
+       },
+       {
+        "s": "Nach ___ Essen trinke ich Tee.",
+        "a": "dem",
+        "o": [
+         "das",
+         "den",
+         "der"
+        ],
+        "tr": "Yemekten sonra çay içerim.",
+        "why": "nach + Dativ"
+       },
+       {
+        "s": "Er kommt aus ___ Schweiz.",
+        "a": "der",
+        "o": [
+         "die",
+         "dem",
+         "den"
+        ],
+        "tr": "O İsviçre'den.",
+        "why": "dişil Dativ → der"
+       },
+       {
+        "s": "Ich gehe ___ Bäckerei.",
+        "a": "zur",
+        "o": [
+         "zum",
+         "in",
+         "nach"
+        ],
+        "tr": "Fırına gidiyorum.",
+        "why": "zu + der = zur"
+       },
+       {
+        "s": "Ich warte seit ___ Stunde.",
+        "a": "einer",
+        "o": [
+         "eine",
+         "einem",
+         "einen"
+        ],
+        "tr": "Bir saattir bekliyorum.",
+        "why": "seit + Dativ, dişil"
+       }
+      ]
+     },
+     {
+      "id": "g2l3",
+      "kind": "grammar",
+      "title": "Wo? ve Wohin?",
+      "subtitle": "Wo? → Dativ · Wohin? → Akkusativ",
+      "intro": "in, auf, an: yerde Dativ, yöne doğru Akkusativ.",
+      "rules": [
+       {
+        "title": "Wo? → Dativ",
+        "text": "Bir yerde olmak: Ich bin im Park. Das Buch liegt auf dem Tisch.",
+        "examples": [
+         {
+          "t": "Ich bin in der Küche.",
+          "tr": "Mutfaktayım.",
+          "read": ""
+         },
+         {
+          "t": "Das Bild hängt an der Wand.",
+          "tr": "Resim duvarda asılı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Wohin? → Akkusativ",
+        "text": "Bir yere gitmek/koymak: Ich gehe in den Park. Ich lege das Buch auf den Tisch.",
+        "examples": [
+         {
+          "t": "Ich gehe in die Küche.",
+          "tr": "Mutfağa gidiyorum.",
+          "read": ""
+         },
+         {
+          "t": "Ich hänge das Bild an die Wand.",
+          "tr": "Resmi duvara asıyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Die Katze schläft auf ___ Sofa.",
+        "a": "dem",
+        "o": [
+         "das",
+         "den",
+         "der"
+        ],
+        "tr": "Kedi kanepede uyuyor.",
+        "why": "Wo? → Dativ"
+       },
+       {
+        "s": "Ich lege das Handy auf ___ Tisch.",
+        "a": "den",
+        "o": [
+         "dem",
+         "der",
+         "des"
+        ],
+        "tr": "Telefonu masaya koyuyorum.",
+        "why": "Wohin? → Akkusativ"
+       },
+       {
+        "s": "Wir gehen heute in ___ Kino.",
+        "a": "das",
+        "o": [
+         "dem",
+         "den",
+         "der"
+        ],
+        "tr": "Bugün sinemaya gidiyoruz.",
+        "why": "Wohin? → Akkusativ"
+       },
+       {
+        "s": "Sie arbeitet in ___ Bank.",
+        "a": "einer",
+        "o": [
+         "eine",
+         "einen",
+         "einem"
+        ],
+        "tr": "O bir bankada çalışıyor.",
+        "why": "Wo? → Dativ, dişil"
+       },
+       {
+        "s": "Ich stelle die Blumen auf ___ Fensterbank.",
+        "a": "die",
+        "o": [
+         "der",
+         "dem",
+         "den"
+        ],
+        "tr": "Çiçekleri pencere kenarına koyuyorum.",
+        "why": "Wohin? → Akkusativ"
+       },
+       {
+        "s": "Das Auto steht vor ___ Haus.",
+        "a": "dem",
+        "o": [
+         "das",
+         "den",
+         "der"
+        ],
+        "tr": "Araba evin önünde duruyor.",
+        "why": "Wo? → Dativ"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u29",
+   "unit": {
+    "id": "g3",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Perfekt (geçmiş zaman)",
+    "subtitle": "haben / sein + Partizip · 3 ders",
+    "lessons": [
+     {
+      "id": "g3l1",
+      "kind": "grammar",
+      "title": "Perfekt + haben",
+      "subtitle": "haben + ge-…-t · Düzensiz: ge-…-en",
+      "intro": "Konuşmada geçmiş zaman çoğunlukla Perfekt'tir.",
+      "rules": [
+       {
+        "title": "haben + ge-…-t",
+        "text": "machen → gemacht, kaufen → gekauft, spielen → gespielt.",
+        "examples": [
+         {
+          "t": "Ich habe Fußball gespielt.",
+          "tr": "Futbol oynadım.",
+          "read": ""
+         },
+         {
+          "t": "Wir haben Pizza gekauft.",
+          "tr": "Pizza aldık.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Düzensiz: ge-…-en",
+        "text": "sehen → gesehen, essen → gegessen, trinken → getrunken, schreiben → geschrieben.",
+        "examples": [
+         {
+          "t": "Hast du den Film gesehen?",
+          "tr": "Filmi gördün mü?",
+          "read": ""
+         },
+         {
+          "t": "Sie hat einen Brief geschrieben.",
+          "tr": "Bir mektup yazdı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich habe gestern viel ___.",
+        "a": "gearbeitet",
+        "o": [
+         "arbeiten",
+         "arbeitet",
+         "gearbeit"
+        ],
+        "tr": "Dün çok çalıştım.",
+        "why": "ge-…-et"
+       },
+       {
+        "s": "Wir ___ einen Kuchen gebacken.",
+        "a": "haben",
+        "o": [
+         "sind",
+         "hat",
+         "habt"
+        ],
+        "tr": "Bir kek yaptık.",
+        "why": "wir → haben"
+       },
+       {
+        "s": "Hast du schon ___?",
+        "a": "gegessen",
+        "o": [
+         "geesst",
+         "essen",
+         "gegesst"
+        ],
+        "tr": "Yemek yedin mi?",
+        "why": "essen → gegessen"
+       },
+       {
+        "s": "Er hat das Buch ___.",
+        "a": "gelesen",
+        "o": [
+         "geliest",
+         "lesen",
+         "gelest"
+        ],
+        "tr": "Kitabı okudu.",
+        "why": "lesen → gelesen"
+       },
+       {
+        "s": "___ ihr Musik gehört?",
+        "a": "Habt",
+        "o": [
+         "Seid",
+         "Hat",
+         "Haben"
+        ],
+        "tr": "Müzik dinlediniz mi?",
+        "why": "ihr → habt"
+       },
+       {
+        "s": "Sie hat Kaffee ___.",
+        "a": "getrunken",
+        "o": [
+         "getrinkt",
+         "trinken",
+         "getrankt"
+        ],
+        "tr": "Kahve içti.",
+        "why": "trinken → getrunken"
+       }
+      ]
+     },
+     {
+      "id": "g3l2",
+      "kind": "grammar",
+      "title": "Perfekt + sein",
+      "subtitle": "gehen, fahren, kommen → sein · werden, bleiben, passieren",
+      "intro": "Hareket ve durum değişikliği bildiren fiiller sein ile.",
+      "rules": [
+       {
+        "title": "gehen, fahren, kommen → sein",
+        "text": "Ich bin gegangen. Wir sind nach Berlin gefahren.",
+        "examples": [
+         {
+          "t": "Ich bin nach Hause gegangen.",
+          "tr": "Eve gittim.",
+          "read": ""
+         },
+         {
+          "t": "Sie ist spät gekommen.",
+          "tr": "Geç geldi.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "werden, bleiben, passieren",
+        "text": "Diese fiiller de sein alır: Er ist Arzt geworden. Was ist passiert?",
+        "examples": [
+         {
+          "t": "Wir sind zu Hause geblieben.",
+          "tr": "Evde kaldık.",
+          "read": ""
+         },
+         {
+          "t": "Was ist passiert?",
+          "tr": "Ne oldu?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich ___ gestern ins Kino gegangen.",
+        "a": "bin",
+        "o": [
+         "habe",
+         "ist",
+         "war"
+        ],
+        "tr": "Dün sinemaya gittim.",
+        "why": "gehen → sein"
+       },
+       {
+        "s": "Wir ___ mit dem Zug gefahren.",
+        "a": "sind",
+        "o": [
+         "haben",
+         "seid",
+         "ist"
+        ],
+        "tr": "Trenle gittik.",
+        "why": "fahren → sein"
+       },
+       {
+        "s": "Er ist um sechs Uhr ___.",
+        "a": "aufgestanden",
+        "o": [
+         "aufgesteht",
+         "aufstehen",
+         "gestandenauf"
+        ],
+        "tr": "Saat altıda kalktı.",
+        "why": "aufstehen → aufgestanden"
+       },
+       {
+        "s": "Was ___ passiert?",
+        "a": "ist",
+        "o": [
+         "hat",
+         "sind",
+         "habe"
+        ],
+        "tr": "Ne oldu?",
+        "why": "passieren → sein"
+       },
+       {
+        "s": "Sie ___ einen Kaffee getrunken.",
+        "a": "hat",
+        "o": [
+         "ist",
+         "sind",
+         "habt"
+        ],
+        "tr": "Bir kahve içti.",
+        "why": "trinken → haben"
+       },
+       {
+        "s": "___ du schon in Wien gewesen?",
+        "a": "Bist",
+        "o": [
+         "Hast",
+         "Ist",
+         "Warst"
+        ],
+        "tr": "Hiç Viyana'da bulundun mu?",
+        "why": "sein → sein"
+       }
+      ]
+     },
+     {
+      "id": "g3l3",
+      "kind": "grammar",
+      "title": "Präteritum: war, hatte",
+      "subtitle": "war / hatte · Modal fiiller: konnte, musste, wollte",
+      "intro": "Konuşmada bile sein ve haben çoğunlukla Präteritum'dur.",
+      "rules": [
+       {
+        "title": "war / hatte",
+        "text": "ich war, du warst, er war; ich hatte, du hattest, er hatte.",
+        "examples": [
+         {
+          "t": "Ich war gestern krank.",
+          "tr": "Dün hastaydım.",
+          "read": ""
+         },
+         {
+          "t": "Wir hatten keine Zeit.",
+          "tr": "Vaktimiz yoktu.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Modal fiiller: konnte, musste, wollte",
+        "text": "können → konnte, müssen → musste, wollen → wollte.",
+        "examples": [
+         {
+          "t": "Ich konnte nicht schlafen.",
+          "tr": "Uyuyamadım.",
+          "read": ""
+         },
+         {
+          "t": "Er musste arbeiten.",
+          "tr": "Çalışmak zorundaydı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Gestern ___ ich müde.",
+        "a": "war",
+        "o": [
+         "bin",
+         "habe",
+         "hatte"
+        ],
+        "tr": "Dün yorgundum.",
+        "why": "sein → war"
+       },
+       {
+        "s": "Wir ___ viel Spaß.",
+        "a": "hatten",
+        "o": [
+         "waren",
+         "habt",
+         "hattet"
+        ],
+        "tr": "Çok eğlendik.",
+        "why": "haben → hatten"
+       },
+       {
+        "s": "___ du im Urlaub?",
+        "a": "Warst",
+        "o": [
+         "War",
+         "Bist",
+         "Hattest"
+        ],
+        "tr": "Tatilde miydin?",
+        "why": "du → warst"
+       },
+       {
+        "s": "Ich ___ nicht kommen, ich war krank.",
+        "a": "konnte",
+        "o": [
+         "kann",
+         "könnte",
+         "gekonnt"
+        ],
+        "tr": "Gelemedim, hastaydım.",
+        "why": "können → konnte"
+       },
+       {
+        "s": "Sie ___ früh aufstehen.",
+        "a": "musste",
+        "o": [
+         "muss",
+         "müsste",
+         "gemusst"
+        ],
+        "tr": "Erken kalkmak zorundaydı.",
+        "why": "müssen → musste"
+       },
+       {
+        "s": "Die Party ___ super!",
+        "a": "war",
+        "o": [
+         "hatte",
+         "waren",
+         "wart"
+        ],
+        "tr": "Parti harikaydı!",
+        "why": "sein → war"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u33",
+   "unit": {
+    "id": "g4",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Ayrılabilen fiiller ve yan cümleler",
+    "subtitle": "aufstehen, weil, dass · 3 ders",
+    "lessons": [
+     {
+      "id": "g4l1",
+      "kind": "grammar",
+      "title": "Ayrılabilen fiiller",
+      "subtitle": "aufstehen → Ich stehe auf · Modal fiille birleşik kalır",
+      "intro": "Ön ek cümlenin sonuna gider.",
+      "rules": [
+       {
+        "title": "aufstehen → Ich stehe auf",
+        "text": "aufstehen, einkaufen, anrufen, fernsehen: Ich rufe dich an.",
+        "examples": [
+         {
+          "t": "Ich stehe um sieben auf.",
+          "tr": "Yedide kalkarım.",
+          "read": ""
+         },
+         {
+          "t": "Wir kaufen am Samstag ein.",
+          "tr": "Cumartesi alışveriş yaparız.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Modal fiille birleşik kalır",
+        "text": "Ich muss früh aufstehen. Kannst du mich anrufen?",
+        "examples": [
+         {
+          "t": "Ich muss morgen früh aufstehen.",
+          "tr": "Yarın erken kalkmam lazım.",
+          "read": ""
+         },
+         {
+          "t": "Kannst du mich später anrufen?",
+          "tr": "Beni sonra arayabilir misin?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich rufe dich morgen ___.",
+        "a": "an",
+        "o": [
+         "auf",
+         "ein",
+         "mit"
+        ],
+        "tr": "Seni yarın ararım.",
+        "why": "anrufen"
+       },
+       {
+        "s": "Wann ___ der Zug ab?",
+        "a": "fährt",
+        "o": [
+         "fahrt",
+         "abfährt",
+         "fahren"
+        ],
+        "tr": "Tren ne zaman kalkıyor?",
+        "why": "abfahren → fährt … ab"
+       },
+       {
+        "s": "Wir sehen abends ___.",
+        "a": "fern",
+        "o": [
+         "an",
+         "auf",
+         "zu"
+        ],
+        "tr": "Akşamları televizyon izleriz.",
+        "why": "fernsehen"
+       },
+       {
+        "s": "Er macht die Tür ___.",
+        "a": "auf",
+        "o": [
+         "an",
+         "ein",
+         "mit"
+        ],
+        "tr": "Kapıyı açıyor.",
+        "why": "aufmachen"
+       },
+       {
+        "s": "Ich möchte heute ___.",
+        "a": "einkaufen",
+        "o": [
+         "kaufe ein",
+         "einkauft",
+         "kaufen ein"
+        ],
+        "tr": "Bugün alışveriş yapmak istiyorum.",
+        "why": "modal + mastar birleşik"
+       },
+       {
+        "s": "Wir gehen ins Kino. Kommst du ___?",
+        "a": "mit",
+        "o": [
+         "an",
+         "auf",
+         "ein"
+        ],
+        "tr": "Sen de geliyor musun?",
+        "why": "mitkommen"
+       }
+      ]
+     },
+     {
+      "id": "g4l2",
+      "kind": "grammar",
+      "title": "weil ve dass",
+      "subtitle": "weil: çünkü · dass: -dığını",
+      "intro": "Yan cümlede fiil sona gider.",
+      "rules": [
+       {
+        "title": "weil: çünkü",
+        "text": "Ich bleibe zu Hause, weil ich krank bin.",
+        "examples": [
+         {
+          "t": "Ich lerne Deutsch, weil ich in Berlin arbeite.",
+          "tr": "Almanca öğreniyorum çünkü Berlin'de çalışıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Er kommt nicht, weil er keine Zeit hat.",
+          "tr": "Gelmiyor çünkü vakti yok.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "dass: -dığını",
+        "text": "Ich glaube, dass er recht hat. Sie sagt, dass sie müde ist.",
+        "examples": [
+         {
+          "t": "Ich weiß, dass du müde bist.",
+          "tr": "Yorgun olduğunu biliyorum.",
+          "read": ""
+         },
+         {
+          "t": "Er sagt, dass das Essen gut ist.",
+          "tr": "Yemeğin iyi olduğunu söylüyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich trinke Kaffee, weil ich müde ___.",
+        "a": "bin",
+        "o": [
+         "ist",
+         "bist",
+         "sein"
+        ],
+        "tr": "Kahve içiyorum çünkü yorgunum.",
+        "why": "yan cümle: fiil sonda"
+       },
+       {
+        "s": "Sie sagt, ___ sie morgen kommt.",
+        "a": "dass",
+        "o": [
+         "weil",
+         "wenn",
+         "ob"
+        ],
+        "tr": "Yarın geleceğini söylüyor.",
+        "why": "-dığını → dass"
+       },
+       {
+        "s": "Er bleibt zu Hause, weil er krank ___.",
+        "a": "ist",
+        "o": [
+         "bin",
+         "sind",
+         "hat"
+        ],
+        "tr": "Evde kalıyor çünkü hasta.",
+        "why": "er → ist"
+       },
+       {
+        "s": "Ich hoffe, dass du bald gesund ___.",
+        "a": "wirst",
+        "o": [
+         "werden",
+         "wird",
+         "werdet"
+        ],
+        "tr": "Umarım yakında iyileşirsin.",
+        "why": "du → wirst"
+       },
+       {
+        "s": "Wir gehen nicht schwimmen, ___ es regnet.",
+        "a": "weil",
+        "o": [
+         "dass",
+         "ob",
+         "aber"
+        ],
+        "tr": "Yağmur yağdığı için yüzmeye gitmiyoruz.",
+        "why": "sebep → weil"
+       },
+       {
+        "s": "Ich glaube, dass er Recht ___.",
+        "a": "hat",
+        "o": [
+         "habe",
+         "haben",
+         "ist"
+        ],
+        "tr": "Bence o haklı.",
+        "why": "er → hat"
+       }
+      ]
+     },
+     {
+      "id": "g4l3",
+      "kind": "grammar",
+      "title": "wenn ve ob",
+      "subtitle": "wenn: -ince / eğer · ob: -ip -mediğini",
+      "intro": "wenn (-ince, eğer), ob (-ip -madığını).",
+      "rules": [
+       {
+        "title": "wenn: -ince / eğer",
+        "text": "Wenn ich Zeit habe, besuche ich dich.",
+        "examples": [
+         {
+          "t": "Wenn es regnet, bleibe ich zu Hause.",
+          "tr": "Yağmur yağarsa evde kalırım.",
+          "read": ""
+         },
+         {
+          "t": "Wenn ich müde bin, trinke ich Tee.",
+          "tr": "Yorgunken çay içerim.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "ob: -ip -mediğini",
+        "text": "Ich weiß nicht, ob er kommt.",
+        "examples": [
+         {
+          "t": "Weißt du, ob sie zu Hause ist?",
+          "tr": "Evde olup olmadığını biliyor musun?",
+          "read": ""
+         },
+         {
+          "t": "Ich frage, ob das Museum offen ist.",
+          "tr": "Müzenin açık olup olmadığını soruyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ ich Zeit habe, rufe ich dich an.",
+        "a": "Wenn",
+        "o": [
+         "Ob",
+         "Dass",
+         "Als"
+        ],
+        "tr": "Vaktim olursa seni ararım.",
+        "why": "koşul → wenn"
+       },
+       {
+        "s": "Ich weiß nicht, ___ er Deutsch spricht.",
+        "a": "ob",
+        "o": [
+         "wenn",
+         "dass",
+         "weil"
+        ],
+        "tr": "Almanca konuşup konuşmadığını bilmiyorum.",
+        "why": "-ip -mediği → ob"
+       },
+       {
+        "s": "Wenn es kalt ist, ___ ich eine Jacke.",
+        "a": "trage",
+        "o": [
+         "ich trage",
+         "trägt",
+         "tragen"
+        ],
+        "tr": "Hava soğuk olunca ceket giyerim.",
+        "why": "wenn-cümlesinden sonra: fiil önce"
+       },
+       {
+        "s": "Kannst du mir sagen, ob der Zug pünktlich ___?",
+        "a": "ist",
+        "o": [
+         "sind",
+         "bin",
+         "sein"
+        ],
+        "tr": "Trenin zamanında olup olmadığını söyler misin?",
+        "why": "yan cümle: fiil sonda"
+       },
+       {
+        "s": "___ du Hilfe brauchst, sag es mir.",
+        "a": "Wenn",
+        "o": [
+         "Ob",
+         "Dass",
+         "Als"
+        ],
+        "tr": "Yardıma ihtiyacın olursa söyle.",
+        "why": "koşul → wenn"
+       },
+       {
+        "s": "Sie fragt, ___ wir mitkommen.",
+        "a": "ob",
+        "o": [
+         "wenn",
+         "dass",
+         "weil"
+        ],
+        "tr": "Bizim de gelip gelmeyeceğimizi soruyor.",
+        "why": "evet/hayır → ob"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u37",
+   "unit": {
+    "id": "d1",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük diyaloglar",
+    "subtitle": "Lena ve Jonas ile gerçek konuşmalar · 4 ders",
+    "lessons": [
+     {
+      "id": "d1l1",
+      "kind": "dialog",
+      "title": "Tanışma",
+      "subtitle": "Hallo! Ich bin Lena. Und wie heißt du?",
+      "intro": "Lena ve Jonas ilk kez tanışıyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Hallo! Ich bin Lena. Und wie heißt du?",
+         "tr": "Merhaba! Ben Lena. Senin adın ne?"
+        },
+        {
+         "p": 1,
+         "t": "Hallo Lena, ich heiße Jonas. Freut mich!",
+         "tr": "Merhaba Lena, benim adım Jonas. Memnun oldum!"
+        },
+        {
+         "p": 0,
+         "t": "Mich auch. Woher kommst du?",
+         "tr": "Ben de. Nerelisin?"
+        },
+        {
+         "p": 1,
+         "t": "Ich komme aus Hamburg. Und du?",
+         "tr": "Hamburg'danım. Ya sen?"
+        },
+        {
+         "p": 0,
+         "t": "Aus München, aber ich wohne jetzt hier.",
+         "tr": "Münih'ten, ama şimdi burada oturuyorum."
+        },
+        {
+         "p": 1,
+         "t": "Cool! Studierst du hier?",
+         "tr": "Harika! Burada mı okuyorsun?"
+        },
+        {
+         "p": 0,
+         "t": "Nein, ich arbeite als Designerin.",
+         "tr": "Hayır, tasarımcı olarak çalışıyorum."
+        },
+        {
+         "p": 1,
+         "t": "Spannend! Wollen wir mal einen Kaffee trinken?",
+         "tr": "Heyecan verici! Bir ara kahve içelim mi?"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l2",
+      "kind": "dialog",
+      "title": "Im Café",
+      "subtitle": "Guten Tag! Was darf es sein?",
+      "intro": "Lena garson, Jonas sipariş veriyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Guten Tag! Was darf es sein?",
+         "tr": "İyi günler! Ne alırsınız?"
+        },
+        {
+         "p": 1,
+         "t": "Hallo. Kann ich bitte die Karte haben?",
+         "tr": "Merhaba. Menüyü alabilir miyim lütfen?"
+        },
+        {
+         "p": 0,
+         "t": "Natürlich, hier bitte.",
+         "tr": "Tabii, buyurun."
+        },
+        {
+         "p": 1,
+         "t": "Ich nehme einen Cappuccino und ein Stück Apfelkuchen.",
+         "tr": "Bir kapuçino ve bir dilim elmalı turta alayım."
+        },
+        {
+         "p": 0,
+         "t": "Mit Sahne?",
+         "tr": "Kremalı mı?"
+        },
+        {
+         "p": 1,
+         "t": "Ja, gerne.",
+         "tr": "Evet, memnuniyetle."
+        },
+        {
+         "p": 0,
+         "t": "Sonst noch etwas?",
+         "tr": "Başka bir şey?"
+        },
+        {
+         "p": 1,
+         "t": "Nein, danke. Ich möchte bitte zahlen.",
+         "tr": "Hayır, teşekkürler. Ödemek istiyorum lütfen."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l3",
+      "kind": "dialog",
+      "title": "Nach dem Weg fragen",
+      "subtitle": "Entschuldigung, wie komme ich zum Bahnhof?",
+      "intro": "Jonas istasyonu arıyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Entschuldigung, wie komme ich zum Bahnhof?",
+         "tr": "Affedersiniz, istasyona nasıl giderim?"
+        },
+        {
+         "p": 0,
+         "t": "Gehen Sie geradeaus und dann die zweite Straße links.",
+         "tr": "Düz gidin, sonra ikinci sokaktan sola."
+        },
+        {
+         "p": 1,
+         "t": "Ist das weit?",
+         "tr": "Uzak mı?"
+        },
+        {
+         "p": 0,
+         "t": "Nein, ungefähr zehn Minuten zu Fuß.",
+         "tr": "Hayır, yürüyerek on dakika kadar."
+        },
+        {
+         "p": 1,
+         "t": "Fährt auch ein Bus dorthin?",
+         "tr": "Oraya otobüs de gidiyor mu?"
+        },
+        {
+         "p": 0,
+         "t": "Ja, die Linie 5 hält direkt dort drüben.",
+         "tr": "Evet, 5 numaralı hat hemen şurada duruyor."
+        },
+        {
+         "p": 1,
+         "t": "Vielen Dank!",
+         "tr": "Çok teşekkürler!"
+        },
+        {
+         "p": 0,
+         "t": "Gern geschehen. Schönen Tag noch!",
+         "tr": "Rica ederim. İyi günler!"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d1l4",
+      "kind": "dialog",
+      "title": "Pläne fürs Wochenende",
+      "subtitle": "Was machst du am Samstag?",
+      "intro": "Lena, Jonas'ı sinemaya çağırıyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Was machst du am Samstag?",
+         "tr": "Cumartesi ne yapıyorsun?"
+        },
+        {
+         "p": 1,
+         "t": "Noch nichts. Warum?",
+         "tr": "Henüz bir şey yok. Neden?"
+        },
+        {
+         "p": 0,
+         "t": "Hast du Lust, ins Kino zu gehen?",
+         "tr": "Sinemaya gitmeye ne dersin?"
+        },
+        {
+         "p": 1,
+         "t": "Sehr gerne! Welcher Film läuft?",
+         "tr": "Çok isterim! Hangi film oynuyor?"
+        },
+        {
+         "p": 0,
+         "t": "Eine neue Komödie. Alle sagen, sie ist total lustig.",
+         "tr": "Yeni bir komedi. Herkes çok komik diyor."
+        },
+        {
+         "p": 1,
+         "t": "Super. Wann treffen wir uns?",
+         "tr": "Süper. Ne zaman buluşalım?"
+        },
+        {
+         "p": 0,
+         "t": "Um sechs vor dem Kino?",
+         "tr": "Altıda sinemanın önünde?"
+        },
+        {
+         "p": 1,
+         "t": "Abgemacht. Bis Samstag!",
+         "tr": "Anlaştık. Cumartesi görüşürüz!"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y1",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Konjunktiv II ve Passiv",
+    "subtitle": "hätte, würde, wird gemacht · 3 ders",
+    "lessons": [
+     {
+      "id": "y1l1",
+      "kind": "grammar",
+      "title": "Konjunktiv II: hayal",
+      "subtitle": "würde + mastar · hätte, wäre, könnte",
+      "intro": "Gerçek olmayan durumlar ve kibar rica.",
+      "rules": [
+       {
+        "title": "würde + mastar",
+        "text": "Ich würde gern reisen. Würdest du mir helfen?",
+        "examples": [
+         {
+          "t": "Ich würde gern nach Japan fliegen.",
+          "tr": "Japonya'ya uçmayı çok isterdim.",
+          "read": ""
+         },
+         {
+          "t": "Würden Sie das Fenster öffnen?",
+          "tr": "Pencereyi açar mısınız?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "hätte, wäre, könnte",
+        "text": "haben → hätte, sein → wäre, können → könnte: Wenn ich Zeit hätte, …",
+        "examples": [
+         {
+          "t": "Wenn ich reich wäre, würde ich ein Haus kaufen.",
+          "tr": "Zengin olsaydım bir ev alırdım.",
+          "read": ""
+         },
+         {
+          "t": "Hättest du morgen Zeit?",
+          "tr": "Yarın vaktin olur mu?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Wenn ich Zeit ___, würde ich kommen.",
+        "a": "hätte",
+        "o": [
+         "habe",
+         "hatte",
+         "haben würde"
+        ],
+        "tr": "Vaktim olsaydı gelirdim.",
+        "why": "haben → hätte"
+       },
+       {
+        "s": "Ich ___ gern einen Kaffee.",
+        "a": "hätte",
+        "o": [
+         "habe gern",
+         "hatte",
+         "haben"
+        ],
+        "tr": "Bir kahve rica ederim.",
+        "why": "kibar → hätte"
+       },
+       {
+        "s": "Wenn er hier ___, wäre alles einfacher.",
+        "a": "wäre",
+        "o": [
+         "ist",
+         "war",
+         "sein"
+        ],
+        "tr": "O burada olsaydı her şey daha kolay olurdu.",
+        "why": "sein → wäre"
+       },
+       {
+        "s": "___ Sie mir bitte helfen?",
+        "a": "Könnten",
+        "o": [
+         "Können",
+         "Konnten",
+         "Gekonnt"
+        ],
+        "tr": "Bana yardım edebilir misiniz lütfen?",
+        "why": "kibar → könnten"
+       },
+       {
+        "s": "An deiner Stelle ___ ich zum Arzt gehen.",
+        "a": "würde",
+        "o": [
+         "werde",
+         "wurde",
+         "wird"
+        ],
+        "tr": "Yerinde olsam doktora giderdim.",
+        "why": "tavsiye → würde"
+       },
+       {
+        "s": "Wenn wir mehr Geld hätten, ___ wir reisen.",
+        "a": "würden",
+        "o": [
+         "werden",
+         "wurden",
+         "würdet"
+        ],
+        "tr": "Daha çok paramız olsaydı seyahat ederdik.",
+        "why": "wir → würden"
+       }
+      ]
+     },
+     {
+      "id": "y1l2",
+      "kind": "grammar",
+      "title": "Passiv",
+      "subtitle": "wird / werden + Partizip · Geçmiş: wurde",
+      "intro": "Eylemi kimin yaptığı önemli değilse: werden + Partizip II.",
+      "rules": [
+       {
+        "title": "wird / werden + Partizip",
+        "text": "Das Auto wird repariert. Hier wird Deutsch gesprochen.",
+        "examples": [
+         {
+          "t": "Hier wird Deutsch gesprochen.",
+          "tr": "Burada Almanca konuşulur.",
+          "read": ""
+         },
+         {
+          "t": "Die Briefe werden morgen geschickt.",
+          "tr": "Mektuplar yarın gönderilecek.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Geçmiş: wurde",
+        "text": "Das Haus wurde 1900 gebaut. Die Diebe wurden gefasst.",
+        "examples": [
+         {
+          "t": "Das Haus wurde 1900 gebaut.",
+          "tr": "Ev 1900'de yapıldı.",
+          "read": ""
+         },
+         {
+          "t": "Der Film wurde in Berlin gedreht.",
+          "tr": "Film Berlin'de çekildi.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Das Essen ___ gerade gekocht.",
+        "a": "wird",
+        "o": [
+         "werden",
+         "wirst",
+         "werdet"
+        ],
+        "tr": "Yemek şu an pişiriliyor.",
+        "why": "tekil → wird"
+       },
+       {
+        "s": "Die Fenster ___ jeden Tag geputzt.",
+        "a": "werden",
+        "o": [
+         "wird",
+         "wurdet",
+         "werdet"
+        ],
+        "tr": "Pencereler her gün temizlenir.",
+        "why": "çoğul → werden"
+       },
+       {
+        "s": "Das Museum wurde 1850 ___.",
+        "a": "gebaut",
+        "o": [
+         "bauen",
+         "baute",
+         "gebaute"
+        ],
+        "tr": "Müze 1850'de yapıldı.",
+        "why": "Partizip II"
+       },
+       {
+        "s": "Der Brief ___ gestern geschickt.",
+        "a": "wurde",
+        "o": [
+         "wird",
+         "werden",
+         "würde"
+        ],
+        "tr": "Mektup dün gönderildi.",
+        "why": "geçmiş → wurde"
+       },
+       {
+        "s": "Hier ___ nicht geraucht.",
+        "a": "wird",
+        "o": [
+         "werden",
+         "ist",
+         "hat"
+        ],
+        "tr": "Burada sigara içilmez.",
+        "why": "genel kural → wird"
+       },
+       {
+        "s": "Die Gäste wurden herzlich ___.",
+        "a": "begrüßt",
+        "o": [
+         "begrüßen",
+         "begrüßten",
+         "begrüßt hat"
+        ],
+        "tr": "Misafirler sıcak karşılandı.",
+        "why": "Partizip II"
+       }
+      ]
+     },
+     {
+      "id": "y1l3",
+      "kind": "grammar",
+      "title": "Genitiv",
+      "subtitle": "des + -s / der · wegen, trotz, während",
+      "intro": "Sahiplik: des / der.",
+      "rules": [
+       {
+        "title": "des + -s / der",
+        "text": "Eril/nötr: das Auto des Vaters, dişil/çoğul: die Tasche der Frau.",
+        "examples": [
+         {
+          "t": "Das ist das Auto meines Vaters.",
+          "tr": "Bu babamın arabası.",
+          "read": ""
+         },
+         {
+          "t": "Die Farbe der Tür ist rot.",
+          "tr": "Kapının rengi kırmızı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "wegen, trotz, während",
+        "text": "Genitiv edatları: wegen des Regens (yağmur yüzünden), trotz der Kälte (soğuğa rağmen).",
+        "examples": [
+         {
+          "t": "Wegen des Regens bleiben wir zu Hause.",
+          "tr": "Yağmur yüzünden evde kalıyoruz.",
+          "read": ""
+         },
+         {
+          "t": "Trotz der Kälte gehen wir spazieren.",
+          "tr": "Soğuğa rağmen yürüyüşe çıkıyoruz.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Das ist das Haus ___ Familie.",
+        "a": "der",
+        "o": [
+         "die",
+         "den",
+         "dem"
+        ],
+        "tr": "Bu ailenin evi.",
+        "why": "dişil Genitiv → der"
+       },
+       {
+        "s": "Der Name ___ Hundes ist Max.",
+        "a": "des",
+        "o": [
+         "der",
+         "dem",
+         "den"
+        ],
+        "tr": "Köpeğin adı Max.",
+        "why": "eril Genitiv → des + -es"
+       },
+       {
+        "s": "___ des Streiks fährt kein Zug.",
+        "a": "Wegen",
+        "o": [
+         "Trotz",
+         "Mit",
+         "Für"
+        ],
+        "tr": "Grev yüzünden tren yok.",
+        "why": "sebep → wegen"
+       },
+       {
+        "s": "Trotz ___ Wetters machen wir ein Picknick.",
+        "a": "des schlechten",
+        "o": [
+         "dem schlechten",
+         "das schlechte",
+         "den schlechten"
+        ],
+        "tr": "Kötü havaya rağmen piknik yapıyoruz.",
+        "why": "trotz + Genitiv"
+       },
+       {
+        "s": "Während ___ Films habe ich geschlafen.",
+        "a": "des",
+        "o": [
+         "dem",
+         "den",
+         "der"
+        ],
+        "tr": "Film sırasında uyudum.",
+        "why": "während + Genitiv"
+       },
+       {
+        "s": "Das ist das Zimmer ___ Kinder.",
+        "a": "der",
+        "o": [
+         "die",
+         "den",
+         "des"
+        ],
+        "tr": "Bu çocukların odası.",
+        "why": "çoğul Genitiv → der"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y2",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Relativsätze ve dolaylı anlatım",
+    "subtitle": "der Mann, der …; er sagt, er sei … · 3 ders",
+    "lessons": [
+     {
+      "id": "y2l1",
+      "kind": "grammar",
+      "title": "İlgi cümleleri",
+      "subtitle": "der / die / das (yalın) · den / dem (Akkusativ, Dativ)",
+      "intro": "der, die, das ile ismi tanımlamak; fiil sonda.",
+      "rules": [
+       {
+        "title": "der / die / das (yalın)",
+        "text": "Der Mann, der dort steht, ist mein Lehrer.",
+        "examples": [
+         {
+          "t": "Das ist die Frau, die in Berlin wohnt.",
+          "tr": "Bu, Berlin'de oturan kadın.",
+          "read": ""
+         },
+         {
+          "t": "Das Buch, das ich lese, ist spannend.",
+          "tr": "Okuduğum kitap heyecanlı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "den / dem (Akkusativ, Dativ)",
+        "text": "Der Film, den ich gesehen habe… Der Freund, dem ich helfe…",
+        "examples": [
+         {
+          "t": "Der Kuchen, den du gebacken hast, ist lecker.",
+          "tr": "Yaptığın kek lezzetli.",
+          "read": ""
+         },
+         {
+          "t": "Die Kollegin, der ich geholfen habe, ist nett.",
+          "tr": "Yardım ettiğim meslektaş çok iyi.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Der Mann, ___ dort sitzt, ist Arzt.",
+        "a": "der",
+        "o": [
+         "den",
+         "dem",
+         "die"
+        ],
+        "tr": "Orada oturan adam doktor.",
+        "why": "özne, eril → der"
+       },
+       {
+        "s": "Die Stadt, ___ ich liebe, ist Wien.",
+        "a": "die",
+        "o": [
+         "der",
+         "den",
+         "das"
+        ],
+        "tr": "Sevdiğim şehir Viyana.",
+        "why": "nesne, dişil → die"
+       },
+       {
+        "s": "Das Auto, ___ er gekauft hat, ist rot.",
+        "a": "das",
+        "o": [
+         "der",
+         "den",
+         "dem"
+        ],
+        "tr": "Aldığı araba kırmızı.",
+        "why": "nesne, nötr → das"
+       },
+       {
+        "s": "Der Freund, ___ ich das Buch gegeben habe, ist weg.",
+        "a": "dem",
+        "o": [
+         "den",
+         "der",
+         "das"
+        ],
+        "tr": "Kitabı verdiğim arkadaş gitti.",
+        "why": "Dativ, eril → dem"
+       },
+       {
+        "s": "Die Leute, ___ hier arbeiten, sind freundlich.",
+        "a": "die",
+        "o": [
+         "der",
+         "den",
+         "denen"
+        ],
+        "tr": "Burada çalışan insanlar cana yakın.",
+        "why": "çoğul özne → die"
+       },
+       {
+        "s": "Der Film, ___ wir gesehen haben, war lang.",
+        "a": "den",
+        "o": [
+         "der",
+         "dem",
+         "das"
+        ],
+        "tr": "İzlediğimiz film uzundu.",
+        "why": "nesne, eril → den"
+       }
+      ]
+     },
+     {
+      "id": "y2l2",
+      "kind": "grammar",
+      "title": "Dolaylı anlatım",
+      "subtitle": "er sei, er habe · Günlük dilde: dass + Indikativ",
+      "intro": "Konjunktiv I ile söyleneni aktarmak (haberlerde sık).",
+      "rules": [
+       {
+        "title": "er sei, er habe",
+        "text": "sein → er sei, haben → er habe: Er sagt, er sei krank.",
+        "examples": [
+         {
+          "t": "Sie sagt, sie sei müde.",
+          "tr": "Yorgun olduğunu söylüyor.",
+          "read": ""
+         },
+         {
+          "t": "Er behauptet, er habe keine Zeit.",
+          "tr": "Vakti olmadığını iddia ediyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Günlük dilde: dass + Indikativ",
+        "text": "Konuşmada çoğu zaman: Er sagt, dass er krank ist.",
+        "examples": [
+         {
+          "t": "Er sagt, dass er später kommt.",
+          "tr": "Sonra geleceğini söylüyor.",
+          "read": ""
+         },
+         {
+          "t": "Sie meint, dass das Konzert toll war.",
+          "tr": "Konserin harika olduğunu düşünüyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Der Minister sagt, er ___ zufrieden.",
+        "a": "sei",
+        "o": [
+         "seien",
+         "seid",
+         "sein"
+        ],
+        "tr": "Bakan memnun olduğunu söylüyor.",
+        "why": "sein → sei"
+       },
+       {
+        "s": "Sie erzählt, sie ___ einen neuen Job.",
+        "a": "habe",
+        "o": [
+         "haben",
+         "habt",
+         "gehabt"
+        ],
+        "tr": "Yeni bir işi olduğunu anlatıyor.",
+        "why": "haben → habe"
+       },
+       {
+        "s": "Er sagt, ___ er morgen kommt.",
+        "a": "dass",
+        "o": [
+         "ob",
+         "wenn",
+         "weil"
+        ],
+        "tr": "Yarın geleceğini söylüyor.",
+        "why": "dass + Indikativ"
+       },
+       {
+        "s": "Die Zeitung schreibt, das Spiel ___ abgesagt worden.",
+        "a": "sei",
+        "o": [
+         "seien",
+         "seid",
+         "sein"
+        ],
+        "tr": "Gazete maçın iptal edildiğini yazıyor.",
+        "why": "Konjunktiv I"
+       },
+       {
+        "s": "Sie fragt, ___ ich Zeit habe.",
+        "a": "ob",
+        "o": [
+         "dass",
+         "wenn",
+         "weil"
+        ],
+        "tr": "Vaktim olup olmadığını soruyor.",
+        "why": "soru aktarma → ob"
+       },
+       {
+        "s": "Er fragt, wo der Bahnhof ___.",
+        "a": "ist",
+        "o": [
+         "sind",
+         "bin",
+         "seid"
+        ],
+        "tr": "İstasyonun nerede olduğunu soruyor.",
+        "why": "yan cümle: fiil sonda"
+       }
+      ]
+     },
+     {
+      "id": "y2l3",
+      "kind": "grammar",
+      "title": "zu + mastar",
+      "subtitle": "… zu machen · um … zu (-mek için)",
+      "intro": "Bir fiilden sonra başka bir eylem: zu + mastar.",
+      "rules": [
+       {
+        "title": "… zu machen",
+        "text": "Ich habe keine Lust, zu arbeiten. Es ist schwer, Deutsch zu lernen.",
+        "examples": [
+         {
+          "t": "Es ist schön, dich zu sehen.",
+          "tr": "Seni görmek güzel.",
+          "read": ""
+         },
+         {
+          "t": "Ich versuche, mehr zu lesen.",
+          "tr": "Daha çok okumaya çalışıyorum.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "um … zu (-mek için)",
+        "text": "Ich lerne Deutsch, um in Berlin zu arbeiten.",
+        "examples": [
+         {
+          "t": "Ich spare Geld, um ein Auto zu kaufen.",
+          "tr": "Araba almak için para biriktiriyorum.",
+          "read": ""
+         },
+         {
+          "t": "Er geht früh ins Bett, um fit zu sein.",
+          "tr": "Zinde olmak için erken yatıyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Ich habe vergessen, dich ___.",
+        "a": "anzurufen",
+        "o": [
+         "zu anrufen",
+         "anrufen",
+         "angerufen"
+        ],
+        "tr": "Seni aramayı unuttum.",
+        "why": "ayrılabilen: an-zu-rufen"
+       },
+       {
+        "s": "Es ist wichtig, genug Wasser ___ trinken.",
+        "a": "zu",
+        "o": [
+         "um",
+         "für",
+         "zum"
+        ],
+        "tr": "Yeterince su içmek önemli.",
+        "why": "zu + mastar"
+       },
+       {
+        "s": "Sie lernt viel, ___ die Prüfung zu bestehen.",
+        "a": "um",
+        "o": [
+         "zu",
+         "für",
+         "weil"
+        ],
+        "tr": "Sınavı geçmek için çok çalışıyor.",
+        "why": "amaç → um … zu"
+       },
+       {
+        "s": "Hast du Lust, ins Kino zu ___?",
+        "a": "gehen",
+        "o": [
+         "geht",
+         "gegangen",
+         "gehst"
+        ],
+        "tr": "Sinemaya gitmek ister misin?",
+        "why": "zu + mastar"
+       },
+       {
+        "s": "Ich versuche, jeden Tag Sport ___ machen.",
+        "a": "zu",
+        "o": [
+         "um",
+         "für",
+         "beim"
+        ],
+        "tr": "Her gün spor yapmaya çalışıyorum.",
+        "why": "zu + mastar"
+       },
+       {
+        "s": "Er spart, um eine Reise ___ machen.",
+        "a": "zu",
+        "o": [
+         "um",
+         "für",
+         "zum"
+        ],
+        "tr": "Bir seyahat yapmak için para biriktiriyor.",
+        "why": "um … zu"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y3",
+    "level": "yuksek",
+    "kind": "text",
+    "title": "Metin okuma ve anlama",
+    "subtitle": "Kısa metinler, bilmediğin kelimeye dokun · 3 ders",
+    "lessons": [
+     {
+      "id": "y3l1",
+      "kind": "text",
+      "title": "Mein Leben in Berlin",
+      "subtitle": "Ich heiße Anna und wohne seit …",
+      "intro": "Anna Berlin'deki hayatını anlatıyor.",
+      "text": {
+       "t": "Ich heiße Anna und wohne seit acht Jahren in Berlin. Jeden Morgen fahre ich mit der U-Bahn zur Arbeit, weil das schnell und billig ist. In der Mittagspause esse ich gern im Park, wenn das Wetter schön ist. Abends treffe ich manchmal Freunde in einer Kneipe oder gehe ins Museum. Berlin ist eine laute, bunte Stadt, in der es immer etwas Neues gibt. Manchmal vermisse ich die Ruhe meiner Heimatstadt, aber Berlin ist jetzt mein Zuhause.",
+       "tr": "Benim adım Anna ve sekiz yıldır Berlin'de oturuyorum. Her sabah işe metroyla giderim, çünkü hızlı ve ucuz. Öğle arasında, hava güzelse parkta yemek yemeyi severim. Akşamları bazen bir barda arkadaşlarla buluşurum ya da müzeye giderim. Berlin, her zaman yeni bir şeylerin olduğu gürültülü, renkli bir şehir. Bazen memleketimin sessizliğini özlüyorum ama Berlin artık evim.",
+       "gloss": [
+        [
+         "seit",
+         "-den beri"
+        ],
+        [
+         "billig",
+         "ucuz"
+        ],
+        [
+         "Mittagspause",
+         "öğle arası"
+        ],
+        [
+         "Kneipe",
+         "bar, meyhane"
+        ],
+        [
+         "bunte",
+         "renkli (bunt)"
+        ],
+        [
+         "vermisse",
+         "özlüyorum (vermissen)"
+        ],
+        [
+         "Heimatstadt",
+         "memleket"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Wie lange wohnt Anna in Berlin?",
+         "a": "Seit acht Jahren",
+         "o": [
+          "Seit zwei Jahren",
+          "Seit einem Jahr",
+          "Seit zwanzig Jahren"
+         ]
+        },
+        {
+         "q": "Wie fährt Anna zur Arbeit?",
+         "a": "Mit der U-Bahn",
+         "o": [
+          "Mit dem Auto",
+          "Mit dem Fahrrad",
+          "Zu Fuß"
+         ]
+        },
+        {
+         "q": "Was vermisst Anna manchmal?",
+         "a": "Die Ruhe ihrer Heimatstadt",
+         "o": [
+          "Ihre Arbeit",
+          "Das Wetter in Berlin",
+          "Die Museen"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y3l2",
+      "kind": "text",
+      "title": "Eine E-Mail an Tom",
+      "subtitle": "Hallo Tom, wie geht's dir? Mir …",
+      "intro": "Max arkadaşına üniversite hayatını yazıyor.",
+      "text": {
+       "t": "Hallo Tom, wie geht's dir? Mir geht es gut. Im Oktober habe ich mein Studium angefangen. Es macht Spaß, ist aber auch anstrengend, denn wir haben jede Woche viele Aufgaben. Ich wohne in einer WG mit zwei Studenten aus Spanien und Korea. Freitags kochen wir zusammen und probieren Gerichte aus unseren Ländern. Letztes Wochenende sind wir in die Berge gefahren und haben uns total verlaufen! Besuch mich doch im Dezember! Schreib bald. Viele Grüße, Max",
+       "tr": "Selam Tom, nasılsın? Ben iyiyim. Ekimde üniversiteye başladım. Eğlenceli ama aynı zamanda yorucu, çünkü her hafta çok ödevimiz var. İspanya'dan ve Kore'den iki öğrenciyle ortak bir evde oturuyorum. Cumaları birlikte yemek yapıyor, ülkelerimizin yemeklerini deniyoruz. Geçen hafta sonu dağlara gittik ve tamamen yolumuzu kaybettik! Aralıkta beni ziyarete gelsene! Yakında yaz. Sevgiler, Max",
+       "gloss": [
+        [
+         "angefangen",
+         "başladı (anfangen)"
+        ],
+        [
+         "anstrengend",
+         "yorucu"
+        ],
+        [
+         "Aufgaben",
+         "ödevler, görevler"
+        ],
+        [
+         "WG",
+         "ortak ev (Wohngemeinschaft)"
+        ],
+        [
+         "Gerichte",
+         "yemekler"
+        ],
+        [
+         "verlaufen",
+         "yolunu kaybetmek (sich verlaufen)"
+        ],
+        [
+         "Besuch",
+         "ziyaret et (besuchen)"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Wann hat Max sein Studium angefangen?",
+         "a": "Im Oktober",
+         "o": [
+          "Im Dezember",
+          "Im Sommer",
+          "Letzte Woche"
+         ]
+        },
+        {
+         "q": "Mit wem wohnt Max?",
+         "a": "Mit zwei Studenten",
+         "o": [
+          "Mit seinen Eltern",
+          "Allein",
+          "Mit seiner Schwester"
+         ]
+        },
+        {
+         "q": "Was ist in den Bergen passiert?",
+         "a": "Sie haben sich verlaufen",
+         "o": [
+          "Es hat geschneit",
+          "Sie haben Tom getroffen",
+          "Sie haben einen See gefunden"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y3l3",
+      "kind": "text",
+      "title": "Kaffee und Kuchen",
+      "subtitle": "In Deutschland gibt es eine beliebte …",
+      "intro": "Almanların öğleden sonra geleneği.",
+      "text": {
+       "t": "In Deutschland gibt es eine beliebte Tradition: Kaffee und Kuchen. Am Sonntagnachmittag trifft sich die Familie oft gegen drei Uhr, um gemeinsam Kaffee zu trinken und Kuchen zu essen. Typisch sind Apfelkuchen, Käsekuchen oder Schwarzwälder Kirschtorte. Viele Leute backen den Kuchen selbst, andere kaufen ihn in der Bäckerei. Diese Pause ist nicht nur zum Essen da, sondern vor allem zum Reden und Entspannen. Wer zu Kaffee und Kuchen eingeladen wird, sollte pünktlich sein!",
+       "tr": "Almanya'da sevilen bir gelenek var: kahve ve kek. Pazar öğleden sonraları aile sık sık saat üç civarı birlikte kahve içip kek yemek için buluşur. Elmalı turta, cheesecake ya da Kara Orman vişneli pastası tipiktir. Pek çok kişi keki kendisi yapar, diğerleri fırından alır. Bu mola sadece yemek için değil, her şeyden önce sohbet etmek ve dinlenmek içindir. Kahve ve keke davet edilen kişi dakik olmalı!",
+       "gloss": [
+        [
+         "beliebte",
+         "sevilen (beliebt)"
+        ],
+        [
+         "gemeinsam",
+         "birlikte"
+        ],
+        [
+         "backen",
+         "fırında pişirmek"
+        ],
+        [
+         "Bäckerei",
+         "fırın, pastane"
+        ],
+        [
+         "vor allem",
+         "her şeyden önce"
+        ],
+        [
+         "Entspannen",
+         "dinlenme, rahatlama"
+        ],
+        [
+         "pünktlich",
+         "dakik, zamanında"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Wann trifft sich die Familie oft?",
+         "a": "Am Sonntagnachmittag",
+         "o": [
+          "Am Montagmorgen",
+          "Am Freitagabend",
+          "Jeden Mittag"
+         ]
+        },
+        {
+         "q": "Woher kommt der Kuchen?",
+         "a": "Selbst gebacken oder aus der Bäckerei",
+         "o": [
+          "Nur aus dem Supermarkt",
+          "Aus dem Restaurant",
+          "Aus dem Ausland"
+         ]
+        },
+        {
+         "q": "Was ist wichtig, wenn man eingeladen ist?",
+         "a": "Pünktlich sein",
+         "o": [
+          "Einen Kuchen mitbringen",
+          "Früh gehen",
+          "Kaffee kochen"
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "end",
+   "unit": {
+    "id": "y4",
+    "level": "yuksek",
+    "kind": "dialog",
+    "title": "Serbest konuşma",
+    "subtitle": "Fikir söyle, derdini anlat, kendini tanıt · 3 ders",
+    "lessons": [
+     {
+      "id": "y4l1",
+      "kind": "dialog",
+      "title": "Deine Meinung",
+      "subtitle": "Jonas, was meinst du: Lebt man besser in der Stadt oder auf dem Land?",
+      "intro": "Şehir mi köy mü? Jonas fikrini savunuyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Jonas, was meinst du: Lebt man besser in der Stadt oder auf dem Land?",
+         "tr": "Jonas, ne dersin: şehirde mi daha iyi yaşanır, kırsalda mı?"
+        },
+        {
+         "p": 1,
+         "t": "Meiner Meinung nach in der Stadt. Dort gibt es mehr Jobs und Möglichkeiten.",
+         "tr": "Bence şehirde. Orada daha çok iş ve fırsat var."
+        },
+        {
+         "p": 0,
+         "t": "Aber in der Stadt ist es laut und die Luft ist schlecht.",
+         "tr": "Ama şehir gürültülü ve hava kötü."
+        },
+        {
+         "p": 1,
+         "t": "Das stimmt, dafür kann man ins Theater oder ins Museum gehen.",
+         "tr": "Doğru, buna karşılık tiyatroya ya da müzeye gidebilirsin."
+        },
+        {
+         "p": 0,
+         "t": "Ich träume von einem kleinen Haus an einem See.",
+         "tr": "Ben göl kenarında küçük bir ev hayal ediyorum."
+        },
+        {
+         "p": 1,
+         "t": "Das klingt schön, aber mir wäre es dort zu langweilig.",
+         "tr": "Kulağa güzel geliyor ama ben orada çok sıkılırdım."
+        },
+        {
+         "p": 0,
+         "t": "Na ja, jeder hat einen anderen Geschmack!",
+         "tr": "Eh, herkesin zevki farklı!"
+        },
+        {
+         "p": 1,
+         "t": "Genau. Hauptsache, man ist glücklich, wo man wohnt.",
+         "tr": "Aynen. Önemli olan yaşadığın yerde mutlu olmak."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y4l2",
+      "kind": "dialog",
+      "title": "Beim Arzt",
+      "subtitle": "Guten Tag. Was fehlt Ihnen?",
+      "intro": "Jonas'ın boğazı ağrıyor.",
+      "dialog": {
+       "who": [
+        "Ärztin",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Guten Tag. Was fehlt Ihnen?",
+         "tr": "İyi günler. Şikâyetiniz nedir?"
+        },
+        {
+         "p": 1,
+         "t": "Ich habe seit drei Tagen Halsschmerzen und Kopfschmerzen.",
+         "tr": "Üç gündür boğazım ve başım ağrıyor."
+        },
+        {
+         "p": 0,
+         "t": "Haben Sie Fieber?",
+         "tr": "Ateşiniz var mı?"
+        },
+        {
+         "p": 1,
+         "t": "Ja, gestern Abend hatte ich achtunddreißig Grad.",
+         "tr": "Evet, dün akşam otuz sekiz derecem vardı."
+        },
+        {
+         "p": 0,
+         "t": "Machen Sie bitte den Mund auf. Ja, der Hals ist ziemlich rot.",
+         "tr": "Ağzınızı açın lütfen. Evet, boğaz epey kızarmış."
+        },
+        {
+         "p": 1,
+         "t": "Ist es etwas Ernstes?",
+         "tr": "Ciddi bir şey mi?"
+        },
+        {
+         "p": 0,
+         "t": "Nein, nur eine Erkältung. Trinken Sie viel und ruhen Sie sich aus.",
+         "tr": "Hayır, sadece soğuk algınlığı. Bol sıvı için ve dinlenin."
+        },
+        {
+         "p": 1,
+         "t": "Danke. Brauche ich eine Krankmeldung?",
+         "tr": "Teşekkürler. Rapor gerekiyor mu?"
+        }
+       ]
+      }
+     },
+     {
+      "id": "y4l3",
+      "kind": "dialog",
+      "title": "Vorstellungsgespräch",
+      "subtitle": "Erzählen Sie doch bitte etwas über sich.",
+      "intro": "Jonas bir mühendislik işine başvuruyor.",
+      "dialog": {
+       "who": [
+        "Lena",
+        "Jonas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Erzählen Sie doch bitte etwas über sich.",
+         "tr": "Lütfen biraz kendinizden bahsedin."
+        },
+        {
+         "p": 1,
+         "t": "Gern. Ich bin Ingenieur und arbeite seit fünf Jahren bei einer Baufirma.",
+         "tr": "Memnuniyetle. Mühendisim ve beş yıldır bir inşaat firmasında çalışıyorum."
+        },
+        {
+         "p": 0,
+         "t": "Warum möchten Sie bei uns arbeiten?",
+         "tr": "Neden bizde çalışmak istiyorsunuz?"
+        },
+        {
+         "p": 1,
+         "t": "Ihre Firma hat spannende Projekte und ich möchte mich weiterentwickeln.",
+         "tr": "Firmanızın heyecan verici projeleri var ve kendimi geliştirmek istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Was sind Ihre Stärken?",
+         "tr": "Güçlü yönleriniz neler?"
+        },
+        {
+         "p": 1,
+         "t": "Ich bin zuverlässig, arbeite gern im Team und lerne schnell.",
+         "tr": "Güvenilirim, ekipte çalışmayı severim ve hızlı öğrenirim."
+        },
+        {
+         "p": 0,
+         "t": "Wann könnten Sie anfangen?",
+         "tr": "Ne zaman başlayabilirsiniz?"
+        },
+        {
+         "p": 1,
+         "t": "In zwei Wochen, wenn mein aktuelles Projekt fertig ist.",
+         "tr": "İki hafta sonra, mevcut projem bitince."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  }
+ ],
+ "upcoming": []
+}

@@ -1,4 +1,4 @@
-import { Course, lessonItems, unitItems } from './course';
+import { Course, lessonItems, unitItems, unitOptional } from './course';
 
 export const PASS = 0.9; // %90 olmadan geçiş yok
 export const RETRY_MINUTES = 15; // sınavdan kalınca bekleme
@@ -197,8 +197,11 @@ export function saveResume(p: Progress, lessonId: string, card: number): Progres
 export type LockState = { open: true } | { open: false; reason: string };
 
 export function unitOpen(course: Course, p: Progress, unitIndex: number): boolean {
-  if (unitIndex === 0) return true;
-  return !!p.tests[course.units[unitIndex - 1].id]?.passedAt;
+  // optional units ("Ayrı dersler" grammar) never block the path
+  let j = unitIndex - 1;
+  while (j >= 0 && unitOptional(course.units[j])) j--;
+  if (j < 0) return true;
+  return !!p.tests[course.units[j].id]?.passedAt;
 }
 
 export function lessonLock(course: Course, p: Progress, unitIndex: number, lessonIndex: number): LockState {

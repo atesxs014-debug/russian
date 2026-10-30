@@ -1,16 +1,18 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
-import { Linking } from 'react-native';
+import { Linking, Platform } from 'react-native';
 import { BUILD, REPO } from './buildInfo';
 
 /** Shown once after installing a new build ("Yenilikler"). */
 export const WHATS_NEW: string[] = [
-  'Yeni görünüm: Lavanta teması ve Manrope yazı tipi',
-  'Sade ana sayfa: tek "Bugün" kartı, ünite ilerlemesi tek satırda',
-  'Alt menü: Ana sayfa · Dersler · Tekrar · Profil',
-  'Dersler 10 katına çıktı: Rusça 72, İngilizce/Almanca/Fransızca 50, İtalyanca 44 ders',
-  'Kelime kartları: emoji, cinsiyet rengi, okunuş',
-  'Yanlışlıkla seçimi önleyen dokunma koruması',
-  'Tekrar sekmesinde hafıza durumu ve zayıf noktalar',
+  'Orta seviyeye dilbilgisi üniteleri: haller/zamanlar/artikeller, boşluk doldurma alıştırmalarıyla (Ayarlar → Dilbilgisi: zorunlu ya da isteğe bağlı)',
+  'Diyalog dersleri: Anya ve Dima (her dilde kendi karakterleri) ile gerçek konuşmalar; ikinci kişinin repliklerini sen söylüyorsun',
+  'Yüksek seviye açıldı: ileri dilbilgisi, okuma metinleri (kelimeye dokun → anlamı, sesi, tekrara ekle) ve serbest konuşma; arayüz o dile geçer',
+  'Yazma ve dikte: dilin kendi klavyesiyle (Kiril, ä ö ü ß, é è ç…) duyduğunu yaz',
+  'Sözlük ve fiil çekim tabloları (Tekrar sekmesi)',
+  '20 rozet, PDF ilerleme raporu ve Android ana ekran widget\'ı',
+  'Bulut yedek: e-postayla giriş, her dersten sonra otomatik yedek',
+  'Uygulama boyutu küçüldü: sesler sıkıştırıldı, yavaş dinleme artık aynı kayıttan',
+  'Dil başına 1.500+ kelime/ifade',
 ];
 
 const SEEN_KEY = 'voxa.seenBuild';
@@ -27,7 +29,10 @@ export async function markWhatsNewSeen() {
   await AsyncStorage.setItem(SEEN_KEY, String(BUILD)).catch(() => {});
 }
 
-/** Checks GitHub Releases for a newer build. Returns the newer build number or null. */
+/** Direct download link of the newest build for this phone. */
+export const LATEST_URL = () => `https://github.com/${REPO}/releases/latest/download/${Platform.OS === 'ios' ? 'Voxa.ipa' : 'Voxa.apk'}`;
+
+/** Checks GitHub Releases for a newer build. Returns the newer build number and its direct download link. */
 export async function checkForUpdate(): Promise<{ build: number; url: string } | null> {
   if (!BUILD) return null;
   try {
@@ -38,7 +43,9 @@ export async function checkForUpdate(): Promise<{ build: number; url: string } |
     if (!r.ok) return null;
     const j = await r.json();
     const n = parseInt(String(j.tag_name ?? '').replace(/\D/g, ''), 10);
-    return n > BUILD ? { build: n, url: j.html_url } : null;
+    // straight to the newest file, never the releases page with old versions
+    const file = Platform.OS === 'ios' ? 'Voxa.ipa' : 'Voxa.apk';
+    return n > BUILD ? { build: n, url: `https://github.com/${REPO}/releases/latest/download/${file}` } : null;
   } catch {
     return null;
   }

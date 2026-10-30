@@ -1,11 +1,12 @@
 import React, { useEffect, useMemo, useRef, useState } from 'react';
-import { Animated, Easing, Pressable, ScrollView, View } from 'react-native';
+import { Alert, Animated, Easing, Modal, Pressable, ScrollView, View } from 'react-native';
 import { Text } from '../Text';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Ionicons } from '@expo/vector-icons';
-import { Letter, Pair, Rule, Word, findLesson, letterLabel } from '../course';
+import { Course, DialogLine, Letter, Pair, ReadText, Rule, Word, findLesson, letterLabel, letterSay, plain, wordItemId } from '../course';
 import { lessonQuiz } from '../quiz';
-import { PASS, applyLesson, bumpStreak, saveResume } from '../progress';
+import { PASS, addToReview, applyLesson, bumpStreak, saveResume } from '../progress';
+import { norm, t as tr } from '../i18n';
 import { useApp } from '../store';
 import { speak, stopAudio } from '../audio/player';
 import { reportProblem } from '../meta';
@@ -16,13 +17,22 @@ import { Bar, Button, IconBtn, SoundButton } from '../ui';
 import { C, R, fs, themed } from '../theme';
 
 type Phase = 'learn' | 'quiz' | 'result';
-type Card = { type: 'letter'; l: Letter } | { type: 'rule'; r: Rule } | { type: 'pair'; p: Pair; a: Letter; b: Letter } | { type: 'word'; w: Word };
+type Card =
+  | { type: 'letter'; l: Letter }
+  | { type: 'rule'; r: Rule }
+  | { type: 'pair'; p: Pair; a: Letter; b: Letter }
+  | { type: 'word'; w: Word }
+  | { type: 'line'; lines: DialogLine[]; i: number; who: [string, string] }
+  | { type: 'text'; x: ReadText };
 
 /** Text the learner must say for a card (single letters are hard to recognise, so an example word is used). */
 function speechTarget(c: Card): string {
   if (c.type === 'word') return c.w.t;
   if (c.type === 'letter') return c.l.words[0]?.t ?? c.l.name;
   if (c.type === 'pair') return c.a.words[0]?.t ?? c.a.name;
+  // dialogues: the learner says the second speaker's lines
+  if (c.type === 'line') return c.lines[c.i].p === 1 ? c.lines[c.i].t : '';
+  if (c.type === 'text') return (c.x.t.match(/^[^.!?]+[.!?]?/)?.[0] ?? '').trim();
   return c.r.examples[0]?.t ?? '';
 }
 
@@ -53,6 +63,11 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
 
   const cards: Card[] = useMemo(() => {
     if (lesson.kind === 'vocab') return (lesson.words ?? []).map((w) => ({ type: 'word' as const, w }));
+    if (lesson.kind === 'dialog' && lesson.dialog) {
+      const d = lesson.dialog;
+      return d.lines.map((_, i) => ({ type: 'line' as const, lines: d.lines, i, who: d.who }));
+    }
+    if (lesson.kind === 'text' && lesson.text) return [{ type: 'text' as const, x: lesson.text }];
     if (lesson.kind === 'letters') return (lesson.letters ?? []).map((l) => ({ type: 'letter' as const, l }));
     if (lesson.kind === 'compare')
       return (lesson.pairs ?? [])
@@ -79,6 +94,7 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
       <QuizRunner
         key={round}
         lang={settings.lang}
+        level={unit.level}
         title={`${lesson.title} · sınav`}
         questions={questions}
         onClose={() => setPhase('learn')}
@@ -152,7 +168,19 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
             reportProblem({
               lang: settings.lang,
               where: `${lesson.title}${isIntro ? '' : ` · kart ${card + 1}`}`,
-              detail: !c ? lesson.intro : c.type === 'word' ? `${c.w.t} — ${c.w.read} — ${c.w.tr}` : c.type === 'letter' ? `${letterLabel(c.l)} — ${c.l.sound} — ${c.l.hint}` : c.type === 'rule' ? `${c.r.title}: ${c.r.text}` : c.p.tip,
+              detail: !c
+                ? lesson.intro
+                : c.type === 'word'
+                  ? `${c.w.t} — ${c.w.read} — ${c.w.tr}`
+                  : c.type === 'letter'
+                    ? `${letterLabel(c.l)} — ${c.l.sound} — ${c.l.hint}`
+                    : c.type === 'rule'
+                      ? `${c.r.title}: ${c.r.text}`
+                      : c.type === 'line'
+                        ? `${c.lines[c.i].t} — ${c.lines[c.i].tr}`
+                        : c.type === 'text'
+                          ? c.x.t.slice(0, 300)
+                          : c.p.tip,
             })
           }
         />
@@ -167,7 +195,11 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
             <Text style={st.p}>{lesson.intro}</Text>
             <View style={st.rule}>
               <Ionicons name="shield-checkmark" size={20} color={C.gold} />
-              <Text style={st.ruleText}>Her kartta dinle, sonra mikrofona basılı tutup sen söyle (80+ puan). En sonda sınav: %90 altı = ders tekrar.</Text>
+              <Text style={st.ruleText}>
+                {lesson.kind === 'dialog'
+                  ? `Konuşmayı dinle. ${lesson.dialog?.who[1] ?? 'İkinci kişi'} sensin: onun repliklerini mikrofona dokunup söyle (80+ puan). En sonda sınav: %90 altı = ders tekrar.`
+                  : 'Her kartta dinle, sonra mikrofona dokunup sen söyle (80+ puan). En sonda sınav: %90 altı = ders tekrar.'}
+              </Text>
             </View>
           </View>
         ) : c.type === 'letter' ? (
@@ -176,6 +208,10 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
           <WordCard key={c.w.t} w={c.w} showRead={unitIndex <= 1} />
         ) : c.type === 'pair' ? (
           <PairCard p={c.p} a={c.a} b={c.b} />
+        ) : c.type === 'line' ? (
+          <LineCard key={`l${c.i}`} lines={c.lines} i={c.i} who={c.who} />
+        ) : c.type === 'text' ? (
+          <TextCard x={c.x} course={course} onAdd={(w) => save(addToReview(progressRef.current, wordItemId(w)))} />
         ) : (
           <RuleCard r={c.r} />
         )}
@@ -184,11 +220,11 @@ export default function LessonScreen({ lessonId, onClose, onSpeakDebt }: { lesso
       </ScrollView>
 
       <View style={st.nav}>
-        {!isIntro && <Button title="Geri" kind="ghost" icon="arrow-back" onPress={guard(() => setCard((x) => x - 1))} style={{ flex: 1, marginRight: 10 }} />}
+        {!isIntro && <Button title={tr('back', settings.lang, unit.level)} kind="ghost" icon="arrow-back" onPress={guard(() => setCard((x) => x - 1))} style={{ flex: 1, marginRight: 10 }} />}
         {last ? (
-          <Button title="Sınava başla" icon="flag" kind="good" disabled={!canGoOn} onPress={guard(() => { stopAudio(); setPhase('quiz'); })} style={{ flex: 2 }} />
+          <Button title={tr('startQuiz', settings.lang, unit.level)} icon="flag" kind="good" disabled={!canGoOn} onPress={guard(() => { stopAudio(); setPhase('quiz'); })} style={{ flex: 2 }} />
         ) : (
-          <Button title={isIntro ? (resumeCard > 0 ? 'Devam et' : 'Başla') : canGoOn ? 'İleri' : 'Önce söyle'} icon="arrow-forward" disabled={!canGoOn} onPress={guard(() => setCard((x) => x + 1))} style={{ flex: 2 }} />
+          <Button title={isIntro ? (resumeCard > 0 ? 'Devam et' : tr('start', settings.lang, unit.level)) : canGoOn ? tr('next', settings.lang, unit.level) : tr('sayFirst', settings.lang, unit.level)} icon="arrow-forward" disabled={!canGoOn} onPress={guard(() => setCard((x) => x + 1))} style={{ flex: 2 }} />
         )}
       </View>
     </View>
@@ -241,7 +277,7 @@ function LetterCard({ l, cyrillic }: { l: Letter; cyrillic: boolean }) {
       <View style={st.letterBox}>
         <DrawnGlyph text={l.upper} sub={l.lower} />
         <View style={{ marginTop: 10 }}>
-          <SoundButton onPress={() => speak(l.name)} onSlow={() => speak(l.name, true)} />
+          <SoundButton onPress={() => speak(letterSay(l))} onSlow={() => speak(letterSay(l), true)} />
         </View>
       </View>
       <View style={st.soundRow}>
@@ -311,7 +347,7 @@ function PairCard({ p, a, b }: { p: Pair; a: Letter; b: Letter }) {
     <View>
       <View style={st.pairRow}>
         {[a, b].map((x) => (
-          <Pressable key={x.id} onPress={() => speak(x.words[0]?.t ?? x.name)} style={({ pressed }) => [st.pairBox, pressed && { backgroundColor: C.cardHi }]}>
+          <Pressable key={x.id} onPress={() => speak(letterSay(x))} style={({ pressed }) => [st.pairBox, pressed && { backgroundColor: C.cardHi }]}>
             <Text style={st.pairGlyph}>{x.upper}</Text>
             <Text style={st.pairSound}>{x.sound}</Text>
             <View style={st.pairWord}>
@@ -340,6 +376,99 @@ function RuleCard({ r }: { r: Rule }) {
         <WordRow key={w.t} w={w} />
       ))}
       <Text style={st.tip}>Dokun: dinle · basılı tut: yavaş dinle</Text>
+    </View>
+  );
+}
+
+/** One dialogue line, with the conversation so far above it. */
+function LineCard({ lines, i, who }: { lines: DialogLine[]; i: number; who: [string, string] }) {
+  const cur = lines[i];
+  useEffect(() => {
+    const tm = setTimeout(() => speak(cur.t, false, cur.p), 300);
+    return () => clearTimeout(tm);
+  }, [i]);
+  return (
+    <View>
+      {lines.slice(Math.max(0, i - 4), i + 1).map((l, k, arr) => {
+        const now = k === arr.length - 1;
+        const right = l.p === 1;
+        return (
+          <Pressable
+            key={`${i}-${k}`}
+            onPress={() => speak(l.t, false, l.p)}
+            onLongPress={() => speak(l.t, true, l.p)}
+            style={[st.bubble, right ? st.bubbleR : st.bubbleL, !now && { opacity: 0.55 }, now && { borderWidth: 2, borderColor: C.primary }]}
+          >
+            <Text style={st.who}>{who[l.p]}</Text>
+            <Text style={[st.bubbleT, now && { fontSize: fs(22) }]}>{l.t}</Text>
+            <Text style={st.bubbleTr}>{l.tr}</Text>
+          </Pressable>
+        );
+      })}
+      <View style={{ alignItems: 'center', marginTop: 8 }}>
+        <SoundButton onPress={() => speak(cur.t, false, cur.p)} onSlow={() => speak(cur.t, true, cur.p)} />
+      </View>
+      <Text style={st.tip}>Baloncuğa dokun: dinle · basılı tut: yavaş</Text>
+    </View>
+  );
+}
+
+const stripWord = (s: string) => s.replace(/^[«"“(¿¡]+|[»"”),.!?;:…]+$/g, '');
+
+/** Reading text: tap any word for its meaning, sound and "add to review". */
+function TextCard({ x, course, onAdd }: { x: ReadText; course: Course; onAdd: (w: Word) => void }) {
+  const [showTr, setShowTr] = useState(false);
+  const [sel, setSel] = useState<Word | null>(null);
+  const gloss = useMemo(() => new Map(x.gloss.map(([a, b]) => [norm(a), b])), [x]);
+  function lookup(raw: string) {
+    const w = stripWord(raw);
+    if (!w) return;
+    const n = norm(w);
+    const known = course.words[wordItemId({ t: w, tr: '', read: '' })];
+    const hit = gloss.get(n) ?? known?.tr ?? [...gloss.entries()].find(([k]) => k.startsWith(n.slice(0, Math.max(4, n.length - 2))))?.[1];
+    speak(w);
+    setSel({ t: w, tr: hit ?? 'Sözlükte yok — bağlamdan tahmin et', read: '' });
+  }
+  return (
+    <View>
+      <View style={st.textBox}>
+        <View style={{ flexDirection: 'row', flexWrap: 'wrap' }}>
+          {x.t.split(/\s+/).map((tok, k) => (
+            <Pressable key={k} onPress={() => lookup(tok)} hitSlop={2}>
+              {({ pressed }) => <Text style={[st.tok, pressed && { backgroundColor: C.cardHi }]}>{tok} </Text>}
+            </Pressable>
+          ))}
+        </View>
+      </View>
+      <View style={{ flexDirection: 'row', justifyContent: 'center', alignItems: 'center', marginTop: 12, columnGap: 12 }}>
+        <SoundButton onPress={() => speak(x.t)} onSlow={() => speak(x.t, true)} />
+        <Button title={showTr ? 'Çeviriyi gizle' : 'Çeviriyi göster'} kind="ghost" onPress={() => setShowTr((v) => !v)} style={{ paddingHorizontal: 14 }} />
+      </View>
+      {showTr ? <Text style={[st.p, { marginTop: 12 }]}>{x.tr}</Text> : null}
+      <Text style={st.tip}>Bilmediğin kelimeye dokun: anlamı, sesi ve tekrara ekleme</Text>
+      <Modal visible={!!sel} transparent animationType="fade" onRequestClose={() => setSel(null)}>
+        <Pressable style={st.backdrop} onPress={() => setSel(null)}>
+          <View style={st.dialog}>
+            <Text style={st.h1}>{sel?.t}</Text>
+            <Text style={[st.p, { marginTop: 6 }]}>{sel?.tr}</Text>
+            <View style={{ flexDirection: 'row', marginTop: 14, columnGap: 10 }}>
+              <Button title="Dinle" icon="volume-high" kind="ghost" onPress={() => sel && speak(sel.t)} style={{ flex: 1 }} />
+              <Button
+                title="Tekrara ekle"
+                icon="add"
+                onPress={() => {
+                  if (sel) {
+                    onAdd(sel);
+                    Alert.alert('Eklendi', `${plain(sel.t)} yarın tekrarında sorulacak.`);
+                  }
+                  setSel(null);
+                }}
+                style={{ flex: 1 }}
+              />
+            </View>
+          </View>
+        </Pressable>
+      </Modal>
     </View>
   );
 }
@@ -382,4 +511,14 @@ const st = themed(() => ({
   pairWordText: { color: C.text, fontSize: fs(18), fontWeight: '700', marginLeft: 6 },
   nav: { flexDirection: 'row', maxWidth: 640, width: '100%', alignSelf: 'center' },
   again: { color: C.gold, fontSize: fs(13), textAlign: 'center', marginTop: 8, fontWeight: '700' },
+  bubble: { borderRadius: R.lg, padding: 12, marginBottom: 8, maxWidth: '88%' },
+  bubbleL: { backgroundColor: C.card, alignSelf: 'flex-start', borderTopLeftRadius: 6 },
+  bubbleR: { backgroundColor: C.cardHi, alignSelf: 'flex-end', borderTopRightRadius: 6 },
+  who: { color: C.primary, fontSize: fs(11), fontWeight: '900', letterSpacing: 1, marginBottom: 2 },
+  bubbleT: { color: C.text, fontSize: fs(18), fontWeight: '700' },
+  bubbleTr: { color: C.sub, fontSize: fs(13), marginTop: 3 },
+  textBox: { backgroundColor: C.card, borderRadius: R.lg, padding: 16 },
+  tok: { color: C.text, fontSize: fs(19), lineHeight: fs(30), borderRadius: 4 },
+  backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'center', padding: 24 },
+  dialog: { backgroundColor: C.bg, borderRadius: R.lg, padding: 20, maxWidth: 440, width: '100%', alignSelf: 'center' },
 }));

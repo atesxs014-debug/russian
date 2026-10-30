@@ -1,0 +1,354 @@
+# Rusça — orta seviye dilbilgisi, diyaloglar ve yüksek seviye
+== g1|orta|grammar|u21|Haller 1 (падежи)|Nerede, neyi, nereye
+-- grammar|Nerede? (Предложный)|"Nerede?" sorusunda isim в/на'dan sonra çoğunlukla -е alır.
+R в / на + -е|Nerede? sorusunda в (içinde) ya da на (üstünde, -de) sonrası isim çoğunlukla -е alır: Москва → в Москве, стол → на столе.
+E Я живу в Москве.|Moskova'da yaşıyorum.
+E Книга на столе.|Kitap masanın üstünde.
+R -ия → -ии, -ь → -и|-ия ile biten isimler -ии, -ь ile biten dişil isimler -и alır: Россия → в России, тетрадь → в тетради.
+E Мы в России.|Rusya'dayız.
+E Ручка в тетради.|Kalem defterin içinde.
+Q Я живу в ___.|Москве|Москва;Москву;Москвой|Moskova'da yaşıyorum.|в + -е
+Q Кот на ___.|диване|диван;дивана;диваном|Kedi kanepenin üstünde.|на + -е
+Q Мы были в ___.|России|Россия;Россию;Россией|Rusya'daydık.|-ия → -ии
+Q Он работает в ___.|банке|банк;банка;банком|O bankada çalışıyor.|в + -е
+Q Ключи в ___.|сумке|сумка;сумку;сумкой|Anahtarlar çantada.|в + -е
+Q Дети в ___.|школе|школа;школу;школой|Çocuklar okulda.|в + -е
+-- grammar|Neyi? (Винительный)|Fiilden etkilenen nesne belirtme hâline girer.
+R Dişil: -а → -у, -я → -ю|Nesne dişilse sonu değişir: книга → книгу, песня → песню.
+E Я читаю книгу.|Kitap okuyorum.
+E Она любит музыку.|O müziği sever.
+R Eril ve nötr (cansız): değişmez|Cansız eril ve nötr isimler aynı kalır: дом → дом, молоко → молоко.
+E Я вижу дом.|Evi görüyorum.
+E Он пьёт молоко.|O süt içiyor.
+Q Я читаю ___.|газету|газета;газете;газетой|Gazete okuyorum.|-а → -у
+Q Мы смотрим ___.|фильм|фильма;фильме;фильмом|Film izliyoruz.|eril cansız: değişmez
+Q Она пьёт ___.|воду|вода;воде;водой|O su içiyor.|-а → -у
+Q Я люблю ___.|Москву|Москва;Москве;Москвой|Moskova'yı seviyorum.|-а → -у
+Q Он знает эту ___.|песню|песня;песне;песней|O bu şarkıyı biliyor.|-я → -ю
+Q Я иду в ___.|школу|школе;школа;школой|Okula gidiyorum.|Nereye? в + belirtme hâli
+-- grammar|Nerede mi, nereye mi?|Где? (nerede) -е ister, Куда? (nereye) belirtme hâlini ister.
+R Где? → -е|Bir yerde bulunmak: Я в парке. Мама на работе.
+E Я в парке.|Parktayım.
+E Мама на работе.|Annem işte.
+R Куда? → -у / değişmez|Bir yere gitmek: Я иду в парк. Мама идёт на работу.
+E Я иду в парк.|Parka gidiyorum.
+E Мама идёт на работу.|Annem işe gidiyor.
+Q Я иду в ___.|парк|парке;парка;парком|Parka gidiyorum.|Куда? → belirtme hâli
+Q Я сижу в ___.|парке|парк;парка;парком|Parkta oturuyorum.|Где? → -е
+Q Мы едем на ___.|работу|работе;работа;работой|İşe gidiyoruz.|Куда? → -у
+Q Она сейчас на ___.|работе|работу;работа;работой|O şu an işte.|Где? → -е
+Q Где ты? Я в ___.|магазине|магазин;магазина;магазином|Neredesin? Mağazadayım.|Где? → -е
+Q Куда вы идёте? В ___.|театр|театре;театра;театром|Nereye gidiyorsunuz? Tiyatroya.|Куда? → değişmez
+
+== g2|orta|grammar|u25|Haller 2 (падежи)|Yokluk, sahiplik, kime, kiminle
+-- grammar|Yokluk ve sahiplik (Родительный)|"Yok" derken ve "-in" sahipliğinde isim -а / -ы alır.
+R нет + -а / -ы|нет'ten sonra eril/nötr isim -а, dişil isim -ы (ya da -и) alır: брат → нет брата, машина → нет машины.
+E У меня нет брата.|Erkek kardeşim yok.
+E У нас нет машины.|Arabamız yok.
+R Sahiplik: -а / -ы|Bir şeyin kime/neye ait olduğu: книга брата (kardeşin kitabı), центр города (şehrin merkezi).
+E Это машина папы.|Bu babamın arabası.
+E Мы в центре города.|Şehir merkezindeyiz.
+Q У меня нет ___.|времени|время;временем;временах|Vaktim yok.|время → времени (istisna)
+Q Здесь нет ___.|магазина|магазин;магазину;магазином|Burada mağaza yok.|нет + -а
+Q У неё нет ___.|сестры|сестра;сестру;сестрой|Onun kız kardeşi yok.|нет + -ы
+Q Это дом ___.|брата|брат;брату;братом|Bu kardeşimin evi.|sahiplik: -а
+Q Стакан ___, пожалуйста.|воды|вода;воду;водой|Bir bardak su, lütfen.|miktar + -ы
+Q У нас нет ___.|хлеба|хлеб;хлебу;хлебом|Ekmeğimiz yok.|нет + -а
+-- grammar|Kime? (Дательный)|"Bana, sana, anneme" için yönelme hâli kullanılır.
+R мне, тебе, ему, ей|Bana: мне, sana: тебе, ona (erkek): ему, ona (kadın): ей, bize: нам, size: вам, onlara: им.
+E Мне нравится чай.|Çayı severim (bana hoş gelir).
+E Ему двадцать лет.|O yirmi yaşında.
+R İsimler: -у / -е|Eril isimler -у (брату), dişil isimler -е (маме) alır.
+E Я звоню маме.|Anneme telefon ediyorum.
+E Дай брату книгу.|Kardeşine kitabı ver.
+Q ___ нравится музыка.|Мне|Я;Меня;Мной|Müziği severim.|нравится + kime
+Q Я пишу ___.|маме|мама;маму;мамой|Anneme yazıyorum.|dişil: -е
+Q Позвони ___!|брату|брат;брата;братом|Kardeşini ara!|eril: -у
+Q Сколько ___ лет?|тебе|ты;тебя;тобой|Kaç yaşındasın?|yaş: kime
+Q ___ холодно.|Ей|Она;Её;Ею|O (kadın) üşüyor.|холодно + kime
+Q Я дам ___ ключ.|соседу|сосед;соседа;соседом|Komşuya anahtarı vereceğim.|eril: -у
+-- grammar|Kiminle? (Творительный)|"İle" ve meslek söylerken araç hâli kullanılır.
+R с + -ом / -ой|"İle" anlamında с'den sonra eril/nötr -ом, dişil -ой alır: с братом, с мамой.
+E Я гуляю с собакой.|Köpekle yürüyüş yapıyorum.
+E Чай с молоком.|Sütlü çay.
+R Meslek: работать кем|работать / стать sonrası meslek araç hâlindedir: работать врачом, стать учителем.
+E Он работает врачом.|O doktor olarak çalışıyor.
+E Я хочу стать учителем.|Öğretmen olmak istiyorum.
+Q Я живу с ___.|сестрой|сестра;сестру;сестре|Kız kardeşimle yaşıyorum.|с + -ой
+Q Кофе с ___, пожалуйста.|сахаром|сахар;сахара;сахару|Şekerli kahve lütfen.|с + -ом
+Q Она работает ___.|учителем|учитель;учителя;учителю|O öğretmen olarak çalışıyor.|meslek: -ем
+Q Мы говорили с ___.|другом|друг;друга;другу|Arkadaşla konuştuk.|с + -ом
+Q Я пишу ___.|ручкой|ручка;ручку;ручке|Kalemle yazıyorum.|araç: -ой
+Q Он стал ___.|врачом|врач;врача;врачу|O doktor oldu.|стать + -ом
+
+== g3|orta|grammar|u29|Geçmiş ve gelecek zaman|Dün ne yaptın, yarın ne yapacaksın
+-- grammar|Geçmiş zaman|Mastardaki -ть düşer, cinsiyete göre -л / -ла / -ло / -ли eklenir.
+R Eril -л, dişil -ла|читать → он читал, она читала. Konuşan kişinin cinsiyeti önemlidir: я читал (erkek), я читала (kadın).
+E Вчера я читал книгу.|Dün kitap okudum (erkek).
+E Она работала дома.|O evde çalıştı.
+R Çoğul -ли, nötr -ло|мы/вы/они читали; было, стало gibi nötr özneyle -ло.
+E Мы смотрели фильм.|Film izledik.
+E Было холодно.|Hava soğuktu.
+Q Вчера она ___ в кино.|была|был;были;было|Dün o sinemadaydı.|dişil: -ла
+Q Мы ___ по-русски.|говорили|говорил;говорила;говорило|Rusça konuştuk.|çoğul: -ли
+Q Он ___ письмо.|написал|написала;написали;написало|O mektubu yazdı.|eril: -л
+Q Анна, где ты ___ вчера?|была|был;были;быть|Anna, dün neredeydin?|kadına: -ла
+Q Дети ___ в парке.|играли|играл;играла;играло|Çocuklar parkta oynadı.|çoğul: -ли
+Q Вчера ___ дождь.|был|была;были;было|Dün yağmur vardı.|дождь eril
+-- grammar|Gelecek zaman|Süren eylemde буду + mastar; biten eylemde tek kelime.
+R буду + mastar|я буду, ты будешь, он будет, мы будем, вы будете, они будут + mastar: Завтра я буду работать.
+E Завтра я буду работать.|Yarın çalışacağım.
+E Мы будем ждать.|Bekleyeceğiz.
+R Biten eylem: tek kelime|Bitmiş görünüşlü fiilin şimdiki çekimi gelecek anlamı verir: я позвоню (arayacağım).
+E Я позвоню завтра.|Yarın arayacağım.
+E Она купит хлеб.|O ekmek alacak.
+Q Завтра я ___ дома.|буду|будет;будем;был|Yarın evde olacağım.|я → буду
+Q Вы ___ смотреть фильм?|будете|будешь;будут;буду|Film izleyecek misiniz?|вы → будете
+Q Они ___ жить в Москве.|будут|будет;будем;будете|Moskova'da yaşayacaklar.|они → будут
+Q Ты ___ чай?|будешь|будете;буду;будем|Çay içer misin?|ты → будешь
+Q Я ___ тебе завтра.|позвоню|позвонил;позвонить;позвонят|Yarın seni arayacağım.|я + bitmiş fiil
+Q Мы ___ в субботу.|приедем|приехали;приехать;приедут|Cumartesi geleceğiz.|мы + bitmiş fiil
+-- grammar|Dün, bugün, yarın|Zaman sözcüğü fiilin zamanını belirler.
+R вчера, сейчас, завтра|вчера (dün) → geçmiş, сейчас (şimdi) → şimdiki, завтра (yarın) → gelecek.
+E Сейчас я читаю.|Şimdi okuyorum.
+E Завтра мы будем читать.|Yarın okuyacağız.
+R Geçen / gelecek|в прошлом году (geçen yıl), в следующем году (gelecek yıl), на прошлой неделе (geçen hafta).
+E В прошлом году я был в Турции.|Geçen yıl Türkiye'deydim.
+E На следующей неделе я буду отдыхать.|Gelecek hafta dinleneceğim.
+Q Вчера я ___ дома.|был|буду;есть;будь|Dün evdeydim.|вчера → geçmiş
+Q Сейчас она ___ книгу.|читает|читала;будет читать;читать|Şimdi o kitap okuyor.|сейчас → şimdiki
+Q Завтра мы ___ работать.|будем|были;есть;будут|Yarın çalışacağız.|завтра → gelecek
+Q В прошлом году он ___ в Москве.|жил|живёт;будет жить;жить|Geçen yıl Moskova'da yaşıyordu.|geçen yıl → geçmiş
+Q На следующей неделе я ___ в отпуск.|поеду|поехал;ехал;поехала|Gelecek hafta tatile gideceğim.|gelecek → bitmiş fiil
+Q Что ты ___ вчера вечером?|делал|делаешь;будешь делать;делать|Dün akşam ne yaptın?|вчера → geçmiş
+
+== g4|orta|grammar|u33|Fiil görünüşü|Süren ve biten eylem, fiil çiftleri, emir
+-- grammar|Süren ve biten eylem|Rusçada çoğu fiilin iki biçimi var: süreç (НСВ) ve sonuç (СВ).
+R Bitmemiş (НСВ): süreç, tekrar|делать, читать, писать: eylemin kendisi, süreci ya da alışkanlık.
+E Я долго читал эту книгу.|Bu kitabı uzun süre okudum.
+E Каждый день я пишу письма.|Her gün mektup yazarım.
+R Bitmiş (СВ): sonuç|сделать, прочитать, написать: eylem bitti, sonuç var.
+E Я прочитал книгу.|Kitabı (bitirip) okudum.
+E Она написала письмо.|O mektubu yazdı (bitti).
+Q Каждый день я ___ газету.|читаю|прочитаю;прочитал;прочитала|Her gün gazete okurum.|tekrar → НСВ
+Q Я уже ___ эту книгу.|прочитал|читаю;читать;буду читать|Bu kitabı çoktan okudum.|уже → sonuç, СВ
+Q Она долго ___ письмо.|писала|написала;напишет;написать|O uzun süre mektup yazdı.|долго → süreç, НСВ
+Q Ты ___ домашнее задание?|сделал|делать;делай;сделать|Ödevini yaptın mı?|sonuç soruluyor → СВ
+Q Обычно мы ___ в семь.|ужинаем|поужинаем;поужинали;поужинать|Genelde yedide akşam yemeği yeriz.|обычно → НСВ
+Q Наконец он ___ работу.|закончил|заканчивает;заканчивать;кончать|Sonunda işini bitirdi.|наконец → СВ
+-- grammar|Fiil çiftleri|Bitmiş fiil çoğu zaman ön ek alır, bazen kök değişir.
+R Ön ekle: писать → написать|писать → написать, читать → прочитать, смотреть → посмотреть.
+E Давай посмотрим фильм.|Hadi film izleyelim.
+E Я напишу тебе.|Sana yazacağım.
+R Farklı kök: покупать → купить|покупать → купить, говорить → сказать, брать → взять.
+E Я купил хлеб.|Ekmek aldım.
+E Он сказал «привет».|O "merhaba" dedi.
+Q Вчера я ___ новый телефон.|купил|покупаю;купить;покупать|Dün yeni bir telefon aldım.|tek sefer, sonuç → купить
+Q Что он ___?|сказал|сказать;говорить;скажи|O ne dedi?|sonuç → сказать
+Q Можно ___ твою ручку?|взять|взял;возьму;взяла|Kalemini alabilir miyim?|можно + mastar
+Q Я часто ___ продукты здесь.|покупаю|купил;куплю;купить|Burada sık sık yiyecek alırım.|часто → НСВ
+Q Давай ___ этот фильм!|посмотрим|смотрели;посмотрел;смотрит|Hadi bu filmi izleyelim!|давай + biz
+Q Я ___ тебе письмо завтра.|напишу|написал;писал;написать|Yarın sana mektup yazacağım.|gelecek, sonuç → СВ
+-- grammar|Emir kipi|Rica ve emirde fiil -й / -и alır; kibarca -те eklenir.
+R -й / -и (+ -те)|читай(те), говори(те), смотри(те): Читайте, пожалуйста.
+E Читайте, пожалуйста.|Okuyun lütfen.
+E Говори медленно!|Yavaş konuş!
+R Yasak: не + НСВ|"Yapma" derken bitmemiş fiil: не говори, не опаздывай.
+E Не опаздывай!|Geç kalma!
+E Не волнуйтесь.|Endişelenmeyin.
+Q ___, пожалуйста, громче.|Говорите|Говорить;Говорю;Говорил|Lütfen daha yüksek sesle konuşun.|kibar emir: -ите
+Q Не ___!|опаздывай|опоздай;опоздать;опаздывать|Geç kalma!|yasak → не + НСВ
+Q ___ сюда!|Иди|Идти;Иду;Идёт|Buraya gel!|emir: иди
+Q ___ меня, пожалуйста.|Подождите|Подождать;Подожду;Подождал|Beni bekleyin lütfen.|kibar emir
+Q Не ___, всё хорошо.|волнуйся|волноваться;волнуюсь;волновался|Endişelenme, her şey yolunda.|не + emir
+Q ___ это слово ещё раз.|Повторите|Повторить;Повторю;Повторял|Bu kelimeyi bir kez daha tekrarlayın.|kibar emir
+
+== d1|orta|dialog|u37|Günlük diyaloglar|Anya ve Dima ile gerçek konuşmalar
+-- dialog|Tanışma|Anya ve Dima ilk kez tanışıyor.|Anya|Dima
+A Привет! Меня зовут Аня. А тебя?|Selam! Benim adım Anya. Ya seninki?
+B Привет, Аня! Я Дима. Очень приятно.|Selam Anya! Ben Dima. Memnun oldum.
+A Мне тоже. Ты откуда?|Ben de. Nerelisin?
+B Я из Казани. А ты?|Kazan'danım. Ya sen?
+A Я из Москвы, но сейчас живу здесь.|Moskova'danım ama şimdi burada yaşıyorum.
+B Здорово! Ты здесь учишься?|Harika! Burada mı okuyorsun?
+A Нет, я работаю. Я дизайнер.|Hayır, çalışıyorum. Tasarımcıyım.
+B Интересно! Давай выпьем кофе как-нибудь.|İlginç! Bir ara kahve içelim.
+-- dialog|Kafede|Anya garson, Dima sipariş veriyor.|Anya|Dima
+A Добрый день! Что будете заказывать?|İyi günler! Ne sipariş edeceksiniz?
+B Здравствуйте. Можно меню?|Merhaba. Menüyü alabilir miyim?
+A Конечно, вот меню.|Tabii, buyurun menü.
+B Мне, пожалуйста, капучино и блины.|Bana lütfen bir kapuçino ve krep.
+A С чем блины: с мясом или с сыром?|Krep neyle olsun: etli mi peynirli mi?
+B С сыром, пожалуйста.|Peynirli lütfen.
+A Что-нибудь ещё?|Başka bir şey?
+B Нет, спасибо. Счёт, пожалуйста.|Hayır, teşekkürler. Hesap lütfen.
+-- dialog|Yol sormak|Dima metroyu arıyor.|Anya|Dima
+B Извините, вы не подскажете, где метро?|Affedersiniz, metro nerede söyler misiniz?
+A Метро? Идите прямо, потом налево.|Metro mu? Düz gidin, sonra sola.
+B Это далеко?|Uzak mı?
+A Нет, минут пять пешком.|Hayır, yürüyerek beş dakika kadar.
+B А автобус туда идёт?|Peki oraya otobüs gidiyor mu?
+A Да, автобус номер семь.|Evet, yedi numaralı otobüs.
+B Большое спасибо!|Çok teşekkürler!
+A Не за что. Удачи!|Bir şey değil. İyi şanslar!
+-- dialog|Hafta sonu planı|Anya, Dima'yı sinemaya çağırıyor.|Anya|Dima
+A Дима, что ты делаешь в субботу?|Dima, cumartesi ne yapıyorsun?
+B Пока не знаю. А что?|Henüz bilmiyorum. Neden?
+A Хочешь пойти в кино?|Sinemaya gitmek ister misin?
+B С удовольствием! Какой фильм?|Memnuniyetle! Hangi film?
+A Новая комедия. Говорят, очень смешная.|Yeni bir komedi. Çok komik diyorlar.
+B Отлично. Во сколько встретимся?|Harika. Saat kaçta buluşalım?
+A Давай в шесть у метро.|Altıda metronun yanında olsun.
+B Договорились. До субботы!|Anlaştık. Cumartesiye kadar!
+
+== y1|yuksek|grammar|end|Hareket fiilleri|Gitmek, gelmek, ayrılmak
+-- grammar|идти / ходить|Yürüyerek gitmek: şu an tek yön mü, yoksa gidip gelme mi?
+R идти: şu an, tek yön|Şu anda bir yere doğru gidiyorsan: я иду, ты идёшь, они идут.
+E Я иду в магазин.|(Şu an) mağazaya gidiyorum.
+E Куда ты идёшь?|Nereye gidiyorsun?
+R ходить: alışkanlık, gidip gelme|Düzenli gitme ya da gidip dönme: я хожу, ты ходишь, мы ходили.
+E Я хожу в спортзал по понедельникам.|Pazartesileri spor salonuna giderim.
+E Вчера мы ходили в театр.|Dün tiyatroya gidip geldik.
+Q Сейчас я ___ домой.|иду|хожу;ходил;ходить|Şu an eve gidiyorum.|şu an, tek yön → идти
+Q Каждый день он ___ на работу.|ходит|идёт;шёл;идти|Her gün işe gider.|alışkanlık → ходить
+Q Вчера мы ___ в музей.|ходили|шли;идём;идут|Dün müzeye gidip geldik.|gidip dönme → ходить
+Q Смотри, вон ___ автобус!|идёт|ходит;ходил;ходят|Bak, otobüs geliyor!|şu an → идти
+Q Ребёнок уже ___.|ходит|идёт;шёл;идти|Bebek artık yürüyor.|yürüme yeteneği → ходить
+Q Куда вы сейчас ___?|идёте|ходите;ходили;ходят|Şu an nereye gidiyorsunuz?|сейчас → идти
+-- grammar|ехать / ездить|Araçla gitmek için aynı ayrım geçerli.
+R ехать: araçla, şu an|я еду, ты едешь, они едут: Я еду на работу на метро.
+E Я еду на работу на метро.|Metroyla işe gidiyorum.
+E Мы едем в Петербург.|Petersburg'a gidiyoruz.
+R ездить: araçla, düzenli|я езжу, ты ездишь: Летом мы ездим на море.
+E Летом мы ездим на море.|Yazın denize gideriz.
+E Ты ездил в Казань?|Kazan'a gidip geldin mi?
+Q Сейчас мы ___ в аэропорт.|едем|ездим;ездили;ездить|Şu an havalimanına gidiyoruz.|şu an → ехать
+Q Каждое лето они ___ в Турцию.|ездят|едут;ехали;ехать|Her yaz Türkiye'ye giderler.|düzenli → ездить
+Q В прошлом году я ___ в Сочи.|ездил|ехал;еду;ехать|Geçen yıl Soçi'ye gidip geldim.|gidip dönme → ездить
+Q Смотри, как медленно ___ этот автобус!|едет|ездит;ездил;ездят|Bak, bu otobüs ne kadar yavaş gidiyor!|şu an → ехать
+Q Ты часто ___ на дачу?|ездишь|едешь;ехал;ехать|Yazlığa sık gider misin?|часто → ездить
+Q Куда ты сейчас ___?|едешь|ездишь;ездил;ездить|Şu an nereye gidiyorsun (araçla)?|сейчас → ехать
+-- grammar|Ön ekli hareket fiilleri|при-, у-, в-, вы- hareketin yönünü söyler.
+R при- (varmak), у- (ayrılmak)|прийти / приехать: gelmek, varmak; уйти / уехать: ayrılıp gitmek.
+E Он пришёл домой в семь.|Saat yedide eve geldi.
+E Она уехала в Москву.|O Moskova'ya gitti (ayrıldı).
+R в- (girmek), вы- (çıkmak)|войти: içeri girmek; выйти: dışarı çıkmak.
+E Войдите!|Girin!
+E Я выхожу из дома в восемь.|Sekizde evden çıkarım.
+Q Гости ___ в шесть часов.|пришли|ушли;вышли;вошли|Misafirler saat altıda geldi.|при- = varmak
+Q Мы ___ из дома в восемь утра.|вышли|вошли;пришли;приехали|Sabah sekizde evden çıktık.|вы- + из = çıkmak
+Q Пожалуйста, ___ в комнату.|войдите|выйдите;уйдите;придите|Lütfen odaya girin.|в- = girmek
+Q Она ___ из комнаты и закрыла дверь.|вышла|вошла;пришла;приехала|Odadan çıktı ve kapıyı kapattı.|вы- = çıkmak
+Q Вчера ко мне ___ брат из Казани.|приехал|уехал;выехал;въехал|Dün kardeşim Kazan'dan bana geldi.|ко мне + при-
+Q Когда ты ___ из отпуска?|вернёшься|уедешь;выйдешь;войдёшь|Tatilden ne zaman döneceksin?|dönmek: вернуться
+
+== y2|yuksek|grammar|end|Sıfat-fiiller ve zarf-fiiller|Okuyan, yazılmış, okurken
+-- grammar|Şimdiki sıfat-fiil (-щий)|"Yapan" anlamı: читающий (okuyan), говорящий (konuşan).
+R -ущий / -ящий: yapan|Şimdiki zaman 3. çoğuldan: читают → читающий, говорят → говорящий.
+E Человек, читающий газету, — мой отец.|Gazete okuyan adam benim babam.
+E У них говорящий попугай.|Onların konuşan bir papağanı var.
+R Sıfat gibi uyum|читающий мальчик, читающая девочка, читающие дети; hâle göre de çekilir.
+E Девочка, поющая песню, — моя сестра.|Şarkı söyleyen kız benim kardeşim.
+E Работающие люди устают.|Çalışan insanlar yorulur.
+Q Мальчик, ___ в футбол, — мой сын.|играющий|играющая;играющие;играет|Futbol oynayan çocuk benim oğlum.|eril yalın: -ий
+Q Женщина, ___ по телефону, — врач.|говорящая|говорящий;говорящие;говорит|Telefonda konuşan kadın doktor.|dişil: -ая
+Q Студенты, ___ русский язык, сидят здесь.|изучающие|изучающий;изучающая;изучают|Rusça öğrenen öğrenciler burada oturuyor.|çoğul: -ие
+Q Я знаю человека, ___ в Москве.|живущего|живущий;живущая;живёт|Moskova'da yaşayan birini tanıyorum.|знаю кого → -его
+Q Не буди ___ собаку.|спящую|спящий;спящая;спит|Uyuyan köpeği uyandırma.|belirtme hâli: -ую
+Q Поезд, ___ в Москву, опаздывает.|идущий|идущая;идущие;идёт|Moskova'ya giden tren gecikiyor.|eril: -ий
+-- grammar|Geçmiş sıfat-fiil (-вший / -нный)|"Yapmış olan" ve "yapılmış" anlamları.
+R -вший: yapmış olan|Geçmiş kökten: сдал → сдавший, написал → написавший.
+E Студент, сдавший экзамен, счастлив.|Sınavı geçen öğrenci mutlu.
+E Я видел человека, написавшего эту книгу.|Bu kitabı yazan adamı gördüm.
+R -нный / -тый: yapılmış|Edilgen: написать → написанный, открыть → открытый; kısa biçim: дверь открыта.
+E Это письмо, написанное вчера.|Bu dün yazılmış mektup.
+E Дверь открыта.|Kapı açık.
+Q Книга, ___ в 1869 году, очень известна.|написанная|написавшая;написанный;пишущая|1869'da yazılmış kitap çok ünlüdür.|edilgen, dişil
+Q Художник, ___ эту картину, жил в Париже.|написавший|написанный;написанная;написанное|Bu tabloyu yapan ressam Paris'te yaşadı.|etken: -вший
+Q Магазин уже ___.|закрыт|закрыла;закрывший;закрывать|Mağaza artık kapalı.|kısa edilgen
+Q Это ___ окно.|разбитое|разбитый;разбитая;разбивший|Bu kırık (kırılmış) bir pencere.|nötr: -ое
+Q Девушка, ___ вчера, — моя подруга.|звонившая|звонивший;звонившие;звонит|Dün arayan kız arkadaşım.|dişil: -ая
+Q Все билеты ___.|проданы|продан;продана;продавшие|Tüm biletler satıldı.|çoğul kısa biçim
+-- grammar|Zarf-fiiller (-я / -в)|"Yaparken" ve "yapınca" tek kelimeyle.
+R -я: yaparken|Şimdiki kökten: читать → читая, слушать → слушая.
+E Читая книгу, он уснул.|Kitap okurken uyuyakaldı.
+E Он работает, слушая музыку.|Müzik dinleyerek çalışıyor.
+R -в / -вшись: yapınca|Bitmiş fiilden: сделать → сделав, вернуться → вернувшись.
+E Сделав уроки, я пошёл гулять.|Ödevi bitirince yürüyüşe çıktım.
+E Прочитав письмо, она заплакала.|Mektubu okuyunca ağladı.
+Q ___ музыку, я готовлю ужин.|Слушая|Слушав;Слушать;Слушаю|Müzik dinlerken akşam yemeği hazırlarım.|aynı anda → -я
+Q ___ домой, он сразу лёг спать.|Вернувшись|Возвращаясь;Вернуться;Вернулся|Eve dönünce hemen yattı.|önce → -вшись
+Q Она говорила, ___.|улыбаясь|улыбаться;улыбается;улыбалась|Gülümseyerek konuşuyordu.|aynı anda → -я
+Q ___ работу, мы пошли в кафе.|Закончив|Заканчивая;Закончить;Закончили|İşi bitirince kafeye gittik.|önce → -в
+Q Он переходил улицу, ___ по телефону.|разговаривая|разговаривать;разговаривал;разговор|Telefonda konuşarak karşıya geçiyordu.|aynı anda → -я
+Q ___ билет, я пошёл на вокзал.|Купив|Покупать;Купил;Купить|Bileti alınca istasyona gittim.|önce → -в
+
+== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+-- text|Моя Москва|Olga Moskova'daki hayatını anlatıyor.
+T Меня зовут Ольга. Я живу в Москве уже десять лет. Каждое утро я езжу на работу на метро, потому что это быстро и удобно. Вечером я люблю гулять по старому центру. Летом в парках много людей: кто-то читает, кто-то играет в шахматы. Зимой здесь очень холодно, но красиво, когда идёт снег. Иногда я скучаю по родному городу, но Москва стала моим домом.
+TR Benim adım Olga. On yıldır Moskova'da yaşıyorum. Her sabah işe metroyla giderim, çünkü hızlı ve rahat. Akşamları eski merkezde yürümeyi severim. Yazın parklarda çok insan olur: kimi okur, kimi satranç oynar. Kışın burası çok soğuk ama kar yağınca güzel. Bazen memleketimi özlüyorum ama Moskova benim evim oldu.
+G уже|artık, zaten
+G удобно|rahat, kullanışlı
+G гулять|yürüyüş yapmak, gezmek
+G шахматы|satranç
+G скучаю|özlüyorum
+G родному|doğduğu, memleket (родной)
+G стала|oldu (dişil)
+Q Сколько лет Ольга живёт в Москве?|Десять лет|Пять лет;Двадцать лет;Один год
+Q Как Ольга ездит на работу?|На метро|На машине;На автобусе;Пешком
+Q Что люди делают в парках летом?|Читают и играют в шахматы|Плавают в реке;Катаются на лыжах;Работают
+-- text|Письмо другу|Maksim arkadaşına üniversite hayatını yazıyor.
+T Привет, Саша! Как у тебя дела? У меня всё хорошо. В сентябре я начал учиться в университете. Учиться интересно, но очень трудно: каждый день много заданий. Я живу в общежитии с двумя ребятами из Китая и Бразилии. Мы говорим по-русски, и это отличная практика! В выходные мы ходим в кино или готовим вместе. Приезжай ко мне в гости в декабре! Пиши, жду ответа. Твой друг Максим.
+TR Selam Saşa! Nasılsın? Bende her şey yolunda. Eylülde üniversitede okumaya başladım. Okumak ilginç ama çok zor: her gün çok ödev var. Yurtta Çin'den ve Brezilya'dan iki gençle yaşıyorum. Rusça konuşuyoruz ve bu harika bir pratik! Hafta sonları sinemaya gideriz ya da birlikte yemek yaparız. Aralıkta bana misafirliğe gel! Yaz, cevabını bekliyorum. Arkadaşın Maksim.
+G начал|başladı
+G трудно|zor
+G заданий|ödevler (задание)
+G общежитии|yurtta (общежитие)
+G ребятами|gençlerle, çocuklarla
+G вместе|birlikte
+G ответа|cevap (ответ)
+Q Где учится Максим?|В университете|В школе;На курсах;Дома
+Q С кем живёт Максим?|С двумя ребятами|С родителями;Один;С сестрой
+Q Когда Максим приглашает Сашу в гости?|В декабре|В сентябре;Летом;В выходные
+-- text|Русская зима|Rusya'da kış ve Yılbaşı.
+T Зима в России длинная и снежная. В некоторых городах температура опускается до минус тридцати градусов. Но люди не сидят дома: они катаются на лыжах и коньках, лепят снеговиков и гуляют в лесу. Самый любимый праздник зимы — Новый год. Семьи собираются за большим столом, едят салат «оливье» и смотрят, как в полночь бьют часы на Красной площади. А первого января многие долго спят!
+TR Rusya'da kış uzun ve karlıdır. Bazı şehirlerde sıcaklık eksi otuz dereceye kadar düşer. Ama insanlar evde oturmaz: kayak ve paten kayarlar, kardan adam yaparlar ve ormanda yürürler. Kışın en sevilen bayramı Yılbaşı'dır. Aileler büyük bir masa etrafında toplanır, "olivye" salatası yer ve gece yarısı Kızıl Meydan'daki saatin çalışını izler. Bir Ocak'ta da pek çok kişi uzun uzun uyur!
+G снежная|karlı
+G опускается|düşer, iner
+G катаются|kayarlar (кататься)
+G лепят|şekil verirler, yaparlar (лепить)
+G праздник|bayram
+G собираются|toplanırlar
+G полночь|gece yarısı
+Q Какая зима в России?|Длинная и снежная|Короткая и тёплая;Дождливая;Сухая и жаркая
+Q Какой самый любимый праздник зимы?|Новый год|День рождения;Восьмое марта;День учителя
+Q Что делают многие первого января?|Долго спят|Рано встают;Идут на работу;Едут на море
+
+== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+-- dialog|Fikrini söyle|Şehir mi köy mü? Dima fikrini savunuyor.|Anya|Dima
+A Дима, как ты думаешь, лучше жить в городе или в деревне?|Dima, sence şehirde mi yaşamak daha iyi, köyde mi?
+B По-моему, в городе. Там больше возможностей и работы.|Bence şehirde. Orada daha çok fırsat ve iş var.
+A Но в городе шумно и воздух грязный.|Ama şehir gürültülü ve hava kirli.
+B Это правда, зато можно ходить в театры и музеи.|Doğru, buna karşın tiyatrolara ve müzelere gidebilirsin.
+A А я мечтаю о маленьком доме у реки.|Ben ise nehir kenarında küçük bir ev hayal ediyorum.
+B Звучит прекрасно, но мне там было бы скучно.|Kulağa harika geliyor ama ben orada sıkılırdım.
+A Значит, у каждого свой вкус!|Demek ki herkesin zevki farklı!
+B Именно. Главное — жить там, где ты счастлив.|Aynen. Önemli olan mutlu olduğun yerde yaşamak.
+-- dialog|Doktorda|Dima'nın boğazı ağrıyor.|Doktor|Dima
+A Здравствуйте, на что жалуетесь?|Merhaba, şikâyetiniz nedir?
+B У меня уже три дня болит горло и голова.|Üç gündür boğazım ve başım ağrıyor.
+A Температура есть?|Ateşiniz var mı?
+B Да, вчера вечером было тридцать восемь.|Evet, dün akşam otuz sekizdi.
+A Откройте рот, пожалуйста. Да, горло красное.|Ağzınızı açın lütfen. Evet, boğaz kızarmış.
+B Это что-то серьёзное?|Ciddi bir şey mi?
+A Нет, это простуда. Пейте много чая и отдыхайте.|Hayır, soğuk algınlığı. Bol çay için ve dinlenin.
+B Спасибо, доктор. Мне нужен больничный?|Teşekkürler doktor. Rapor almam gerekiyor mu?
+-- dialog|İş görüşmesi|Dima bir mühendislik işine başvuruyor.|Anya|Dima
+A Расскажите немного о себе.|Biraz kendinizden bahseder misiniz?
+B Меня зовут Дмитрий, я инженер. Пять лет работаю в строительной компании.|Adım Dmitriy, mühendisim. Beş yıldır bir inşaat şirketinde çalışıyorum.
+A Почему вы хотите работать у нас?|Neden bizde çalışmak istiyorsunuz?
+B Ваша компания делает интересные проекты, и я хочу развиваться.|Şirketiniz ilginç projeler yapıyor ve kendimi geliştirmek istiyorum.
+A Какие у вас сильные стороны?|Güçlü yönleriniz neler?
+B Я ответственный, умею работать в команде и быстро учусь.|Sorumluluk sahibiyim, ekip çalışmasını bilirim ve hızlı öğrenirim.
+A Когда вы готовы начать?|Ne zaman başlamaya hazırsınız?
+B Через две недели, когда закончу текущий проект.|İki hafta sonra, mevcut projeyi bitirince.

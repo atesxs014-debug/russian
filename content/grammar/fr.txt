@@ -1,0 +1,354 @@
+# Fransızca — orta seviye dilbilgisi, diyaloglar ve yüksek seviye
+== g1|orta|grammar|u21|Artikeller ve şimdiki zaman|le, la, les ve -er fiilleri
+-- grammar|le, la, les|Her ismin cinsiyeti var; artikel onu gösterir.
+R Belirli artikel|Eril: le livre, dişil: la table, ünlüden önce: l'ami, çoğul: les livres.
+E Le livre est sur la table.|Kitap masanın üstünde.
+E J'aime l'école.|Okulu seviyorum.
+R Belirsiz ve bölüm artikeli|un / une / des (bir, birkaç); du / de la (biraz): du pain, de la confiture.
+E Je mange du pain.|Ekmek yiyorum.
+E Il y a une pomme et des oranges.|Bir elma ve birkaç portakal var.
+Q ___ soleil brille.|Le|La;Les;L'|Güneş parlıyor.|soleil eril → le
+Q J'ai ___ sœur et deux frères.|une|un;des;le|Bir kız kardeşim ve iki erkek kardeşim var.|sœur dişil → une
+Q ___ enfants jouent dans le parc.|Les|Le;La;Un|Çocuklar parkta oynuyor.|çoğul → les
+Q Je bois ___ eau.|de l'|du;de la;des|Su içiyorum.|ünlüden önce → de l'
+Q Tu veux ___ café ?|du|de la;des;une|Kahve ister misin?|eril, miktar → du
+Q C'est ___ voiture de mon père.|la|le;les;un|Bu babamın arabası.|voiture dişil → la
+-- grammar|-er fiilleri (présent)|parler, aimer, habiter: en büyük fiil grubu.
+R je parle, tu parles, il parle|je -e, tu -es, il/elle -e, nous -ons, vous -ez, ils -ent.
+E Je parle français.|Fransızca konuşuyorum.
+E Nous habitons à Paris.|Paris'te oturuyoruz.
+R Olumsuz: ne … pas|Fiil ne ve pas arasına girer: Je ne parle pas allemand.
+E Il ne mange pas de viande.|O et yemez.
+E Vous n'aimez pas le thé ?|Çay sevmez misiniz?
+Q Nous ___ le français.|parlons|parlez;parlent;parle|Fransızca konuşuyoruz.|nous → -ons
+Q Tu ___ à Lyon ?|habites|habite;habitez;habitons|Lyon'da mı oturuyorsun?|tu → -es
+Q Ils ___ la musique.|aiment|aime;aimons;aimez|Onlar müziği sever.|ils → -ent
+Q Je ne travaille ___ le dimanche.|pas|non;rien de;ne|Pazar günü çalışmam.|ne … pas
+Q Vous ___ quelle langue ?|parlez|parlons;parles;parlent|Hangi dili konuşuyorsunuz?|vous → -ez
+Q Elle ___ la télé le soir.|regarde|regardes;regardent;regardez|Akşamları televizyon izler.|elle → -e
+-- grammar|être, avoir, aller, faire|En sık kullanılan düzensiz fiiller.
+R être ve avoir|je suis, tu es, il est, nous sommes, vous êtes, ils sont; j'ai, tu as, il a, nous avons, vous avez, ils ont.
+E Je suis fatigué.|Yorgunum.
+E Nous avons un chien.|Bir köpeğimiz var.
+R aller ve faire|je vais, tu vas, il va, nous allons, ils vont; je fais, tu fais, il fait, nous faisons, ils font.
+E Je vais au cinéma.|Sinemaya gidiyorum.
+E Qu'est-ce que tu fais ?|Ne yapıyorsun?
+Q Nous ___ étudiants.|sommes|sont;êtes;avons|Öğrenciyiz.|être, nous → sommes
+Q Elle ___ vingt ans.|a|est;as;ont|O yirmi yaşında.|yaş → avoir
+Q Je ___ au travail en bus.|vais|va;vas;allons|İşe otobüsle giderim.|aller, je → vais
+Q Ils ___ du sport le week-end.|font|fait;faisons;faites|Hafta sonu spor yaparlar.|faire, ils → font
+Q Vous ___ français ?|êtes|sommes;sont;avez|Fransız mısınız?|être, vous → êtes
+Q Tu ___ faim ?|as|es;a;ai|Aç mısın?|faim → avoir
+
+== g2|orta|grammar|u25|Passé composé|Dün ne yaptın?
+-- grammar|avoir + participe|Bitmiş geçmiş eylemler için.
+R -er → -é|parler → j'ai parlé, manger → nous avons mangé.
+E J'ai mangé une pizza.|Pizza yedim.
+E Nous avons regardé un film.|Film izledik.
+R Düzensiz participe|faire → fait, prendre → pris, voir → vu, boire → bu, écrire → écrit.
+E Il a pris le train.|Trene bindi.
+E Tu as vu ce film ?|Bu filmi gördün mü?
+Q Hier, j'___ mangé au restaurant.|ai|suis;as;a|Dün restoranda yedim.|avoir, je → ai
+Q Nous avons ___ la télé.|regardé|regarder;regardons;regardait|Televizyon izledik.|-er → -é
+Q Elle a ___ un café.|bu|buvé;boire;boit|Bir kahve içti.|boire → bu
+Q Qu'est-ce que tu as ___ ce week-end ?|fait|faisé;faire;fais|Bu hafta sonu ne yaptın?|faire → fait
+Q Ils ont ___ le bus.|pris|prendu;prendre;prennent|Otobüse bindiler.|prendre → pris
+Q J'ai ___ une lettre à ma mère.|écrit|écrivé;écrire;écris|Anneme bir mektup yazdım.|écrire → écrit
+-- grammar|être + participe|Hareket ve durum değişikliği fiilleri être alır; participe özneye uyar.
+R aller, venir, partir, arriver…|je suis allé(e), elle est partie, nous sommes arrivés.
+E Je suis allé à Paris.|Paris'e gittim.
+E Elle est arrivée hier.|Dün geldi.
+R Uyum: -e, -s, -es|Dişil özne -e, çoğul -s alır: elles sont parties.
+E Nous sommes restés à la maison.|Evde kaldık.
+E Elles sont nées en 2000.|2000'de doğdular.
+Q Je ___ allé au marché.|suis|ai;es;est|Pazara gittim.|aller → être
+Q Elle est ___ à huit heures.|partie|parti;partis;partir|Saat sekizde çıktı.|dişil → -e
+Q Nous ___ arrivés en retard.|sommes|avons;êtes;sont|Geç geldik.|arriver → être
+Q Ils sont ___ à la maison.|restés|resté;restées;rester|Evde kaldılar.|eril çoğul → -s
+Q Tu es ___ en France ?|né|nait;naître;naissé|Fransa'da mı doğdun?|naître → né
+Q Marie ___ tombée dans la rue.|est|a;ai;es|Marie sokakta düştü.|tomber → être
+-- grammar|Olumsuz ve soru|ne … pas, est-ce que ile geçmiş zaman.
+R ne + avoir/être + pas + participe|Je n'ai pas compris. Il n'est pas venu.
+E Je n'ai pas compris.|Anlamadım.
+E Elle n'est pas venue.|O gelmedi.
+R Est-ce que … ?|Soru: Est-ce que tu as fini ? Tu as fini ?
+E Est-ce que vous avez réservé ?|Rezervasyon yaptınız mı?
+E Tu as déjà mangé ?|Yemek yedin mi?
+Q Je n'ai ___ dormi.|pas|ne;rien pas;non|Uyumadım.|ne … pas
+Q Il ___ pas venu à la fête.|n'est|n'a;ne;est|Partiye gelmedi.|venir → être
+Q ___ tu as fini tes devoirs ?|Est-ce que|Qu'est-ce que;Que;Est|Ödevlerini bitirdin mi?|evet/hayır sorusu
+Q Nous n'avons pas ___ le film.|aimé|aimer;aimons;aimait|Filmi beğenmedik.|participe
+Q Vous êtes déjà ___ à Rome ?|allés|allé à;aller;allez|Hiç Roma'ya gittiniz mi?|vous (çoğul) → allés
+Q Elle n'a rien ___.|dit|dire;disé;dis|Hiçbir şey söylemedi.|dire → dit
+
+== g3|orta|grammar|u29|Imparfait ve futur|Eskiden … ve yarın …
+-- grammar|Imparfait|Geçmişte süren durumlar, alışkanlıklar, betimleme.
+R Kök (nous) + -ais, -ait, -aient|nous parlons → je parlais, il parlait, ils parlaient. être → j'étais.
+E Quand j'étais petit, j'habitais à Lyon.|Küçükken Lyon'da otururdum.
+E Il faisait beau.|Hava güzeldi.
+R Passé composé mi, imparfait mi?|Arka plan → imparfait, olan olay → passé composé: Je dormais quand il a appelé.
+E Je lisais quand le téléphone a sonné.|Telefon çaldığında kitap okuyordum.
+E Il pleuvait, alors nous sommes restés.|Yağmur yağıyordu, o yüzden kaldık.
+Q Quand j'étais enfant, je ___ au foot.|jouais|joue;jouerai;jouerais|Çocukken futbol oynardım.|alışkanlık → imparfait
+Q Hier, il ___ froid.|faisait|fait;fera;faisons|Dün hava soğuktu.|betimleme → imparfait
+Q Nous ___ à la mer chaque été.|allions|allons;irons;allez|Her yaz denize giderdik.|alışkanlık → imparfait
+Q Je dormais quand tu ___.|as appelé|appelais;appelleras;appelles|Sen aradığında uyuyordum.|olay → passé composé
+Q Elle ___ très gentille.|était|sera;étions;serait|O çok kibardı.|être → était
+Q Ils ___ la télé quand je suis arrivé.|regardaient|ont regardé;regarderont;regardent|Ben geldiğimde televizyon izliyorlardı.|arka plan → imparfait
+-- grammar|Futur proche ve futur simple|Yakın gelecek ve genel gelecek.
+R aller + mastar|Je vais manger. Nous allons partir demain.
+E Je vais appeler ma mère.|Annemi arayacağım.
+E Il va pleuvoir.|Yağmur yağacak.
+R Futur simple: mastar + -ai, -as, -a|parler → je parlerai, finir → tu finiras. Düzensiz: être → je serai, avoir → j'aurai, aller → j'irai.
+E Demain, je travaillerai à la maison.|Yarın evde çalışacağım.
+E Nous serons en vacances en août.|Ağustosta tatilde olacağız.
+Q Ce soir, je ___ regarder un film.|vais|va;irai;allais|Bu akşam film izleyeceğim.|aller + mastar
+Q Demain, il ___ beau.|fera|fait;faisait;a fait|Yarın hava güzel olacak.|faire → fera
+Q Nous ___ à Paris l'année prochaine.|irons|allions;sommes allés;irions|Gelecek yıl Paris'e gideceğiz.|aller → irons
+Q Tu ___ le temps demain ?|auras|as eu;avais;aies|Yarın vaktin olacak mı?|avoir → auras
+Q Ils vont ___ le train.|prendre|prennent;pris;prendront|Trene binecekler.|aller + mastar
+Q Je ___ médecin un jour.|serai|étais;sois;été|Bir gün doktor olacağım.|être → serai
+-- grammar|Conditionnel|Kibar istek ve hayal: -rais.
+R Futur kökü + -ais|je voudrais, tu pourrais, il aimerait, nous serions.
+E Je voudrais un café, s'il vous plaît.|Bir kahve rica ediyorum.
+E Tu pourrais m'aider ?|Bana yardım edebilir misin?
+R Si + imparfait, conditionnel|Si j'avais le temps, je voyagerais.
+E Si j'étais riche, j'achèterais une maison.|Zengin olsaydım bir ev alırdım.
+E Si tu venais, on serait contents.|Gelseydin mutlu olurduk.
+Q Je ___ une chambre pour deux nuits.|voudrais|voulu;voudras;voulons|İki gecelik bir oda istiyorum.|kibar istek
+Q ___-vous fermer la fenêtre ?|Pourriez|Pourrions;Pourrais;Pouvions|Pencereyi kapatabilir misiniz?|kibar → pourriez
+Q Si j'avais de l'argent, je ___ le monde.|visiterais|visite;visiterai;visitais|Param olsaydı dünyayı gezerdim.|si + imparfait → conditionnel
+Q Si tu ___ plus, tu réussirais.|travaillais|travailles;travailleras;travaillerais|Daha çok çalışsan başarırdın.|si + imparfait
+Q À ta place, je ne ___ pas.|partirais|pars;partirai;partais|Yerinde olsam gitmezdim.|tavsiye → conditionnel
+Q Nous ___ bien venir avec vous.|aimerions|aimeriez;aimeraient;aimé|Sizinle gelmeyi çok isteriz.|kibar → conditionnel
+
+== g4|orta|grammar|u33|Zamirler|le, la, lui, leur, y, en
+-- grammar|Nesne zamirleri: le, la, les|Doğrudan nesne fiilden önce gelir.
+R le / la / les|Tu vois Paul ? Oui, je le vois. Tu aimes cette chanson ? Oui, je l'aime.
+E Je le connais.|Onu tanıyorum.
+E Tu les as vus ?|Onları gördün mü?
+R me, te, nous, vous|Il me regarde. Je t'aime. Elle nous appelle.
+E Tu m'entends ?|Beni duyuyor musun?
+E Je vous remercie.|Size teşekkür ederim.
+Q Tu connais Marie ? Oui, je ___ connais.|la|le;lui;les|Marie'yi tanıyor musun? Evet, onu tanıyorum.|dişil nesne → la
+Q Tu as les clés ? Oui, je ___ ai.|les|le;la;leur|Anahtarlar sende mi? Evet, bende.|çoğul → les
+Q Il regarde le match ? Oui, il ___ regarde.|le|la;lui;les|Maçı izliyor mu? Evet, izliyor.|eril nesne → le
+Q Je ___ aime, maman !|t'|te;tu;toi|Seni seviyorum anne!|ünlüden önce → t'
+Q Elle ___ invite à dîner, nous.|nous|vous;leur;lui|O bizi yemeğe davet ediyor.|bizi → nous
+Q Tu ___ entends ? Oui, je t'entends.|m'|me;moi;mon|Beni duyuyor musun? Evet, seni duyuyorum.|ünlüden önce → m'
+-- grammar|lui ve leur|"Ona, onlara": à + kişi yerine.
+R lui (ona), leur (onlara)|Je parle à Paul → Je lui parle. Je téléphone à mes parents → Je leur téléphone.
+E Je lui donne un cadeau.|Ona bir hediye veriyorum.
+E Nous leur écrivons souvent.|Onlara sık yazarız.
+R le mi lui mı?|aider qn → le/la; parler à qn → lui: Je l'aide. Je lui parle.
+E Je l'aide avec ses devoirs.|Ödevlerinde ona yardım ediyorum.
+E Tu lui as dit la vérité ?|Ona gerçeği söyledin mi?
+Q Tu parles à ton frère ? Oui, je ___ parle.|lui|le;la;leur|Kardeşinle konuşuyor musun? Evet, onunla konuşuyorum.|à + kişi → lui
+Q Je téléphone à mes amis. Je ___ téléphone.|leur|les;lui;leurs|Arkadaşlarımı arıyorum.|à + çoğul → leur
+Q Elle ___ a offert des fleurs, à sa mère.|lui|la;le;leur|Annesine çiçek hediye etti.|à + kişi → lui
+Q Il ___ a demandé leur nom.|leur|les;lui;leurs|Onlara isimlerini sordu.|à + çoğul → leur
+Q Tu aides Sophie ? Oui, je ___ aide.|l'|lui;leur;les|Sophie'ye yardım ediyor musun? Evet.|aider + doğrudan nesne → l'
+Q Qu'est-ce que tu ___ dis, au professeur ?|lui|le;leur;la|Öğretmene ne diyorsun?|à + kişi → lui
+-- grammar|y ve en|y: oraya / ona (şey); en: ondan, -den.
+R y: à + yer / şey|Tu vas à Paris ? Oui, j'y vais. Tu penses à l'examen ? Oui, j'y pense.
+E On y va !|Hadi gidelim!
+E J'y habite depuis deux ans.|İki yıldır orada oturuyorum.
+R en: de + şey, miktar|Tu veux du café ? Oui, j'en veux. Combien de frères as-tu ? J'en ai deux.
+E J'en ai trois.|Üç tane var.
+E Il en parle souvent.|Ondan sık bahseder.
+Q Tu vas à la plage ? Oui, j'___ vais.|y|en;la;le|Plaja gidiyor musun? Evet, oraya gidiyorum.|à + yer → y
+Q Tu veux du pain ? Oui, j'___ veux.|en|y;le;la|Ekmek ister misin? Evet, isterim.|du + şey → en
+Q Combien de sœurs as-tu ? J'___ ai deux.|en|y;les;leur|Kaç kız kardeşin var? İki tane.|miktar → en
+Q Vous habitez à Lille ? Oui, nous ___ habitons.|y|en;le;lui|Lille'de mi oturuyorsunuz? Evet, orada oturuyoruz.|à + yer → y
+Q Il revient de Paris ? Oui, il ___ revient.|en|y;le;de|Paris'ten mi dönüyor? Evet, oradan.|de + yer → en
+Q Tu penses à ton travail ? Oui, j'___ pense.|y|en;lui;le|İşini düşünüyor musun? Evet, düşünüyorum.|penser à + şey → y
+
+== d1|orta|dialog|u37|Günlük diyaloglar|Chloé ve Lucas ile gerçek konuşmalar
+-- dialog|Faire connaissance|Chloé ve Lucas ilk kez tanışıyor.|Chloé|Lucas
+A Salut ! Je m'appelle Chloé. Et toi ?|Selam! Benim adım Chloé. Ya sen?
+B Salut Chloé, moi c'est Lucas. Enchanté !|Selam Chloé, ben Lucas. Memnun oldum!
+A Enchantée. Tu viens d'où ?|Ben de memnun oldum. Nerelisin?
+B Je viens de Marseille. Et toi ?|Marsilya'danım. Ya sen?
+A De Lyon, mais j'habite ici maintenant.|Lyon'dan, ama şimdi burada oturuyorum.
+B Super ! Tu fais des études ici ?|Süper! Burada mı okuyorsun?
+A Non, je travaille. Je suis graphiste.|Hayır, çalışıyorum. Grafik tasarımcıyım.
+B Génial ! On prend un café un de ces jours ?|Harika! Bir gün kahve içelim mi?
+-- dialog|Au café|Chloé garson, Lucas sipariş veriyor.|Chloé|Lucas
+A Bonjour ! Qu'est-ce que je vous sers ?|Merhaba! Size ne getireyim?
+B Bonjour. Je peux avoir la carte, s'il vous plaît ?|Merhaba. Menüyü alabilir miyim lütfen?
+A Bien sûr, voilà.|Tabii, buyurun.
+B Je voudrais un crème et un croissant.|Sütlü bir kahve ve bir kruvasan istiyorum.
+A Sur place ou à emporter ?|Burada mı, paket mi?
+B Sur place, merci.|Burada, teşekkürler.
+A Et avec ceci ?|Başka bir şey?
+B Ce sera tout. L'addition, s'il vous plaît.|Bu kadar. Hesap lütfen.
+-- dialog|Demander son chemin|Lucas istasyonu arıyor.|Chloé|Lucas
+B Excusez-moi, où est la gare, s'il vous plaît ?|Affedersiniz, istasyon nerede lütfen?
+A Allez tout droit, puis prenez la deuxième rue à gauche.|Düz gidin, sonra ikinci sokaktan sola dönün.
+B C'est loin d'ici ?|Buradan uzak mı?
+A Non, c'est à dix minutes à pied.|Hayır, yürüyerek on dakika.
+B Il y a un bus ?|Otobüs var mı?
+A Oui, le bus numéro 3 s'arrête juste là.|Evet, 3 numaralı otobüs tam orada duruyor.
+B Merci beaucoup !|Çok teşekkürler!
+A De rien. Bonne journée !|Rica ederim. İyi günler!
+-- dialog|Le week-end|Chloé, Lucas'ı sinemaya çağırıyor.|Chloé|Lucas
+A Qu'est-ce que tu fais samedi ?|Cumartesi ne yapıyorsun?
+B Rien de spécial. Pourquoi ?|Özel bir şey yok. Neden?
+A Ça te dit d'aller au cinéma ?|Sinemaya gitmeye ne dersin?
+B Avec plaisir ! Qu'est-ce qu'il y a comme film ?|Memnuniyetle! Hangi filmler var?
+A Une nouvelle comédie. Tout le monde dit qu'elle est très drôle.|Yeni bir komedi. Herkes çok komik diyor.
+B Parfait. On se retrouve à quelle heure ?|Mükemmel. Saat kaçta buluşalım?
+A À six heures devant le cinéma ?|Altıda sinemanın önünde?
+B Ça marche. À samedi !|Tamamdır. Cumartesi görüşürüz!
+
+== y1|yuksek|grammar|end|Subjonctif|il faut que, je veux que, bien que
+-- grammar|Subjonctif: oluşum|ils kökü + -e, -es, -e, -ions, -iez, -ent.
+R parler → que je parle|ils parlent → que je parle, que nous parlions. finir → que je finisse.
+E Il faut que je parte.|Gitmem lazım.
+E Je veux que tu viennes.|Gelmeni istiyorum.
+R Düzensiz: être, avoir, faire, aller|que je sois, que j'aie, que je fasse, que j'aille.
+E Il faut que tu sois patient.|Sabırlı olman lazım.
+E Je veux qu'il fasse ses devoirs.|Ödevlerini yapmasını istiyorum.
+Q Il faut que tu ___ tes devoirs.|fasses|fais;feras;faisais|Ödevlerini yapman lazım.|faire → fasses
+Q Je veux que vous ___ à l'heure.|soyez|êtes;serez;étiez|Zamanında olmanızı istiyorum.|être → soyez
+Q Il faut que nous ___ maintenant.|partions|partons;partirons;partirions|Şimdi gitmemiz lazım.|nous → -ions
+Q Elle veut que j'___ avec elle.|aille|vais;irai;allais|Onunla gitmemi istiyor.|aller → aille
+Q Il faut qu'il ___ de la patience.|ait|a;aura;avait|Sabrının olması lazım.|avoir → ait
+Q Mes parents veulent que je ___ médecine.|fasse|fais;ferai;faisais|Ailem tıp okumamı istiyor.|vouloir que + subjonctif
+-- grammar|Subjonctif: ne zaman?|İstek, duygu, gereklilik ve bazı bağlaçlardan sonra.
+R Duygu ve istek|Je suis content que tu sois là. J'aimerais que tu restes.
+E Je suis content que tu sois là.|Burada olmana sevindim.
+E J'ai peur qu'il soit en retard.|Geç kalmasından korkuyorum.
+R bien que, pour que, avant que|Bien qu'il pleuve, on sort. Je parle lentement pour que tu comprennes.
+E Bien qu'il soit fatigué, il travaille.|Yorgun olmasına rağmen çalışıyor.
+E Rentre avant qu'il fasse nuit.|Hava kararmadan dön.
+Q Je suis heureux que tu ___ venu.|sois|es;seras;étais|Gelmene çok sevindim.|duygu → subjonctif
+Q Bien qu'il ___ froid, nous sortons.|fasse|fait;fera;faisait|Hava soğuk olmasına rağmen çıkıyoruz.|bien que + subjonctif
+Q Je parle fort pour que tout le monde m'___.|entende|entend;entendra;entendait|Herkes duysun diye yüksek sesle konuşuyorum.|pour que + subjonctif
+Q Je pense qu'il ___ raison.|a|ait;aie;avoir|Bence o haklı.|penser que → indicatif
+Q Partons avant qu'il ___ à pleuvoir.|commence|commencera;commençait;commencer|Yağmur başlamadan gidelim.|avant que + subjonctif
+Q C'est dommage que tu ne ___ pas venir.|puisses|peux;pourras;pouvais|Gelememen ne yazık.|duygu → subjonctif
+-- grammar|Gérondif ve passif|en + -ant (yaparken) ve être + participe (edilgen).
+R en + -ant|en marchant (yürürken), en écoutant: Il lit en mangeant.
+E Je chante en cuisinant.|Yemek yaparken şarkı söylerim.
+E C'est en forgeant qu'on devient forgeron.|Demirci demir döverek olunur.
+R Edilgen: être + participe|La maison a été construite en 1900. Ce livre est lu par des millions de gens.
+E Le musée a été construit en 1850.|Müze 1850'de yapıldı.
+E Les résultats seront publiés demain.|Sonuçlar yarın açıklanacak.
+Q Il écoute de la musique en ___.|travaillant|travaille;travailler;travaillé|Çalışırken müzik dinler.|en + -ant
+Q Je me suis cassé la jambe en ___.|skiant|skier;skie;skié|Kayak yaparken bacağımı kırdım.|en + -ant
+Q Ce roman a été ___ par Victor Hugo.|écrit|écrivant;écrire;écrivait|Bu roman Victor Hugo tarafından yazıldı.|edilgen → participe
+Q La lettre ___ envoyée hier.|a été|sera;ont été;avons été|Mektup dün gönderildi.|passé composé edilgen
+Q Les portes ___ fermées à 20 heures.|sont|ont;sera;est|Kapılar saat 20'de kapatılır.|çoğul → sont
+Q On apprend une langue en la ___.|parlant|parler;parle;parlé|Bir dil konuşarak öğrenilir.|en + -ant
+
+== y2|yuksek|grammar|end|Dolaylı anlatım|Il dit que…, elle m'a demandé si…
+-- grammar|Il dit que …|Şimdiki zamanla aktarmada zaman değişmez.
+R dire que + aynı zaman|« Je suis fatigué. » → Il dit qu'il est fatigué.
+E Elle dit qu'elle aime Paris.|Paris'i sevdiğini söylüyor.
+E Il dit qu'il viendra demain.|Yarın geleceğini söylüyor.
+R Soru: si, où, quand|« Tu viens ? » → Il demande si je viens. « Où habites-tu ? » → Il demande où j'habite.
+E Elle demande si tu es libre.|Müsait olup olmadığını soruyor.
+E Il veut savoir où tu travailles.|Nerede çalıştığını bilmek istiyor.
+Q « J'ai faim. » → Il dit qu'il ___ faim.|a|ait;aie;avoir|"Açım." → Aç olduğunu söylüyor.|aynı zaman
+Q « Tu es prêt ? » → Elle demande ___ je suis prêt.|si|que;où;quoi|"Hazır mısın?" → Hazır olup olmadığımı soruyor.|evet/hayır → si
+Q « Où vas-tu ? » → Il demande ___ je vais.|où|si;que;quoi|"Nereye gidiyorsun?" → Nereye gittiğimi soruyor.|soru kelimesi kalır
+Q Elle dit ___ elle part demain.|qu'|si;où;quoi|Yarın gideceğini söylüyor.|dire que
+Q Il me demande ___ je fais ce soir.|ce que|qu'est-ce que;que;quoi que|Bu akşam ne yaptığımı soruyor.|qu'est-ce que → ce que
+Q « Quand arrivez-vous ? » → Ils demandent quand nous ___.|arrivons|arrivez;arrivent;arrivons-nous|"Ne zaman geliyorsunuz?" → Ne zaman geldiğimizi soruyorlar.|ters çevirme yok
+-- grammar|Il a dit que …|Geçmişle aktarmada zaman bir geri gider.
+R présent → imparfait|« Je suis malade. » → Il a dit qu'il était malade.
+E Elle a dit qu'elle était fatiguée.|Yorgun olduğunu söyledi.
+E Il a dit qu'il habitait à Nice.|Nice'te oturduğunu söyledi.
+R futur → conditionnel|« Je viendrai. » → Il a dit qu'il viendrait.
+E Tu m'as dit que tu m'appellerais.|Beni arayacağını söylemiştin.
+E Ils ont dit qu'ils arriveraient tard.|Geç geleceklerini söylediler.
+Q « Je suis content. » → Il a dit qu'il ___ content.|était|est;sera;soit|"Memnunum." → Memnun olduğunu söyledi.|présent → imparfait
+Q « Nous partirons. » → Ils ont dit qu'ils ___.|partiraient|partiront;partent;partaient|"Gideceğiz." → Gideceklerini söylediler.|futur → conditionnel
+Q « J'aime le jazz. » → Elle a dit qu'elle ___ le jazz.|aimait|aime;aimera;aimerait|"Cazı severim." → Cazı sevdiğini söyledi.|présent → imparfait
+Q Il m'a demandé ___ j'avais faim.|si|que;où;ce que|Aç olup olmadığımı sordu.|evet/hayır → si
+Q « Je te téléphonerai. » → Tu as dit que tu me ___.|téléphonerais|téléphoneras;téléphones;téléphonais|"Seni ararım." → Beni arayacağını söyledin.|futur → conditionnel
+Q « Où est la gare ? » → Il a demandé où ___ la gare.|était|est-elle;sera;soit|"İstasyon nerede?" → İstasyonun nerede olduğunu sordu.|présent → imparfait
+-- grammar|Bağlaçlar ve görüş|Fikir bildirmek ve karşılaştırmak.
+R à mon avis, selon moi|À mon avis, c'est une bonne idée. Selon elle, le film est trop long.
+E À mon avis, il a raison.|Bence o haklı.
+E Selon les experts, il va faire chaud.|Uzmanlara göre hava sıcak olacak.
+R pourtant, cependant, donc|pourtant / cependant (yine de), donc (dolayısıyla), alors que (oysa).
+E Il est riche, pourtant il n'est pas heureux.|Zengin, yine de mutlu değil.
+E Il pleut, donc on reste ici.|Yağmur yağıyor, dolayısıyla burada kalıyoruz.
+Q Il travaille beaucoup, ___ il ne gagne pas assez.|pourtant|donc;parce que;alors|Çok çalışıyor, yine de yeterince kazanmıyor.|zıtlık → pourtant
+Q Je suis malade, ___ je reste à la maison.|donc|pourtant;bien que;mais si|Hastayım, dolayısıyla evde kalıyorum.|sonuç → donc
+Q ___ mon avis, ce film est excellent.|À|De;Pour;En|Bence bu film mükemmel.|à mon avis
+Q Il est sorti ___ il pleuvait.|alors qu'|donc;pour que;afin|Yağmur yağarken (yağmasına rağmen) çıktı.|zıtlık → alors que
+Q ___ la météo, il va neiger.|Selon|Avec;Par;Pendant|Hava durumuna göre kar yağacak.|-e göre → selon
+Q Je n'aime pas ce plat, ___ je le mange.|cependant|donc;parce que;car|Bu yemeği sevmiyorum, yine de yiyorum.|zıtlık → cependant
+
+== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+-- text|Ma vie à Paris|Julie Paris'teki hayatını anlatıyor.
+T Je m'appelle Julie et j'habite à Paris depuis sept ans. Tous les matins, je prends le métro pour aller au travail, parce que c'est rapide, même s'il y a souvent beaucoup de monde. À midi, j'aime manger un sandwich au bord de la Seine quand il fait beau. Le soir, je retrouve parfois des amis dans un café ou je vais voir une exposition. Paris est une ville chère, mais il y a toujours quelque chose à faire. Ma ville natale me manque parfois, mais maintenant, Paris, c'est chez moi.
+TR Benim adım Julie ve yedi yıldır Paris'te oturuyorum. Her sabah işe gitmek için metroya binerim, çünkü hızlı, gerçi sık sık çok kalabalık olur. Öğlen, hava güzelken Seine kıyısında sandviç yemeyi severim. Akşamları bazen bir kafede arkadaşlarla buluşur ya da bir sergiye giderim. Paris pahalı bir şehir ama her zaman yapacak bir şey vardır. Bazen memleketimi özlüyorum ama artık Paris benim evim.
+G depuis|-den beri
+G rapide|hızlı
+G même si|-se bile, gerçi
+G au bord de|kıyısında
+G retrouve|buluşurum (retrouver)
+G exposition|sergi
+G ville natale|memleket, doğduğu şehir
+Q Depuis combien de temps Julie habite-t-elle à Paris ?|Sept ans|Deux ans;Dix ans;Un an
+Q Comment va-t-elle au travail ?|En métro|En voiture;À vélo;À pied
+Q Où mange-t-elle à midi quand il fait beau ?|Au bord de la Seine|Au bureau;Dans un restaurant chic;Chez elle
+-- text|Un e-mail à Thomas|Hugo arkadaşına üniversite hayatını yazıyor.
+T Salut Thomas ! Comment ça va ? Moi, ça va bien. J'ai commencé la fac en septembre et c'est passionnant, même si on a beaucoup de travail : des devoirs chaque semaine ! Je partage un appartement avec deux étudiants, une Italienne et un Japonais. Le vendredi, on cuisine ensemble et on goûte les plats de nos pays. Le week-end dernier, on est partis en randonnée à la montagne et on s'est complètement perdus ! Viens me voir en décembre ! Écris-moi vite. Bises, Hugo
+TR Selam Thomas! Nasılsın? Ben iyiyim. Eylülde üniversiteye başladım ve çok heyecan verici, gerçi çok işimiz var: her hafta ödev! Biri İtalyan, biri Japon iki öğrenciyle bir daireyi paylaşıyorum. Cumaları birlikte yemek yapıyor, ülkelerimizin yemeklerini tadıyoruz. Geçen hafta sonu dağa yürüyüşe gittik ve tamamen kaybolduk! Aralıkta beni görmeye gel! Hemen yaz. Öpücükler, Hugo
+G fac|üniversite (faculté)
+G passionnant|çok ilginç, heyecan verici
+G partage|paylaşıyorum (partager)
+G goûte|tadarız (goûter)
+G randonnée|doğa yürüyüşü
+G perdus|kaybolmuş (perdre)
+G Bises|öpücükler (samimi kapanış)
+Q Quand Hugo a-t-il commencé la fac ?|En septembre|En décembre;En été;Le week-end dernier
+Q Avec qui Hugo partage-t-il son appartement ?|Avec deux étudiants|Avec ses parents;Avec Thomas;Seul
+Q Qu'est-ce qui s'est passé à la montagne ?|Ils se sont perdus|Il a neigé;Ils ont vu Thomas;Ils ont trouvé un lac
+-- text|Le repas français|Fransızlar ve yemek kültürü.
+T En France, le repas est un moment important de la journée. Beaucoup de familles mangent ensemble le soir, vers vingt heures. Un repas traditionnel commence par une entrée, comme une salade ou une soupe, puis vient le plat principal, souvent de la viande ou du poisson avec des légumes. Ensuite, on sert le fromage et enfin le dessert. Le pain est toujours sur la table. Prendre son temps à table et discuter est essentiel : un bon repas peut durer deux heures !
+TR Fransa'da yemek günün önemli bir anıdır. Pek çok aile akşam saat yirmi civarı birlikte yer. Geleneksel bir yemek salata ya da çorba gibi bir başlangıçla başlar, sonra genellikle sebzeli et ya da balıktan oluşan ana yemek gelir. Ardından peynir servis edilir ve en sonunda tatlı. Ekmek her zaman masadadır. Sofrada acele etmemek ve sohbet etmek çok önemlidir: iyi bir yemek iki saat sürebilir!
+G journée|gün (gün boyu)
+G vers|civarı, -e doğru
+G entrée|başlangıç (yemek)
+G plat principal|ana yemek
+G ensuite|ardından
+G enfin|en sonunda
+G durer|sürmek
+Q Vers quelle heure beaucoup de familles mangent-elles le soir ?|Vers vingt heures|Vers dix-sept heures;Vers minuit;Vers dix-huit heures
+Q Qu'est-ce qu'on sert après le plat principal ?|Le fromage|La soupe;L'entrée;Le café
+Q Combien de temps peut durer un bon repas ?|Deux heures|Dix minutes;Une demi-heure;Cinq heures
+
+== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+-- dialog|Donner son avis|Şehir mi köy mü? Lucas fikrini savunuyor.|Chloé|Lucas
+A Lucas, à ton avis, vaut-il mieux vivre en ville ou à la campagne ?|Lucas, sence şehirde mi yaşamak daha iyi, kırsalda mı?
+B À mon avis, en ville. Il y a plus de travail et d'opportunités.|Bence şehirde. Daha çok iş ve fırsat var.
+A Mais en ville, c'est bruyant et l'air est pollué.|Ama şehir gürültülü ve hava kirli.
+B C'est vrai, par contre on peut aller au théâtre et dans les musées.|Doğru, buna karşılık tiyatroya ve müzelere gidebilirsin.
+A Moi, je rêve d'une petite maison au bord d'un lac.|Ben göl kenarında küçük bir ev hayal ediyorum.
+B Ça a l'air génial, mais je m'ennuierais là-bas.|Kulağa harika geliyor ama ben orada sıkılırdım.
+A Bon, chacun ses goûts !|Eh, herkesin zevki kendine!
+B Exactement. L'essentiel, c'est d'être heureux là où on vit.|Aynen. Önemli olan yaşadığın yerde mutlu olmak.
+-- dialog|Chez le médecin|Lucas'ın boğazı ağrıyor.|Médecin|Lucas
+A Bonjour. Qu'est-ce qui ne va pas ?|Merhaba. Sorun nedir?
+B J'ai mal à la gorge et à la tête depuis trois jours.|Üç gündür boğazım ve başım ağrıyor.
+A Vous avez de la fièvre ?|Ateşiniz var mı?
+B Oui, hier soir j'avais trente-huit.|Evet, dün akşam otuz sekizdi.
+A Ouvrez la bouche, s'il vous plaît. Oui, la gorge est bien rouge.|Ağzınızı açın lütfen. Evet, boğaz epey kızarmış.
+B C'est grave ?|Ciddi mi?
+A Non, c'est juste un rhume. Buvez beaucoup et reposez-vous.|Hayır, sadece soğuk algınlığı. Bol sıvı için ve dinlenin.
+B Merci, docteur. J'ai besoin d'un arrêt de travail ?|Teşekkürler doktor. Rapor gerekiyor mu?
+-- dialog|Entretien d'embauche|Lucas bir mühendislik işine başvuruyor.|Chloé|Lucas
+A Parlez-moi un peu de vous.|Biraz kendinizden bahsedin.
+B Bien sûr. Je suis ingénieur et je travaille depuis cinq ans dans une entreprise de construction.|Tabii. Mühendisim ve beş yıldır bir inşaat şirketinde çalışıyorum.
+A Pourquoi voulez-vous travailler chez nous ?|Neden bizde çalışmak istiyorsunuz?
+B Votre entreprise a des projets passionnants et je voudrais évoluer.|Şirketinizin heyecan verici projeleri var ve gelişmek istiyorum.
+A Quels sont vos points forts ?|Güçlü yönleriniz neler?
+B Je suis fiable, j'aime travailler en équipe et j'apprends vite.|Güvenilirim, ekip çalışmasını severim ve hızlı öğrenirim.
+A Quand pourriez-vous commencer ?|Ne zaman başlayabilirsiniz?
+B Dans deux semaines, quand j'aurai fini mon projet actuel.|İki hafta sonra, mevcut projemi bitirdiğimde.

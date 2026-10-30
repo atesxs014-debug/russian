@@ -1,6 +1,6 @@
 import { Course, Unit } from './course';
 import { Progress, dueItems, lessonLock, testLock, unitOpen } from './progress';
-import { findLesson } from './course';
+import { findLesson, unitOptional } from './course';
 
 export type NextLesson = { unitIndex: number; lessonIndex: number; lessonId: string; title: string; unit: Unit; locked: boolean; reason?: string };
 
@@ -9,6 +9,7 @@ export function nextLesson(course: Course, p: Progress): NextLesson | null {
   for (let ui = 0; ui < course.units.length; ui++) {
     if (!unitOpen(course, p, ui)) return null;
     const unit = course.units[ui];
+    if (unitOptional(unit)) continue;
     for (let li = 0; li < unit.lessons.length; li++) {
       const ls = unit.lessons[li];
       if (p.lessons[ls.id]?.passedAt) continue;
@@ -23,7 +24,7 @@ export function nextLesson(course: Course, p: Progress): NextLesson | null {
 /** Unit the learner is currently working on (for the progress strip). */
 export function currentUnitIndex(course: Course, p: Progress): number {
   for (let ui = 0; ui < course.units.length; ui++) {
-    if (!p.tests[course.units[ui].id]?.passedAt) return ui;
+    if (!unitOptional(course.units[ui]) && !p.tests[course.units[ui].id]?.passedAt) return ui;
   }
   return course.units.length - 1;
 }
