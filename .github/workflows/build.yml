@@ -156,6 +156,11 @@ jobs:
           WS=$(ls -d ios/*.xcworkspace | head -1)
           SCHEME=$(basename "$WS" .xcworkspace)
           echo "workspace=$WS scheme=$SCHEME"
+          # ~19k ses dosyası: Metro macOS'ta varsayılan açık dosya sınırına (256) takılıyor
+          sudo launchctl limit maxfiles 524288 524288 || true
+          ulimit -n 524288 || ulimit -n 65536
+          echo "ulimit -n: $(ulimit -n)"
+          export RCT_METRO_MAX_WORKERS=2
           set -o pipefail
           xcodebuild -workspace "$WS" -scheme "$SCHEME" -configuration Release \
             -sdk iphoneos -destination 'generic/platform=iOS' \
