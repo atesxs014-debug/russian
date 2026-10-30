@@ -148,6 +148,23 @@ function wordMeaning(c: Ctx, w: Word, pool: Word[]): Question {
   };
 }
 
+/** Example sentence: what does it mean? (reinforces the word in context) */
+function exampleMeaning(c: Ctx, w: Word, pool: Word[]): Question {
+  const x = w.x!;
+  return {
+    key: k(),
+    itemId: wordItemId(w),
+    instruction: t('lineMeaning', c.lang, c.level),
+    display: x[0],
+    audio: x[0],
+    options: options(x[1], pool.filter((p) => p.x && p !== w).map((p) => p.x![1])),
+    answer: x[1],
+    optionsAreTarget: false,
+    hint: `İçindeki kelime: ${w.t} = ${w.tr}`,
+    explain: `${x[0]} = ${x[1]}`,
+  };
+}
+
 /** Dictation: hear the word, write it. */
 function wordDictation(c: Ctx, w: Word): Question {
   return {
@@ -292,6 +309,10 @@ export function lessonQuiz(course: Course, unit: Unit, lessonIndex: number): Que
     const tw = shuffle(words.filter(typeable));
     if (tw[0]) qs.push(wordDictation(c, tw[0]));
     if (tw[1] && unit.level !== 'baslangic') qs.push(wordTranslate(c, tw[1]));
+    // two example sentences per lesson (when the language has them)
+    const withEx = words.filter((w) => w.x);
+    const exPool = [...withEx, ...allWords.filter((w) => w.x)];
+    if (exPool.length >= 4) shuffle(withEx).slice(0, 2).forEach((w) => qs.push(exampleMeaning(c, w, exPool)));
     return shuffle(qs);
   }
 
@@ -376,7 +397,9 @@ export function questionsFor(course: Course, ids: string[], level?: LevelId): Qu
       const w = course.words[id];
       if (!w) return;
       // about one in six word reviews is written (dictation) to keep spelling fresh
-      if (typeable(w) && Math.random() < 0.17) out.push(wordDictation(c, w));
+      const r = Math.random();
+      if (typeable(w) && r < 0.17) out.push(wordDictation(c, w));
+      else if (w.x && r < 0.32) out.push(exampleMeaning(c, w, wp));
       else out.push(pick([wordRead, wordListen, wordMeaning])(c, w, wp));
     }
   });

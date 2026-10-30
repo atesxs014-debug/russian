@@ -98,6 +98,11 @@ export default function DictionaryScreen({ onClose }: { onClose: () => void }) {
                           {w.tr}
                           {w.read ? ` · ${w.read}` : ''}
                         </Text>
+                        {w.x ? (
+                          <Text style={st.ex} numberOfLines={2}>
+                            {w.x[0]} — {w.x[1]}
+                          </Text>
+                        ) : null}
                       </View>
                       <Pressable hitSlop={10} disabled={on} onPress={() => save(addToReview(progress, wordItemId(w)))} style={[st.add, on && { backgroundColor: C.goodBg }]}>
                         <Ionicons name={on ? 'checkmark' : 'add'} size={18} color={on ? C.good : C.primary} />
@@ -133,6 +138,7 @@ const st = themed(() => ({
   word: { flexDirection: 'row', alignItems: 'center', backgroundColor: C.card, borderRadius: R.md, padding: 12, marginBottom: 8 },
   wordT: { color: C.text, fontSize: fs(18), fontWeight: '800' },
   wordTr: { color: C.sub, fontSize: fs(13), marginTop: 2 },
+  ex: { color: C.dim, fontSize: fs(12), marginTop: 4, fontStyle: 'italic' },
   add: { width: 34, height: 34, borderRadius: 17, backgroundColor: C.bg2, alignItems: 'center', justifyContent: 'center', marginLeft: 8 },
   card: { backgroundColor: C.card, borderRadius: R.lg, padding: 8 },
   row: { flexDirection: 'row', alignItems: 'center', padding: 10, borderRadius: R.sm },

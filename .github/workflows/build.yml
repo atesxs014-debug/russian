@@ -25,8 +25,8 @@ jobs:
       - run: pip install --quiet edge-tts gTTS
       - name: ffmpeg (ses sıkıştırma)
         run: command -v ffmpeg || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
-      - name: Dilbilgisi paketleri güncel mi?
-        run: python scripts/build_grammar.py && git diff --exit-code src/data/grammar || (echo "::error::content/grammar değişmiş ama src/data/grammar yeniden üretilmemiş" && exit 1)
+      - name: İçerik paketleri güncel mi?
+        run: python scripts/build_grammar.py && python scripts/build_examples.py > /dev/null && git diff --exit-code src/data/grammar src/data/examples || (echo "::error::content/ değişmiş ama src/data yeniden üretilmemiş" && exit 1)
       - uses: actions/cache@v4
         with:
           path: assets/audio

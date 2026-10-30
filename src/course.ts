@@ -8,6 +8,11 @@ import gen from './data/grammar/en.json';
 import gde from './data/grammar/de.json';
 import gfr from './data/grammar/fr.json';
 import git from './data/grammar/it.json';
+import xru from './data/examples/ru.json';
+import xen from './data/examples/en.json';
+import xde from './data/examples/de.json';
+import xfr from './data/examples/fr.json';
+import xit from './data/examples/it.json';
 import type { LevelId } from './theme';
 
 export type LangCode = 'ru' | 'en' | 'de' | 'fr' | 'it';
@@ -31,7 +36,8 @@ export const LANGS: LangMeta[] = [
 
 export const langMeta = (code: LangCode) => LANGS.find((l) => l.code === code) ?? LANGS[0];
 
-export type Word = { t: string; tr: string; read: string; e?: string; g?: 'm' | 'f' | 'n' };
+/** x: example sentence [target, Turkish]. */
+export type Word = { t: string; tr: string; read: string; e?: string; g?: 'm' | 'f' | 'n'; x?: [string, string] };
 /** Compact vocab entry in the JSON packs: [text, Turkish, reading, emoji?, gender?] */
 type VocabTuple = [string, string, string, string?, string?];
 export type Letter = {
@@ -107,6 +113,7 @@ export const unitOptional = (u: Unit) => grammarSeparate && u.kind === 'grammar'
 const RAW: Record<LangCode, unknown> = { ru, en, de, fr, it };
 type GrammarPack = { units: { after: string; unit: Unit }[]; upcoming?: Upcoming[] };
 const GRAMMAR: Record<LangCode, unknown> = { ru: gru, en: gen, de: gde, fr: gfr, it: git };
+const EXAMPLES: Record<LangCode, Record<string, [string, string]>> = { ru: xru, en: xen, de: xde, fr: xfr, it: xit } as never;
 
 function mergeGrammar(units: Unit[], g: GrammarPack): Unit[] {
   const out = [...units];
@@ -136,7 +143,12 @@ export function getCourse(lang: LangCode): Course {
   const words: Record<string, Word> = {};
   const drills: Course['drills'] = {};
   const lines: Course['lines'] = {};
-  const addW = (w: Word) => (words[wordItemId(w)] = words[wordItemId(w)] ?? w);
+  const ex = EXAMPLES[lang] ?? {};
+  const addW = (w: Word) => {
+    const x = ex[plain(w.t).toLowerCase()];
+    if (x && !w.x) w.x = x;
+    words[wordItemId(w)] = words[wordItemId(w)] ?? w;
+  };
   raw.units.forEach((u) =>
     u.lessons.forEach((ls) => {
       ls.letters?.forEach((l) => {

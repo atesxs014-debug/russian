@@ -1,0 +1,615 @@
+## Siyaset ve yönetim | Parlamento, parti, reform, diplomasi
+# Devlet kurumları | Meclis, bakanlık, belediye…
+meclis, parlamento|🏛️|парламент|parlament|m
+bakanlık|🏢|министерство|ministerstva|n
+bakan|👔|министр|ministr|m
+belediye başkanı|🏙️|мэр|mer|m
+belediye|🏤|мэрия|meriya|f
+yetkililer|🧑‍💼|власти|vlasti|
+anayasa|📜|конституция|kanstitutsiya|f
+# Parti ve seçim | Muhalefet, aday, oy…
+parti|🎗️|партия|partiya|f
+muhalefet|🗣️|оппозиция|apazitsiya|f
+aday|🙋|кандидат|kandidat|m
+seçmen|🗳️|избиратель|izbiratel'|m
+oy (seçimde)|✅|голос|golas|m
+kampanya|📢|кампания|kampaniya|f
+çoğunluk|👥|большинство|bal'şinstva|n
+# Yönetim ve reform | Reform, karar, politika…
+reform|🔧|реформа|riforma|f
+politika (siyaset)|🧭|политика|palitika|f
+kararname|📝|указ|ukas|m
+yönetim|⚙️|управление|upravleniye|n
+yolsuzluk|💰|коррупция|karruptsiya|f
+şeffaflık|🔍|прозрачность|prazraçnast'|f
+sorumluluk|⚖️|ответственность|atvetstvinnast'|f
+# Diplomasi | Elçilik, antlaşma, müzakere…
+diplomasi|🤝|дипломатия|diplamatiya|f
+büyükelçilik|🏳️|посольство|pasol'stva|n
+büyükelçi|🎩|посол|pasol|m
+antlaşma|✍️|договор|dagavor|m
+müzakereler|💬|переговоры|pirigavorı|
+yaptırımlar|🚫|санкции|sanktsii|
+uluslararası|🌐|международный|mijdunarodnıy|
+# Siyasi fiiller | Seçmek, yönetmek, desteklemek…
+seçmek|☑️|избирать|izbirat'|
+yönetmek (ülke)|👑|руководить|rukavadit'|
+desteklemek|👍|поддерживать|paddyerjivat'|
+karşı çıkmak|✋|выступать против|vıstupat' protiv|
+kabul etmek (yasa)|📗|принимать закон|prinimat' zakon|
+eleştirmek|🗯️|критиковать|kritikavat'|
+istifa etmek|🚪|уйти в отставку|uyti v atstavku|
+## Hukuk ve adalet | Dava, avukat, delil, ceza
+# Mahkemede | Dava, sanık, tanık…
+dava|📂|судебное дело|sudebnaye delo|n
+sanık|🧍|обвиняемый|abvinyayemıy|m
+tanık|👁️|свидетель|svidetel'|m
+savcı|👨‍⚖️|прокурор|prakuror|m
+jüri|👥|присяжные|prisyajnıye|
+karar (mahkeme)|🔨|приговор|prigavor|m
+temyiz|📨|апелляция|apellyatsiya|f
+# Suç ve ceza | Hapis, delil, soruşturma…
+delil, kanıt|🧾|доказательство|dakazatil'stva|n
+soruşturma|🕵️|расследование|rassledavaniye|n
+hapishane|⛓️|тюрьма|tyur'ma|f
+tutuklamak|🚔|арестовать|arestavat'|
+dolandırıcılık|🎭|мошенничество|maşennicestva|n
+kaçakçılık|📦|контрабанда|kantrabanda|f
+şiddet|👊|насилие|nasiliye|n
+# Haklar | İnsan hakları, eşitlik, adalet…
+adalet|⚖️|справедливость|spravedlivast'|f
+eşitlik|🟰|равенство|ravenstva|n
+ayrımcılık|🚷|дискриминация|diskriminatsiya|f
+insan hakları|🕊️|права человека|prava çilaveka|
+ifade özgürlüğü|🗣️|свобода слова|svaboda slova|f
+mahremiyet|🔒|частная жизнь|çasnaya jızn'|f
+güvenlik|🛡️|безопасность|bizapasnast'|f
+# Belgeler | Sözleşme maddesi, imza, noter…
+madde (sözleşme)|📄|статья договора|stat'ya dagavora|f
+noter|🖋️|нотариус|natarius|m
+vekâletname|📃|доверенность|daverinnast'|f
+başvuru|📥|заявление|zayavleniye|n
+izin belgesi|🪪|разрешение|razrişeniye|n
+tebligat|✉️|уведомление|uvedamleniye|n
+mühür|🔴|печать|piçat'|f
+# Hukuk fiilleri | Suçlamak, kanıtlamak, ihlal etmek…
+suçlamak|👉|обвинять|abvinyat'|
+kanıtlamak|✔️|доказывать|dakazıvat'|
+ihlal etmek|⚠️|нарушать|naruşat'|
+savunmak|🛡️|защищать в суде|zaşşişşat' f sude|
+dava açmak|📤|подать в суд|padat' f sut|
+cezalandırmak|🚨|наказывать|nakazıvat'|
+beraat etmek|🙌|оправдать|apravdat'|
+## Ekonomi ve iş dünyası | Şirket, yatırım, rekabet, kâr
+# Şirket | Hissedar, yönetim kurulu, şube…
+hissedar|📈|акционер|aktsianer|m
+hisse senedi|📊|акция|aktsiya|f
+yönetim kurulu|🪑|совет директоров|savet direktaraf|m
+şube|🏬|филиал|filial|m
+girişimci|🚀|предприниматель|pritprinimatil'|m
+girişim, işletme|🏭|предприятие|pritpriyatiye|n
+iflas|📉|банкротство|bankrotstva|n
+# Para ve kâr | Gelir, gider, kâr, zarar…
+gelir|💵|доход|dahot|m
+gider|💸|расходы|rashodı|
+kâr|💹|прибыль|pribıl'|f
+zarar|🔻|убыток|ubıtak|m
+ciro|🔄|оборот|abarot|m
+sermaye|🏦|капитал|kapital|m
+yatırım|🌱|инвестиции|investitsii|
+# Piyasa | Talep, arz, rekabet, tekel…
+talep|🙋|спрос|spros|m
+arz|📦|предложение|pridlajeniye|n
+rekabet|🏁|конкуренция|kankurentsiya|f
+rakip|🥊|конкурент|kankurent|m
+tekel|👑|монополия|manapoliya|f
+tüketici|🛒|потребитель|patrebitel'|m
+fiyat artışı|⬆️|рост цен|rost tsen|m
+# Ticaret | İhale, teslimat, tedarikçi…
+tedarikçi|🚚|поставщик|pastafşşik|m
+teslimat|📬|доставка|dastafka|f
+ihale|📋|тендер|tender|m
+müzakere etmek|🗣️|вести переговоры|visti pirigavorı|
+anlaşma (ticari)|🤝|сделка|zdelka|f
+ortak (iş)|👬|партнёр|partnyor|m
+marka|™️|бренд|brent|m
+# İş fiilleri | Kurmak, genişlemek, kazanmak…
+kurmak (şirket)|🏗️|основать|asnavat'|
+genişlemek|↔️|расширяться|rasşiryat'sa|
+kâr etmek|💰|получать прибыль|paluçat' pribıl'|
+yatırım çekmek|🧲|привлекать инвестиции|privlikat' investitsii|
+ihraç etmek|🚢|экспортировать|ekspartiravat'|
+pazarlık etmek|🤏|торговаться|targavat'sa|
+batmak (iflas)|🕳️|обанкротиться|abankrotitsa|
+## Bilim ve araştırma | Deney, keşif, teori, laboratuvar
+# Araştırma | Deney, hipotez, sonuç…
+araştırma|🔬|исследование|issledavaniye|n
+deney|🧪|эксперимент|eksperiment|m
+hipotez|💭|гипотеза|gipateza|f
+teori|📐|теория|teoriya|f
+keşif|🔭|открытие|atkrıtiye|n
+yöntem|🧭|метод|metat|m
+veri|📊|данные|dannıye|
+# Bilim insanları | Akademisyen, uzman, mucit…
+bilim insanı|👩‍🔬|учёный|uçonıy|m
+araştırmacı|🔎|исследователь|issledavatel'|m
+uzman|🎓|специалист|spetsialist|m
+mucit|💡|изобретатель|izabretatel'|m
+akademi|🏛️|академия|akademiya|f
+laboratuvar|🧫|лаборатория|labaratoriya|f
+dergi (bilimsel)|📰|научный журнал|nauçnıy jurnal|m
+# Doğa bilimleri | Hücre, gen, molekül…
+hücre|🦠|клетка организма|kletka arganizma|f
+gen|🧬|ген|gen|m
+molekül|⚛️|молекула|malekula|f
+evrim|🐒|эволюция|evalyutsiya|f
+yer çekimi|🍎|гравитация|gravitatsiya|f
+ışık hızı|💫|скорость света|skorast' sveta|f
+madde (fizik)|🧱|вещество|vişşistvo|n
+# Teknik kavramlar | Ölçüm, hesap, model…
+ölçüm|📏|измерение|izmireniye|n
+hesaplama|🧮|вычисление|vıçisleniye|n
+model|🧩|модель|madel'|f
+analiz|📈|анализ|analis|m
+istatistik|📊|статистика|statistika|f
+formül|➗|формула|formula|f
+denklem|🟰|уравнение|uravneniye|n
+# Bilim fiilleri | Araştırmak, keşfetmek, kanıtlamak…
+araştırmak|🔍|исследовать|issledavat'|
+keşif yapmak|🗝️|совершать открытие|saverşat' atkrıtiye|
+icat etmek|⚙️|изобретать|izabritat'|
+gözlemlemek|👀|наблюдать|nabludat'|
+ölçmek|📐|измерять|izmiryat'|
+analiz etmek|🧠|анализировать|analiziravat'|
+yayımlamak|📚|публиковать|publikavat'|
+## Teknoloji ve dijital dünya | Yapay zekâ, veri, yazılım
+# Yazılım | Program, kod, geliştirici…
+yazılım|💾|программное обеспечение|pragrammnaye abispeçeniye|n
+program|🖥️|программа|pragramma|f
+kod|👨‍💻|код|kot|m
+geliştirici|🧑‍💻|разработчик|razrabotçik|m
+hata (yazılım)|🐞|ошибка в программе|aşıpka f pragramme|f
+sürüm|🔢|версия|versiya|f
+algoritma|🔁|алгоритм|algaritm|m
+# Yapay zekâ ve veri | Yapay zekâ, sunucu, bulut…
+yapay zekâ|🤖|искусственный интеллект|iskusstvinnıy intellekt|m
+robot|🦾|робот|robat|m
+sunucu|🗄️|сервер|server|m
+bulut (bilişim)|☁️|облачное хранилище|oblaçnaye hranilişşe|n
+veritabanı|🗃️|база данных|baza dannıh|f
+ağ|🕸️|сеть|set'|f
+dijital|📱|цифровой|tsifravoy|
+# Güvenlik | Şifreleme, saldırı, hacker…
+şifreleme|🔐|шифрование|şifravaniye|n
+siber saldırı|💥|кибератака|kiberataka|f
+hacker|🕶️|хакер|haker|m
+kişisel veriler|🧾|персональные данные|persanal'nıye dannıye|
+güvenlik duvarı|🧱|файрвол|fayrvol|m
+yedek kopya|📀|резервная копия|rezervnaya kopiya|f
+kimlik doğrulama|🆔|авторизация|aftarizatsiya|f
+# Cihazlar | İşlemci, bellek, sensör…
+işlemci|🔲|процессор|pratsessar|m
+bellek|🧠|память устройства|pamyat' ustroystva|f
+sensör|📡|датчик|datçik|m
+akıllı saat|⌚|умные часы|umnıye çisı|
+kablo|🔌|кабель|kabel'|m
+pil ömrü|🔋|заряд батареи|zaryat batarei|m
+ekran çözünürlüğü|🖼️|разрешение экрана|razrişeniye ekrana|n
+# Dijital fiiller | Programlamak, güncellemek, kurmak…
+programlamak|⌨️|программировать|pragrammiravat'|
+güncellemek|🔄|обновлять|abnavlyat'|
+kurmak (program)|📥|устанавливать|ustanavlivat'|
+yedeklemek|💽|делать резервную копию|delat' rezervnuyu kopiyu|
+şifrelemek|🔏|шифровать|şifravat'|
+otomatikleştirmek|🤖|автоматизировать|aftamatiziravat'|
+hacklemek|🧨|взламывать|vzlamıvat'|
+## Sağlık ve tıp | Teşhis, tedavi, uzman doktor
+# Teşhis | Belirti, muayene, tahlil…
+belirti|🤒|симптом|simptom|m
+teşhis|🩺|диагноз|diagnas|m
+muayene|🔍|осмотр|asmotr|m
+tahlil|🧪|анализ крови|analis krovi|m
+röntgen|🩻|рентген|rentgen|m
+tansiyon|💓|давление|davleniye|n
+kronik|♾️|хронический|hraniçeskiy|
+# Tedavi | Tedavi, terapi, rehabilitasyon…
+tedavi|💊|лечение|liçeniye|n
+terapi|🛋️|терапия|terapiya|f
+iyileşme|🌤️|выздоровление|vızdaravleniye|n
+bağışıklık|🛡️|иммунитет|immunitet|m
+yan etki|⚠️|побочный эффект|paboçnıy effekt|m
+doz|💉|доза|doza|f
+önleme|🚧|профилактика|prafilaktika|f
+# Uzmanlar | Cerrah, kardiyolog, hemşire…
+cerrah|🔪|хирург|hirurk|m
+hemşire|👩‍⚕️|медсестра|metsistra|f
+kardiyolog|❤️|кардиолог|kardiolak|m
+çocuk doktoru|🧸|педиатр|pediatr|m
+psikolog|🧠|психолог|psiholak|m
+göz doktoru|👓|окулист|akulist|m
+klinik|🏥|клиника|klinika|f
+# Hastalıklar | Enfeksiyon, iltihap, diyabet…
+enfeksiyon|🦠|инфекция|infektsiya|f
+iltihap|🔥|воспаление|vaspaleniye|n
+diyabet|🍬|диабет|diabet|m
+kanser|🎗️|рак|rak|m
+kalp krizi|💔|инфаркт|infarkt|m
+salgın|🌍|эпидемия|epidemiya|f
+depresyon|🌧️|депрессия|deprissiya|f
+# Sağlık fiilleri | Tedavi etmek, muayene etmek, iyileşmek…
+tedavi etmek|🩹|лечить|liçit'|
+muayene etmek|🩺|обследовать|abslyedavat'|
+teşhis koymak|📋|ставить диагноз|stavit' diagnas|
+ilaç yazmak|📝|выписывать лекарство|vıpisıvat' likarstva|
+hastalanmak|🤧|заболеть|zabalet'|
+bulaşmak|😷|заразиться|zarazitsa|
+toparlanmak|💪|поправляться|papraflyat'sa|
+## Psikoloji ve karakter | Kişilik, davranış, motivasyon
+# Kişilik | Karakter, mizaç, öz güven…
+karakter|🎭|характер|harakter|m
+kişilik|🪞|личность|liçnast'|f
+öz güven|💪|уверенность в себе|uverennast' f sibe|f
+mizaç|🌗|темперамент|tempirament|m
+davranış|🚶|поведение|pavideniye|n
+alışkanlık (kötü)|🚬|вредная привычка|vrednaya privıçka|f
+kibir|🦚|высокомерие|vısakameriye|n
+# Olumlu özellikler | Cömert, açık sözlü, alçakgönüllü…
+alçakgönüllü|🙇|скромный|skromnıy|
+açık sözlü|🗨️|откровенный|atkravennıy|
+dikkatli, özenli|🧐|аккуратный|akkuratnıy|
+iyimser|🌞|оптимистичный|aptimistiçnıy|
+sadık|🐕|верный|vernıy|
+duyarlı|💞|отзывчивый|atzıvçivıy|
+azimli|🏔️|настойчивый|nastoyçivıy|
+# Olumsuz özellikler | Kötümser, kaprisli, inatçı…
+kötümser|🌧️|пессимистичный|pessimistiçnıy|
+inatçı|🐐|упрямый|upryamıy|
+kaprisli|😤|капризный|kapriznıy|
+çekingen|🫣|застенчивый|zastençivıy|
+dalgın|🌀|рассеянный|rasseyannıy|
+kurnaz|🦊|хитрый|hitrıy|
+sinirli (kolay kızan)|🌋|раздражительный|razdrajıtil'nıy|
+# Zihin | Bilinç, hafıza, sezgi…
+bilinç|💡|сознание|saznaniye|n
+bilinçaltı|🌊|подсознание|patsaznaniye|n
+sezgi|🔮|интуиция|intuitsiya|f
+hayal gücü|🌈|воображение|vabrajeniye|n
+dikkat|🎯|внимание|vnimaniye|n
+motivasyon|🔥|мотивация|mativatsiya|f
+stres|😫|стресс|stress|m
+# Psikolojik fiiller | Endişe etmek, kıskanmak, pişman olmak…
+pişman olmak|😔|сожалеть|sajalet'|
+kıskanmak|😒|ревновать|rivnavat'|
+utanmak|😳|стесняться|stisnyat'sa|
+gurur duymak|😌|гордиться|gardit'sa|
+şüphelenmek|🤨|подозревать|padazrevat'|
+hayal kırıklığına uğramak|😞|разочароваться|razaçaravat'sa|
+alışmak|🔁|привыкать|privıkat'|
+## Medya ve iletişim | Yayın, manşet, söyleşi, yorum
+# Basın | Manşet, muhabir, editör…
+manşet|🗞️|заголовок|zagalovak|m
+muhabir|🎤|корреспондент|karrespandent|m
+editör|✏️|редактор|redaktar|m
+yayınevi|🏢|издательство|izdatil'stva|n
+baskı (gazete)|🖨️|тираж|tiraş|m
+sansür|🚫|цензура|tsenzura|f
+basın toplantısı|📸|пресс-конференция|press-kanferentsiya|f
+# Televizyon ve internet | Kanal, dizi, yayın…
+kanal|📺|канал|kanal|m
+dizi|🎬|сериал|serial|m
+canlı yayın|🔴|прямой эфир|pryamoy efir|m
+izleyici|🍿|зритель|zritel'|m
+dinleyici|🎧|слушатель|sluşatil'|m
+podcast|🎙️|подкаст|potkast|m
+blog yazarı|✍️|блогер|blager|m
+# Bilgi | Kaynak, sahte haber, söylenti…
+kaynak (bilgi)|📚|источник|istoçnik|m
+sahte haber|🤥|фейк|feyk|m
+söylenti|👂|слух|sluh|m
+gerçek (olgu)|📌|факт|fakt|m
+görüş|💭|мнение|mneniye|n
+yorum (analiz)|🗒️|комментарий эксперта|kammentariy eksperta|m
+kamuoyu|👥|общественное мнение|abşşestvinnaye mneniye|n
+# İletişim | Mektuplaşma, tartışma, ikna…
+yazışma|📨|переписка|piripiska|f
+ikna|🫱|убеждение|ubijdeniye|n
+anlaşmazlık|💢|разногласие|raznaglasiye|n
+uzlaşma|🤝|компромисс|kampramis|m
+ipucu, ima|😉|намёк|namyok|m
+diyalog|💬|диалог|dialok|m
+konuşma (nutuk)|🎙️|речь|reç|f
+# İletişim fiilleri | Bildirmek, açıklamak, ikna etmek…
+bildirmek|📣|сообщать|saabşşat'|
+açıklamak (resmen)|📢|заявлять|zayavlyat'|
+ikna etmek|🫴|убеждать|ubijdat'|
+itiraz etmek|🙅|возражать|vazrajat'|
+yalanlamak|❌|опровергать|aprevergat'|
+abartmak|🎈|преувеличивать|priuveliçivat'|
+vurgulamak|🖍️|подчёркивать|patçorkivat'|
+## Sanat ve kültür | Eser, sahne, sergi, yönetmen
+# Sahne sanatları | Sahne, oyuncu, yönetmen…
+sahne|🎭|сцена|stsena|f
+oyuncu (aktör)|🎬|актёр|aktyor|m
+yönetmen|🎥|режиссёр|rejissyor|m
+gösteri, oyun|🎟️|спектакль|spektakl'|m
+bale|🩰|балет|balet|m
+opera|🎼|опера|opera|f
+alkış|👏|аплодисменты|aplatismentı|
+# Görsel sanatlar | Tablo, ressam, fırça…
+ressam|🎨|живописец|jivapisets|m
+tuval|🖼️|холст|holst|m
+fırça|🖌️|кисть|kist'|f
+portre|👤|портрет|partret|m
+manzara (resim)|🏞️|пейзаж|peyzaş|m
+şaheser|🏆|шедевр|şedevr|m
+galeri|🏛️|галерея|galereya|f
+# Edebiyat | Yazar, kahraman, olay örgüsü…
+eser|📖|произведение|praizvedeniye|n
+kahraman (roman)|🦸|герой|giroy|m
+olay örgüsü|🧵|сюжет|syujet|m
+şair|🪶|поэт|paet|m
+öykü|📝|рассказ|rasskas|m
+okur|👓|читатель|çitatil'|m
+çeviri|🔁|перевод книги|pirivot knigi|m
+# Kültürel miras | Gelenek, folklor, anıt…
+miras|🏺|наследие|nasledie|n
+folklor|🪕|фольклор|fal'klor|m
+el sanatları|🧶|ремесло|rimislo|n
+festival|🎉|фестиваль|festival'|m
+koleksiyon|🗂️|коллекция|kalektsiya|f
+tarz, üslup|✨|стиль|stil'|m
+yaratıcılık|🌟|творчество|tvorçistva|n
+# Sanat fiilleri | Sahnelemek, yaratmak, sergilemek…
+yaratmak|🛠️|создавать|sazdavat'|
+sahnelemek|🎭|ставить спектакль|stavit' spektakl'|
+sergilemek|🖼️|выставлять|vıstavlyat'|
+ilham vermek|💫|вдохновлять|vdahnavlyat'|
+eleştiri yazmak|🖋️|писать рецензию|pisat' ritsenziyu|
+rol oynamak|🎬|играть роль|igrat' rol'|
+beste yapmak|🎹|сочинять музыку|saçinyat' muzıku|
+## Eğitim ve kariyer | Yüksek lisans, staj, terfi
+# Yükseköğretim | Lisans, yüksek lisans, tez…
+lisans (derece)|🎓|бакалавриат|bakalavriat|m
+yüksek lisans|📘|магистратура|magistratura|f
+doktora|🎓|аспирантура|aspirantura|f
+tez|📚|диссертация|dissertatsiya|f
+akademik danışman|🧑‍🏫|научный руководитель|nauçnıy rukavaditil'|m
+kabul (üniversite)|📩|поступление|pastupleniye|n
+mezun|🎉|выпускник|vıpusknik|m
+# Kariyer | Staj, terfi, deneyim…
+staj|🧑‍🎓|стажировка|stajıroka|f
+terfi|📈|повышение|pavışeniye|n
+özgeçmiş|📄|резюме|rezyume|n
+nitelik, beceri|🛠️|навык|navık|m
+pozisyon|🪑|должность|doljnast'|f
+iş deneyimi|⏳|стаж работы|staş rabotı|m
+kariyer|🪜|карьера|kar'yera|f
+# İş ortamı | Mesai, izin, ekip…
+mesai, iş saatleri|🕘|рабочий день|raboçiy den'|m
+fazla mesai|🌙|сверхурочная работа|sverhuroçnaya rabota|f
+yıllık izin|🏖️|ежегодный отпуск|yejegodnıy otpusk|m
+ekip|👥|коллектив|kalektif|m
+iş yükü|🏋️|нагрузка|nagruska|f
+uzaktan çalışma|🏠|удалённая работа|udalyonnaya rabota|f
+son tarih|⏰|дедлайн|dedlayn|m
+# Beceriler | Liderlik, iletişim, yaratıcılık…
+liderlik|🧭|лидерство|liderstva|n
+verimlilik|⚡|эффективность|effektivnast'|f
+esneklik|🤸|гибкость|gipkast'|f
+yetkinlik|🏅|компетенция|kampitentsiya|f
+girişkenlik|🚀|инициатива|initsiativa|f
+zaman yönetimi|⏱️|тайм-менеджмент|taym-menedjment|m
+ekip çalışması|🤝|командная работа|kamandnaya rabota|f
+# Kariyer fiilleri | Başvurmak, terfi etmek, ayrılmak…
+terfi etmek|⬆️|получить повышение|paluçit' pavışeniye|
+istifa etmek (işten)|📤|уволиться|uvalit'sa|
+staj yapmak|🗂️|проходить стажировку|prahadit' stajırovku|
+kendini geliştirmek|🌱|развиваться|razvivat'sa|
+uzmanlaşmak|🎯|специализироваться|spetsializiravat'sa|
+görevlendirmek|📌|поручать|paruçat'|
+denetlemek|🔎|контролировать|kantraliravat'|
+## Çevre ve enerji | Emisyon, iklim değişikliği, yenilenebilir
+# İklim | Küresel ısınma, emisyon, sera gazı…
+küresel ısınma|🌡️|глобальное потепление|glabal'naye patepleniye|n
+iklim değişikliği|🌍|изменение климата|izmineniye klimata|n
+emisyon|🏭|выбросы|vıbrası|
+sera etkisi|🏡|парниковый эффект|parnikavıy effekt|m
+karbondioksit|💨|углекислый газ|uglekislıy gas|m
+ozon tabakası|🛡️|озоновый слой|azonavıy sloy|m
+buzulların erimesi|🧊|таяние ледников|tayaniye lidnikof|n
+# Enerji | Yenilenebilir enerji, rüzgâr türbini…
+yenilenebilir enerji|♻️|возобновляемая энергия|vazabnavlyayemaya energiya|f
+rüzgâr türbini|🌬️|ветряк|vitryak|m
+güneş paneli|☀️|солнечная панель|solnıçnaya panel'|f
+nükleer santral|⚛️|атомная станция|atamnaya stantsiya|f
+petrol|🛢️|нефть|neft'|f
+doğal gaz|🔥|природный газ|prirodnıy gas|m
+kömür|⚫|уголь|ugal'|m
+# Doğa koruma | Doğal kaynak, nesli tükenmekte olan…
+doğal kaynaklar|🌲|природные ресурсы|prirodnıye resursı|
+milli park|🏞️|заповедник|zapavednik|m
+nesli tükenmekte olan|🐼|исчезающий|isçezayuşşiy|
+ormansızlaşma|🪓|вырубка лесов|vırupka lisof|f
+biyoçeşitlilik|🦋|биоразнообразие|bioraznaabraziye|n
+ekosistem|🌿|экосистема|ekasistema|f
+gönüllü|🙋|волонтёр|valantyor|m
+# Atık | Plastik, çöp ayrıştırma, kompost…
+atık|🗑️|отходы|athodı|
+plastik|🧴|пластик|plastik|m
+çöp ayrıştırma|🚮|сортировка мусора|sartirofka musara|f
+ambalaj|📦|упаковка|upakofka|f
+çöplük|🏔️|свалка|svalka|f
+kanalizasyon|🚰|канализация|kanalizatsiya|f
+arıtma|💧|очистка воды|açistka vadı|f
+# Çevre fiilleri | Tasarruf etmek, kirletmek, korumak…
+tasarruf etmek|💡|экономить|ekanomit'|
+kirletmek|🏭|загрязнять|zagriznyat'|
+geri dönüştürmek|♻️|перерабатывать|piririabatıvat'|
+yok etmek|💥|уничтожать|uniçtajat'|
+azaltmak|📉|сокращать|sakraşşat'|
+yeniden kullanmak|🔁|использовать повторно|ispol'zavat' paftorna|
+ağaç dikmek|🌳|сажать деревья|sajat' direv'ya|
+## Toplum ve sosyal sorunlar | Göç, yoksulluk, eşitsizlik
+# Sosyal sorunlar | Yoksulluk, evsizlik, eşitsizlik…
+yoksulluk|🪙|бедность|bednast'|f
+evsiz|🏚️|бездомный|bizdomnıy|m
+eşitsizlik|⚖️|неравенство|neravenstva|n
+bağımlılık|🍷|зависимость|zavisimast'|f
+suç oranı|📊|преступность|prestupnast'|f
+yalnızlık|🌑|одиночество|adinoçistva|n
+sosyal yardım|🤲|социальная помощь|satsial'naya pomaşş|f
+# Göç | Göçmen, mülteci, uyum…
+göç|🧳|миграция|migratsiya|f
+göçmen|🚶|мигрант|migrant|m
+mülteci|⛺|беженец|bejenets|m
+uyum (sosyal)|🧩|адаптация|adaptatsiya|f
+vatandaşlık|🪪|гражданство|grajdanstva|n
+oturma izni|📃|вид на жительство|vit na jıtil'stva|m
+memleket özlemi|💭|ностальгия|nastal'giya|f
+# Nesiller | Kuşak, emekliler, gençlik…
+kuşak, nesil|👨‍👩‍👧|поколение|pakaleniye|n
+gençlik (toplumsal)|🧑‍🤝‍🧑|молодёжь|maladyoş|f
+yaşlılar|👴|пожилые люди|pajılıye lyudi|
+çocuk yetiştirme|👶|воспитание|vaspitaniye|n
+nüfus artışı|📈|рождаемость|rajdayemast'|f
+ortalama ömür|⏳|продолжительность жизни|pradaljıtil'nast' jızni|f
+emeklilik maaşı|💳|пенсия|pensiya|f
+# Toplumsal yaşam | Topluluk, hayır kurumu, gönüllülük…
+topluluk|🏘️|сообщество|saobşşestva|n
+hayır kurumu|💝|благотворительность|blagatvaritil'nast'|f
+gönüllülük|🙌|волонтёрство|valantyorstva|n
+hoşgörü|🫶|терпимость|tirpimast'|f
+dayanışma|🤝|солидарность|salidarnast'|f
+protesto|✊|протест|pratest|m
+grev|🪧|забастовка|zabastofka|f
+# Toplum fiilleri | Göç etmek, uyum sağlamak, yardım etmek…
+göç etmek|🛫|эмигрировать|emigriravat'|
+uyum sağlamak|🧩|приспосабливаться|prispasablivat'sa|
+bağış yapmak|🎁|жертвовать|jertvavat'|
+gösteri yapmak|📣|протестовать|pratestavat'|
+dışlamak|🚪|исключать|iskluçat'|
+birleştirmek|🔗|объединять|abyedinyat'|
+çözmek (sorun)|🧠|решать проблему|rişat' prablemu|
+## İleri fiiller | Etkilemek, kaçınmak, sağlamak, varsaymak
+# Etki ve neden | Etkilemek, neden olmak, bağlı olmak…
+etkilemek|🌀|влиять|vliyat'|
+neden olmak|➡️|вызывать|vızıvat'|
+bağlı olmak|🔗|зависеть|zaviset'|
+sonuçlanmak|🏁|приводить к|privadit' k|
+önlemek|🛑|предотвращать|pridatvraşşat'|
+kolaylaştırmak|🪶|облегчать|ablehçat'|
+zorlaştırmak|🧱|усложнять|uslojnyat'|
+# Düşünce fiilleri | Varsaymak, sonuç çıkarmak, değerlendirmek…
+varsaymak|💭|предполагать|pritpalagat'|
+sonuç çıkarmak|🧩|делать вывод|delat' vıvat|
+değerlendirmek|⚖️|оценивать|atsenivat'|
+dikkate almak|📝|учитывать|uçitıvat'|
+karşılaştırmak|🆚|сравнивать|sravnivat'|
+fark etmek (anlamak)|💡|осознавать|asaznavat'|
+tereddüt etmek|🤔|сомневаться|samnivat'sa|
+# Sağlamak ve elde etmek | Sağlamak, elde etmek, gerçekleştirmek…
+sağlamak|🎁|обеспечивать|abispeçivat'|
+elde etmek|🏆|достигать|dastigat'|
+gerçekleştirmek|✅|осуществлять|asuşşestvlyat'|
+kullanmak (yararlanmak)|🧰|пользоваться|pol'zavat'sa|
+uygulamak|🛠️|применять|primenyat'|
+sürdürmek|♾️|поддерживать связь|paddyerjivat' svyas'|
+ertelemek|⏸️|откладывать|atkladıvat'|
+# Kaçınma ve vazgeçme | Kaçınmak, reddetmek, vazgeçmek…
+kaçınmak|🙈|избегать|izbegat'|
+reddetmek|🙅|отказываться|atkazıvat'sa|
+vazgeçmek|🏳️|сдаваться|zdavat'sa|
+gizlemek|🫥|скрывать|skrıvat'|
+ihmal etmek|😶|пренебрегать|pinibregat'|
+direnmek|🧱|сопротивляться|saprativlyat'sa|
+pes etmemek|💪|не сдаваться|ni zdavat'sa|
+# Değişim fiilleri | Dönüşmek, gelişmek, uyarlamak…
+dönüşmek|🦋|превращаться|privraşşat'sa|
+gelişmek|📈|развиваться дальше|razvivat'sa dal'şe|
+uyarlamak|🔧|адаптировать|adaptiravat'|
+iyileştirmek|⭐|улучшать|uluçşat'|
+kötüleşmek|📉|ухудшаться|uhutşat'sa|
+yenilemek|🔄|обновлять дом|abnavlyat' dom|
+kaynakları korumak|🌿|беречь ресурсы|biriç resursı|
+## Tartışma ve ifade | Görüş bildirme, bağlaçlar, akademik dil
+# Görüş bildirme | Bana öyle geliyor ki, kuşkusuz…
+bana öyle geliyor ki|🤔|мне кажется|mne kajetsa|
+bence (resmi)|🗨️|на мой взгляд|na moy vzglyat|
+kuşkusuz|✔️|несомненно|nisamnenna|
+muhtemelen|🎲|вероятно|virayatna|
+görünüşe göre|👀|по-видимому|pa-vidimamu|
+açıkçası|🙌|честно говоря|çesna gavarya|
+bildiğim kadarıyla|📚|насколько я знаю|naskol'ka ya znayu|
+# Bağlaçlar 2 | Bu nedenle, öte yandan, üstelik…
+bu nedenle|➡️|следовательно|sledavatil'na|
+öte yandan|🔄|с другой стороны|z drugoy staranı|
+üstelik|➕|более того|boleye tavo|
+yani (açıklama)|🟰|то есть|to yest'|
+buna rağmen|🔀|тем не менее|tem ni meneye|
+özetle|📝|итак|itak|
+ilk olarak|1️⃣|во-первых|va-pervıh|
+# Akademik dil | Sorun, yaklaşım, bakış açısı…
+yaklaşım|🧭|подход|patkhot|m
+bakış açısı|🔭|точка зрения|toçka zreniya|f
+argüman|🗣️|аргумент|argument|m
+sonuç (çıkarım)|🏁|вывод|vıvat|m
+özellik|🔖|особенность|asobinnast'|f
+eğilim|📈|тенденция|tendentsiya|f
+etken|⚙️|фактор|faktar|m
+# Tartışma ifadeleri | Katılıyorum ama…, mesele şu ki…
+tamamen katılıyorum|💯|полностью согласен|polnast'yu saglasen|
+kısmen haklısın|🌗|отчасти ты прав|atçasti tı praf|
+mesele şu ki|❗|дело в том, что|delo f tom şto|
+örneğin (resmi)|📌|к примеру|k primeru|
+bir yandan|↔️|с одной стороны|s adnoy staranı|
+sonuç olarak|🏁|в итоге|v itoge|
+başka bir deyişle|🔁|иными словами|inımi slavami|
+# Sıfatlar 3 | Temel, gerçekçi, tartışmalı…
+temel|🧱|основной|asnavnoy|
+gerçekçi|🎯|реалистичный|realistiçnıy|
+tartışmalı|⚡|спорный|spornıy|
+belirsiz|🌫️|неопределённый|neapridilyonnıy|
+etkili|💥|эффективный|effektivnıy|
+geçerli (resmi)|✅|действительный|deystvitil'nıy|
+yeterli olmayan|📉|недостаточный|nedastatoçnıy|
+## Duygular ve ilişkiler 3 | Saygı, güven, ihanet, şefkat
+# Duygular | Şefkat, hayranlık, nefret…
+şefkat|🤗|нежность|nejnast'|f
+hayranlık|🤩|восхищение|vashişşeniye|n
+nefret|😠|ненависть|nenavist'|f
+kıskançlık|💚|ревность|revnast'|f
+hayal kırıklığı|😞|разочарование|razaçaravaniye|n
+minnettarlık|🙏|благодарность|blagadarnast'|f
+utanç|😳|стыд|stıt|m
+# İlişkiler | Güven, saygı, ihanet…
+güven|🤝|доверие|daveriye|n
+saygı|🙇|уважение|uvajeniye|n
+ihanet|🗡️|предательство|pridatil'stva|n
+bağlılık|💍|преданность|predannast'|f
+destek|🫂|поддержка|paddyerjka|f
+anlayış|💡|понимание|panimaniye|n
+çatışma|⚔️|конфликт|kanflikt|m
+# İnsanlar | Tanıdık, akran, rakip…
+tanıdık|👋|знакомый|znakomıy|m
+akran|🧑‍🤝‍🧑|ровесник|ravesnik|m
+meslektaş (resmi)|👔|сослуживец|saslujıvets|m
+akıl hocası|🧙|наставник|nastavnik|m
+düşman|👿|враг|vrak|m
+yabancı (tanımadık)|👤|незнакомец|niznakomits|m
+ev arkadaşı|🏠|сосед по квартире|sased pa kvartire|m
+# İlişki fiilleri | Barışmak, kırılmak, özür dilemek…
+barışmak|🕊️|мириться|mirit'sa|
+gücenmek|😤|обижаться|abijat'sa|
+güvenini kaybetmek|💔|потерять доверие|patiryat' daveriye|
+ihanet etmek|🗡️|предавать|pridavat'|
+desteklemek (manevi)|🫂|поддержать друга|paddyerjat' druga|
+anlaşmak (geçinmek)|🤝|ладить|ladit'|
+ayrılmak (yollar)|🚶|разойтись|razaytis'|
+# Kalıplar | Seni anlıyorum, kendine iyi bak…
+seni çok iyi anlıyorum|🫶|я тебя прекрасно понимаю|ya tibya prikrasna panimayu|
+bunu hak etmedin|🥺|ты этого не заслужил|tı etava ni zaslujıl|
+her şey yoluna girecek|🌈|всё наладится|fsyo naladitsa|
+moralini bozma|💪|не вешай нос|ni veşay nos|
+ne düşündüğünü söyle|💬|скажи, что ты думаешь|skajı, şto tı dumayeş|
+seninle gurur duyuyorum|🏅|я горжусь тобой|ya garjus' taboy|
+yanındayım|🤝|я рядом|ya ryadam|

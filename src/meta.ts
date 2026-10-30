@@ -4,14 +4,10 @@ import { BUILD, REPO } from './buildInfo';
 
 /** Shown once after installing a new build ("Yenilikler"). */
 export const WHATS_NEW: string[] = [
-  'Orta seviyeye dilbilgisi üniteleri: haller/zamanlar/artikeller, boşluk doldurma alıştırmalarıyla (Ayarlar → Dilbilgisi: zorunlu ya da isteğe bağlı)',
-  'Diyalog dersleri: Anya ve Dima (her dilde kendi karakterleri) ile gerçek konuşmalar; ikinci kişinin repliklerini sen söylüyorsun',
-  'Yüksek seviye açıldı: ileri dilbilgisi, okuma metinleri (kelimeye dokun → anlamı, sesi, tekrara ekle) ve serbest konuşma; arayüz o dile geçer',
-  'Yazma ve dikte: dilin kendi klavyesiyle (Kiril, ä ö ü ß, é è ç…) duyduğunu yaz',
-  'Sözlük ve fiil çekim tabloları (Tekrar sekmesi)',
-  '20 rozet, PDF ilerleme raporu ve Android ana ekran widget\'ı',
-  'Uygulama boyutu küçüldü: sesler sıkıştırıldı, yavaş dinleme artık aynı kayıttan',
-  'Dil başına 1.500+ kelime/ifade',
+  'Rusça derinleşti: her kelimeye örnek cümle (kartta, sözlükte ve sorularda), 2.100+ kelime',
+  'Rusça dilbilgisi tam set: sıfat çekimi, çoğul hâller, zamirler, -ся fiilleri, sayılar, koşul kipi, который, ön ekli hareket fiilleri',
+  'Rusça 19 diyalog ve 9 okuma metni (eczane, otel, banka, kira, Puşkin, Baykal…)',
+  'Rusça yüksek seviyeye 525 yeni kelime: siyaset, hukuk, ekonomi, bilim, sağlık, medya, sanat…',
 ];
 
 const SEEN_KEY = 'voxa.seenBuild';

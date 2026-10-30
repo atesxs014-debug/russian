@@ -85,6 +85,10 @@ def collect(lang: str) -> list[tuple[str, str, bool]]:
         walk_units([x["unit"] for x in json.loads(gpath.read_text(encoding="utf-8"))["units"]])
     for q in data.get("quotes", []):
         add(q["t"])
+    ex = DATA / "examples" / f"{lang}.json"
+    if ex.exists():
+        for sentence, _ in json.loads(ex.read_text(encoding="utf-8")).values():
+            add(sentence)
     conj = DATA / "conj.json"
     if conj.exists():
         c = json.loads(conj.read_text(encoding="utf-8")).get(lang)

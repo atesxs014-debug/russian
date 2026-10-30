@@ -1,0 +1,2166 @@
+# kelime|örnek cümle|Türkçesi
+# u1
+мама|Мама дома.|Annem evde.
+там|Мой дом там.|Evim orada.
+кот|Кот спит на диване.|Kedi kanepede uyuyor.
+так|Делай так, как я.|Benim gibi yap.
+мак|В поле растёт красный мак.|Tarlada kırmızı bir gelincik büyüyor.
+ток|Осторожно, ток!|Dikkat, elektrik!
+кто|Кто это?|Bu kim?
+атом|Атом очень маленький.|Atom çok küçüktür.
+вот|Вот мой паспорт.|İşte pasaportum.
+вата|У меня есть вата.|Bende pamuk var.
+нет|Нет, спасибо.|Hayır, teşekkürler.
+ветер|Сегодня сильный ветер.|Bugün kuvvetli rüzgâr var.
+нос|У кота мокрый нос.|Kedinin burnu ıslak.
+он|Он мой брат.|O benim erkek kardeşim.
+рот|Открой рот.|Ağzını aç.
+рука|У меня болит рука.|Kolum ağrıyor.
+сок|Я пью апельсиновый сок.|Portakal suyu içiyorum.
+сон|Мне снился странный сон.|Garip bir rüya gördüm.
+утро|Утро было холодное.|Sabah soğuktu.
+ум|У него хороший ум.|Onun iyi bir aklı var.
+хор|Она поёт в хоре.|O koroda şarkı söylüyor.
+сахар|Чай без сахара, пожалуйста.|Şekersiz çay lütfen.
+брат|Мой брат живёт в Москве.|Erkek kardeşim Moskova'da yaşıyor.
+банк|Банк работает до шести.|Banka altıya kadar açık.
+город|Это большой город.|Bu büyük bir şehir.
+год|Новый год скоро.|Yılbaşı yakında.
+да|Да, я понимаю.|Evet, anlıyorum.
+дом|Наш дом рядом с парком.|Evimiz parkın yanında.
+зуб|У меня болит зуб.|Dişim ağrıyor.
+завтра|Завтра я работаю.|Yarın çalışıyorum.
+стол|Книга на столе.|Kitap masanın üstünde.
+лампа|Включи лампу.|Lambayı aç.
+папа|Папа читает газету.|Babam gazete okuyor.
+парк|Мы гуляем в парке.|Parkta geziyoruz.
+фото|Это моё фото.|Bu benim fotoğrafım.
+фрукт|Какой твой любимый фрукт?|En sevdiğin meyve hangisi?
+и|Мама и папа дома.|Annem ve babam evde.
+мир|Мир большой.|Dünya büyük.
+мой|Это мой друг.|Bu benim arkadaşım.
+май|В мае тепло.|Mayısta hava ılık.
+это|Это моя сумка.|Bu benim çantam.
+эхо|В горах слышно эхо.|Dağlarda yankı duyulur.
+журнал|Я читаю журнал.|Dergi okuyorum.
+жена|Его жена врач.|Onun eşi doktor.
+цирк|Дети любят цирк.|Çocuklar sirki sever.
+улица|Как называется эта улица?|Bu sokağın adı ne?
+чай|Хочешь чай?|Çay ister misin?
+час|Сейчас два часа.|Şimdi saat iki.
+школа|Школа рядом с домом.|Okul evin yanında.
+шапка|Надень шапку, холодно.|Şapkanı tak, hava soğuk.
+щи|Бабушка варит щи.|Büyükannem lahana çorbası pişiriyor.
+борщ|Борщ очень вкусный.|Pancar çorbası çok lezzetli.
+я|Я студент.|Ben öğrenciyim.
+моя|Это моя сестра.|Bu benim kız kardeşim.
+ёлка|Мы украшаем ёлку.|Çam ağacını süslüyoruz.
+лёд|Осторожно, на дороге лёд.|Dikkat, yolda buz var.
+юг|Летом мы едем на юг.|Yazın güneye gidiyoruz.
+юмор|У неё отличный юмор.|Onun harika bir mizah anlayışı var.
+ты|Ты где?|Neredesin?
+сыр|Я люблю сыр.|Peyniri severim.
+соль|Передай, пожалуйста, соль.|Tuzu uzatır mısın lütfen.
+день|Хороший день!|Güzel bir gün!
+подъезд|Я жду тебя у подъезда.|Seni apartman girişinde bekliyorum.
+съесть|Можно съесть это яблоко?|Bu elmayı yiyebilir miyim?
+молоко|Я пью молоко утром.|Sabah süt içerim.
+вода|Вода холодная.|Su soğuk.
+хорошо|Всё хорошо.|Her şey yolunda.
+сестра|Моя сестра учится в школе.|Kız kardeşim okula gidiyor.
+язык|Русский язык красивый.|Rus dili güzel.
+хлеб|Купи хлеб, пожалуйста.|Ekmek al lütfen.
+друг|Он мой лучший друг.|O benim en iyi arkadaşım.
+раз|Повтори ещё раз.|Bir kez daha tekrarla.
+окно|Открой окно.|Pencereyi aç.
+# u2
+привет|Привет! Как дела?|Selam! Nasılsın?
+здравствуйте|Здравствуйте, я ваш новый сосед.|Merhaba, ben yeni komşunuzum.
+доброе утро|Доброе утро, мама!|Günaydın anne!
+добрый день|Добрый день, чем могу помочь?|İyi günler, nasıl yardımcı olabilirim?
+добрый вечер|Добрый вечер, рады вас видеть.|İyi akşamlar, sizi gördüğümüze sevindik.
+пока|Пока, до завтра!|Hoşça kal, yarın görüşürüz!
+до свидания|До свидания, хорошего дня!|Görüşmek üzere, iyi günler!
+спасибо|Спасибо за помощь.|Yardımın için teşekkürler.
+большое спасибо|Большое спасибо за подарок!|Hediye için çok teşekkürler!
+пожалуйста|Воду, пожалуйста.|Su lütfen.
+извините|Извините, где метро?|Affedersiniz, metro nerede?
+ничего|Ничего, всё в порядке.|Önemli değil, her şey yolunda.
+конечно|Конечно, я помогу.|Tabii ki yardım ederim.
+ладно|Ладно, давай завтра.|Peki, yarın olsun.
+меня зовут…|Меня зовут Бурак.|Benim adım Burak.
+как вас зовут?|Простите, как вас зовут?|Affedersiniz, adınız ne?
+очень приятно|Очень приятно, я Анна.|Memnun oldum, ben Anna.
+как дела?|Привет, как дела на работе?|Selam, iş nasıl gidiyor?
+отлично|Всё отлично, спасибо!|Her şey harika, teşekkürler!
+откуда вы?|Откуда вы? Из Турции?|Nerelisiniz? Türkiye'den mi?
+я из Турции|Я из Турции, из Стамбула.|Türkiye'denim, İstanbul'dan.
+что|Что это?|Bu ne?
+где|Где ты живёшь?|Nerede yaşıyorsun?
+когда|Когда ты придёшь?|Ne zaman geleceksin?
+почему|Почему ты грустный?|Neden üzgünsün?
+как|Как тебя зовут?|Adın ne?
+сколько|Сколько тебе лет?|Kaç yaşındasın?
+куда|Куда ты идёшь?|Nereye gidiyorsun?
+она|Она моя подруга.|O benim kız arkadaşım.
+мы|Мы из Турции.|Biz Türkiye'liyiz.
+вы|Вы говорите по-английски?|İngilizce konuşuyor musunuz?
+они|Они живут в Казани.|Onlar Kazan'da yaşıyor.
+# u3
+один|У меня один брат.|Bir erkek kardeşim var.
+два|Два кофе, пожалуйста.|İki kahve lütfen.
+три|Мы живём здесь три года.|Üç yıldır burada yaşıyoruz.
+четыре|В комнате четыре стула.|Odada dört sandalye var.
+пять|Урок начинается в пять.|Ders beşte başlıyor.
+шесть|Мне нужно шесть яиц.|Altı yumurtaya ihtiyacım var.
+семь|В неделе семь дней.|Haftada yedi gün vardır.
+восемь|Я встаю в восемь.|Sekizde kalkarım.
+девять|Магазин открывается в девять.|Mağaza dokuzda açılıyor.
+десять|Подожди десять минут.|On dakika bekle.
+ноль|На улице ноль градусов.|Dışarıda sıfır derece.
+двадцать|Ей двадцать лет.|O yirmi yaşında.
+пятьдесят|Это стоит пятьдесят рублей.|Bu elli ruble.
+сто|В классе сто книг.|Sınıfta yüz kitap var.
+тысяча|Билет стоит тысячу рублей.|Bilet bin ruble.
+понедельник|В понедельник я работаю.|Pazartesi çalışıyorum.
+вторник|Во вторник у нас урок.|Salı günü dersimiz var.
+среда|Сегодня среда.|Bugün çarşamba.
+четверг|В четверг мы идём в кино.|Perşembe sinemaya gidiyoruz.
+пятница|Пятница — мой любимый день.|Cuma en sevdiğim gün.
+суббота|В субботу я отдыхаю.|Cumartesi dinlenirim.
+воскресенье|В воскресенье мы у бабушки.|Pazar günü büyükannemdeyiz.
+сегодня|Сегодня тепло.|Bugün hava ılık.
+вчера|Вчера был дождь.|Dün yağmur vardı.
+сейчас|Сейчас я занят.|Şimdi meşgulüm.
+потом|Сначала работа, потом отдых.|Önce iş, sonra dinlenme.
+всегда|Я всегда пью кофе утром.|Sabahları hep kahve içerim.
+никогда|Я никогда не был в Сибири.|Sibirya'da hiç bulunmadım.
+минута|Подожди одну минуту.|Bir dakika bekle.
+неделя|Я буду там неделю.|Orada bir hafta kalacağım.
+месяц|Через месяц я еду домой.|Bir ay sonra eve gidiyorum.
+зима|Зима в Москве холодная.|Moskova'da kış soğuk.
+весна|Весной всё цветёт.|İlkbaharda her şey çiçek açar.
+лето|Летом мы на море.|Yazın denizdeyiz.
+осень|Осенью часто идёт дождь.|Sonbaharda sık sık yağmur yağar.
+# u4
+семья|У меня большая семья.|Benim kalabalık bir ailem var.
+отец|Мой отец инженер.|Babam mühendis.
+мать|Его мать работает в школе.|Onun annesi okulda çalışıyor.
+сын|Их сын учится в Москве.|Oğulları Moskova'da okuyor.
+дочь|У них есть дочь.|Onların bir kızı var.
+бабушка|Бабушка печёт пироги.|Büyükannem börek yapıyor.
+дедушка|Дедушка любит рыбалку.|Büyükbabam balık tutmayı sever.
+человек|Он хороший человек.|O iyi bir insan.
+мужчина|Этот мужчина — мой учитель.|Bu adam benim öğretmenim.
+женщина|Женщина покупает цветы.|Kadın çiçek alıyor.
+ребёнок|Ребёнок спит.|Çocuk uyuyor.
+подруга|Моя подруга живёт рядом.|Kız arkadaşım yakında oturuyor.
+сосед|Наш сосед очень добрый.|Komşumuz çok iyi biri.
+люди|Здесь много людей.|Burada çok insan var.
+врач|Мне нужен врач.|Bir doktora ihtiyacım var.
+учитель|Учитель объясняет урок.|Öğretmen dersi anlatıyor.
+студент|Я студент университета.|Üniversite öğrencisiyim.
+инженер|Мой брат инженер.|Erkek kardeşim mühendis.
+водитель|Водитель автобуса ждёт.|Otobüs şoförü bekliyor.
+продавец|Продавец очень вежливый.|Satıcı çok kibar.
+повар|Повар готовит суп.|Aşçı çorba yapıyor.
+голова|У меня болит голова.|Başım ağrıyor.
+глаз|У неё голубые глаза.|Onun gözleri mavi.
+ухо|У меня болит ухо.|Kulağım ağrıyor.
+нога|Я сломал ногу.|Bacağımı kırdım.
+сердце|У него доброе сердце.|Onun iyi bir kalbi var.
+волосы|У неё длинные волосы.|Onun saçları uzun.
+спина|После работы болит спина.|İşten sonra sırtım ağrıyor.
+большой|У нас большой дом.|Büyük bir evimiz var.
+маленький|Это маленький город.|Bu küçük bir şehir.
+хороший|Это хороший фильм.|Bu iyi bir film.
+плохой|Сегодня плохая погода.|Bugün hava kötü.
+новый|У меня новый телефон.|Yeni bir telefonum var.
+старый|Это старый дом.|Bu eski bir ev.
+красивый|Какой красивый город!|Ne güzel bir şehir!
+# u5
+кофе|Я пью кофе без сахара.|Kahveyi şekersiz içerim.
+пиво|Одно пиво, пожалуйста.|Bir bira lütfen.
+вино|Красное или белое вино?|Kırmızı mı beyaz şarap mı?
+мясо|Я не ем мясо.|Et yemem.
+рыба|На ужин у нас рыба.|Akşam yemeğinde balık var.
+курица|Курица с рисом очень вкусная.|Pilavlı tavuk çok lezzetli.
+яйцо|На завтрак я ем яйцо.|Kahvaltıda yumurta yerim.
+рис|Я готовлю рис.|Pirinç pişiriyorum.
+суп|Суп горячий.|Çorba sıcak.
+яблоко|Это яблоко сладкое.|Bu elma tatlı.
+банан|Ребёнок ест банан.|Çocuk muz yiyor.
+апельсин|Хочешь апельсин?|Portakal ister misin?
+картошка|Я люблю жареную картошку.|Kızarmış patatesi severim.
+помидор|Помидор красный и спелый.|Domates kırmızı ve olgun.
+огурец|В салате огурец и помидор.|Salatada salatalık ve domates var.
+лук|Нарежь лук, пожалуйста.|Soğanı doğrar mısın lütfen.
+меню|Можно меню?|Menüyü alabilir miyim?
+счёт, пожалуйста|Мы закончили, счёт, пожалуйста.|Bitirdik, hesap lütfen.
+я хочу…|Я хочу пить.|Su içmek istiyorum.
+вкусно|Очень вкусно, спасибо!|Çok lezzetli, teşekkürler!
+завтрак|Завтрак в восемь.|Kahvaltı sekizde.
+обед|Обед готов!|Öğle yemeği hazır!
+ужин|Что у нас на ужин?|Akşam yemeğinde ne var?
+красный|У меня красная машина.|Kırmızı bir arabam var.
+синий|Небо синее.|Gökyüzü mavi.
+зелёный|Трава зелёная.|Çimen yeşil.
+жёлтый|Мне нравится жёлтый цвет.|Sarı rengi severim.
+белый|Снег белый.|Kar beyazdır.
+чёрный|Он пьёт чёрный кофе.|O sade kahve içiyor.
+серый|У меня серый кот.|Gri bir kedim var.
+# u6
+магазин|Магазин закрыт.|Mağaza kapalı.
+аптека|Где ближайшая аптека?|En yakın eczane nerede?
+больница|Больница на этой улице.|Hastane bu sokakta.
+гостиница|Наша гостиница в центре.|Otelimiz merkezde.
+вокзал|Как дойти до вокзала?|Gara nasıl gidebilirim?
+ресторан|Пойдём в ресторан.|Restorana gidelim.
+музей|Музей открыт до шести.|Müze altıya kadar açık.
+метро|Я еду на метро.|Metroyla gidiyorum.
+автобус|Автобус опаздывает.|Otobüs gecikiyor.
+такси|Вызови такси, пожалуйста.|Taksi çağırır mısın lütfen.
+машина|Это твоя машина?|Bu senin araban mı?
+поезд|Поезд уходит в семь.|Tren yedide kalkıyor.
+самолёт|Самолёт летит в Стамбул.|Uçak İstanbul'a uçuyor.
+билет|У тебя есть билет?|Biletin var mı?
+направо|Поверните направо.|Sağa dönün.
+налево|Аптека налево.|Eczane solda.
+прямо|Идите прямо.|Düz gidin.
+здесь|Здесь можно курить?|Burada sigara içilebilir mi?
+далеко|Это далеко?|Bu uzak mı?
+близко|Метро близко.|Metro yakın.
+где туалет?|Извините, где туалет?|Affedersiniz, tuvalet nerede?
+сколько стоит?|Сколько стоит эта сумка?|Bu çanta ne kadar?
+деньги|У меня нет денег.|Hiç param yok.
+рубль|Это стоит сто рублей.|Bu yüz ruble.
+дорого|Это слишком дорого.|Bu çok pahalı.
+дёшево|Здесь дёшево и вкусно.|Burası ucuz ve lezzetli.
+карта|Можно оплатить картой?|Kartla ödeyebilir miyim?
+касса|Касса там.|Kasa orada.
+квартира|У нас новая квартира.|Yeni bir dairemiz var.
+комната|Моя комната маленькая.|Odam küçük.
+кухня|Мама на кухне.|Annem mutfakta.
+дверь|Закрой дверь, пожалуйста.|Kapıyı kapat lütfen.
+кровать|Кровать очень удобная.|Yatak çok rahat.
+стул|Возьми стул.|Bir sandalye al.
+диван|Кот спит на диване.|Kedi kanepede uyuyor.
+# u7
+есть|Я хочу есть.|Acıktım (yemek istiyorum).
+пить|Хочешь пить?|Bir şey içmek ister misin?
+спать|Я хочу спать.|Uyumak istiyorum.
+жить|Я живу в Стамбуле.|İstanbul'da yaşıyorum.
+работать|Я работаю в офисе.|Ofiste çalışıyorum.
+отдыхать|Летом мы отдыхаем на море.|Yazın denizde dinleniriz.
+гулять|Вечером мы гуляем в парке.|Akşamları parkta geziyoruz.
+идти|Я иду домой.|Eve gidiyorum.
+ехать|Мы едем в аэропорт.|Havalimanına gidiyoruz.
+бежать|Бежим, автобус уходит!|Koşalım, otobüs kalkıyor!
+стоять|Не стой здесь.|Burada durma.
+сидеть|Он сидит у окна.|O pencerenin yanında oturuyor.
+лететь|Завтра я лечу в Москву.|Yarın Moskova'ya uçuyorum.
+плыть|Лодка плывёт по реке.|Kayık nehirde gidiyor.
+говорить|Ты говоришь по-русски?|Rusça konuşuyor musun?
+понимать|Я тебя понимаю.|Seni anlıyorum.
+знать|Я знаю этот город.|Bu şehri biliyorum.
+читать|Я люблю читать.|Okumayı severim.
+писать|Я пишу письмо.|Mektup yazıyorum.
+слушать|Я слушаю музыку.|Müzik dinliyorum.
+учить|Я учу русский язык.|Rusça öğreniyorum.
+хотеть|Я хочу кофе.|Kahve istiyorum.
+любить|Я люблю зиму.|Kışı severim.
+мочь|Я могу помочь.|Yardım edebilirim.
+покупать|Где ты покупаешь хлеб?|Ekmeği nereden alıyorsun?
+видеть|Я тебя вижу.|Seni görüyorum.
+делать|Что ты делаешь?|Ne yapıyorsun?
+помогать|Я помогаю маме.|Anneme yardım ediyorum.
+я не понимаю|Извините, я не понимаю.|Affedersiniz, anlamıyorum.
+повторите, пожалуйста|Повторите, пожалуйста, медленно.|Yavaşça tekrar eder misiniz lütfen.
+говорите медленнее|Говорите медленнее, я учу русский.|Daha yavaş konuşun, Rusça öğreniyorum.
+я не знаю|Я не знаю, где он.|Onun nerede olduğunu bilmiyorum.
+я говорю немного по-русски|Я говорю немного по-русски, но хорошо понимаю.|Biraz Rusça konuşuyorum ama iyi anlıyorum.
+помогите!|Помогите! Мне плохо!|Yardım edin! Kendimi kötü hissediyorum!
+я люблю тебя|Я люблю тебя всем сердцем.|Seni bütün kalbimle seviyorum.
+# u8
+рубашка|Это новая рубашка.|Bu yeni bir gömlek.
+брюки|Мне нужны чёрные брюки.|Siyah bir pantolona ihtiyacım var.
+платье|Какое красивое платье!|Ne güzel bir elbise!
+куртка|Надень куртку.|Montunu giy.
+юбка|Она в синей юбке.|O mavi bir etek giymiş.
+футболка|Летом я ношу футболку.|Yazın tişört giyerim.
+свитер|Мне холодно, дай свитер.|Üşüyorum, kazağı ver.
+обувь|Сними обувь, пожалуйста.|Ayakkabılarını çıkar lütfen.
+туфли|Эти туфли очень удобные.|Bu ayakkabılar çok rahat.
+кроссовки|Я бегаю в кроссовках.|Spor ayakkabıyla koşarım.
+сумка|Где моя сумка?|Çantam nerede?
+очки|Я не вижу без очков.|Gözlüksüz göremiyorum.
+часы|Мои часы стоят.|Saatim durmuş.
+погода|Какая сегодня погода?|Bugün hava nasıl?
+солнце|Светит солнце.|Güneş parlıyor.
+дождь|Идёт дождь.|Yağmur yağıyor.
+снег|Идёт снег.|Kar yağıyor.
+жарко|Сегодня очень жарко.|Bugün çok sıcak.
+холодно|Зимой здесь холодно.|Kışın burası soğuk.
+море|Море тёплое.|Deniz ılık.
+гора|Мы поднимаемся на гору.|Dağa tırmanıyoruz.
+лес|В лесу много грибов.|Ormanda çok mantar var.
+река|Река очень широкая.|Nehir çok geniş.
+дерево|Под деревом прохладно.|Ağacın altı serin.
+цветок|Это цветок для тебя.|Bu çiçek senin için.
+небо|Небо чистое.|Gökyüzü açık.
+кошка|Кошка пьёт молоко.|Kedi süt içiyor.
+собака|У нас есть собака.|Bir köpeğimiz var.
+птица|Птица поёт.|Kuş ötüyor.
+лошадь|Лошадь бежит быстро.|At hızlı koşuyor.
+корова|Корова даёт молоко.|İnek süt verir.
+медведь|В лесу живёт медведь.|Ormanda bir ayı yaşıyor.
+волк|Волк воет ночью.|Kurt gece uluyor.
+# u9
+аэропорт|Мы едем в аэропорт.|Havalimanına gidiyoruz.
+паспорт|Покажите паспорт, пожалуйста.|Pasaportunuzu gösterin lütfen.
+багаж|Где мой багаж?|Bagajım nerede?
+рейс|Наш рейс задерживается.|Uçuşumuz gecikiyor.
+выход|Выход номер пять.|Beş numaralı kapı.
+вход|Вход здесь.|Giriş burada.
+таможня|На таможне долго ждать.|Gümrükte çok beklemek gerekiyor.
+номер|У вас есть свободный номер?|Boş odanız var mı?
+ключ|Вот ключ от номера.|İşte oda anahtarı.
+бронь|У меня бронь на имя Бурак.|Burak adına rezervasyonum var.
+лифт|Лифт не работает.|Asansör çalışmıyor.
+этаж|Я живу на третьем этаже.|Üçüncü katta oturuyorum.
+душ|Я принимаю душ.|Duş alıyorum.
+полотенце|Дайте, пожалуйста, полотенце.|Bir havlu verir misiniz lütfen.
+экскурсия|Экскурсия начинается в десять.|Gezi onda başlıyor.
+гид|Гид говорит по-английски.|Rehber İngilizce konuşuyor.
+площадь|Красная площадь очень большая.|Kızıl Meydan çok büyük.
+церковь|Это старая церковь.|Bu eski bir kilise.
+мост|Мы идём через мост.|Köprünün üstünden geçiyoruz.
+сувенир|Я купил сувенир для мамы.|Annem için hediyelik eşya aldım.
+полиция|Позвоните в полицию!|Polisi arayın!
+скорая помощь|Вызовите скорую помощь!|Ambulans çağırın!
+пожар|Пожар! Звоните ноль один!|Yangın! Hemen arayın!
+опасно|Здесь опасно плавать.|Burada yüzmek tehlikeli.
+мне плохо|Мне плохо, где врач?|Kendimi kötü hissediyorum, doktor nerede?
+я потерялся|Помогите, я потерялся.|Yardım edin, kayboldum.
+позвоните!|Позвоните мне завтра!|Yarın beni arayın!
+отпуск|В августе у меня отпуск.|Ağustosta iznim var.
+пляж|Мы весь день на пляже.|Bütün gün plajdayız.
+плавать|Я люблю плавать в море.|Denizde yüzmeyi severim.
+фотографировать|Здесь нельзя фотографировать.|Burada fotoğraf çekmek yasak.
+путешествие|Это было прекрасное путешествие.|Harika bir seyahatti.
+чемодан|Мой чемодан очень тяжёлый.|Valizim çok ağır.
+виза|Мне нужна виза?|Vizeye ihtiyacım var mı?
+# u10
+счастливый|Я очень счастливый сегодня.|Bugün çok mutluyum.
+грустный|Почему ты такой грустный?|Neden bu kadar üzgünsün?
+усталый|У него усталый вид.|Yorgun görünüyor.
+злой|Не будь таким злым.|Bu kadar kızgın olma.
+спокойный|Она всегда спокойная.|O her zaman sakin.
+я рад|Я рад тебя видеть!|Seni gördüğüme sevindim!
+мне скучно|Мне скучно, давай погуляем.|Sıkıldım, hadi gezelim.
+болит|У меня болит живот.|Karnım ağrıyor.
+лекарство|Выпей лекарство.|İlacını iç.
+температура|У ребёнка температура.|Çocuğun ateşi var.
+простуда|У меня простуда.|Soğuk algınlığım var.
+зуб болит|У меня зуб болит, мне нужен врач.|Dişim ağrıyor, doktora ihtiyacım var.
+больной|Мой брат больной, он дома.|Kardeşim hasta, evde.
+здоровый|Он здоровый и сильный.|O sağlıklı ve güçlü.
+спорт|Я занимаюсь спортом.|Spor yapıyorum.
+футбол|Мы играем в футбол.|Futbol oynuyoruz.
+бег|Бег полезен для здоровья.|Koşu sağlığa yararlı.
+плавание|Плавание — мой любимый спорт.|Yüzme en sevdiğim spor.
+тренировка|У меня тренировка в семь.|Yedide antrenmanım var.
+играть|Дети играют во дворе.|Çocuklar avluda oynuyor.
+команда|Наша команда выиграла!|Takımımız kazandı!
+музыка|Мне нравится эта музыка.|Bu müziği seviyorum.
+книга|Эта книга интересная.|Bu kitap ilginç.
+фильм|Какой фильм ты смотришь?|Hangi filmi izliyorsun?
+рисовать|Моя дочь любит рисовать.|Kızım resim yapmayı sever.
+петь|Она хорошо поёт.|O güzel şarkı söylüyor.
+танцевать|Давай танцевать!|Hadi dans edelim!
+путешествовать|Я люблю путешествовать.|Seyahat etmeyi severim.
+добрый|Бабушка очень добрая.|Büyükannem çok iyi kalpli.
+умный|Он очень умный студент.|O çok akıllı bir öğrenci.
+смешной|Это смешной фильм.|Bu komik bir film.
+серьёзный|У нас серьёзный разговор.|Ciddi bir konuşmamız var.
+весёлый|Она весёлая девушка.|O neşeli bir kız.
+милый|Какой милый котёнок!|Ne tatlı bir yavru kedi!
+ленивый|Мой кот очень ленивый.|Kedim çok tembel.
+# u11
+урок|Урок начинается в девять.|Ders dokuzda başlıyor.
+экзамен|Завтра у меня экзамен.|Yarın sınavım var.
+тетрадь|Открой тетрадь.|Defterini aç.
+ручка|Дай, пожалуйста, ручку.|Kalemi verir misin lütfen.
+вопрос|У меня есть вопрос.|Bir sorum var.
+ответ|Я знаю ответ.|Cevabı biliyorum.
+работа|Работа начинается в девять.|İş dokuzda başlıyor.
+офис|Наш офис в центре.|Ofisimiz merkezde.
+начальник|Начальник сейчас на встрече.|Müdür şu an toplantıda.
+коллега|Это мой коллега Иван.|Bu iş arkadaşım İvan.
+встреча|Встреча в три часа.|Toplantı saat üçte.
+зарплата|Зарплата приходит в конце месяца.|Maaş ay sonunda yatıyor.
+документ|Подпишите этот документ.|Bu belgeyi imzalayın.
+телефон|У тебя новый телефон?|Yeni telefonun mu var?
+компьютер|Мой компьютер не работает.|Bilgisayarım çalışmıyor.
+интернет|Здесь есть интернет?|Burada internet var mı?
+сообщение|Я получил твоё сообщение.|Mesajını aldım.
+пароль|Какой пароль от вайфая?|Wi-Fi şifresi ne?
+зарядка|У тебя есть зарядка?|Şarj aletin var mı?
+приложение|Скачай это приложение.|Bu uygulamayı indir.
+быстрый|Это быстрый поезд.|Bu hızlı bir tren.
+медленный|Интернет сегодня медленный.|İnternet bugün yavaş.
+лёгкий|Экзамен был лёгкий.|Sınav kolaydı.
+трудный|Русский язык трудный, но интересный.|Rusça zor ama ilginç.
+дорогой|Это дорогой ресторан.|Bu pahalı bir restoran.
+дешёвый|Я купил дешёвый билет.|Ucuz bir bilet aldım.
+интересный|Это интересный вопрос.|Bu ilginç bir soru.
+очень|Я очень устал.|Çok yoruldum.
+немного|Подожди немного.|Biraz bekle.
+плохо|Я плохо спал.|Kötü uyudum.
+часто|Я часто хожу в кино.|Sık sık sinemaya giderim.
+редко|Мы редко видимся.|Nadiren görüşüyoruz.
+уже|Я уже поел.|Zaten yemek yedim.
+# u12
+просыпаться|Я просыпаюсь в семь.|Yedide uyanırım.
+вставать|Пора вставать!|Kalkma vakti!
+умываться|Утром я умываюсь холодной водой.|Sabahları yüzümü soğuk suyla yıkarım.
+одеваться|Одевайся быстрее, мы опаздываем.|Çabuk giyin, geç kalıyoruz.
+завтракать|Мы завтракаем вместе.|Birlikte kahvaltı ediyoruz.
+чистить зубы|Не забудь чистить зубы.|Dişlerini fırçalamayı unutma.
+спешить|Не спеши, у нас есть время.|Acele etme, vaktimiz var.
+убирать|В субботу я убираю квартиру.|Cumartesi daireyi temizlerim.
+готовить|Папа хорошо готовит.|Babam iyi yemek yapar.
+стирать|Я стираю одежду.|Çamaşır yıkıyorum.
+мыть посуду|Сегодня ты моешь посуду.|Bugün bulaşıkları sen yıkıyorsun.
+гладить|Мне нужно гладить рубашку.|Gömleği ütülemem lazım.
+пылесос|Пылесос в шкафу.|Elektrik süpürgesi dolapta.
+мусор|Вынеси мусор, пожалуйста.|Çöpü çıkar lütfen.
+тарелка|Положи суп в тарелку.|Çorbayı tabağa koy.
+ложка|Мне нужна ложка.|Bir kaşığa ihtiyacım var.
+вилка|Где вилка?|Çatal nerede?
+нож|Этот нож очень острый.|Bu bıçak çok keskin.
+кастрюля|Суп в кастрюле.|Çorba tencerede.
+холодильник|Молоко в холодильнике.|Süt buzdolabında.
+плита|Чайник на плите.|Çaydanlık ocakta.
+ванная|Ванная занята.|Banyo dolu.
+мыло|Помой руки с мылом.|Ellerini sabunla yıka.
+зубная щётка|Я купил новую зубную щётку.|Yeni bir diş fırçası aldım.
+зеркало|Она смотрит в зеркало.|O aynaya bakıyor.
+шампунь|Шампунь закончился.|Şampuan bitti.
+туалет|Туалет в конце коридора.|Tuvalet koridorun sonunda.
+расчёска|Где моя расчёска?|Tarağım nerede?
+вечер|Добрый вечер всем!|Herkese iyi akşamlar!
+телевизор|Выключи телевизор.|Televizyonu kapat.
+ужинать|Мы ужинаем в семь.|Yedide akşam yemeği yeriz.
+ложиться спать|Я ложусь спать в одиннадцать.|On birde yatarım.
+спокойной ночи|Спокойной ночи, сладких снов!|İyi geceler, tatlı rüyalar!
+# u13
+но|Я устал, но счастлив.|Yorgunum ama mutluyum.
+или|Чай или кофе?|Çay mı kahve mi?
+потому что|Я дома, потому что болею.|Evdeyim çünkü hastayım.
+если|Если будет дождь, мы останемся дома.|Yağmur yağarsa evde kalırız.
+чтобы|Я учу русский, чтобы работать в Москве.|Moskova'da çalışmak için Rusça öğreniyorum.
+поэтому|Шёл дождь, поэтому мы остались дома.|Yağmur yağıyordu, bu yüzden evde kaldık.
+в|Я живу в Стамбуле.|İstanbul'da yaşıyorum.
+на|Ключи на столе.|Anahtarlar masanın üstünde.
+под|Кот под кроватью.|Kedi yatağın altında.
+за|Машина за домом.|Araba evin arkasında.
+перед|Перед домом сад.|Evin önünde bahçe var.
+рядом|Аптека рядом с банком.|Eczane bankanın yanında.
+между|Магазин между банком и почтой.|Mağaza bankayla postanenin arasında.
+много|У меня много работы.|Çok işim var.
+мало|У нас мало времени.|Az vaktimiz var.
+все|Все пришли на праздник.|Herkes bayrama geldi.
+каждый|Я гуляю каждый вечер.|Her akşam yürüyüş yaparım.
+половина|Половина торта для тебя.|Pastanın yarısı senin için.
+достаточно|Спасибо, мне достаточно.|Teşekkürler, bu kadarı yeterli.
+я думаю|Я думаю, это хорошая идея.|Bence bu iyi bir fikir.
+по-моему|По-моему, он прав.|Bana göre o haklı.
+я согласен|Да, я согласен с тобой.|Evet, sana katılıyorum.
+я не согласен|Извини, я не согласен.|Kusura bakma, katılmıyorum.
+правда|Это правда.|Bu doğru.
+конечно нет|Конечно нет, я не забыл!|Tabii ki hayır, unutmadım!
+может быть|Может быть, завтра будет солнце.|Belki yarın güneş olur.
+всё хорошо|Не волнуйся, всё хорошо.|Endişelenme, her şey yolunda.
+нет проблем|Нет проблем, я помогу.|Sorun yok, yardım ederim.
+давай|Давай пойдём в кино.|Hadi sinemaya gidelim.
+ну|Ну, я не знаю.|Eee, bilmiyorum.
+правда?|Ты был в Москве? Правда?|Moskova'da mı bulundun? Gerçekten mi?
+тихо!|Тихо! Ребёнок спит.|Sessiz ol! Çocuk uyuyor.
+# u14
+алло|Алло, это Анна?|Alo, Anna mı?
+кто это?|Алло, кто это?|Alo, kim o?
+перезвоните|Перезвоните, пожалуйста, через час.|Lütfen bir saat sonra geri arayın.
+я вас не слышу|Алло, я вас не слышу!|Alo, sizi duyamıyorum!
+минуточку|Минуточку, я сейчас.|Bir dakika, hemen geliyorum.
+номер телефона|Какой у тебя номер телефона?|Telefon numaran ne?
+напиши мне|Напиши мне, когда приедешь.|Geldiğinde bana yaz.
+во сколько?|Во сколько начинается фильм?|Film saat kaçta başlıyor?
+когда тебе удобно?|Давай встретимся. Когда тебе удобно?|Buluşalım. Sana ne zaman uygun?
+встретимся|Встретимся у метро.|Metronun yanında buluşalım.
+в три часа|Встреча в три часа.|Toplantı saat üçte.
+я опаздываю|Извини, я опаздываю на десять минут.|Kusura bakma, on dakika gecikiyorum.
+я уже здесь|Я уже здесь, у входа.|Ben zaten buradayım, girişte.
+договорились|Хорошо, договорились!|Tamam, anlaştık!
+приходите в гости|Приходите в гости в субботу!|Cumartesi misafirliğe gelin!
+с удовольствием|С удовольствием приду!|Memnuniyetle gelirim!
+к сожалению|К сожалению, я занят.|Maalesef meşgulüm.
+я не могу|Я не могу сегодня, может, завтра?|Bugün gelemem, belki yarın?
+заходи|Заходи, не стесняйся!|İçeri gel, çekinme!
+чувствуйте себя как дома|Садитесь, чувствуйте себя как дома.|Oturun, evinizdeymiş gibi rahat olun.
+угощайтесь|Угощайтесь, это мой пирог.|Buyurun, bunu ben yaptım.
+поздравляю!|Поздравляю с новой работой!|Yeni işin için tebrikler!
+с днём рождения!|С днём рождения, мама!|Doğum günün kutlu olsun anne!
+с Новым годом!|С Новым годом и Рождеством!|Mutlu yıllar ve iyi Noeller!
+удачи!|Удачи на экзамене!|Sınavda bol şans!
+будь здоров!|Будь здоров! Ты простудился?|Çok yaşa! Üşüttün mü?
+за здоровье!|Ну, за здоровье!|Hadi, sağlığımıza!
+подарок|Это подарок для тебя.|Bu senin için bir hediye.
+до встречи|До встречи в понедельник!|Pazartesi görüşmek üzere!
+до завтра|Пока, до завтра!|Hoşça kal, yarın görüşürüz!
+всего хорошего|Спасибо, всего хорошего!|Teşekkürler, her şey gönlünce olsun!
+береги себя|Береги себя и пиши!|Kendine iyi bak ve yaz!
+счастливого пути|Счастливого пути и до встречи!|İyi yolculuklar, görüşmek üzere!
+я буду скучать|Я буду скучать по тебе.|Seni özleyeceğim.
+пиши!|Пиши, когда будет время!|Vaktin olunca yaz!
+# u15
+который час?|Извините, который час?|Affedersiniz, saat kaç?
+четверть|Сейчас четверть третьего.|Şimdi saat ikiyi çeyrek geçiyor.
+полдень|Встретимся в полдень.|Öğlen buluşalım.
+ночь|Ночь была холодной.|Gece soğuktu.
+январь|В январе очень холодно.|Ocakta hava çok soğuk.
+февраль|Февраль — короткий месяц.|Şubat kısa bir aydır.
+март|Восьмое марта — праздник.|Sekiz Mart bir bayramdır.
+апрель|В апреле тает снег.|Nisanda kar erir.
+июнь|В июне начинается лето.|Haziranda yaz başlar.
+июль|В июле мы едем на море.|Temmuzda denize gidiyoruz.
+август|В августе у меня отпуск.|Ağustosta iznim var.
+сентябрь|В сентябре дети идут в школу.|Eylülde çocuklar okula gider.
+октябрь|В октябре часто идёт дождь.|Ekimde sık sık yağmur yağar.
+ноябрь|В ноябре уже холодно.|Kasımda hava artık soğuk.
+декабрь|В декабре мы ждём Новый год.|Aralıkta yılbaşını bekleriz.
+дата|Какая сегодня дата?|Bugün tarih ne?
+каждый день|Я гуляю каждый день.|Her gün yürüyüş yaparım.
+иногда|Иногда я готовлю сам.|Bazen yemeği kendim yaparım.
+обычно|Обычно я встаю рано.|Genellikle erken kalkarım.
+выходные|Что ты делаешь в выходные?|Hafta sonu ne yapıyorsun?
+на прошлой неделе|На прошлой неделе я был в Казани.|Geçen hafta Kazan'daydım.
+на следующей неделе|На следующей неделе у меня экзамен.|Gelecek hafta sınavım var.
+рано|Ещё рано, спи.|Daha erken, uyu.
+поздно|Уже поздно, пора домой.|Artık geç, eve gitme vakti.
+скоро|Скоро лето!|Yakında yaz!
+сразу|Позвони мне сразу.|Beni hemen ara.
+ещё нет|Ты поел? — Ещё нет.|Yemek yedin mi? — Henüz değil.
+весь день|Весь день шёл дождь.|Bütün gün yağmur yağdı.
+днём|Днём я работаю.|Gündüz çalışırım.
+полночь|Новый год начинается в полночь.|Yeni yıl gece yarısı başlar.
+# u16
+Турция|Я живу в Турции.|Türkiye'de yaşıyorum.
+Россия|Россия — очень большая страна.|Rusya çok büyük bir ülke.
+Германия|Мой брат работает в Германии.|Kardeşim Almanya'da çalışıyor.
+Франция|Париж — столица Франции.|Paris Fransa'nın başkentidir.
+Италия|Летом мы поедем в Италию.|Yazın İtalya'ya gideceğiz.
+Англия|Она учится в Англии.|O İngiltere'de okuyor.
+Америка|Мой друг из Америки.|Arkadaşım Amerika'dan.
+турецкий|Турецкий язык не очень трудный.|Türkçe çok zor değil.
+русский|Я учу русский язык.|Rusça öğreniyorum.
+английский|Ты говоришь по-английски?|İngilizce konuşuyor musun?
+немецкий|Немецкий язык — мой второй язык.|Almanca benim ikinci dilim.
+французский|Я люблю французский сыр.|Fransız peynirini severim.
+итальянский|Итальянская кухня очень вкусная.|İtalyan mutfağı çok lezzetli.
+страна|Какая красивая страна!|Ne güzel bir ülke!
+деревня|Бабушка живёт в деревне.|Büyükannem köyde yaşıyor.
+столица|Москва — столица России.|Moskova Rusya'nın başkentidir.
+иностранец|Я иностранец, говорите медленно.|Ben yabancıyım, yavaş konuşun.
+граница|Мы пересекли границу.|Sınırı geçtik.
+север|На севере очень холодно.|Kuzeyde hava çok soğuk.
+восток|Солнце встаёт на востоке.|Güneş doğudan doğar.
+запад|Солнце садится на западе.|Güneş batıdan batar.
+центр|Мы живём в центре города.|Şehir merkezinde yaşıyoruz.
+угол|Кафе на углу.|Kafe köşede.
+напротив|Банк напротив парка.|Banka parkın karşısında.
+На каких языках ты говоришь?|На каких языках ты говоришь? — На турецком и английском.|Hangi dilleri konuşuyorsun? — Türkçe ve İngilizce.
+Вы говорите по-турецки?|Простите, вы говорите по-турецки?|Pardon, Türkçe konuşuyor musunuz?
+Что это значит?|«Спасибо» — что это значит?|"Spasibo" — bu ne demek?
+Как сказать …?|Как сказать «kedi» по-русски?|"Kedi" Rusça nasıl denir?
+Напишите, пожалуйста|Напишите, пожалуйста, ваш адрес.|Adresinizi yazar mısınız lütfen.
+Понятно|Понятно, спасибо за объяснение.|Anladım, açıklama için teşekkürler.
+Я учу язык|Я учу язык уже два года.|İki yıldır dil öğreniyorum.
+# u17
+супермаркет|Супермаркет открыт до десяти.|Süpermarket ona kadar açık.
+корзина|Возьми корзину.|Bir sepet al.
+пакет|Мне нужен пакет.|Bir poşete ihtiyacım var.
+цена|Какая цена?|Fiyatı ne?
+скидка|Сегодня скидка на фрукты.|Bugün meyvelerde indirim var.
+очередь|Очередь очень длинная.|Sıra çok uzun.
+полка|Молоко на верхней полке.|Süt üst rafta.
+сливочное масло|Купи сливочное масло.|Tereyağı al.
+мёд|Чай с мёдом, пожалуйста.|Ballı çay lütfen.
+варенье|Бабушка варит варенье.|Büyükannem reçel yapıyor.
+оливки|Я люблю чёрные оливки.|Siyah zeytini severim.
+йогурт|Я ем йогурт на завтрак.|Kahvaltıda yoğurt yerim.
+килограмм|Килограмм яблок, пожалуйста.|Bir kilo elma lütfen.
+грамм|Двести грамм сыра.|İki yüz gram peynir.
+литр|Литр молока стоит сто рублей.|Bir litre süt yüz ruble.
+бутылка|Бутылка воды, пожалуйста.|Bir şişe su lütfen.
+пачка|Пачка чая.|Bir paket çay.
+коробка|Коробка конфет для мамы.|Anneme bir kutu şeker.
+кусок|Хочешь кусок торта?|Bir parça pasta ister misin?
+виноград|Виноград очень сладкий.|Üzüm çok tatlı.
+арбуз|Летом мы едим арбуз.|Yazın karpuz yeriz.
+вишня|Пирог с вишней.|Vişneli turta.
+груша|Груша спелая.|Armut olgun.
+клубника|Клубника со сливками.|Kremalı çilek.
+морковь|Морковь полезна для глаз.|Havuç gözlere iyi gelir.
+перец|Красный перец острый?|Kırmızı biber acı mı?
+Килограмм, пожалуйста|Помидоры? Килограмм, пожалуйста.|Domates mi? Bir kilo lütfen.
+Что-нибудь ещё?|Хлеб и молоко. Что-нибудь ещё?|Ekmek ve süt. Başka bir şey?
+Это всё|Нет, спасибо, это всё.|Hayır, teşekkürler, hepsi bu kadar.
+Вам пакет?|Вам пакет? — Да, один.|Poşet ister misiniz? — Evet, bir tane.
+сдача|Вот ваша сдача.|İşte para üstünüz.
+Я возьму это|Я возьму это платье.|Bu elbiseyi alıyorum.
+Можно примерить?|Можно примерить эти джинсы?|Bu kotu deneyebilir miyim?
+# u18
+высокий|Мой брат очень высокий.|Erkek kardeşim çok uzun boylu.
+невысокий|Она невысокая и стройная.|O kısa boylu ve ince.
+молодой|Наш учитель молодой.|Öğretmenimiz genç.
+худой|Он очень худой.|O çok zayıf.
+полный|Полный мужчина в шляпе — мой дядя.|Şapkalı kilolu adam amcam.
+с бородой|Мужчина с бородой — мой папа.|Sakallı adam babam.
+в очках|Девушка в очках — моя сестра.|Gözlüklü kız kız kardeşim.
+возраст|Какой у вас возраст?|Yaşınız kaç?
+адрес|Напиши мне свой адрес.|Bana adresini yaz.
+день рождения|Когда у тебя день рождения?|Doğum günün ne zaman?
+женат / замужем|Он женат, а она замужем.|O (erkek) evli, o da (kadın) evli.
+холостой|Мой друг ещё холостой.|Arkadaşım hâlâ bekâr.
+электронная почта|Какая у вас электронная почта?|E-posta adresiniz ne?
+фамилия|Как ваша фамилия?|Soyadınız ne?
+дядя|Мой дядя живёт в деревне.|Amcam köyde yaşıyor.
+тётя|Тётя пришла в гости.|Teyzem misafirliğe geldi.
+двоюродный брат|Мой двоюродный брат — врач.|Kuzenim doktor.
+внук|Бабушка гуляет с внуком.|Büyükanne torunuyla geziyor.
+муж|Её муж — повар.|Onun kocası aşçı.
+родственники|К нам приехали родственники.|Bize akrabalar geldi.
+любовь|Любовь — это главное.|Aşk en önemli şeydir.
+парень / девушка|У неё есть парень, а у него девушка.|Kızın sevgilisi var, erkeğin de sevgilisi var.
+свадьба|Свадьба будет летом.|Düğün yazın olacak.
+невеста / жених|Невеста и жених танцуют.|Gelin ve damat dans ediyor.
+дружба|Наша дружба очень крепкая.|Arkadaşlığımız çok sağlam.
+обнимать|Мама обнимает сына.|Anne oğluna sarılıyor.
+поцелуй|Поцелуй маму!|Anneni öp!
+Сколько тебе лет?|Сколько тебе лет? — Мне тридцать.|Kaç yaşındasın? — Otuz.
+Мне … лет|Мне двадцать пять лет.|Yirmi beş yaşındayım.
+Ты женат?|Ты женат? — Нет, ещё нет.|Evli misin? — Hayır, henüz değil.
+У тебя есть дети?|У тебя есть дети? — Да, сын.|Çocuğun var mı? — Evet, bir oğlum.
+Где ты работаешь?|Где ты работаешь? — В банке.|Nerede çalışıyorsun? — Bankada.
+Где ты живёшь?|Где ты живёшь? — В центре.|Nerede yaşıyorsun? — Merkezde.
+Какое у тебя хобби?|Какое у тебя хобби? — Я рисую.|Hobilerin neler? — Resim yapıyorum.
+# u19
+лев|Лев — царь зверей.|Aslan hayvanların kralıdır.
+тигр|Тигр очень сильный.|Kaplan çok güçlüdür.
+слон|У слона длинный хобот.|Filin uzun bir hortumu var.
+обезьяна|Обезьяна ест банан.|Maymun muz yiyor.
+лиса|Лиса бежит в лес.|Tilki ormana koşuyor.
+заяц|Заяц быстро прыгает.|Tavşan hızlı zıplıyor.
+змея|Осторожно, змея!|Dikkat, yılan!
+овца|Овца ест траву.|Koyun çimen yiyor.
+коза|Коза даёт молоко.|Keçi süt verir.
+свинья|На ферме живёт свинья.|Çiftlikte bir domuz yaşıyor.
+петух|Петух поёт утром.|Horoz sabah öter.
+утка|Утка плавает в озере.|Ördek gölde yüzüyor.
+осёл|Осёл везёт сено.|Eşek saman taşıyor.
+ферма|У дедушки есть ферма.|Büyükbabamın bir çiftliği var.
+пчела|Пчела делает мёд.|Arı bal yapar.
+муха|В комнате летает муха.|Odada bir sinek uçuyor.
+комар|Меня укусил комар.|Beni sivrisinek ısırdı.
+бабочка|Красивая бабочка на цветке.|Çiçeğin üstünde güzel bir kelebek var.
+муравей|Муравей очень сильный.|Karınca çok güçlüdür.
+паук|Я боюсь пауков.|Örümceklerden korkarım.
+божья коровка|На листе сидит божья коровка.|Yaprağın üstünde bir uğur böceği duruyor.
+кит|Кит — самое большое животное.|Balina en büyük hayvandır.
+дельфин|Дельфины очень умные.|Yunuslar çok akıllıdır.
+акула|В этом море нет акул.|Bu denizde köpekbalığı yok.
+осьминог|У осьминога восемь ног.|Ahtapotun sekiz kolu var.
+краб|Краб идёт боком.|Yengeç yan yürür.
+черепаха|Черепаха идёт медленно.|Kaplumbağa yavaş yürür.
+тюлень|Тюлень лежит на льду.|Fok buzun üstünde yatıyor.
+орёл|Орёл летит высоко.|Kartal yüksekten uçuyor.
+голубь|На площади много голубей.|Meydanda çok güvercin var.
+попугай|Наш попугай говорит «привет».|Papağanımız "privet" diyor.
+сова|Сова не спит ночью.|Baykuş gece uyumaz.
+пингвин|Пингвины живут в Антарктиде.|Penguenler Antarktika'da yaşar.
+лебедь|Белый лебедь на озере.|Gölde beyaz bir kuğu var.
+гнездо|На дереве птичье гнездо.|Ağaçta bir kuş yuvası var.
+# u20
+облако|В небе белое облако.|Gökyüzünde beyaz bir bulut var.
+буря|Ночью была буря.|Gece fırtına vardı.
+туман|Утром был густой туман.|Sabah yoğun sis vardı.
+молния|Молния ударила в дерево.|Yıldırım ağaca düştü.
+гром|Ребёнок боится грома.|Çocuk gök gürültüsünden korkuyor.
+радуга|После дождя появилась радуга.|Yağmurdan sonra gökkuşağı çıktı.
+град|Вчера шёл град.|Dün dolu yağdı.
+озеро|Мы купаемся в озере.|Gölde yüzüyoruz.
+остров|Мы отдыхали на острове.|Bir adada tatil yaptık.
+долина|Деревня в зелёной долине.|Köy yeşil bir vadide.
+пустыня|В пустыне мало воды.|Çölde su azdır.
+водопад|Какой красивый водопад!|Ne güzel bir şelale!
+берег|Мы сидим на берегу реки.|Nehir kıyısında oturuyoruz.
+холм|Дом стоит на холме.|Ev tepenin üstünde duruyor.
+растение|Это растение любит солнце.|Bu bitki güneşi sever.
+лист|Осенью листья жёлтые.|Sonbaharda yapraklar sarıdır.
+трава|Не ходите по траве.|Çimenlere basmayın.
+роза|Я подарил ей красную розу.|Ona kırmızı bir gül hediye ettim.
+ветка|Птица сидит на ветке.|Kuş dalda oturuyor.
+корень|У дерева глубокие корни.|Ağacın kökleri derindir.
+семя|Посади семя в землю.|Tohumu toprağa ek.
+звезда|Ночью видно много звёзд.|Gece çok yıldız görünüyor.
+луна|Сегодня полная луна.|Bu gece dolunay var.
+планета|Земля — наша планета.|Dünya bizim gezegenimiz.
+космос|Гагарин первым полетел в космос.|Gagarin uzaya ilk uçan kişiydi.
+восход|Мы встали, чтобы увидеть восход.|Gün doğumunu görmek için kalktık.
+закат|Закат на море очень красивый.|Denizde gün batımı çok güzel.
+тень|Давай сядем в тени.|Hadi gölgeye oturalım.
+камень|Он бросил камень в воду.|Suya bir taş attı.
+древесина|Эта мебель из древесины дуба.|Bu mobilya meşe ağacından.
+металл|Ключ сделан из металла.|Anahtar metalden yapılmış.
+золото|Это кольцо из золота.|Bu yüzük altından.
+серебро|Бабушка подарила мне серебро.|Büyükannem bana gümüş hediye etti.
+стекло|Осторожно, стекло!|Dikkat, cam!
+бумага|Дай мне лист бумаги.|Bana bir kâğıt ver.
+# u21
+здание|Это самое высокое здание в городе.|Bu şehrin en yüksek binası.
+башня|С башни виден весь город.|Kuleden bütün şehir görünüyor.
+почтамт|Почтамт на главной улице.|Postane ana caddede.
+библиотека|Я занимаюсь в библиотеке.|Kütüphanede ders çalışıyorum.
+университет|Мой брат учится в университете.|Kardeşim üniversitede okuyor.
+завод|Отец работает на заводе.|Babam fabrikada çalışıyor.
+стадион|Сегодня матч на стадионе.|Bugün stadyumda maç var.
+тротуар|Иди по тротуару.|Kaldırımdan yürü.
+перекрёсток|На перекрёстке поверните налево.|Kavşakta sola dönün.
+светофор|Жди зелёный свет на светофоре.|Trafik ışığında yeşili bekle.
+фонтан|Дети играют у фонтана.|Çocuklar çeşmenin yanında oynuyor.
+парковка|Парковка за зданием.|Otopark binanın arkasında.
+остановка|Где автобусная остановка?|Otobüs durağı nerede?
+переход|Переходи улицу только по переходу.|Caddeyi sadece yaya geçidinden geç.
+движение|В центре сильное движение.|Merkezde trafik yoğun.
+авария|На дороге авария.|Yolda kaza var.
+пробка|Я стою в пробке.|Trafikte sıkışıp kaldım.
+бензин|Бензин опять подорожал.|Benzin yine zamlandı.
+водительские права|У тебя есть водительские права?|Ehliyetin var mı?
+водить машину|Я учусь водить машину.|Araba kullanmayı öğreniyorum.
+парковаться|Здесь нельзя парковаться.|Buraya park edilmez.
+полицейский участок|Полицейский участок рядом с вокзалом.|Polis karakolu garın yanında.
+пожарная охрана|Звоните в пожарную охрану!|İtfaiyeyi arayın!
+фармацевт|Фармацевт дал мне лекарство.|Eczacı bana ilaç verdi.
+парикмахерская|Я иду в парикмахерскую.|Kuaföre gidiyorum.
+пекарня|В пекарне свежий хлеб.|Fırında taze ekmek var.
+мясная лавка|Мясная лавка закрыта.|Kasap kapalı.
+цветочный магазин|Я купил розы в цветочном магазине.|Gülleri çiçekçiden aldım.
+кинотеатр|Кинотеатр в торговом центре.|Sinema alışveriş merkezinde.
+театр|Вечером мы идём в театр.|Akşam tiyatroya gidiyoruz.
+концерт|Концерт начинается в восемь.|Konser sekizde başlıyor.
+кафе|Встретимся в кафе.|Kafede buluşalım.
+бар|Бар открыт до утра.|Bar sabaha kadar açık.
+зоопарк|Дети хотят в зоопарк.|Çocuklar hayvanat bahçesine gitmek istiyor.
+парк аттракционов|В парке аттракционов много людей.|Lunaparkta çok insan var.
+# u22
+стена|На стене висит картина.|Duvarda bir tablo asılı.
+крыша|Кот на крыше.|Kedi çatıda.
+пол|Не сиди на полу.|Yerde oturma.
+потолок|У нас высокий потолок.|Tavanımız yüksek.
+лестница|Лифт не работает, иди по лестнице.|Asansör çalışmıyor, merdivenden çık.
+балкон|Мы пьём чай на балконе.|Balkonda çay içiyoruz.
+коридор|Обувь в коридоре.|Ayakkabılar koridorda.
+шкаф|Одежда в шкафу.|Giysiler dolapta.
+кресло|Папа сидит в кресле.|Babam koltukta oturuyor.
+ковёр|На полу красивый ковёр.|Yerde güzel bir halı var.
+штора|Закрой шторы.|Perdeleri kapat.
+подушка|Эта подушка очень мягкая.|Bu yastık çok yumuşak.
+одеяло|Мне холодно, дай одеяло.|Üşüyorum, battaniyeyi ver.
+ящик|Ложки в верхнем ящике.|Kaşıklar üst çekmecede.
+стиральная машина|Стиральная машина сломалась.|Çamaşır makinesi bozuldu.
+микроволновка|Разогрей суп в микроволновке.|Çorbayı mikrodalgada ısıt.
+духовка|Пирог в духовке.|Börek fırında.
+чайник|Чайник уже кипит.|Su ısıtıcısı kaynıyor.
+ваза|Поставь цветы в вазу.|Çiçekleri vazoya koy.
+картина|Это картина моего деда.|Bu dedemin tablosu.
+свеча|На столе горит свеча.|Masada bir mum yanıyor.
+молоток|Дай мне молоток.|Bana çekici ver.
+ножницы|Где ножницы?|Makas nerede?
+гвоздь|Забей гвоздь в стену.|Duvara bir çivi çak.
+верёвка|Бельё сушится на верёвке.|Çamaşırlar ipte kuruyor.
+батарейка|В пульте села батарейка.|Kumandanın pili bitti.
+лампочка|Нужно поменять лампочку.|Ampulü değiştirmek lazım.
+ведро|Принеси ведро воды.|Bir kova su getir.
+сад|У нас за домом сад.|Evimizin arkasında bahçe var.
+забор|Собака за забором.|Köpek çitin arkasında.
+горшок|Цветок в горшке на окне.|Saksıdaki çiçek pencerede.
+шланг|Полей сад из шланга.|Bahçeyi hortumla sula.
+лопата|Возьми лопату, будем копать.|Küreği al, kazacağız.
+поливать|Я поливаю цветы каждый день.|Çiçekleri her gün sularım.
+косить траву|В субботу папа косит траву.|Cumartesi babam çim biçiyor.
+# u23
+капуста|Щи варят из капусты.|Şçi lahanadan yapılır.
+баклажан|Я люблю жареные баклажаны.|Kızarmış patlıcanı severim.
+гриб|В лесу мы нашли гриб.|Ormanda bir mantar bulduk.
+чеснок|Добавь немного чеснока.|Biraz sarımsak ekle.
+кукуруза|Летом мы едим кукурузу.|Yazın mısır yeriz.
+горох|Суп из гороха.|Bezelye çorbası.
+шпинат|Шпинат очень полезный.|Ispanak çok faydalı.
+персик|Персик мягкий и сладкий.|Şeftali yumuşak ve tatlı.
+абрикос|Это абрикосовое варенье.|Bu kayısı reçeli.
+ананас|Ананас из Африки.|Ananas Afrika'dan.
+слива|Слива ещё зелёная.|Erik henüz ham.
+инжир|Инжир растёт на юге.|İncir güneyde yetişir.
+гранат|Гранатовый сок очень полезный.|Nar suyu çok faydalı.
+дыня|Дыня пахнет мёдом.|Kavun bal gibi kokuyor.
+говядина|Я купил килограмм говядины.|Bir kilo sığır eti aldım.
+баранина|Баранина с рисом — моё любимое блюдо.|Pilavlı kuzu eti en sevdiğim yemek.
+колбаса|Бутерброд с колбасой.|Sosisli sandviç.
+креветка|Салат с креветками.|Karidesli salata.
+лосось|Лосось на гриле очень вкусный.|Izgara somon çok lezzetli.
+тунец|Я купил банку тунца.|Bir kutu ton balığı aldım.
+котлета|Мама жарит котлеты.|Annem köfte kızartıyor.
+торт|Это торт на день рождения.|Bu doğum günü pastası.
+мороженое|Хочешь мороженое?|Dondurma ister misin?
+шоколад|Я люблю тёмный шоколад.|Bitter çikolatayı severim.
+печенье|Чай с печеньем.|Kurabiyeli çay.
+конфета|Возьми конфету.|Bir şekerleme al.
+десерт|Что на десерт?|Tatlı olarak ne var?
+блины|На Масленицу едят блины.|Maslenitsa'da krep yenir.
+жарить|Я жарю рыбу.|Balık kızartıyorum.
+варить|Мама варит суп.|Annem çorba pişiriyor.
+печь|Бабушка печёт хлеб.|Büyükannem ekmek pişiriyor.
+резать|Режь хлеб осторожно.|Ekmeği dikkatli kes.
+мешать|Мешай суп ложкой.|Çorbayı kaşıkla karıştır.
+пробовать|Попробуй этот торт!|Bu pastanın tadına bak!
+рецепт|Дай мне рецепт этого пирога.|Bana bu böreğin tarifini ver.
+# u24
+сладкий|Этот чай слишком сладкий.|Bu çay fazla tatlı.
+кислый|Лимон кислый.|Limon ekşi.
+острый|Мексиканская еда очень острая.|Meksika yemekleri çok acı.
+горький|Кофе без сахара горький.|Şekersiz kahve acıdır.
+солёный|Суп слишком солёный.|Çorba fazla tuzlu.
+свежий|Хлеб свежий?|Ekmek taze mi?
+голодный|Я очень голодный.|Çok açım.
+минеральная вода|Бутылку минеральной воды, пожалуйста.|Bir şişe maden suyu lütfen.
+лимонад|Дети пьют лимонад.|Çocuklar limonata içiyor.
+какао|Зимой я пью горячее какао.|Kışın sıcak kakao içerim.
+коктейль|Какой коктейль ты хочешь?|Hangi kokteyli istersin?
+кубик льда|Добавь кубик льда.|Bir buz küpü ekle.
+я хочу пить|Я хочу пить, у тебя есть вода?|Susadım, suyun var mı?
+кружка|Это моя любимая кружка.|Bu benim en sevdiğim kupa.
+стакан|Стакан сока, пожалуйста.|Bir bardak meyve suyu lütfen.
+салфетка|Дайте, пожалуйста, салфетку.|Bir peçete verir misiniz lütfen.
+скатерть|На столе белая скатерть.|Masada beyaz bir örtü var.
+миска|Кошачья миска пустая.|Kedinin kasesi boş.
+сковорода|Сковорода очень горячая.|Tava çok sıcak.
+поднос|Официант несёт поднос.|Garson tepsi taşıyor.
+открывалка|У тебя есть открывалка?|Şişe açacağın var mı?
+официант|Официант, можно меню?|Garson, menüyü alabilir miyim?
+чаевые|Мы оставили чаевые.|Bahşiş bıraktık.
+заказать столик|Я хочу заказать столик на двоих.|İki kişilik masa ayırtmak istiyorum.
+заказать|Можно заказать?|Sipariş verebilir miyiz?
+второе блюдо|На второе блюдо рыба с овощами.|Ana yemek sebzeli balık.
+закуска|Какие у вас закуски?|Mezeleriniz neler?
+вегетарианец|Я вегетарианец, я не ем мясо.|Vejetaryenim, et yemem.
+сырой|Не ешь сырое мясо.|Çiğ et yeme.
+жареный|Я хочу жареную курицу.|Kızarmış tavuk istiyorum.
+варёный|На завтрак варёные яйца.|Kahvaltıda haşlanmış yumurta var.
+на гриле|Рыба на гриле, пожалуйста.|Izgara balık lütfen.
+домашний|Это домашний хлеб.|Bu ev yapımı ekmek.
+невкусный|Суп сегодня невкусный.|Çorba bugün lezzetsiz.
+я сыт|Спасибо, я сыт.|Teşekkürler, doydum.
+# u25
+пальто|Зимой я ношу пальто.|Kışın palto giyerim.
+шорты|Летом удобно в шортах.|Yazın şortla rahat olunur.
+пижама|Ребёнок уже в пижаме.|Çocuk pijamasını giydi bile.
+нижнее бельё|Нижнее бельё на нижней полке.|İç çamaşırları alt rafta.
+купальник|Я забыла купальник.|Mayomu unuttum.
+костюм|На работу он ходит в костюме.|İşe takım elbiseyle gider.
+блузка|Это шёлковая блузка.|Bu ipek bir bluz.
+хлопок|Футболка из хлопка.|Tişört pamuktan.
+шерсть|Свитер из шерсти очень тёплый.|Yün kazak çok sıcak tutar.
+кожа|Сумка из кожи.|Deri çanta.
+шёлк|Шарф из шёлка.|İpek atkı.
+в полоску|Мне нравится рубашка в полоску.|Çizgili gömleği beğendim.
+в клетку|Он в рубашке в клетку.|O kareli gömlek giymiş.
+однотонный|Я хочу однотонное платье.|Düz renk bir elbise istiyorum.
+ремень|Этот ремень мне велик.|Bu kemer bana büyük.
+галстук|Какой галстук мне надеть?|Hangi kravatı takayım?
+кошелёк|Я потерял кошелёк.|Cüzdanımı kaybettim.
+перчатки|Без перчаток холодно.|Eldivensiz soğuk.
+шарф|Надень шарф.|Atkını tak.
+зонтик|Возьми зонтик, будет дождь.|Şemsiyeni al, yağmur yağacak.
+кольцо|Какое красивое кольцо!|Ne güzel bir yüzük!
+размер|Какой у вас размер?|Bedeniniz ne?
+тесный|Эти джинсы мне тесные.|Bu kot bana dar.
+свободный|Мне нравится свободный свитер.|Bol kazağı severim.
+тебе идёт|Это платье тебе идёт.|Bu elbise sana yakışıyor.
+мода|Она всегда следит за модой.|O hep modayı takip eder.
+примерочная|Где примерочная?|Deneme kabini nerede?
+застёжка|Застёжка на куртке сломалась.|Montun fermuarı bozuldu.
+платить|Я буду платить картой.|Kartla ödeyeceğim.
+примерить|Можно примерить эту куртку?|Bu montu deneyebilir miyim?
+обменять|Можно обменять размер?|Bedeni değiştirebilir miyim?
+вернуть|Я хочу вернуть эти туфли.|Bu ayakkabıları iade etmek istiyorum.
+со скидкой|Я купил пальто со скидкой.|Paltoyu indirimde aldım.
+тратить|Не трать все деньги!|Bütün parayı harcama!
+копить деньги|Я коплю деньги на машину.|Araba için para biriktiriyorum.
+# u26
+лицо|У неё красивое лицо.|Onun güzel bir yüzü var.
+шея|У меня болит шея.|Boynum ağrıyor.
+плечо|Он положил руку мне на плечо.|Elini omzuma koydu.
+палец|Я порезал палец.|Parmağımı kestim.
+колено|Ребёнок упал и разбил колено.|Çocuk düştü ve dizini yaraladı.
+рука от плеча|У меня болит рука от плеча до локтя.|Kolum omzumdan dirseğime kadar ağrıyor.
+живот|У меня болит живот.|Karnım ağrıyor.
+грудь|Дышите глубже, грудь не болит?|Derin nefes alın, göğsünüz ağrıyor mu?
+кожа лица|У неё нежная кожа лица.|Onun yüz cildi hassas.
+кость|Собака грызёт кость.|Köpek kemik kemiriyor.
+кровь|У тебя кровь на руке.|Elinde kan var.
+язык во рту|Врач смотрит на язык во рту.|Doktor ağızdaki dile bakıyor.
+грипп|У меня грипп.|Grip oldum.
+кашель|Сильный кашель уже неделю.|Bir haftadır kötü öksürük var.
+головная боль|У меня головная боль.|Başım ağrıyor.
+тошнота|После еды у меня тошнота.|Yemekten sonra midem bulanıyor.
+аллергия|У меня аллергия на кошек.|Kedilere alerjim var.
+рана|Рана уже не болит.|Yara artık ağrımıyor.
+перелом|У него перелом руки.|Onun kolu kırık.
+рецепт врача|Это лекарство только по рецепту врача.|Bu ilaç sadece reçeteyle.
+таблетка|Выпей таблетку после еды.|Hapı yemekten sonra iç.
+укол|Ребёнок боится уколов.|Çocuk iğneden korkuyor.
+прививка|Ребёнку нужна прививка.|Çocuğun aşı olması gerekiyor.
+пластырь|Дай мне пластырь.|Bana yara bandı ver.
+нужен отдых|Тебе нужен отдых.|Dinlenmen gerek.
+выздоравливать|Выздоравливай скорее!|Çabuk iyileş!
+пациент|Пациент ждёт врача.|Hasta doktoru bekliyor.
+приёмный покой|Его привезли в приёмный покой.|Onu acil servise getirdiler.
+операция|Операция прошла хорошо.|Ameliyat iyi geçti.
+стоматолог|Я иду к стоматологу.|Diş hekimine gidiyorum.
+приём у врача|У меня приём у врача в десять.|Saat onda doktor randevum var.
+страховка|У вас есть страховка?|Sigortanız var mı?
+пульс|Врач проверяет пульс.|Doktor nabzı kontrol ediyor.
+# u27
+испуганный|У ребёнка испуганный вид.|Çocuk korkmuş görünüyor.
+удивлённый|У него был удивлённый вид.|Şaşırmış görünüyordu.
+ревнивый|Мой парень очень ревнивый.|Sevgilim çok kıskanç.
+нервный|Перед экзаменом я всегда нервный.|Sınavdan önce hep gerginim.
+смущённый|Он стоял смущённый и молчал.|Utanmış bir hâlde durup susuyordu.
+гордый|Он гордый человек и не просит помощи.|O gururlu bir insan, yardım istemez.
+одинокий|В новом городе я чувствую себя одиноким.|Yeni şehirde kendimi yalnız hissediyorum.
+смелый|Пожарный — смелый человек.|İtfaiyeci cesur bir insandır.
+честный|Он честный человек.|O dürüst bir insan.
+вежливый|Продавец был очень вежливый.|Satıcı çok kibardı.
+терпеливый|Учитель должен быть терпеливым.|Öğretmen sabırlı olmalı.
+трудолюбивый|Она трудолюбивая студентка.|O çalışkan bir öğrenci.
+грубый|Не будь грубым с мамой.|Annene kaba davranma.
+эгоистичный|Это очень эгоистичный поступок.|Bu çok bencilce bir davranış.
+смеяться|Мы смеялись весь вечер.|Bütün akşam güldük.
+плакать|Не плачь, всё будет хорошо.|Ağlama, her şey yoluna girecek.
+улыбаться|Улыбайся чаще!|Daha sık gülümse!
+волноваться|Не волнуйся, я скоро приду.|Endişelenme, birazdan gelirim.
+бояться|Я боюсь темноты.|Karanlıktan korkuyorum.
+сердиться|Не сердись на меня.|Bana kızma.
+успокаиваться|Успокойся, всё хорошо.|Sakin ol, her şey yolunda.
+знакомиться|Давайте знакомиться!|Hadi tanışalım!
+доверять|Я тебе доверяю.|Sana güveniyorum.
+скучать|Я скучаю по дому.|Evimi özlüyorum.
+прощать|Прости меня, пожалуйста.|Beni affet lütfen.
+спорить|Не будем спорить.|Tartışmayalım.
+жениться|Он женится в мае.|O mayısta evleniyor.
+расставаться|Они расстались год назад.|Bir yıl önce ayrıldılar.
+здорово!|Ты сдал экзамен? Здорово!|Sınavı geçtin mi? Harika!
+жаль!|Ты не придёшь? Жаль!|Gelmeyecek misin? Ne yazık!
+не может быть!|Он выиграл? Не может быть!|O mu kazandı? Olamaz!
+осторожно!|Осторожно! Машина!|Dikkat! Araba!
+молодец!|Всё правильно, молодец!|Hepsi doğru, aferin!
+выздоравливай|Выздоравливай скорее, друг!|Geçmiş olsun dostum, çabuk iyileş!
+приятного аппетита|Приятного аппетита всем!|Herkese afiyet olsun!
+# u28
+адвокат|Мне нужен хороший адвокат.|İyi bir avukata ihtiyacım var.
+полицейский|Полицейский показал нам дорогу.|Polis memuru bize yolu gösterdi.
+архитектор|Этот дом построил известный архитектор.|Bu evi ünlü bir mimar yaptı.
+журналист|Журналист пишет статью.|Gazeteci makale yazıyor.
+менеджер по продажам|Она работает менеджером по продажам.|O satış elemanı olarak çalışıyor.
+фермер|Фермер работает с утра до вечера.|Çiftçi sabahtan akşama çalışır.
+пилот|Пилот говорит с пассажирами.|Pilot yolcularla konuşuyor.
+художник|Художник рисует портрет.|Ressam portre yapıyor.
+музыкант|Мой сосед — музыкант.|Komşum bir müzisyen.
+солдат|Солдат стоит у ворот.|Asker kapıda duruyor.
+уборщица|Уборщица моет пол.|Temizlikçi yeri siliyor.
+электрик|Позовите электрика, нет света.|Elektrikçi çağırın, elektrik yok.
+механик|Механик чинит машину.|Tamirci arabayı tamir ediyor.
+пенсионер|Мой дедушка — пенсионер.|Büyükbabam emekli.
+письменный стол|Книги на письменном столе.|Kitaplar yazı masasının üstünde.
+принтер|Принтер не печатает.|Yazıcı yazdırmıyor.
+папка|Документы в синей папке.|Belgeler mavi dosyada.
+конверт|Положи письмо в конверт.|Mektubu zarfa koy.
+карандаш|Пиши карандашом.|Kurşun kalemle yaz.
+ластик|У тебя есть ластик?|Silgin var mı?
+календарь|Посмотри в календарь.|Takvime bak.
+подавать заявление|Я хочу подать заявление на работу.|İş için başvurmak istiyorum.
+нанимать|Компания нанимает новых сотрудников.|Şirket yeni çalışanlar alıyor.
+увольнять|Его уволили с работы.|Onu işten kovdular.
+зарабатывать|Сколько ты зарабатываешь?|Ne kadar kazanıyorsun?
+управлять|Она управляет большой командой.|O büyük bir ekibi yönetiyor.
+подписывать|Подпишите здесь, пожалуйста.|Buraya imza atın lütfen.
+уходить на пенсию|Отец скоро уходит на пенсию.|Babam yakında emekli oluyor.
+компания|Я работаю в большой компании.|Büyük bir şirkette çalışıyorum.
+клиент|Клиент всегда прав.|Müşteri her zaman haklıdır.
+продукт|Это наш новый продукт.|Bu bizim yeni ürünümüz.
+контракт|Мы подписали контракт.|Sözleşmeyi imzaladık.
+проект|Проект нужно закончить к пятнице.|Projeyi cumaya kadar bitirmek lazım.
+счёт-фактура|Пришлите, пожалуйста, счёт-фактуру.|Lütfen faturayı gönderin.
+собеседование|Завтра у меня собеседование.|Yarın iş görüşmem var.
+# u29
+рюкзак|В рюкзаке книги и тетради.|Çantada kitaplar ve defterler var.
+линейка|Нарисуй линию по линейке.|Cetvelle bir çizgi çiz.
+доска|Учитель пишет на доске.|Öğretmen tahtaya yazıyor.
+класс|В нашем классе двадцать учеников.|Sınıfımızda yirmi öğrenci var.
+словарь|Посмотри это слово в словаре.|Bu kelimeye sözlükten bak.
+учебник|Откройте учебник на странице десять.|Ders kitabını onuncu sayfada açın.
+домашнее задание|Я сделал домашнее задание.|Ödevimi yaptım.
+математика|Математика — мой любимый предмет.|Matematik en sevdiğim ders.
+история|Я люблю историю России.|Rusya tarihini severim.
+география|На уроке географии мы изучаем карты.|Coğrafya dersinde haritaları inceliyoruz.
+физика|Физика — это трудно.|Fizik zor.
+химия|У нас лабораторная по химии.|Kimya laboratuvar dersimiz var.
+биология|Биология изучает живые организмы.|Biyoloji canlıları inceler.
+литература|Русская литература очень богатая.|Rus edebiyatı çok zengin.
+факультет|Я учусь на факультете журналистики.|Gazetecilik fakültesinde okuyorum.
+профессор|Профессор читает лекцию.|Profesör ders veriyor.
+стипендия|Я получаю стипендию.|Burs alıyorum.
+диплом|Я получил диплом в июне.|Haziranda diplomamı aldım.
+общежитие|Студенты живут в общежитии.|Öğrenciler yurtta kalıyor.
+семестр|Семестр начинается в феврале.|Dönem şubatta başlıyor.
+лекция|Лекция была очень интересной.|Ders çok ilginçti.
+повторять|Повторяйте слова каждый день.|Kelimeleri her gün tekrarlayın.
+учить наизусть|Я учу стихи наизусть.|Şiir ezberliyorum.
+объяснять|Объясни мне, пожалуйста, ещё раз.|Lütfen bana bir kez daha açıkla.
+переводить|Я перевожу текст на турецкий.|Metni Türkçeye çeviriyorum.
+ошибаться|Все иногда ошибаются.|Herkes bazen hata yapar.
+исправлять|Учитель исправляет ошибки.|Öğretmen hataları düzeltiyor.
+практиковаться|Мне нужно больше практиковаться.|Daha çok pratik yapmam gerek.
+оценка|У меня хорошая оценка.|İyi bir notum var.
+сдать экзамен|Я сдал экзамен на пятёрку!|Sınavı beşle geçtim!
+провалить экзамен|Он провалил экзамен по физике.|Fizik sınavından kaldı.
+тест|Сегодня у нас тест.|Bugün testimiz var.
+готовиться|Я готовлюсь к экзамену.|Sınava hazırlanıyorum.
+результат|Результат будет завтра.|Sonuç yarın çıkacak.
+списывать|На экзамене нельзя списывать.|Sınavda kopya çekmek yasak.
+# u30
+планшет|Ребёнок играет на планшете.|Çocuk tablette oynuyor.
+наушники|Я слушаю музыку в наушниках.|Kulaklıkla müzik dinliyorum.
+камера|У телефона хорошая камера.|Telefonun iyi bir kamerası var.
+клавиатура|Клавиатура не работает.|Klavye çalışmıyor.
+мышка|Купи новую мышку.|Yeni bir fare al.
+экран|Экран разбит.|Ekran kırık.
+колонка|Включи музыку на колонке.|Müziği hoparlörden aç.
+сайт|Посмотри на нашем сайте.|Web sitemize bak.
+ссылка|Пришли мне ссылку.|Bana bağlantıyı gönder.
+скачать|Я хочу скачать фильм.|Film indirmek istiyorum.
+загрузить|Загрузи фото в облако.|Fotoğrafı buluta yükle.
+поисковик|Найди это в поисковике.|Bunu arama motorunda bul.
+вай-фай|Вай-фай здесь бесплатный.|Burada kablosuz ağ ücretsiz.
+аккаунт|Я создал новый аккаунт.|Yeni bir hesap açtım.
+соцсети|Я редко сижу в соцсетях.|Sosyal medyada nadiren takılırım.
+делиться|Поделись фотографией!|Fotoğrafı paylaş!
+лайкать|Она лайкает все мои фото.|Bütün fotoğraflarımı beğeniyor.
+подписываться|Подписывайтесь на наш канал!|Kanalımıza abone olun!
+комментарий|Оставь комментарий.|Bir yorum bırak.
+фотка|Скинь мне фотку.|Bana fotoğrafı at.
+видео|Посмотри это смешное видео.|Bu komik videoyu izle.
+включать|Включи свет, пожалуйста.|Işığı açar mısın lütfen.
+выключать|Выключай компьютер на ночь.|Bilgisayarı gece kapat.
+сохранять|Не забудь сохранить файл.|Dosyayı kaydetmeyi unutma.
+удалять|Я удалил старые фото.|Eski fotoğrafları sildim.
+печатать|Я быстро печатаю.|Hızlı yazarım (klavyede).
+заряжать|Мне нужно зарядить телефон.|Telefonumu şarj etmem lazım.
+нажимать|Нажми на эту кнопку.|Bu düğmeye bas.
+сломанный|У меня сломанный телефон.|Telefonum bozuk.
+не работает|Интернет не работает.|İnternet çalışmıyor.
+разрядился|Мой телефон разрядился.|Telefonumun şarjı bitti.
+обновление|Установи обновление.|Güncellemeyi yükle.
+вирус|В компьютере вирус.|Bilgisayarda virüs var.
+нет связи|Здесь нет связи.|Burada bağlantı yok.
+перезагрузить|Попробуй перезагрузить телефон.|Telefonu yeniden başlatmayı dene.
+# u31
+корабль|Корабль уходит в море.|Gemi denize açılıyor.
+мотоцикл|У брата новый мотоцикл.|Kardeşimin yeni bir motosikleti var.
+трамвай|Я еду на работу на трамвае.|İşe tramvayla gidiyorum.
+грузовик|Грузовик везёт мебель.|Kamyon mobilya taşıyor.
+паром|Мы плывём на пароме на остров.|Feribotla adaya gidiyoruz.
+вертолёт|Над городом летит вертолёт.|Şehrin üstünde bir helikopter uçuyor.
+пассажир|Пассажиры ждут поезд.|Yolcular treni bekliyor.
+вылет|Вылет в девять утра.|Kalkış sabah dokuzda.
+прилёт|Прилёт в Москву в полдень.|Moskova'ya varış öğlen.
+задержка|У нас задержка два часа.|İki saat rötarımız var.
+посадочный талон|Покажите посадочный талон.|Biniş kartınızı gösterin.
+ручная кладь|Это моя ручная кладь.|Bu benim el bagajım.
+место у окна|Можно место у окна?|Pencere kenarı alabilir miyim?
+пересадка|У нас пересадка в Стамбуле.|İstanbul'da aktarmamız var.
+ресепшн|Ключи на ресепшн.|Anahtarlar resepsiyonda.
+одноместный номер|Мне нужен одноместный номер.|Tek kişilik bir odaya ihtiyacım var.
+двухместный номер|У вас есть двухместный номер?|Çift kişilik odanız var mı?
+обслуживание номеров|Я закажу обслуживание номеров.|Oda servisi sipariş edeceğim.
+заселиться|Можно заселиться раньше?|Daha erken giriş yapabilir miyim?
+вид|Из окна прекрасный вид.|Pencereden harika bir manzara var.
+завтрак включён|Завтрак включён в цену?|Kahvaltı fiyata dahil mi?
+кемпинг|Летом мы едем в кемпинг.|Yazın kampa gidiyoruz.
+палатка|Мы спим в палатке.|Çadırda uyuyoruz.
+гостевой дом|Мы остановились в гостевом доме.|Bir pansiyonda kaldık.
+порт|Корабль пришёл в порт.|Gemi limana geldi.
+памятник|Это памятник Пушкину.|Bu Puşkin anıtı.
+старый город|Мы гуляли по старому городу.|Eski şehirde gezdik.
+солнцезащитный крем|Не забудь солнцезащитный крем.|Güneş kremini unutma.
+бронировать|Я бронирую гостиницу онлайн.|Oteli internetten ayırtıyorum.
+опаздывать на|Я опаздываю на поезд!|Treni kaçıracağım!
+собирать чемодан|Вечером я собираю чемодан.|Akşam bavulumu hazırlıyorum.
+посещать|Мы посещаем музеи.|Müzeleri ziyaret ediyoruz.
+заблудиться|Я боюсь заблудиться в лесу.|Ormanda kaybolmaktan korkuyorum.
+возвращаться|Когда ты возвращаешься домой?|Eve ne zaman dönüyorsun?
+осматривать|Туристы осматривают Кремль.|Turistler Kremlin'i geziyor.
+# u32
+баскетбол|Он хорошо играет в баскетбол.|O iyi basketbol oynuyor.
+теннис|По субботам я играю в теннис.|Cumartesileri tenis oynarım.
+волейбол|На пляже играют в волейбол.|Plajda voleybol oynuyorlar.
+езда на велосипеде|Езда на велосипеде полезна.|Bisiklet sürmek faydalıdır.
+лыжи|Зимой мы катаемся на лыжах.|Kışın kayak yaparız.
+бокс|Мой брат занимается боксом.|Kardeşim boks yapıyor.
+йога|Йога помогает расслабиться.|Yoga rahatlamaya yardımcı olur.
+мяч|Брось мне мяч!|Bana topu at!
+ракетка|Где моя теннисная ракетка?|Tenis raketim nerede?
+ворота|Мяч влетел в ворота.|Top kaleye girdi.
+спортзал|Я хожу в спортзал три раза в неделю.|Haftada üç kez spor salonuna giderim.
+бассейн|В гостинице есть бассейн.|Otelde havuz var.
+поле|Футболисты выходят на поле.|Futbolcular sahaya çıkıyor.
+игрок|Он лучший игрок команды.|O takımın en iyi oyuncusu.
+шахматы|Дедушка учит меня играть в шахматы.|Büyükbabam bana satranç öğretiyor.
+карты|Вечером мы играем в карты.|Akşamları iskambil oynarız.
+головоломка|Эта головоломка очень трудная.|Bu bulmaca çok zor.
+игрушка|Это игрушка моего сына.|Bu oğlumun oyuncağı.
+видеоигра|Он весь день играет в видеоигры.|Bütün gün video oyunu oynuyor.
+выигрывать|Наша команда всегда выигрывает.|Takımımız hep kazanır.
+проигрывать|Не люблю проигрывать.|Kaybetmeyi sevmem.
+искусство|Я интересуюсь искусством.|Sanata ilgi duyuyorum.
+скульптура|В парке стоит скульптура.|Parkta bir heykel duruyor.
+выставка|Пойдём на выставку.|Sergiye gidelim.
+роман|Я читаю роман Толстого.|Tolstoy'un bir romanını okuyorum.
+стихи|Пушкин писал прекрасные стихи.|Puşkin harika şiirler yazdı.
+писатель|Чехов — мой любимый писатель.|Çehov en sevdiğim yazar.
+фотография|Её хобби — фотография.|Onun hobisi fotoğrafçılık.
+гитара|У меня новая гитара.|Yeni bir gitarım var.
+пианино|Дочь учится играть на пианино.|Kızım piyano çalmayı öğreniyor.
+скрипка|Она играет на скрипке.|O keman çalıyor.
+барабан|Мальчик играет на барабане.|Çocuk davul çalıyor.
+флейта|Звук флейты очень нежный.|Flütün sesi çok yumuşak.
+песня|Это моя любимая песня.|Bu en sevdiğim şarkı.
+играть на гитаре|Я учусь играть на гитаре.|Gitar çalmayı öğreniyorum.
+# u33
+двенадцать|Сейчас двенадцать часов.|Şimdi saat on iki.
+тринадцать|Моему сыну тринадцать лет.|Oğlum on üç yaşında.
+четырнадцать|Урок на четырнадцатой странице.|Ders on dördüncü sayfada.
+пятнадцать|Подожди пятнадцать минут.|On beş dakika bekle.
+шестнадцать|В группе шестнадцать студентов.|Grupta on altı öğrenci var.
+семнадцать|Ей семнадцать лет.|O on yedi yaşında.
+восемнадцать|В восемнадцать лет можно водить машину.|On sekiz yaşında araba kullanılabilir.
+тридцать|Месяц — это тридцать дней.|Bir ay otuz gündür.
+сорок|Мне сорок лет.|Kırk yaşındayım.
+шестьдесят|В часе шестьдесят минут.|Bir saatte altmış dakika vardır.
+семьдесят|Дедушке семьдесят лет.|Büyükbabam yetmiş yaşında.
+восемьдесят|Скорость восемьдесят километров в час.|Hız saatte seksen kilometre.
+девяносто|Бабушке девяносто лет.|Büyükannem doksan yaşında.
+миллион|В городе миллион жителей.|Şehirde bir milyon kişi yaşıyor.
+первый|Это мой первый урок.|Bu benim ilk dersim.
+второй|Я живу на втором этаже.|İkinci katta oturuyorum.
+третий|Это мой третий раз в Москве.|Bu Moskova'daki üçüncü seferim.
+четвёртый|Он пришёл четвёртым.|O dördüncü geldi.
+пятый|Сегодня пятый день отпуска.|Bugün iznin beşinci günü.
+десятый|Он живёт на десятом этаже.|O onuncu katta oturuyor.
+последний|Это последний автобус.|Bu son otobüs.
+складывать|Два плюс два — складывать легко.|İki artı iki, toplama işlemi kolay.
+вычитать|Из десяти вычитаем три.|Ondan üç çıkarıyoruz.
+умножать|Умножь пять на четыре.|Beşi dörtle çarp.
+делить|Дели торт на шесть кусков.|Pastayı altı parçaya böl.
+равно|Два плюс три равно пять.|İki artı üç eşittir beş.
+процент|Скидка десять процентов.|İndirim yüzde on.
+число|Назови любое число.|Herhangi bir sayı söyle.
+век|Этот дом построен в девятнадцатом веке.|Bu ev on dokuzuncu yüzyılda yapıldı.
+десятилетие|За десятилетие город очень изменился.|On yılda şehir çok değişti.
+секунда|Подожди секунду!|Bir saniye bekle!
+момент|Это был важный момент.|Önemli bir andı.
+прошлое|Не думай о прошлом.|Geçmişi düşünme.
+будущее|Будущее зависит от нас.|Gelecek bize bağlı.
+эпоха|Это была эпоха перемен.|Değişim çağıydı.
+# u34
+падать|Осторожно, не падай!|Dikkat et, düşme!
+прыгать|Дети прыгают в бассейн.|Çocuklar havuza atlıyor.
+лазить|Мальчик любит лазить по деревьям.|Çocuk ağaçlara tırmanmayı sever.
+поворачивать|На светофоре поворачивайте направо.|Trafik ışığında sağa dönün.
+входить|Входите, пожалуйста.|Girin lütfen.
+выходить|Я выхожу на следующей остановке.|Bir sonraki durakta iniyorum.
+переходить|Переходи дорогу осторожно.|Yolu dikkatle karşıya geç.
+держать|Держи мою руку.|Elimi tut.
+бросать|Не бросай мусор на улице.|Sokağa çöp atma.
+ловить|Лови мяч!|Topu yakala!
+тянуть|Не тяни кошку за хвост.|Kedinin kuyruğunu çekme.
+толкать|Не толкайся!|İtişme!
+нести|Я несу тяжёлую сумку.|Ağır bir çanta taşıyorum.
+отпускать|Не отпускай мою руку.|Elimi bırakma.
+нюхать|Собака нюхает цветы.|Köpek çiçekleri kokluyor.
+трогать|Не трогай, горячо!|Dokunma, sıcak!
+замечать|Ты замечаешь разницу?|Farkı fark ediyor musun?
+смотреть|Мы смотрим телевизор.|Televizyon izliyoruz.
+глядеть|Она глядит в окно.|O pencereden bakıyor.
+чувствовать|Я чувствую себя хорошо.|Kendimi iyi hissediyorum.
+узнавать|Я тебя не узнал!|Seni tanıyamadım!
+помнить|Я помню этот день.|O günü hatırlıyorum.
+забывать|Не забывай звонить маме.|Anneni aramayı unutma.
+решать|Ты решаешь, куда мы поедем.|Nereye gideceğimize sen karar ver.
+верить|Я тебе верю.|Sana inanıyorum.
+мечтать|Я мечтаю о море.|Denizi hayal ediyorum.
+интересоваться|Я интересуюсь историей.|Tarihe ilgi duyuyorum.
+угадывать|Угадай, кто пришёл!|Tahmin et kim geldi!
+спрашивать|Спроси у учителя.|Öğretmene sor.
+отвечать|Отвечай на вопрос.|Soruya cevap ver.
+сказать|Что ты сказал?|Ne dedin?
+рассказывать|Расскажи о себе.|Kendinden bahset.
+кричать|Не кричи, я слышу.|Bağırma, duyuyorum.
+шептать|Она шепчет мне на ухо.|Kulağıma fısıldıyor.
+звонить|Я звоню тебе вечером.|Seni akşam arıyorum.
+# u35
+начинать|Мы начинаем урок.|Derse başlıyoruz.
+заканчивать|Я заканчиваю работу в шесть.|İşi altıda bitiririm.
+продолжать|Продолжай, я слушаю.|Devam et, dinliyorum.
+останавливаться|Автобус останавливается здесь?|Otobüs burada duruyor mu?
+ждать|Я жду тебя у входа.|Seni girişte bekliyorum.
+пытаться|Я пытаюсь понять.|Anlamaya çalışıyorum.
+добиваться|Она всегда добивается своей цели.|O her zaman hedefine ulaşır.
+давать|Мама даёт мне деньги.|Annem bana para veriyor.
+брать|Можно брать эту книгу?|Bu kitabı alabilir miyim?
+приносить|Официант приносит меню.|Garson menüyü getiriyor.
+отправлять|Я отправляю письмо.|Mektup gönderiyorum.
+находить|Я не могу найти ключи, ты всегда их находишь!|Anahtarları bulamıyorum, sen hep buluyorsun!
+хранить|Храните лекарство в холодильнике.|İlacı buzdolabında saklayın.
+брать взаймы|Я не люблю брать взаймы.|Ödünç almayı sevmem.
+меняться|Город быстро меняется.|Şehir hızla değişiyor.
+расти|Дети растут очень быстро.|Çocuklar çok hızlı büyüyor.
+увеличиваться|Цены увеличиваются каждый год.|Fiyatlar her yıl artıyor.
+уменьшаться|Количество снега уменьшается.|Kar miktarı azalıyor.
+ломать|Не ломай игрушку!|Oyuncağı kırma!
+чинить|Папа чинит велосипед.|Babam bisikleti tamir ediyor.
+открывать|Открывай дверь, это я!|Kapıyı aç, benim!
+закрывать|Закрывай окно, холодно.|Pencereyi kapat, soğuk.
+мыть|Я мою машину.|Arabayı yıkıyorum.
+чистить|Я чищу картошку.|Patates soyuyorum.
+класть|Не клади ключи на стол.|Anahtarları masaya koyma.
+поднимать|Поднимай руку, если знаешь ответ.|Cevabı biliyorsan elini kaldır.
+вешать|Вешай куртку сюда.|Montunu buraya as.
+прятать|Не надо прятать от меня подарок.|Hediyeyi benden saklamana gerek yok.
+приглашать|Я приглашаю тебя на ужин.|Seni akşam yemeğine davet ediyorum.
+участвовать|Я участвую в конкурсе.|Yarışmaya katılıyorum.
+благодарить|Благодарю вас за помощь.|Yardımınız için teşekkür ederim.
+извиняться|Не нужно извиняться.|Özür dilemene gerek yok.
+обещать|Обещаю, я приду.|Söz veriyorum, geleceğim.
+разрешать|Мама не разрешает мне гулять поздно.|Annem geç saatte dışarı çıkmama izin vermiyor.
+запрещать|Врач запрещает мне сладкое.|Doktor bana tatlıyı yasaklıyor.
+# u36
+широкий|Это широкая улица.|Bu geniş bir cadde.
+огромный|У них огромный дом.|Onların kocaman bir evi var.
+крошечный|У котёнка крошечный нос.|Yavru kedinin küçücük bir burnu var.
+плоский|Земля не плоская.|Dünya düz değil.
+круглый|Стол круглый.|Masa yuvarlak.
+квадратный|Это квадратная комната.|Bu kare bir oda.
+глубокий|Озеро очень глубокое.|Göl çok derin.
+оранжевый|Апельсин оранжевый.|Portakal turuncudur.
+фиолетовый|У неё фиолетовое платье.|Onun mor bir elbisesi var.
+розовый|Девочка любит розовый цвет.|Kız pembe rengi sever.
+коричневый|У него коричневые глаза.|Onun gözleri kahverengi.
+светлый|Это светлая комната.|Bu aydınlık bir oda.
+тёмный|Он любит тёмный шоколад.|O bitter çikolatayı sever.
+цветной|Дети рисуют цветными карандашами.|Çocuklar renkli kalemlerle resim yapıyor.
+пустой|Холодильник пустой.|Buzdolabı boş.
+грязный|Твои руки грязные.|Ellerin kirli.
+мокрый|Я весь мокрый от дождя.|Yağmurdan sırılsıklam oldum.
+сухой|Бельё уже сухое.|Çamaşırlar artık kuru.
+тихий|Это тихий район.|Burası sessiz bir semt.
+шумный|Город очень шумный.|Şehir çok gürültülü.
+тёплый|Сегодня тёплый день.|Bugün ılık bir gün.
+прохладный|Вечер прохладный.|Akşam serin.
+мягкий|Хлеб мягкий и свежий.|Ekmek yumuşak ve taze.
+твёрдый|Этот сыр очень твёрдый.|Bu peynir çok sert.
+гладкий|Камень гладкий.|Taş pürüzsüz.
+шероховатый|У стены шероховатая поверхность.|Duvarın yüzeyi pürüzlü.
+тяжёлый|Этот чемодан тяжёлый.|Bu valiz ağır.
+отличный|Это отличная идея!|Bu mükemmel bir fikir!
+ужасный|Погода ужасная.|Hava berbat.
+важный|У меня важная встреча.|Önemli bir toplantım var.
+необходимый|Вода необходима для жизни.|Su yaşam için gereklidir.
+возможный|Это возможный вариант.|Bu mümkün bir seçenek.
+невозможный|Нет ничего невозможного.|İmkânsız diye bir şey yok.
+естественный|Это естественный цвет волос.|Bu doğal saç rengi.
+# u37
+старинный|В музее старинная мебель.|Müzede antika mobilyalar var.
+современный|Это современное здание.|Bu modern bir bina.
+ежедневный|Это мой ежедневный маршрут.|Bu benim günlük güzergâhım.
+еженедельный|У нас еженедельное собрание.|Haftalık toplantımız var.
+ежегодный|Ежегодный фестиваль проходит летом.|Yıllık festival yazın yapılır.
+временный|Это временная работа.|Bu geçici bir iş.
+постоянный|Он мой постоянный клиент.|O benim sürekli müşterim.
+готовый|Ужин готов!|Akşam yemeği hazır!
+занятый|Я сегодня очень занятый.|Bugün çok meşgulüm.
+свободен|Этот стул свободен?|Bu sandalye boş mu?
+безопасный|Это безопасный район.|Burası güvenli bir semt.
+удобный|Этот диван очень удобный.|Bu kanepe çok rahat.
+богатый|Он очень богатый человек.|O çok zengin bir adam.
+бедный|Бедный котёнок, он голодный.|Zavallı yavru kedi, aç.
+знаменитый|Это знаменитый актёр.|Bu ünlü bir aktör.
+странный|Какой странный звук!|Ne garip bir ses!
+нормальный|Всё нормально, не волнуйся.|Her şey normal, endişelenme.
+секретный|Это секретный рецепт бабушки.|Bu büyükannemin gizli tarifi.
+простой|Это простой вопрос.|Bu basit bir soru.
+сложный|Задача очень сложная.|Görev çok karmaşık.
+популярный|Это популярная песня.|Bu popüler bir şarkı.
+талантливый|Она талантливая художница.|O yetenekli bir ressam.
+уважительный|У него уважительная причина.|Onun geçerli (saygıdeğer) bir mazereti var.
+щедрый|Дедушка очень щедрый.|Büyükbabam çok cömert.
+жадный|Не будь жадным, поделись.|Cimri olma, paylaş.
+решительный|Она решительная женщина.|O kararlı bir kadın.
+любопытный|Кот очень любопытный.|Kedi çok meraklı.
+ответственный|Он ответственный сотрудник.|O sorumluluk sahibi bir çalışan.
+более|Это более интересная книга.|Bu daha ilginç bir kitap.
+самый|Это самый высокий дом.|Bu en yüksek ev.
+так же … как|Он так же высокий, как брат.|O da kardeşi kadar uzun.
+похожий|Ты очень похожий на отца.|Babana çok benziyorsun.
+разный|У нас разные вкусы.|Zevklerimiz farklı.
+одинаковый|У близнецов одинаковые куртки.|İkizlerin montları aynı.
+словно|Она поёт, словно птица.|Kuş gibi şarkı söylüyor.
+# u38
+внутри|Внутри очень тепло.|İçerisi çok sıcak.
+снаружи|Снаружи холодно.|Dışarısı soğuk.
+наверху|Спальня наверху.|Yatak odası yukarıda.
+внизу|Кухня внизу.|Mutfak aşağıda.
+везде|Везде снег.|Her yerde kar var.
+нигде|Я нигде не могу найти очки.|Gözlüğümü hiçbir yerde bulamıyorum.
+где-то|Мои ключи где-то здесь.|Anahtarlarım buralarda bir yerde.
+раньше|Раньше я жил в Анкаре.|Eskiden Ankara'da yaşıyordum.
+тогда|Тогда я был студентом.|O zaman öğrenciydim.
+наконец|Наконец ты пришёл!|Sonunda geldin!
+вдруг|Вдруг пошёл дождь.|Aniden yağmur başladı.
+всё ещё|Ты всё ещё спишь?|Hâlâ uyuyor musun?
+один раз|Я был в Москве один раз.|Moskova'da bir kez bulundum.
+снова|Снова идёт дождь.|Yine yağmur yağıyor.
+вместе|Давай пойдём вместе.|Hadi birlikte gidelim.
+в одиночку|Он путешествует в одиночку.|O tek başına seyahat ediyor.
+внимательно|Слушайте внимательно.|Dikkatle dinleyin.
+тихо|Говори тихо, ребёнок спит.|Sessiz konuş, çocuk uyuyor.
+громко|Не говори так громко.|Bu kadar yüksek sesle konuşma.
+правильно|Ты всё сделал правильно.|Her şeyi doğru yaptın.
+случайно|Я случайно разбил чашку.|Yanlışlıkla fincanı kırdım.
+однако|Было холодно, однако мы пошли гулять.|Hava soğuktu, ancak yürüyüşe çıktık.
+кстати|Кстати, ты видел Ивана?|Bu arada, İvan'ı gördün mü?
+например|Я люблю фрукты, например, яблоки.|Meyveleri severim, örneğin elmayı.
+кроме того|Кроме того, у меня нет времени.|Ayrıca vaktim yok.
+несмотря на|Несмотря на дождь, мы гуляли.|Yağmura rağmen yürüyüş yaptık.
+таким образом|Таким образом, проект закончен.|Böylece proje bitti.
+иначе|Поторопись, иначе опоздаем.|Acele et, yoksa geç kalacağız.
+какой|Какой цвет тебе нравится?|Hangi rengi seviyorsun?
+чей|Чей это телефон?|Bu kimin telefonu?
+как долго|Как долго ты учишь русский?|Ne zamandır Rusça öğreniyorsun?
+как часто|Как часто ты ходишь в спортзал?|Spor salonuna ne sıklıkla gidiyorsun?
+почему бы и нет|Пойдём в кино? — Почему бы и нет!|Sinemaya gidelim mi? — Neden olmasın!
+что за|Что за шум?|Bu ne gürültü?
+сколько штук|Сколько штук вам нужно?|Kaç tane lazım?
+# u39
+государство|Государство помогает семьям.|Devlet ailelere yardım ediyor.
+правительство|Правительство приняло новый закон.|Hükümet yeni bir yasa çıkardı.
+президент|Президент выступил по телевизору.|Cumhurbaşkanı televizyonda konuştu.
+выборы|Выборы будут в марте.|Seçimler martta olacak.
+голосовать|Я иду голосовать.|Oy vermeye gidiyorum.
+закон|Все должны соблюдать закон.|Herkes yasaya uymalı.
+гражданин|Он гражданин Турции.|O Türkiye vatandaşı.
+суд|Дело рассматривает суд.|Davaya mahkeme bakıyor.
+судья|Судья принял решение.|Hâkim karar verdi.
+преступление|Это серьёзное преступление.|Bu ciddi bir suç.
+вор|Полиция поймала вора.|Polis hırsızı yakaladı.
+штраф|Я получил штраф за парковку.|Park cezası aldım.
+правило|Это важное правило.|Bu önemli bir kural.
+право|У каждого есть право на образование.|Herkesin eğitim hakkı vardır.
+новости|Ты смотрел новости?|Haberleri izledin mi?
+газета|Папа читает газету за завтраком.|Babam kahvaltıda gazete okur.
+радио|В машине играет радио.|Arabada radyo çalıyor.
+реклама|По телевизору слишком много рекламы.|Televizyonda çok fazla reklam var.
+статья|Я прочитал интересную статью.|İlginç bir makale okudum.
+интервью|Актёр дал интервью журналу.|Aktör dergiye röportaj verdi.
+передача|Это моя любимая передача.|Bu en sevdiğim program.
+общество|Общество быстро меняется.|Toplum hızla değişiyor.
+население|Население города растёт.|Şehrin nüfusu artıyor.
+культура|Я интересуюсь русской культурой.|Rus kültürüne ilgi duyuyorum.
+традиция|Это старая семейная традиция.|Bu eski bir aile geleneği.
+религия|Здесь уважают любую религию.|Burada her dine saygı duyulur.
+война|Война — это всегда трагедия.|Savaş her zaman bir trajedidir.
+мирная жизнь|Все хотят мирной жизни.|Herkes barış içinde yaşamak ister.
+событие|Это было важное событие.|Bu önemli bir olaydı.
+проблема|У нас проблема.|Bir sorunumuz var.
+решение|Мы нашли решение.|Bir çözüm bulduk.
+кризис|Экономический кризис закончился.|Ekonomik kriz bitti.
+развитие|Развитие технологий очень быстрое.|Teknolojinin gelişimi çok hızlı.
+успех|Желаю тебе успеха!|Sana başarılar dilerim!
+дискуссия|После лекции была дискуссия.|Dersten sonra bir tartışma oldu.
+# u40
+отделение банка|Отделение банка открыто до пяти.|Banka şubesi beşe kadar açık.
+банкомат|Где ближайший банкомат?|En yakın ATM nerede?
+проценты|По кредиту высокие проценты.|Kredinin faizi yüksek.
+кредит|Мы взяли кредит на квартиру.|Daire için kredi aldık.
+долг|У меня нет долгов.|Hiç borcum yok.
+перевод|Я сделал перевод другу.|Arkadaşıma havale yaptım.
+валюта|Какая валюта в России?|Rusya'da para birimi ne?
+монета|У меня нет монет.|Hiç bozuk param yok.
+купюра|Это купюра в тысячу рублей.|Bu bin rublelik bir banknot.
+евро|Сколько стоит евро сегодня?|Bugün euro ne kadar?
+доллар|Я поменял доллары на рубли.|Doları rubleye çevirdim.
+турецкая лира|Турецкая лира — валюта Турции.|Türk lirası Türkiye'nin para birimidir.
+бюджет|У нас маленький бюджет.|Bütçemiz küçük.
+стоимость|Какая стоимость поездки?|Yolculuğun maliyeti ne?
+снимать деньги|Я снимаю деньги в банкомате.|ATM'den para çekiyorum.
+класть на счёт|Я кладу деньги на счёт каждый месяц.|Her ay hesaba para yatırıyorum.
+обменивать валюту|В аэропорту невыгодно обменивать валюту.|Havalimanında döviz bozdurmak kârlı değil.
+одолжить|Можешь одолжить мне сто рублей?|Bana yüz ruble borç verebilir misin?
+инвестировать|Он хочет инвестировать в недвижимость.|Gayrimenkule yatırım yapmak istiyor.
+продавать|Мы продаём машину.|Arabayı satıyoruz.
+снимать квартиру|Я снимаю квартиру в центре.|Merkezde bir daire kiralıyorum.
+аренда|Аренда очень дорогая.|Kira çok pahalı.
+хозяин квартиры|Хозяин квартиры придёт завтра.|Ev sahibi yarın gelecek.
+жилец|Новый жилец очень тихий.|Yeni kiracı çok sessiz.
+залог|Залог — одна месячная плата.|Depozito bir aylık kira.
+электричество|В деревне нет электричества.|Köyde elektrik yok.
+отопление|Отопление включают в октябре.|Kalorifer ekimde yakılır.
+переезжать|Мы переезжаем в новую квартиру.|Yeni bir daireye taşınıyoruz.
+экономика|Экономика страны растёт.|Ülke ekonomisi büyüyor.
+инфляция|Инфляция в этом году высокая.|Bu yıl enflasyon yüksek.
+налог|Все платят налоги.|Herkes vergi öder.
+безработица|Безработица уменьшается.|İşsizlik azalıyor.
+экспорт|Экспорт нефти очень важен.|Petrol ihracatı çok önemli.
+импорт|Импорт фруктов увеличился.|Meyve ithalatı arttı.
+рынок|На рынке свежие овощи.|Pazarda taze sebzeler var.
+# u41
+окружающая среда|Нужно беречь окружающую среду.|Çevreyi korumak gerekiyor.
+загрязнение|Загрязнение воздуха — большая проблема.|Hava kirliliği büyük bir sorun.
+переработка|Переработка пластика очень важна.|Plastiğin geri dönüşümü çok önemli.
+климат|Климат меняется.|İklim değişiyor.
+энергия|Нам нужно экономить энергию.|Enerji tasarrufu yapmamız lazım.
+солнечная энергия|Дом работает на солнечной энергии.|Ev güneş enerjisiyle çalışıyor.
+защищать|Мы должны защищать природу.|Doğayı korumalıyız.
+континент|Африка — большой континент.|Afrika büyük bir kıtadır.
+океан|Тихий океан — самый большой.|Büyük Okyanus en büyüğüdür.
+полуостров|Крым — это полуостров.|Kırım bir yarımadadır.
+вулкан|На Камчатке много вулканов.|Kamçatka'da çok yanardağ var.
+пещера|Мы были в большой пещере.|Büyük bir mağaradaydık.
+ледник|Ледник медленно тает.|Buzul yavaşça eriyor.
+песок|Дети играют в песке.|Çocuklar kumda oynuyor.
+землетрясение|Вчера было землетрясение.|Dün deprem oldu.
+наводнение|После дождей было наводнение.|Yağmurlardan sonra sel oldu.
+засуха|Из-за засухи плохой урожай.|Kuraklık yüzünden hasat kötü.
+ураган|Ураган сломал деревья.|Kasırga ağaçları kırdı.
+цунами|После землетрясения пришло цунами.|Depremden sonra tsunami geldi.
+оползень|Оползень закрыл дорогу.|Heyelan yolu kapattı.
+лавина|В горах опасно: может сойти лавина.|Dağlarda tehlikeli: çığ düşebilir.
+пашня|Трактор работает на пашне.|Traktör tarlada çalışıyor.
+хлев|Коровы в хлеву.|İnekler ahırda.
+трактор|Дедушка водит трактор.|Büyükbabam traktör kullanıyor.
+урожай|В этом году хороший урожай.|Bu yıl hasat iyi.
+сеять|Весной фермеры сеют пшеницу.|İlkbaharda çiftçiler buğday eker.
+земля|Земля после дождя мягкая.|Yağmurdan sonra toprak yumuşak.
+колодец|В деревне есть колодец.|Köyde bir kuyu var.
+градус|Сегодня двадцать градусов.|Bugün yirmi derece.
+влажность|Высокая влажность летом.|Yazın nem yüksek.
+прогноз погоды|Прогноз погоды обещает дождь.|Hava tahmini yağmur bekliyor.
+солнечный|Сегодня солнечный день.|Bugün güneşli bir gün.
+облачный|Завтра будет облачный день.|Yarın bulutlu bir gün olacak.
+дождливый|Осень была дождливая.|Sonbahar yağmurluydu.
+ветреный|Сегодня ветреный день.|Bugün rüzgârlı bir gün.
+# u42
+родиться|Я родился в Стамбуле.|İstanbul'da doğdum.
+младенчество|Никто не помнит своё младенчество.|Kimse bebekliğini hatırlamaz.
+детство|Детство я провёл в деревне.|Çocukluğumu köyde geçirdim.
+юность|В юности я играл в футбол.|Gençliğimde futbol oynardım.
+взрослый|Ты уже взрослый.|Sen artık yetişkinsin.
+старость|Он встретил старость спокойно.|Yaşlılığı huzurla karşıladı.
+умереть|Его дедушка умер в прошлом году.|Onun büyükbabası geçen yıl öldü.
+рождение|Поздравляем с рождением сына!|Oğlunuzun doğumu kutlu olsun!
+помолвка|Помолвка была в мае.|Nişan mayıstaydı.
+выпускной|На выпускной она надела красивое платье.|Mezuniyete güzel bir elbise giydi.
+похороны|Похороны будут завтра.|Cenaze yarın.
+годовщина|Сегодня годовщина нашей свадьбы.|Bugün evlilik yıl dönümümüz.
+выход на пенсию|Мы отметили его выход на пенсию.|Emekliliğini kutladık.
+праздник|Новый год — мой любимый праздник.|Yılbaşı en sevdiğim bayram.
+коляска|Мама гуляет с коляской.|Anne bebek arabasıyla geziyor.
+подгузник|Нужно поменять подгузник.|Bezi değiştirmek lazım.
+детская площадка|Дети на детской площадке.|Çocuklar oyun parkında.
+детский сад|Сын ходит в детский сад.|Oğlum anaokuluna gidiyor.
+колыбель|Ребёнок спит в колыбели.|Bebek beşikte uyuyor.
+соска|Малыш уронил соску.|Bebek emziğini düşürdü.
+сказка|Бабушка рассказывает сказку.|Büyükanne masal anlatıyor.
+гость|У нас сегодня гости.|Bugün misafirimiz var.
+список покупок|Не забудь список покупок.|Alışveriş listesini unutma.
+посудомоечная машина|Поставь тарелки в посудомоечную машину.|Tabakları bulaşık makinesine koy.
+утюг|Утюг горячий.|Ütü sıcak.
+вешалка|Повесь пальто на вешалку.|Paltoyu askıya as.
+дверной звонок|Дверной звонок не работает.|Kapı zili çalışmıyor.
+почтовый ящик|В почтовом ящике письмо.|Posta kutusunda mektup var.
+домашнее животное|У тебя есть домашнее животное?|Evcil hayvanın var mı?
+корм|Купи корм для кошки.|Kediye mama al.
+поводок|Надень на собаку поводок.|Köpeğe tasmayı tak.
+ветеринар|Мы идём к ветеринару.|Veterinere gidiyoruz.
+аквариум|В аквариуме три рыбки.|Akvaryumda üç balık var.
+клетка|Попугай сидит в клетке.|Papağan kafeste.
+щенок|У нас новый щенок.|Yeni bir yavru köpeğimiz var.
+# u43
+идея|У меня есть идея!|Bir fikrim var!
+мысль|Хорошая мысль!|İyi düşünce!
+смысл|В чём смысл жизни?|Hayatın anlamı ne?
+причина|Какая причина?|Sebebi ne?
+цель|Моя цель — говорить по-русски.|Amacım Rusça konuşmak.
+пример|Приведите пример.|Bir örnek verin.
+истина|В споре рождается истина.|Gerçek tartışmada doğar.
+счастье|Счастье в мелочах.|Mutluluk küçük şeylerde.
+грусть|В её глазах грусть.|Gözlerinde hüzün var.
+страх|У меня страх высоты.|Yükseklik korkum var.
+надежда|Надежда умирает последней.|Umut en son ölür.
+гнев|Он не мог сдержать гнев.|Öfkesini tutamadı.
+радость|Какая радость тебя видеть!|Seni görmek ne büyük sevinç!
+спокойствие|Мне нужно спокойствие.|Huzura ihtiyacım var.
+красота|Красота спасёт мир.|Güzellik dünyayı kurtaracak.
+сила|Знание — сила.|Bilgi güçtür.
+здоровье|Здоровье важнее денег.|Sağlık paradan önemlidir.
+свобода|Свобода — главная ценность.|Özgürlük en önemli değerdir.
+знание|Знание языков помогает в работе.|Dil bilgisi işte yardımcı olur.
+опыт|У него большой опыт.|Onun büyük deneyimi var.
+способность|У неё способность к языкам.|Onun dillere yeteneği var.
+разговор|У нас был долгий разговор.|Uzun bir konuşma yaptık.
+беседа|Приятная беседа за чаем.|Çay eşliğinde hoş bir sohbet.
+совет|Дай мне совет.|Bana bir tavsiye ver.
+просьба|У меня к тебе просьба.|Senden bir ricam var.
+ссора|Ссора закончилась миром.|Kavga barışla bitti.
+обещание|Он сдержал обещание.|Sözünü tuttu.
+извинение|Примите мои извинения.|Özürlerimi kabul edin.
+план|Какой у нас план?|Planımız ne?
+порядок|В комнате порядок.|Oda derli toplu.
+изменение|В расписании изменение.|Programda değişiklik var.
+привычка|Это плохая привычка.|Bu kötü bir alışkanlık.
+возможность|Это отличная возможность.|Bu harika bir fırsat.
+удача|Это была большая удача!|Bu büyük bir şanstı!
+риск|Это большой риск.|Bu büyük bir risk.
+# u44
+крем|Этот крем для рук.|Bu el kremi.
+духи|Это мои любимые духи.|Bu en sevdiğim parfüm.
+макияж|Она не носит макияж.|O makyaj yapmaz.
+бриться|Он бреется каждое утро.|Her sabah tıraş olur.
+дезодорант|Я купил новый дезодорант.|Yeni bir deodorant aldım.
+зубная паста|Зубная паста закончилась.|Diş macunu bitti.
+фен|Где фен?|Saç kurutma makinesi nerede?
+принимать душ|Я принимаю душ утром.|Sabahları duş alırım.
+принимать ванну|Вечером я люблю принимать ванну.|Akşamları banyo yapmayı severim.
+стричься|Я стригусь раз в месяц.|Ayda bir saç kestiririm.
+ноготь|Я сломала ноготь.|Tırnağımı kırdım.
+борода|У дедушки седая борода.|Büyükbabamın kır sakalı var.
+туалетная бумага|Купи туалетную бумагу.|Tuvalet kâğıdı al.
+носовой платок|У тебя есть носовой платок?|Mendilin var mı?
+диета|Я на диете.|Diyetteyim.
+худеть|Я хочу худеть к лету.|Yaza kadar kilo vermek istiyorum.
+толстеть|Зимой я всегда толстею.|Kışın hep kilo alırım.
+витамин|Зимой нужны витамины.|Kışın vitamin gerekir.
+здоровое питание|Здоровое питание — это важно.|Sağlıklı beslenme önemlidir.
+упражнение|Делай это упражнение каждый день.|Bu egzersizi her gün yap.
+бег трусцой|Бег трусцой по утрам полезен.|Sabahları hafif koşu faydalıdır.
+сонный|У тебя сонный вид.|Uykulu görünüyorsun.
+храпеть|Мой муж храпит.|Kocam horluyor.
+кошмар|Мне приснился кошмар.|Kâbus gördüm.
+будильник|Будильник звонит в семь.|Çalar saat yedide çalıyor.
+дневной сон|После обеда у ребёнка дневной сон.|Öğle yemeğinden sonra çocuk şekerleme yapar.
+бессонница|У меня бессонница.|Uykusuzluk çekiyorum.
+видеть сон|Я часто вижу сны.|Sık sık rüya görürüm.
+пуговица|Пуговица оторвалась.|Düğme koptu.
+карман|Телефон в кармане.|Telefon cebimde.
+воротник|У рубашки грязный воротник.|Gömleğin yakası kirli.
+рукав|Рукава слишком длинные.|Kollar çok uzun.
+шнурки|Завяжи шнурки.|Ayakkabı bağlarını bağla.
+тапочки|Дома я хожу в тапочках.|Evde terlikle dolaşırım.
+сапоги|Зимой я ношу сапоги.|Kışın çizme giyerim.
+# u45
+я тоже так думаю|Это хороший фильм. — Я тоже так думаю.|Bu iyi bir film. — Bence de.
+всё равно|Мне всё равно, куда идти.|Nereye gideceğimiz fark etmez.
+забудь|Забудь, это не важно.|Boş ver, önemli değil.
+как здорово!|Ты приедешь? Как здорово!|Geliyor musun? Ne güzel!
+именно|Именно это я и хотел сказать.|Tam olarak bunu söylemek istiyordum.
+я шучу|Не обижайся, я шучу.|Alınma, şaka yapıyorum.
+ты серьёзно?|Ты уходишь с работы? Ты серьёзно?|İşten mi ayrılıyorsun? Ciddi misin?
+могу я помочь?|Вы потерялись? Могу я помочь?|Kayboldunuz mu? Yardım edebilir miyim?
+хочешь …?|Хочешь чаю?|Çay ister misin?
+не могли бы вы …?|Не могли бы вы закрыть окно?|Pencereyi kapatabilir misiniz?
+у вас есть минутка?|Извините, у вас есть минутка?|Affedersiniz, bir dakikanız var mı?
+если вы не против|Если вы не против, я открою окно.|Sakıncası yoksa pencereyi açacağım.
+извините за беспокойство|Извините за беспокойство, где здесь почта?|Rahatsız ettiğim için kusura bakmayın, burada postane nerede?
+спасибо за помощь|Огромное спасибо за помощь!|Yardımınız için çok teşekkürler!
+я очень рад|Я очень рад нашей встрече.|Görüşmemize çok sevindim.
+я очень устал|Я очень устал после работы.|İşten sonra çok yoruldum.
+мне грустно|Мне грустно без тебя.|Sensiz canım sıkılıyor.
+я в предвкушении|Завтра отпуск, я в предвкушении!|Yarın tatil, heyecanlıyım!
+я беспокоюсь|Я беспокоюсь о маме.|Annem için endişeleniyorum.
+я удивлён|Я удивлён, что ты здесь.|Burada olmana şaşırdım.
+мне стало легче|Выпил таблетку, и мне стало легче.|Hap içtim ve rahatladım.
+где ближайший …?|Где ближайший банкомат?|En yakın ATM nerede?
+как далеко?|До центра как далеко?|Merkeze ne kadar uzak?
+сколько идти пешком?|До музея сколько идти пешком?|Müzeye yürüyerek ne kadar sürer?
+этот автобус идёт до …?|Этот автобус идёт до вокзала?|Bu otobüs gara gider mi?
+покажите на карте|Покажите на карте, где мы.|Nerede olduğumuzu haritada gösterin.
+я на правильном пути?|Я ищу музей. Я на правильном пути?|Müzeyi arıyorum. Doğru yolda mıyım?
+второй поворот направо|Идите прямо, потом второй поворот направо.|Düz gidin, sonra ikinci sokaktan sağa.
+можно меню?|Добрый вечер! Можно меню?|İyi akşamlar! Menüyü alabilir miyim?
+что вы посоветуете?|Что вы посоветуете из десертов?|Tatlılardan ne önerirsiniz?
+давайте пополам|Давайте пополам, так честно.|Hesabı bölelim, böylesi adil.
+можно картой?|Можно картой или только наличными?|Kartla mı, yoksa sadece nakit mi?
+я это не заказывал|Извините, я это не заказывал.|Pardon, bunu sipariş etmedim.
+можно воды?|Можно воды без газа?|Gazsız su alabilir miyim?
+было очень вкусно|Спасибо, было очень вкусно!|Teşekkürler, çok lezzetliydi!
+# B2 — siyaset
+парламент|Парламент принял новый закон.|Meclis yeni bir yasa kabul etti.
+министерство|Министерство образования объявило реформу.|Eğitim Bakanlığı bir reform açıkladı.
+министр|Министр дал интервью журналистам.|Bakan gazetecilere röportaj verdi.
+мэр|Мэр открыл новый парк.|Belediye başkanı yeni bir park açtı.
+мэрия|Документы можно получить в мэрии.|Belgeler belediyeden alınabilir.
+власти|Власти обещали построить мост.|Yetkililer köprü yapmayı vaat etti.
+конституция|Конституция — главный закон страны.|Anayasa ülkenin temel yasasıdır.
+партия|Он член политической партии.|O bir siyasi partinin üyesi.
+оппозиция|Оппозиция критикует правительство.|Muhalefet hükümeti eleştiriyor.
+кандидат|Кандидат выступил на площади.|Aday meydanda konuştu.
+избиратель|Каждый избиратель имеет один голос.|Her seçmenin bir oyu vardır.
+голос|Каждый голос важен.|Her oy önemlidir.
+кампания|Предвыборная кампания началась.|Seçim kampanyası başladı.
+большинство|Большинство поддержало закон.|Çoğunluk yasayı destekledi.
+реформа|Реформа займёт несколько лет.|Reform birkaç yıl sürecek.
+политика|Я не очень интересуюсь политикой.|Siyasete pek ilgi duymuyorum.
+указ|Президент подписал указ.|Cumhurbaşkanı kararnameyi imzaladı.
+управление|Управление городом — сложная задача.|Şehri yönetmek zor bir iştir.
+коррупция|Борьба с коррупцией продолжается.|Yolsuzlukla mücadele sürüyor.
+прозрачность|Граждане требуют прозрачности.|Vatandaşlar şeffaflık istiyor.
+ответственность|Это большая ответственность.|Bu büyük bir sorumluluk.
+дипломатия|Конфликт решили с помощью дипломатии.|Çatışma diplomasiyle çözüldü.
+посольство|Посольство выдаёт визы.|Büyükelçilik vize veriyor.
+посол|Посол встретился с министром.|Büyükelçi bakanla görüştü.
+договор|Страны подписали договор о мире.|Ülkeler barış antlaşması imzaladı.
+переговоры|Переговоры шли всю ночь.|Müzakereler bütün gece sürdü.
+санкции|Санкции влияют на экономику.|Yaptırımlar ekonomiyi etkiliyor.
+международный|Это международная конференция.|Bu uluslararası bir konferans.
+избирать|Граждане избирают президента на шесть лет.|Vatandaşlar cumhurbaşkanını altı yıllığına seçer.
+руководить|Она руководит отделом.|O bir departmanı yönetiyor.
+поддерживать|Мы поддерживаем эту идею.|Bu fikri destekliyoruz.
+выступать против|Жители выступают против строительства.|Sakinler inşaata karşı çıkıyor.
+принимать закон|Парламент принимает закон о налогах.|Meclis vergi yasasını kabul ediyor.
+критиковать|Не нужно критиковать всё подряд.|Her şeyi eleştirmeye gerek yok.
+уйти в отставку|Министр решил уйти в отставку.|Bakan istifa etmeye karar verdi.
+# B2 — hukuk
+судебное дело|Судебное дело длилось два года.|Dava iki yıl sürdü.
+обвиняемый|Обвиняемый не признал вину.|Sanık suçu kabul etmedi.
+свидетель|Свидетель всё видел.|Tanık her şeyi gördü.
+прокурор|Прокурор потребовал пять лет.|Savcı beş yıl istedi.
+присяжные|Присяжные приняли решение.|Jüri kararını verdi.
+приговор|Суд вынес приговор.|Mahkeme kararını açıkladı.
+апелляция|Адвокат подал апелляцию.|Avukat temyize başvurdu.
+доказательство|У полиции нет доказательств.|Polisin delili yok.
+расследование|Расследование ещё идёт.|Soruşturma hâlâ sürüyor.
+тюрьма|Вор попал в тюрьму.|Hırsız hapse girdi.
+арестовать|Полиция арестовала подозреваемого.|Polis şüpheliyi tutukladı.
+мошенничество|Это обычное интернет-мошенничество.|Bu sıradan bir internet dolandırıcılığı.
+контрабанда|На границе нашли контрабанду.|Sınırda kaçak mal bulundu.
+насилие|Насилие нельзя оправдать.|Şiddet haklı gösterilemez.
+справедливость|Люди хотят справедливости.|İnsanlar adalet istiyor.
+равенство|Равенство мужчин и женщин важно.|Kadın erkek eşitliği önemlidir.
+дискриминация|Дискриминация запрещена законом.|Ayrımcılık yasayla yasaktır.
+права человека|Права человека нужно защищать.|İnsan hakları korunmalıdır.
+свобода слова|Свобода слова — основа демократии.|İfade özgürlüğü demokrasinin temelidir.
+частная жизнь|Это моя частная жизнь.|Bu benim özel hayatım.
+безопасность|Безопасность пассажиров — главное.|Yolcuların güvenliği en önemlisidir.
+статья договора|Прочитайте пятую статью договора.|Sözleşmenin beşinci maddesini okuyun.
+нотариус|Документ нужно заверить у нотариуса.|Belgeyi notere onaylatmak gerekiyor.
+доверенность|Я дал брату доверенность.|Kardeşime vekâlet verdim.
+заявление|Напишите заявление на отпуск.|İzin dilekçesi yazın.
+разрешение|У вас есть разрешение на работу?|Çalışma izniniz var mı?
+уведомление|Я получил уведомление из банка.|Bankadan bir bildirim aldım.
+печать|На документе нет печати.|Belgede mühür yok.
+обвинять|Его обвиняют в краже.|Onu hırsızlıkla suçluyorlar.
+доказывать|Нужно доказывать свою правоту фактами.|Haklılığını gerçeklerle kanıtlamak gerekir.
+нарушать|Не нарушайте правила дорожного движения.|Trafik kurallarını ihlal etmeyin.
+защищать в суде|Адвокат будет защищать в суде моего брата.|Avukat mahkemede kardeşimi savunacak.
+подать в суд|Сосед хочет подать в суд.|Komşu dava açmak istiyor.
+наказывать|Детей не нужно строго наказывать.|Çocukları sert cezalandırmamak gerekir.
+оправдать|Суд оправдал его.|Mahkeme onu beraat ettirdi.
+# B2 — ekonomi
+акционер|Акционеры собрались на встречу.|Hissedarlar toplantıya geldi.
+акция|Акции компании выросли.|Şirketin hisseleri yükseldi.
+совет директоров|Совет директоров одобрил план.|Yönetim kurulu planı onayladı.
+филиал|У банка новый филиал в Казани.|Bankanın Kazan'da yeni bir şubesi var.
+предприниматель|Он молодой предприниматель.|O genç bir girişimci.
+предприятие|Это крупное предприятие.|Bu büyük bir işletme.
+банкротство|Компания объявила о банкротстве.|Şirket iflasını açıkladı.
+доход|Его доход вырос.|Geliri arttı.
+расходы|Нужно сократить расходы.|Giderleri azaltmak lazım.
+прибыль|В этом году прибыль выше.|Bu yıl kâr daha yüksek.
+убыток|Магазин работает в убыток.|Mağaza zararına çalışıyor.
+оборот|Годовой оборот компании — миллион долларов.|Şirketin yıllık cirosu bir milyon dolar.
+капитал|Для бизнеса нужен капитал.|İş için sermaye gerekir.
+инвестиции|Инвестиции в образование окупаются.|Eğitime yatırım karşılığını verir.
+спрос|Спрос на квартиры растёт.|Dairelere talep artıyor.
+предложение|Предложение превышает спрос.|Arz talebi aşıyor.
+конкуренция|Конкуренция на рынке высокая.|Piyasada rekabet yüksek.
+конкурент|Наш главный конкурент снизил цены.|Başlıca rakibimiz fiyatları düşürdü.
+монополия|Эта компания — монополия.|Bu şirket bir tekel.
+потребитель|Потребитель всегда выбирает качество.|Tüketici her zaman kaliteyi seçer.
+рост цен|Рост цен беспокоит всех.|Fiyat artışı herkesi endişelendiriyor.
+поставщик|Поставщик задержал товар.|Tedarikçi malı geciktirdi.
+доставка|Доставка бесплатная.|Teslimat ücretsiz.
+тендер|Мы выиграли тендер.|İhaleyi kazandık.
+вести переговоры|Директор умеет вести переговоры.|Müdür müzakere etmeyi biliyor.
+сделка|Сделка была очень выгодной.|Anlaşma çok kârlıydı.
+партнёр|Он мой деловой партнёр.|O benim iş ortağım.
+бренд|Это известный бренд.|Bu ünlü bir marka.
+основать|Компанию основали в 1990 году.|Şirket 1990'da kuruldu.
+расширяться|Наш бизнес расширяется.|İşimiz genişliyor.
+получать прибыль|Компания начала получать прибыль.|Şirket kâr etmeye başladı.
+привлекать инвестиции|Город хочет привлекать инвестиции.|Şehir yatırım çekmek istiyor.
+экспортировать|Россия экспортирует газ.|Rusya gaz ihraç ediyor.
+торговаться|На рынке можно торговаться.|Pazarda pazarlık yapılabilir.
+обанкротиться|Магазин обанкротился за год.|Mağaza bir yılda battı.
+# B2 — bilim
+исследование|Это новое исследование о сне.|Bu uyku hakkında yeni bir araştırma.
+эксперимент|Эксперимент прошёл успешно.|Deney başarılı oldu.
+гипотеза|Учёные проверяют гипотезу.|Bilim insanları hipotezi test ediyor.
+теория|Теория Эйнштейна изменила физику.|Einstein'ın teorisi fiziği değiştirdi.
+открытие|Это важное научное открытие.|Bu önemli bir bilimsel keşif.
+метод|Это новый метод лечения.|Bu yeni bir tedavi yöntemi.
+данные|Данные показывают рост.|Veriler artış gösteriyor.
+учёный|Мой отец — учёный.|Babam bir bilim insanı.
+исследователь|Исследователи изучают Арктику.|Araştırmacılar Arktik'i inceliyor.
+специалист|Нам нужен хороший специалист.|İyi bir uzmana ihtiyacımız var.
+изобретатель|Изобретатель создал новый двигатель.|Mucit yeni bir motor yaptı.
+академия|Он работает в Академии наук.|O Bilimler Akademisi'nde çalışıyor.
+лаборатория|Она проводит опыты в лаборатории.|Laboratuvarda deney yapıyor.
+научный журнал|Статья вышла в научном журнале.|Makale bilimsel bir dergide yayımlandı.
+клетка организма|Каждая клетка организма важна.|Vücudun her hücresi önemlidir.
+ген|Этот ген отвечает за цвет глаз.|Bu gen göz renginden sorumlu.
+молекула|Молекула воды очень маленькая.|Su molekülü çok küçüktür.
+эволюция|Дарвин написал об эволюции.|Darwin evrim hakkında yazdı.
+гравитация|Гравитация держит Луну рядом с Землёй.|Yer çekimi Ay'ı Dünya'nın yakınında tutar.
+скорость света|Ничто не быстрее скорости света.|Hiçbir şey ışık hızından hızlı değildir.
+вещество|Это опасное вещество.|Bu tehlikeli bir madde.
+измерение|Измерение температуры показало сорок.|Sıcaklık ölçümü kırkı gösterdi.
+вычисление|Компьютер делает вычисления быстро.|Bilgisayar hesaplamaları hızlı yapar.
+модель|Учёные построили модель климата.|Bilim insanları bir iklim modeli kurdu.
+анализ|Анализ данных занял неделю.|Veri analizi bir hafta sürdü.
+статистика|Статистика говорит обратное.|İstatistik aksini söylüyor.
+формула|Запомни эту формулу.|Bu formülü aklında tut.
+уравнение|Реши это уравнение.|Bu denklemi çöz.
+исследовать|Учёные исследуют космос.|Bilim insanları uzayı araştırıyor.
+совершать открытие|Молодые учёные часто совершают открытия.|Genç bilim insanları sık sık keşif yapar.
+изобретать|Люди всегда изобретают что-то новое.|İnsanlar hep yeni bir şey icat eder.
+наблюдать|Мы наблюдаем за звёздами.|Yıldızları gözlemliyoruz.
+измерять|Врач измеряет давление.|Doktor tansiyonu ölçüyor.
+анализировать|Мы анализируем результаты.|Sonuçları analiz ediyoruz.
+публиковать|Журнал публикует статьи учёных.|Dergi bilim insanlarının makalelerini yayımlıyor.
+# B2 — teknoloji
+программное обеспечение|Нужно обновить программное обеспечение.|Yazılımı güncellemek lazım.
+программа|Эта программа очень удобная.|Bu program çok kullanışlı.
+код|Он пишет код на Python.|Python'da kod yazıyor.
+разработчик|Мой брат — разработчик игр.|Kardeşim oyun geliştiricisi.
+ошибка в программе|В приложении нашли ошибку в программе.|Uygulamada bir yazılım hatası bulundu.
+версия|Вышла новая версия приложения.|Uygulamanın yeni sürümü çıktı.
+алгоритм|Алгоритм выбирает видео для тебя.|Algoritma senin için video seçiyor.
+искусственный интеллект|Искусственный интеллект быстро развивается.|Yapay zekâ hızla gelişiyor.
+робот|Робот убирает квартиру.|Robot daireyi temizliyor.
+сервер|Сервер не отвечает.|Sunucu yanıt vermiyor.
+облачное хранилище|Фото хранятся в облачном хранилище.|Fotoğraflar bulut depolamada saklanıyor.
+база данных|Клиенты есть в базе данных.|Müşteriler veritabanında kayıtlı.
+сеть|Компьютер не видит сеть.|Bilgisayar ağı görmüyor.
+цифровой|Мы живём в цифровую эпоху.|Dijital bir çağda yaşıyoruz.
+шифрование|Шифрование защищает сообщения.|Şifreleme mesajları korur.
+кибератака|Банк пережил кибератаку.|Banka bir siber saldırı atlattı.
+хакер|Хакер взломал сайт.|Hacker siteye sızdı.
+персональные данные|Берегите свои персональные данные.|Kişisel verilerinizi koruyun.
+файрвол|Файрвол блокирует этот сайт.|Güvenlik duvarı bu siteyi engelliyor.
+резервная копия|Сделай резервную копию файлов.|Dosyaların yedeğini al.
+авторизация|Для входа нужна авторизация.|Giriş için kimlik doğrulama gerekli.
+процессор|У этого ноутбука мощный процессор.|Bu dizüstü bilgisayarın güçlü bir işlemcisi var.
+память устройства|Память устройства заполнена.|Cihazın belleği dolu.
+датчик|Датчик показывает температуру.|Sensör sıcaklığı gösteriyor.
+умные часы|Умные часы считают шаги.|Akıllı saat adımları sayıyor.
+кабель|Мне нужен кабель для зарядки.|Şarj için bir kabloya ihtiyacım var.
+заряд батареи|Заряд батареи двадцать процентов.|Pil yüzde yirmi.
+разрешение экрана|У телевизора высокое разрешение экрана.|Televizyonun ekran çözünürlüğü yüksek.
+программировать|Я учусь программировать.|Programlamayı öğreniyorum.
+обновлять|Телефон обновляет приложения ночью.|Telefon uygulamaları gece güncelliyor.
+устанавливать|Устанавливать программы нужно с официального сайта.|Programları resmi siteden kurmak gerekir.
+делать резервную копию|Я каждую неделю делаю резервную копию.|Her hafta yedek alıyorum.
+шифровать|Мессенджер шифрует сообщения.|Mesajlaşma uygulaması mesajları şifreliyor.
+автоматизировать|Мы хотим автоматизировать отчёты.|Raporları otomatikleştirmek istiyoruz.
+взламывать|Взламывать чужие аккаунты — преступление.|Başkalarının hesaplarını hacklemek suçtur.
+# B2 — sağlık
+симптом|Какие у вас симптомы?|Belirtileriniz neler?
+диагноз|Врач поставил диагноз.|Doktor teşhis koydu.
+осмотр|Осмотр занял десять минут.|Muayene on dakika sürdü.
+анализ крови|Утром нужно сдать анализ крови.|Sabah kan tahlili vermek gerekiyor.
+рентген|Мне сделали рентген руки.|Kolumun röntgenini çektiler.
+давление|У бабушки высокое давление.|Büyükannemin tansiyonu yüksek.
+хронический|У него хронический кашель.|Onun kronik öksürüğü var.
+лечение|Лечение займёт месяц.|Tedavi bir ay sürecek.
+терапия|Терапия помогает.|Terapi işe yarıyor.
+выздоровление|Желаю скорейшего выздоровления!|Acil şifalar dilerim!
+иммунитет|Витамины укрепляют иммунитет.|Vitaminler bağışıklığı güçlendirir.
+побочный эффект|У лекарства есть побочный эффект.|İlacın bir yan etkisi var.
+доза|Не превышайте дозу.|Dozu aşmayın.
+профилактика|Профилактика лучше лечения.|Önlemek tedavi etmekten iyidir.
+хирург|Хирург сделал операцию.|Cerrah ameliyatı yaptı.
+медсестра|Медсестра измерила температуру.|Hemşire ateşi ölçtü.
+кардиолог|Мне нужно к кардиологу.|Kardiyoloğa gitmem lazım.
+педиатр|Педиатр осмотрел ребёнка.|Çocuk doktoru çocuğu muayene etti.
+психолог|Психолог помог мне справиться со стрессом.|Psikolog stresle başa çıkmama yardım etti.
+окулист|Окулист проверил зрение.|Göz doktoru görmeyi kontrol etti.
+клиника|Это частная клиника.|Bu özel bir klinik.
+инфекция|Это вирусная инфекция.|Bu viral bir enfeksiyon.
+воспаление|У него воспаление уха.|Kulağında iltihap var.
+диабет|У дедушки диабет.|Büyükbabamda diyabet var.
+рак|Рак можно вылечить на ранней стадии.|Kanser erken evrede tedavi edilebilir.
+инфаркт|У соседа был инфаркт.|Komşu kalp krizi geçirdi.
+эпидемия|Эпидемия гриппа закончилась.|Grip salgını bitti.
+депрессия|Депрессия — это болезнь.|Depresyon bir hastalıktır.
+лечить|Этот врач хорошо лечит.|Bu doktor iyi tedavi eder.
+обследовать|Пациента нужно полностью обследовать.|Hastanın tam muayeneden geçmesi gerekiyor.
+ставить диагноз|Ставить диагноз должен врач.|Teşhisi doktor koymalı.
+выписывать лекарство|Врач выписывает лекарство.|Doktor ilaç yazıyor.
+заболеть|Я заболел гриппом.|Grip oldum.
+заразиться|Он заразился от брата.|Kardeşinden bulaştı.
+поправляться|Бабушка быстро поправляется.|Büyükannem hızla toparlanıyor.
+# B2 — psikoloji
+характер|У неё сильный характер.|Onun güçlü bir karakteri var.
+личность|Он интересная личность.|O ilginç bir kişilik.
+уверенность в себе|Ему не хватает уверенности в себе.|Ona özgüven eksik.
+темперамент|У детей разный темперамент.|Çocukların mizaçları farklı.
+поведение|Его поведение меня удивило.|Davranışı beni şaşırttı.
+вредная привычка|Курение — вредная привычка.|Sigara içmek kötü bir alışkanlık.
+высокомерие|Его высокомерие раздражает.|Kibri sinir bozucu.
+скромный|Он очень скромный человек.|O çok alçakgönüllü biri.
+откровенный|Это был откровенный разговор.|Açık yürekli bir konuşmaydı.
+аккуратный|Она очень аккуратная.|O çok özenli.
+оптимистичный|У него оптимистичный взгляд на жизнь.|Hayata iyimser bakıyor.
+верный|Собака — верный друг.|Köpek sadık bir dosttur.
+отзывчивый|Мой сосед очень отзывчивый.|Komşum çok yardımsever.
+настойчивый|Настойчивый человек добьётся цели.|Azimli insan hedefine ulaşır.
+пессимистичный|Не будь таким пессимистичным.|Bu kadar kötümser olma.
+упрямый|Мой сын очень упрямый.|Oğlum çok inatçı.
+капризный|Капризный ребёнок плачет.|Kaprisli çocuk ağlıyor.
+застенчивый|Она застенчивая и тихая.|O çekingen ve sessiz.
+рассеянный|Профессор очень рассеянный.|Profesör çok dalgın.
+хитрый|Лиса — хитрое животное.|Tilki kurnaz bir hayvandır.
+раздражительный|После работы он раздражительный.|İşten sonra çabuk sinirleniyor.
+сознание|Он потерял сознание.|Bilincini kaybetti.
+подсознание|Сны — это язык подсознания.|Rüyalar bilinçaltının dilidir.
+интуиция|Доверяй своей интуиции.|Sezgine güven.
+воображение|У детей богатое воображение.|Çocukların hayal gücü zengindir.
+внимание|Спасибо за внимание!|Dinlediğiniz için teşekkürler!
+мотивация|Мне не хватает мотивации.|Motivasyonum eksik.
+стресс|На работе много стресса.|İşte çok stres var.
+сожалеть|Я сожалею о своих словах.|Sözlerimden pişmanım.
+ревновать|Он ревнует её к другу.|Onu arkadaşından kıskanıyor.
+стесняться|Не стесняйся, спрашивай!|Çekinme, sor!
+гордиться|Родители гордятся сыном.|Ailesi oğluyla gurur duyuyor.
+подозревать|Полиция подозревает соседа.|Polis komşudan şüpheleniyor.
+разочароваться|Я разочаровался в этом фильме.|Bu filmde hayal kırıklığına uğradım.
+привыкать|Я привыкаю к новому городу.|Yeni şehre alışıyorum.
+# B2 — medya
+заголовок|Заголовок статьи очень громкий.|Makalenin başlığı çok iddialı.
+корреспондент|Корреспондент работает в Париже.|Muhabir Paris'te çalışıyor.
+редактор|Редактор исправил текст.|Editör metni düzeltti.
+издательство|Книгу выпустило известное издательство.|Kitabı ünlü bir yayınevi çıkardı.
+тираж|Тираж газеты — сто тысяч.|Gazetenin tirajı yüz bin.
+цензура|Цензура запрещена конституцией.|Sansür anayasayla yasaktır.
+пресс-конференция|Министр провёл пресс-конференцию.|Bakan bir basın toplantısı yaptı.
+канал|На каком канале футбол?|Futbol hangi kanalda?
+сериал|Я смотрю новый сериал.|Yeni bir dizi izliyorum.
+прямой эфир|Концерт идёт в прямом эфире.|Konser canlı yayında.
+зритель|Зрители аплодировали стоя.|İzleyiciler ayakta alkışladı.
+слушатель|Радио поздравило слушателей.|Radyo dinleyicileri kutladı.
+подкаст|Я слушаю подкаст об истории.|Tarih hakkında bir podcast dinliyorum.
+блогер|Этот блогер снимает видео о путешествиях.|Bu blog yazarı seyahat videoları çekiyor.
+источник|Назовите источник информации.|Bilginin kaynağını belirtin.
+фейк|Эта новость — фейк.|Bu haber sahte.
+слух|Это только слух.|Bu sadece bir söylenti.
+факт|Это научный факт.|Bu bilimsel bir gerçek.
+мнение|У меня другое мнение.|Benim farklı bir görüşüm var.
+комментарий эксперта|Послушаем комментарий эксперта.|Uzmanın yorumunu dinleyelim.
+общественное мнение|Общественное мнение изменилось.|Kamuoyu değişti.
+переписка|Мы ведём переписку много лет.|Yıllardır yazışıyoruz.
+убеждение|Это его глубокое убеждение.|Bu onun derin bir inancı.
+разногласие|У нас небольшое разногласие.|Aramızda küçük bir anlaşmazlık var.
+компромисс|Мы нашли компромисс.|Bir uzlaşma bulduk.
+намёк|Я понял твой намёк.|Ne demek istediğini anladım.
+диалог|Важно вести диалог.|Diyalog sürdürmek önemlidir.
+речь|Президент произнёс речь.|Cumhurbaşkanı bir konuşma yaptı.
+сообщать|Синоптики сообщают о снеге.|Meteorologlar kar bildiriyor.
+заявлять|Компания заявляет о новых планах.|Şirket yeni planlarını açıklıyor.
+убеждать|Он умеет убеждать людей.|İnsanları ikna etmeyi bilir.
+возражать|Если никто не возражает, начнём.|Kimse itiraz etmiyorsa başlayalım.
+опровергать|Министр опровергает слухи.|Bakan söylentileri yalanlıyor.
+преувеличивать|Ты всегда преувеличиваешь!|Hep abartıyorsun!
+подчёркивать|Учитель подчёркивает важные слова.|Öğretmen önemli kelimeleri vurguluyor.
+# B2 — sanat
+сцена|Актёры вышли на сцену.|Oyuncular sahneye çıktı.
+актёр|Он известный актёр театра.|O ünlü bir tiyatro oyuncusu.
+режиссёр|Режиссёр снимает новый фильм.|Yönetmen yeni bir film çekiyor.
+спектакль|Спектакль начинается в семь.|Oyun yedide başlıyor.
+балет|Мы ходили на балет «Лебединое озеро».|"Kuğu Gölü" balesine gittik.
+опера|Я впервые слушаю оперу.|İlk kez opera dinliyorum.
+аплодисменты|Зал взорвался аплодисментами.|Salon alkışlarla inledi.
+живописец|Репин — великий русский живописец.|Repin büyük bir Rus ressamıdır.
+холст|Художник пишет на холсте.|Ressam tuvale resim yapıyor.
+кисть|Возьми тонкую кисть.|İnce fırçayı al.
+портрет|Это портрет моей бабушки.|Bu büyükannemin portresi.
+пейзаж|Мне нравятся зимние пейзажи.|Kış manzaralarını severim.
+шедевр|Эта картина — шедевр.|Bu tablo bir şaheser.
+галерея|Третьяковская галерея находится в Москве.|Tretyakov Galerisi Moskova'dadır.
+произведение|Это лучшее произведение писателя.|Bu yazarın en iyi eseri.
+герой|Главный герой романа — студент.|Romanın kahramanı bir öğrenci.
+сюжет|У фильма интересный сюжет.|Filmin ilginç bir olay örgüsü var.
+поэт|Есенин — мой любимый поэт.|Yesenin en sevdiğim şair.
+рассказ|Чехов писал короткие рассказы.|Çehov kısa öyküler yazdı.
+читатель|Читатели ждут новую книгу.|Okurlar yeni kitabı bekliyor.
+перевод книги|Перевод книги на турецкий вышел в мае.|Kitabın Türkçe çevirisi mayısta çıktı.
+наследие|Это культурное наследие страны.|Bu ülkenin kültürel mirası.
+фольклор|Русский фольклор очень богатый.|Rus folkloru çok zengin.
+ремесло|Гончарное ремесло очень древнее.|Çömlekçilik çok eski bir zanaat.
+фестиваль|Летом в городе джазовый фестиваль.|Yazın şehirde caz festivali var.
+коллекция|У него большая коллекция марок.|Onun büyük bir pul koleksiyonu var.
+стиль|Мне нравится твой стиль.|Tarzını beğeniyorum.
+творчество|Творчество Пушкина изучают в школе.|Puşkin'in eserleri okulda okutulur.
+создавать|Художник создаёт новые картины.|Ressam yeni tablolar yaratıyor.
+ставить спектакль|Театр будет ставить спектакль по Чехову.|Tiyatro Çehov'dan bir oyun sahneleyecek.
+выставлять|Музей выставляет новые работы.|Müze yeni eserler sergiliyor.
+вдохновлять|Природа вдохновляет поэтов.|Doğa şairlere ilham verir.
+писать рецензию|Критик будет писать рецензию на фильм.|Eleştirmen film hakkında eleştiri yazacak.
+играть роль|Она играет главную роль.|O başrolü oynuyor.
+сочинять музыку|Он сочиняет музыку для кино.|O sinema için müzik besteliyor.
+# B2 — eğitim ve kariyer
+бакалавриат|Я окончил бакалавриат по экономике.|Ekonomi lisansını bitirdim.
+магистратура|Она поступила в магистратуру.|Yüksek lisansa girdi.
+аспирантура|После магистратуры он пошёл в аспирантуру.|Yüksek lisanstan sonra doktoraya başladı.
+диссертация|Он пишет диссертацию.|Tezini yazıyor.
+научный руководитель|Мой научный руководитель — профессор.|Danışman hocam bir profesör.
+поступление|Поступление в университет — это стресс.|Üniversiteye girmek stresli.
+выпускник|Он выпускник МГУ.|O Moskova Devlet Üniversitesi mezunu.
+стажировка|Летом у меня стажировка в банке.|Yazın bankada stajım var.
+повышение|Она получила повышение.|Terfi aldı.
+резюме|Пришлите ваше резюме.|Özgeçmişinizi gönderin.
+навык|Это полезный навык.|Bu faydalı bir beceri.
+должность|Какая у вас должность?|Pozisyonunuz ne?
+стаж работы|Мой стаж работы — пять лет.|İş deneyimim beş yıl.
+карьера|Он сделал быструю карьеру.|Hızlı bir kariyer yaptı.
+рабочий день|Рабочий день начинается в девять.|Mesai dokuzda başlıyor.
+сверхурочная работа|Сверхурочная работа оплачивается.|Fazla mesai ücretlidir.
+ежегодный отпуск|Ежегодный отпуск — двадцать восемь дней.|Yıllık izin yirmi sekiz gün.
+коллектив|У нас дружный коллектив.|Ekibimiz çok uyumlu.
+нагрузка|Нагрузка на работе большая.|İşteki yük ağır.
+удалённая работа|Удалённая работа экономит время.|Uzaktan çalışma zaman kazandırır.
+дедлайн|Дедлайн в пятницу.|Son tarih cuma.
+лидерство|Лидерство — важное качество.|Liderlik önemli bir özelliktir.
+эффективность|Нужно повысить эффективность.|Verimliliği artırmak lazım.
+гибкость|Гибкость нужна в любой работе.|Her işte esneklik gerekir.
+компетенция|Это не моя компетенция.|Bu benim yetki alanım değil.
+инициатива|Начальник ценит инициативу.|Müdür girişkenliğe değer verir.
+тайм-менеджмент|Тайм-менеджмент помогает успевать всё.|Zaman yönetimi her şeye yetişmeye yardım eder.
+командная работа|Проект — это командная работа.|Proje bir ekip çalışmasıdır.
+получить повышение|Я надеюсь получить повышение.|Terfi almayı umuyorum.
+уволиться|Он решил уволиться.|İşten ayrılmaya karar verdi.
+проходить стажировку|Студенты проходят стажировку летом.|Öğrenciler yazın staj yapıyor.
+развиваться|Я хочу развиваться в этой профессии.|Bu meslekte gelişmek istiyorum.
+специализироваться|Она специализируется на праве.|O hukukta uzmanlaşıyor.
+поручать|Начальник поручает мне проекты.|Müdür bana projeler veriyor.
+контролировать|Менеджер контролирует работу.|Yönetici işi denetliyor.
+# B2 — çevre
+глобальное потепление|Глобальное потепление — серьёзная угроза.|Küresel ısınma ciddi bir tehdit.
+изменение климата|Изменение климата влияет на всех.|İklim değişikliği herkesi etkiliyor.
+выбросы|Заводы сокращают выбросы.|Fabrikalar emisyonları azaltıyor.
+парниковый эффект|Парниковый эффект нагревает планету.|Sera etkisi gezegeni ısıtıyor.
+углекислый газ|Деревья поглощают углекислый газ.|Ağaçlar karbondioksiti emer.
+озоновый слой|Озоновый слой защищает Землю.|Ozon tabakası Dünya'yı korur.
+таяние ледников|Таяние ледников поднимает уровень моря.|Buzulların erimesi deniz seviyesini yükseltiyor.
+возобновляемая энергия|Будущее за возобновляемой энергией.|Gelecek yenilenebilir enerjide.
+ветряк|На холме стоит ветряк.|Tepede bir rüzgâr türbini var.
+солнечная панель|На крыше солнечная панель.|Çatıda bir güneş paneli var.
+атомная станция|Рядом с городом атомная станция.|Şehrin yakınında bir nükleer santral var.
+нефть|Цена на нефть упала.|Petrol fiyatı düştü.
+природный газ|Дом отапливают природным газом.|Ev doğal gazla ısıtılıyor.
+уголь|Уголь загрязняет воздух.|Kömür havayı kirletir.
+природные ресурсы|Россия богата природными ресурсами.|Rusya doğal kaynaklar açısından zengin.
+заповедник|В заповеднике живут редкие животные.|Milli parkta nadir hayvanlar yaşıyor.
+исчезающий|Амурский тигр — исчезающий вид.|Amur kaplanı nesli tükenmekte olan bir tür.
+вырубка лесов|Вырубка лесов — большая проблема.|Ormansızlaşma büyük bir sorun.
+биоразнообразие|Нужно сохранить биоразнообразие.|Biyoçeşitliliği korumak gerekir.
+экосистема|Озеро — это сложная экосистема.|Göl karmaşık bir ekosistemdir.
+волонтёр|Волонтёры убирают пляж.|Gönüllüler plajı temizliyor.
+отходы|Отходы нужно сортировать.|Atıkları ayrıştırmak gerekir.
+пластик|В океане много пластика.|Okyanusta çok plastik var.
+сортировка мусора|Сортировка мусора начинается дома.|Çöp ayrıştırma evde başlar.
+упаковка|Эта упаковка из бумаги.|Bu ambalaj kâğıttan.
+свалка|За городом большая свалка.|Şehrin dışında büyük bir çöplük var.
+канализация|В старом доме сломалась канализация.|Eski evde kanalizasyon bozuldu.
+очистка воды|Очистка воды стоит дорого.|Su arıtma pahalıdır.
+экономить|Экономьте воду!|Su tasarrufu yapın!
+загрязнять|Машины загрязняют воздух.|Arabalar havayı kirletiyor.
+перерабатывать|Этот завод перерабатывает пластик.|Bu fabrika plastiği geri dönüştürüyor.
+уничтожать|Пожары уничтожают леса.|Yangınlar ormanları yok ediyor.
+сокращать|Мы сокращаем потребление энергии.|Enerji tüketimini azaltıyoruz.
+использовать повторно|Пакеты можно использовать повторно.|Poşetler yeniden kullanılabilir.
+сажать деревья|Весной школьники сажают деревья.|İlkbaharda öğrenciler ağaç diker.
+# B2 — toplum
+бедность|Бедность — главная проблема региона.|Yoksulluk bölgenin ana sorunu.
+бездомный|Волонтёры кормят бездомных.|Gönüllüler evsizleri doyuruyor.
+неравенство|Неравенство доходов растёт.|Gelir eşitsizliği artıyor.
+зависимость|Это зависимость от телефона.|Bu telefon bağımlılığı.
+преступность|Преступность в городе снизилась.|Şehirde suç oranı düştü.
+одиночество|Пожилые люди часто страдают от одиночества.|Yaşlılar sık sık yalnızlıktan muzdarip.
+социальная помощь|Семья получает социальную помощь.|Aile sosyal yardım alıyor.
+миграция|Миграция меняет города.|Göç şehirleri değiştiriyor.
+мигрант|Многие мигранты работают на стройке.|Pek çok göçmen inşaatta çalışıyor.
+беженец|Беженцы нашли новый дом.|Mülteciler yeni bir yuva buldu.
+адаптация|Адаптация в новой стране трудна.|Yeni bir ülkeye uyum zordur.
+гражданство|Он получил гражданство.|Vatandaşlık aldı.
+вид на жительство|Мне продлили вид на жительство.|Oturma iznimi uzattılar.
+ностальгия|Меня мучает ностальгия.|Memleket hasreti beni yiyip bitiriyor.
+поколение|Наше поколение выросло с интернетом.|Bizim neslimiz internetle büyüdü.
+молодёжь|Молодёжь любит музыку.|Gençler müziği sever.
+пожилые люди|Пожилым людям нужно внимание.|Yaşlıların ilgiye ihtiyacı var.
+воспитание|Воспитание детей — большой труд.|Çocuk yetiştirmek büyük bir emektir.
+рождаемость|Рождаемость в стране падает.|Ülkede doğum oranı düşüyor.
+продолжительность жизни|Продолжительность жизни выросла.|Ortalama ömür uzadı.
+пенсия|Бабушка получает пенсию.|Büyükannem emekli maaşı alıyor.
+сообщество|Это сообщество любителей книг.|Bu kitapseverler topluluğu.
+благотворительность|Она занимается благотворительностью.|Hayır işleriyle uğraşıyor.
+волонтёрство|Волонтёрство даёт опыт.|Gönüllülük deneyim kazandırır.
+терпимость|Терпимость важна в обществе.|Toplumda hoşgörü önemlidir.
+солидарность|Люди проявили солидарность.|İnsanlar dayanışma gösterdi.
+протест|На площади начался протест.|Meydanda protesto başladı.
+забастовка|Водители объявили забастовку.|Şoförler grev ilan etti.
+эмигрировать|Его семья эмигрировала в Канаду.|Ailesi Kanada'ya göç etti.
+приспосабливаться|Дети быстро приспосабливаются.|Çocuklar çabuk uyum sağlar.
+жертвовать|Я жертвую деньги в фонд.|Bir vakfa bağış yapıyorum.
+протестовать|Студенты протестуют против цен.|Öğrenciler fiyatları protesto ediyor.
+исключать|Нельзя исключать эту возможность.|Bu ihtimali dışlamamak gerekir.
+объединять|Футбол объединяет людей.|Futbol insanları birleştirir.
+решать проблему|Мы решаем проблему вместе.|Sorunu birlikte çözüyoruz.
+# B2 — ileri fiiller
+влиять|Погода влияет на настроение.|Hava ruh hâlini etkiler.
+вызывать|Стресс вызывает головную боль.|Stres baş ağrısına neden olur.
+зависеть|Всё зависит от тебя.|Her şey sana bağlı.
+приводить к|Лень приводит к проблемам.|Tembellik sorunlara yol açar.
+предотвращать|Прививки предотвращают болезни.|Aşılar hastalıkları önler.
+облегчать|Технологии облегчают жизнь.|Teknoloji hayatı kolaylaştırır.
+усложнять|Не усложняй ситуацию.|Durumu zorlaştırma.
+предполагать|Я предполагаю, что он опоздает.|Geç kalacağını varsayıyorum.
+делать вывод|Из этого можно делать вывод.|Bundan sonuç çıkarılabilir.
+оценивать|Учитель оценивает работы.|Öğretmen ödevleri değerlendiriyor.
+учитывать|Нужно учитывать все риски.|Bütün riskleri dikkate almak lazım.
+сравнивать|Не сравнивай себя с другими.|Kendini başkalarıyla karşılaştırma.
+осознавать|Он осознаёт свою ошибку.|Hatasının farkında.
+сомневаться|Я сомневаюсь в этом.|Bundan şüpheliyim.
+обеспечивать|Родители обеспечивают детей.|Ebeveynler çocuklarını geçindirir.
+достигать|Она достигает своих целей.|Hedeflerine ulaşıyor.
+осуществлять|Мы осуществляем мечту.|Hayalimizi gerçekleştiriyoruz.
+пользоваться|Я пользуюсь этим приложением.|Bu uygulamayı kullanıyorum.
+применять|Применяйте знания на практике.|Bilgiyi pratikte uygulayın.
+поддерживать связь|Мы поддерживаем связь с друзьями.|Arkadaşlarla bağlantıyı sürdürüyoruz.
+откладывать|Не откладывай на завтра.|Yarına erteleme.
+избегать|Я избегаю конфликтов.|Çatışmalardan kaçınırım.
+отказываться|Он отказывается от помощи.|Yardımı reddediyor.
+сдаваться|Никогда не сдавайся!|Asla vazgeçme!
+скрывать|Не скрывай правду.|Gerçeği gizleme.
+пренебрегать|Не пренебрегай здоровьем.|Sağlığını ihmal etme.
+сопротивляться|Он сопротивлялся до конца.|Sonuna kadar direndi.
+не сдаваться|Главное — не сдаваться.|Önemli olan pes etmemek.
+превращаться|Гусеница превращается в бабочку.|Tırtıl kelebeğe dönüşür.
+развиваться дальше|Компания хочет развиваться дальше.|Şirket daha da gelişmek istiyor.
+адаптировать|Книгу адаптировали для детей.|Kitap çocuklar için uyarlandı.
+улучшать|Мы улучшаем сервис.|Hizmeti iyileştiriyoruz.
+ухудшаться|Погода ухудшается.|Hava kötüleşiyor.
+обновлять дом|Мы решили обновлять дом постепенно.|Evi yavaş yavaş yenilemeye karar verdik.
+беречь ресурсы|Важно беречь ресурсы планеты.|Gezegenin kaynaklarını korumak önemlidir.
+# B2 — tartışma
+мне кажется|Мне кажется, будет дождь.|Bana öyle geliyor ki yağmur yağacak.
+на мой взгляд|На мой взгляд, это ошибка.|Bence bu bir hata.
+несомненно|Это, несомненно, лучший вариант.|Bu kuşkusuz en iyi seçenek.
+вероятно|Он, вероятно, уже дома.|Muhtemelen evdedir.
+по-видимому|По-видимому, поезд опаздывает.|Görünüşe göre tren gecikiyor.
+честно говоря|Честно говоря, мне не понравилось.|Açıkçası beğenmedim.
+насколько я знаю|Насколько я знаю, музей закрыт.|Bildiğim kadarıyla müze kapalı.
+следовательно|Он болен, следовательно, не придёт.|Hasta, bu nedenle gelmeyecek.
+с другой стороны|С другой стороны, это дорого.|Öte yandan bu pahalı.
+более того|Более того, он всё знал.|Üstelik her şeyi biliyordu.
+то есть|Через неделю, то есть в пятницу.|Bir hafta sonra, yani cuma.
+тем не менее|Было трудно, тем не менее мы справились.|Zordu, buna rağmen başardık.
+итак|Итак, начнём урок.|Pekâlâ, derse başlayalım.
+во-первых|Во-первых, это дорого.|İlk olarak, bu pahalı.
+подход|Нужен новый подход.|Yeni bir yaklaşım gerekiyor.
+точка зрения|Я понимаю твою точку зрения.|Bakış açını anlıyorum.
+аргумент|Это сильный аргумент.|Bu güçlü bir argüman.
+вывод|Какой вывод можно сделать?|Hangi sonuç çıkarılabilir?
+особенность|Это особенность русского языка.|Bu Rusçanın bir özelliği.
+тенденция|Это новая тенденция в моде.|Bu modada yeni bir eğilim.
+фактор|Погода — важный фактор.|Hava önemli bir etken.
+полностью согласен|Я полностью согласен с вами.|Size tamamen katılıyorum.
+отчасти ты прав|Отчасти ты прав, но не во всём.|Kısmen haklısın ama her konuda değil.
+дело в том, что|Дело в том, что у меня нет времени.|Mesele şu ki vaktim yok.
+к примеру|К примеру, возьмём Москву.|Örneğin Moskova'yı ele alalım.
+с одной стороны|С одной стороны, это удобно.|Bir yandan bu kullanışlı.
+в итоге|В итоге мы остались дома.|Sonuç olarak evde kaldık.
+иными словами|Иными словами, ты не придёшь?|Başka bir deyişle gelmeyecek misin?
+основной|Это основной вопрос.|Bu temel soru.
+реалистичный|Это реалистичный план.|Bu gerçekçi bir plan.
+спорный|Это спорный вопрос.|Bu tartışmalı bir konu.
+неопределённый|Ответ пока неопределённый.|Cevap henüz belirsiz.
+эффективный|Это эффективный метод.|Bu etkili bir yöntem.
+действительный|У вас действительный паспорт?|Pasaportunuz geçerli mi?
+недостаточный|У нас недостаточный опыт.|Deneyimimiz yetersiz.
+# B2 — ilişkiler
+нежность|Мать смотрит на ребёнка с нежностью.|Anne çocuğa şefkatle bakıyor.
+восхищение|Я смотрю на горы с восхищением.|Dağlara hayranlıkla bakıyorum.
+ненависть|Ненависть ничего не решает.|Nefret hiçbir şeyi çözmez.
+ревность|Ревность разрушает отношения.|Kıskançlık ilişkileri yıkar.
+разочарование|Фильм — полное разочарование.|Film tam bir hayal kırıklığı.
+благодарность|Примите мою благодарность.|Minnettarlığımı kabul edin.
+стыд|Он покраснел от стыда.|Utançtan kızardı.
+доверие|Доверие нужно заслужить.|Güveni hak etmek gerekir.
+уважение|Он заслуживает уважения.|O saygıyı hak ediyor.
+предательство|Это настоящее предательство.|Bu gerçek bir ihanet.
+преданность|Собака показала преданность.|Köpek bağlılığını gösterdi.
+поддержка|Спасибо за поддержку.|Desteğin için teşekkürler.
+понимание|Спасибо за понимание.|Anlayışınız için teşekkürler.
+конфликт|Конфликт удалось решить.|Çatışma çözülebildi.
+знакомый|Это мой старый знакомый.|Bu eski bir tanıdığım.
+ровесник|Мы с ним ровесники.|Onunla yaşıtız.
+сослуживец|Мой сослуживец заболел.|İş arkadaşım hastalandı.
+наставник|У меня был хороший наставник.|İyi bir akıl hocam vardı.
+враг|У него нет врагов.|Onun düşmanı yok.
+незнакомец|Не разговаривай с незнакомцами.|Yabancılarla konuşma.
+сосед по квартире|Мой сосед по квартире из Бразилии.|Ev arkadaşım Brezilya'dan.
+мириться|Давай мириться!|Hadi barışalım!
+обижаться|Не обижайся на меня.|Bana gücenme.
+потерять доверие|Легко потерять доверие.|Güveni kaybetmek kolaydır.
+предавать|Настоящие друзья не предают.|Gerçek dostlar ihanet etmez.
+поддержать друга|Важно поддержать друга в беде.|Zor zamanda arkadaşa destek olmak önemli.
+ладить|Я хорошо лажу с коллегами.|İş arkadaşlarımla iyi geçinirim.
+разойтись|Мы решили разойтись.|Ayrılmaya karar verdik.
+я тебя прекрасно понимаю|Не переживай, я тебя прекрасно понимаю.|Üzülme, seni çok iyi anlıyorum.
+ты этого не заслужил|Мне жаль, ты этого не заслужил.|Üzgünüm, bunu hak etmedin.
+всё наладится|Не грусти, всё наладится.|Üzülme, her şey yoluna girecek.
+не вешай нос|Не вешай нос, всё будет хорошо!|Moralini bozma, her şey iyi olacak!
+скажи, что ты думаешь|Скажи, что ты думаешь об этом.|Bu konuda ne düşündüğünü söyle.
+я горжусь тобой|Ты сдал экзамен! Я горжусь тобой.|Sınavı geçtin! Seninle gurur duyuyorum.
+я рядом|Если что — я рядом.|Bir şey olursa yanındayım.

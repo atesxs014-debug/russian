@@ -337,6 +337,17 @@ function WordCard({ w, showRead }: { w: Word; showRead: boolean }) {
           </View>
         ) : null}
       </View>
+      {w.x ? (
+        <Pressable onPress={() => speak(w.x![0])} onLongPress={() => speak(w.x![0], true)} style={({ pressed }) => [st.exBox, pressed && { backgroundColor: C.cardHi }]}>
+          <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+            <Ionicons name="chatbubble-ellipses-outline" size={16} color={C.primary} />
+            <Text style={st.exLabel}>ÖRNEK CÜMLE</Text>
+            <Ionicons name="volume-medium" size={16} color={C.primary} />
+          </View>
+          <Text style={st.exT}>{w.x[0]}</Text>
+          <Text style={st.exTr}>{w.x[1]}</Text>
+        </Pressable>
+      ) : null}
       <Text style={st.tip}>🔊 dinle · 🐢 yavaş dinle</Text>
     </View>
   );
@@ -511,6 +522,10 @@ const st = themed(() => ({
   pairWordText: { color: C.text, fontSize: fs(18), fontWeight: '700', marginLeft: 6 },
   nav: { flexDirection: 'row', maxWidth: 640, width: '100%', alignSelf: 'center' },
   again: { color: C.gold, fontSize: fs(13), textAlign: 'center', marginTop: 8, fontWeight: '700' },
+  exBox: { backgroundColor: C.card, borderRadius: R.md, padding: 14, marginTop: 12, borderLeftWidth: 4, borderLeftColor: C.primary },
+  exLabel: { flex: 1, color: C.dim, fontSize: fs(11), fontWeight: '900', letterSpacing: 1.2, marginLeft: 6 },
+  exT: { color: C.text, fontSize: fs(18), fontWeight: '700', marginTop: 6 },
+  exTr: { color: C.sub, fontSize: fs(14), marginTop: 3 },
   bubble: { borderRadius: R.lg, padding: 12, marginBottom: 8, maxWidth: '88%' },
   bubbleL: { backgroundColor: C.card, alignSelf: 'flex-start', borderTopLeftRadius: 6 },
   bubbleR: { backgroundColor: C.cardHi, alignSelf: 'flex-end', borderTopRightRadius: 6 },

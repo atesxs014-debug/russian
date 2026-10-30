@@ -13313,6 +13313,4280 @@
      ]
     }
    ]
+  },
+  {
+   "id": "u46",
+   "level": "yuksek",
+   "title": "Siyaset ve yönetim",
+   "subtitle": "Parlamento, parti, reform, diplomasi · 5 ders",
+   "lessons": [
+    {
+     "id": "u46l1",
+     "kind": "vocab",
+     "title": "Devlet kurumları",
+     "subtitle": "парламент · министерство · министр …",
+     "intro": "Meclis, bakanlık, belediye…",
+     "v": [
+      [
+       "парламент",
+       "meclis, parlamento",
+       "parlament",
+       "🏛️",
+       "m"
+      ],
+      [
+       "министерство",
+       "bakanlık",
+       "ministerstva",
+       "🏢",
+       "n"
+      ],
+      [
+       "министр",
+       "bakan",
+       "ministr",
+       "👔",
+       "m"
+      ],
+      [
+       "мэр",
+       "belediye başkanı",
+       "mer",
+       "🏙️",
+       "m"
+      ],
+      [
+       "мэрия",
+       "belediye",
+       "meriya",
+       "🏤",
+       "f"
+      ],
+      [
+       "власти",
+       "yetkililer",
+       "vlasti",
+       "🧑‍💼"
+      ],
+      [
+       "конституция",
+       "anayasa",
+       "kanstitutsiya",
+       "📜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u46l2",
+     "kind": "vocab",
+     "title": "Parti ve seçim",
+     "subtitle": "партия · оппозиция · кандидат …",
+     "intro": "Muhalefet, aday, oy…",
+     "v": [
+      [
+       "партия",
+       "parti",
+       "partiya",
+       "🎗️",
+       "f"
+      ],
+      [
+       "оппозиция",
+       "muhalefet",
+       "apazitsiya",
+       "🗣️",
+       "f"
+      ],
+      [
+       "кандидат",
+       "aday",
+       "kandidat",
+       "🙋",
+       "m"
+      ],
+      [
+       "избиратель",
+       "seçmen",
+       "izbiratel'",
+       "🗳️",
+       "m"
+      ],
+      [
+       "голос",
+       "oy (seçimde)",
+       "golas",
+       "✅",
+       "m"
+      ],
+      [
+       "кампания",
+       "kampanya",
+       "kampaniya",
+       "📢",
+       "f"
+      ],
+      [
+       "большинство",
+       "çoğunluk",
+       "bal'şinstva",
+       "👥",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u46l3",
+     "kind": "vocab",
+     "title": "Yönetim ve reform",
+     "subtitle": "реформа · политика · указ …",
+     "intro": "Reform, karar, politika…",
+     "v": [
+      [
+       "реформа",
+       "reform",
+       "riforma",
+       "🔧",
+       "f"
+      ],
+      [
+       "политика",
+       "politika (siyaset)",
+       "palitika",
+       "🧭",
+       "f"
+      ],
+      [
+       "указ",
+       "kararname",
+       "ukas",
+       "📝",
+       "m"
+      ],
+      [
+       "управление",
+       "yönetim",
+       "upravleniye",
+       "⚙️",
+       "n"
+      ],
+      [
+       "коррупция",
+       "yolsuzluk",
+       "karruptsiya",
+       "💰",
+       "f"
+      ],
+      [
+       "прозрачность",
+       "şeffaflık",
+       "prazraçnast'",
+       "🔍",
+       "f"
+      ],
+      [
+       "ответственность",
+       "sorumluluk",
+       "atvetstvinnast'",
+       "⚖️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u46l4",
+     "kind": "vocab",
+     "title": "Diplomasi",
+     "subtitle": "дипломатия · посольство · посол …",
+     "intro": "Elçilik, antlaşma, müzakere…",
+     "v": [
+      [
+       "дипломатия",
+       "diplomasi",
+       "diplamatiya",
+       "🤝",
+       "f"
+      ],
+      [
+       "посольство",
+       "büyükelçilik",
+       "pasol'stva",
+       "🏳️",
+       "n"
+      ],
+      [
+       "посол",
+       "büyükelçi",
+       "pasol",
+       "🎩",
+       "m"
+      ],
+      [
+       "договор",
+       "antlaşma",
+       "dagavor",
+       "✍️",
+       "m"
+      ],
+      [
+       "переговоры",
+       "müzakereler",
+       "pirigavorı",
+       "💬"
+      ],
+      [
+       "санкции",
+       "yaptırımlar",
+       "sanktsii",
+       "🚫"
+      ],
+      [
+       "международный",
+       "uluslararası",
+       "mijdunarodnıy",
+       "🌐"
+      ]
+     ]
+    },
+    {
+     "id": "u46l5",
+     "kind": "vocab",
+     "title": "Siyasi fiiller",
+     "subtitle": "избирать · руководить · поддерживать …",
+     "intro": "Seçmek, yönetmek, desteklemek…",
+     "v": [
+      [
+       "избирать",
+       "seçmek",
+       "izbirat'",
+       "☑️"
+      ],
+      [
+       "руководить",
+       "yönetmek (ülke)",
+       "rukavadit'",
+       "👑"
+      ],
+      [
+       "поддерживать",
+       "desteklemek",
+       "paddyerjivat'",
+       "👍"
+      ],
+      [
+       "выступать против",
+       "karşı çıkmak",
+       "vıstupat' protiv",
+       "✋"
+      ],
+      [
+       "принимать закон",
+       "kabul etmek (yasa)",
+       "prinimat' zakon",
+       "📗"
+      ],
+      [
+       "критиковать",
+       "eleştirmek",
+       "kritikavat'",
+       "🗯️"
+      ],
+      [
+       "уйти в отставку",
+       "istifa etmek",
+       "uyti v atstavku",
+       "🚪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u47",
+   "level": "yuksek",
+   "title": "Hukuk ve adalet",
+   "subtitle": "Dava, avukat, delil, ceza · 5 ders",
+   "lessons": [
+    {
+     "id": "u47l1",
+     "kind": "vocab",
+     "title": "Mahkemede",
+     "subtitle": "судебное дело · обвиняемый · свидетель …",
+     "intro": "Dava, sanık, tanık…",
+     "v": [
+      [
+       "судебное дело",
+       "dava",
+       "sudebnaye delo",
+       "📂",
+       "n"
+      ],
+      [
+       "обвиняемый",
+       "sanık",
+       "abvinyayemıy",
+       "🧍",
+       "m"
+      ],
+      [
+       "свидетель",
+       "tanık",
+       "svidetel'",
+       "👁️",
+       "m"
+      ],
+      [
+       "прокурор",
+       "savcı",
+       "prakuror",
+       "👨‍⚖️",
+       "m"
+      ],
+      [
+       "присяжные",
+       "jüri",
+       "prisyajnıye",
+       "👥"
+      ],
+      [
+       "приговор",
+       "karar (mahkeme)",
+       "prigavor",
+       "🔨",
+       "m"
+      ],
+      [
+       "апелляция",
+       "temyiz",
+       "apellyatsiya",
+       "📨",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u47l2",
+     "kind": "vocab",
+     "title": "Suç ve ceza",
+     "subtitle": "доказательство · расследование · тюрьма …",
+     "intro": "Hapis, delil, soruşturma…",
+     "v": [
+      [
+       "доказательство",
+       "delil, kanıt",
+       "dakazatil'stva",
+       "🧾",
+       "n"
+      ],
+      [
+       "расследование",
+       "soruşturma",
+       "rassledavaniye",
+       "🕵️",
+       "n"
+      ],
+      [
+       "тюрьма",
+       "hapishane",
+       "tyur'ma",
+       "⛓️",
+       "f"
+      ],
+      [
+       "арестовать",
+       "tutuklamak",
+       "arestavat'",
+       "🚔"
+      ],
+      [
+       "мошенничество",
+       "dolandırıcılık",
+       "maşennicestva",
+       "🎭",
+       "n"
+      ],
+      [
+       "контрабанда",
+       "kaçakçılık",
+       "kantrabanda",
+       "📦",
+       "f"
+      ],
+      [
+       "насилие",
+       "şiddet",
+       "nasiliye",
+       "👊",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u47l3",
+     "kind": "vocab",
+     "title": "Haklar",
+     "subtitle": "справедливость · равенство · дискриминация …",
+     "intro": "İnsan hakları, eşitlik, adalet…",
+     "v": [
+      [
+       "справедливость",
+       "adalet",
+       "spravedlivast'",
+       "⚖️",
+       "f"
+      ],
+      [
+       "равенство",
+       "eşitlik",
+       "ravenstva",
+       "🟰",
+       "n"
+      ],
+      [
+       "дискриминация",
+       "ayrımcılık",
+       "diskriminatsiya",
+       "🚷",
+       "f"
+      ],
+      [
+       "права человека",
+       "insan hakları",
+       "prava çilaveka",
+       "🕊️"
+      ],
+      [
+       "свобода слова",
+       "ifade özgürlüğü",
+       "svaboda slova",
+       "🗣️",
+       "f"
+      ],
+      [
+       "частная жизнь",
+       "mahremiyet",
+       "çasnaya jızn'",
+       "🔒",
+       "f"
+      ],
+      [
+       "безопасность",
+       "güvenlik",
+       "bizapasnast'",
+       "🛡️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u47l4",
+     "kind": "vocab",
+     "title": "Belgeler",
+     "subtitle": "статья договора · нотариус · доверенность …",
+     "intro": "Sözleşme maddesi, imza, noter…",
+     "v": [
+      [
+       "статья договора",
+       "madde (sözleşme)",
+       "stat'ya dagavora",
+       "📄",
+       "f"
+      ],
+      [
+       "нотариус",
+       "noter",
+       "natarius",
+       "🖋️",
+       "m"
+      ],
+      [
+       "доверенность",
+       "vekâletname",
+       "daverinnast'",
+       "📃",
+       "f"
+      ],
+      [
+       "заявление",
+       "başvuru",
+       "zayavleniye",
+       "📥",
+       "n"
+      ],
+      [
+       "разрешение",
+       "izin belgesi",
+       "razrişeniye",
+       "🪪",
+       "n"
+      ],
+      [
+       "уведомление",
+       "tebligat",
+       "uvedamleniye",
+       "✉️",
+       "n"
+      ],
+      [
+       "печать",
+       "mühür",
+       "piçat'",
+       "🔴",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u47l5",
+     "kind": "vocab",
+     "title": "Hukuk fiilleri",
+     "subtitle": "обвинять · доказывать · нарушать …",
+     "intro": "Suçlamak, kanıtlamak, ihlal etmek…",
+     "v": [
+      [
+       "обвинять",
+       "suçlamak",
+       "abvinyat'",
+       "👉"
+      ],
+      [
+       "доказывать",
+       "kanıtlamak",
+       "dakazıvat'",
+       "✔️"
+      ],
+      [
+       "нарушать",
+       "ihlal etmek",
+       "naruşat'",
+       "⚠️"
+      ],
+      [
+       "защищать в суде",
+       "savunmak",
+       "zaşşişşat' f sude",
+       "🛡️"
+      ],
+      [
+       "подать в суд",
+       "dava açmak",
+       "padat' f sut",
+       "📤"
+      ],
+      [
+       "наказывать",
+       "cezalandırmak",
+       "nakazıvat'",
+       "🚨"
+      ],
+      [
+       "оправдать",
+       "beraat etmek",
+       "apravdat'",
+       "🙌"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u48",
+   "level": "yuksek",
+   "title": "Ekonomi ve iş dünyası",
+   "subtitle": "Şirket, yatırım, rekabet, kâr · 5 ders",
+   "lessons": [
+    {
+     "id": "u48l1",
+     "kind": "vocab",
+     "title": "Şirket",
+     "subtitle": "акционер · акция · совет директоров …",
+     "intro": "Hissedar, yönetim kurulu, şube…",
+     "v": [
+      [
+       "акционер",
+       "hissedar",
+       "aktsianer",
+       "📈",
+       "m"
+      ],
+      [
+       "акция",
+       "hisse senedi",
+       "aktsiya",
+       "📊",
+       "f"
+      ],
+      [
+       "совет директоров",
+       "yönetim kurulu",
+       "savet direktaraf",
+       "🪑",
+       "m"
+      ],
+      [
+       "филиал",
+       "şube",
+       "filial",
+       "🏬",
+       "m"
+      ],
+      [
+       "предприниматель",
+       "girişimci",
+       "pritprinimatil'",
+       "🚀",
+       "m"
+      ],
+      [
+       "предприятие",
+       "girişim, işletme",
+       "pritpriyatiye",
+       "🏭",
+       "n"
+      ],
+      [
+       "банкротство",
+       "iflas",
+       "bankrotstva",
+       "📉",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u48l2",
+     "kind": "vocab",
+     "title": "Para ve kâr",
+     "subtitle": "доход · расходы · прибыль …",
+     "intro": "Gelir, gider, kâr, zarar…",
+     "v": [
+      [
+       "доход",
+       "gelir",
+       "dahot",
+       "💵",
+       "m"
+      ],
+      [
+       "расходы",
+       "gider",
+       "rashodı",
+       "💸"
+      ],
+      [
+       "прибыль",
+       "kâr",
+       "pribıl'",
+       "💹",
+       "f"
+      ],
+      [
+       "убыток",
+       "zarar",
+       "ubıtak",
+       "🔻",
+       "m"
+      ],
+      [
+       "оборот",
+       "ciro",
+       "abarot",
+       "🔄",
+       "m"
+      ],
+      [
+       "капитал",
+       "sermaye",
+       "kapital",
+       "🏦",
+       "m"
+      ],
+      [
+       "инвестиции",
+       "yatırım",
+       "investitsii",
+       "🌱"
+      ]
+     ]
+    },
+    {
+     "id": "u48l3",
+     "kind": "vocab",
+     "title": "Piyasa",
+     "subtitle": "спрос · предложение · конкуренция …",
+     "intro": "Talep, arz, rekabet, tekel…",
+     "v": [
+      [
+       "спрос",
+       "talep",
+       "spros",
+       "🙋",
+       "m"
+      ],
+      [
+       "предложение",
+       "arz",
+       "pridlajeniye",
+       "📦",
+       "n"
+      ],
+      [
+       "конкуренция",
+       "rekabet",
+       "kankurentsiya",
+       "🏁",
+       "f"
+      ],
+      [
+       "конкурент",
+       "rakip",
+       "kankurent",
+       "🥊",
+       "m"
+      ],
+      [
+       "монополия",
+       "tekel",
+       "manapoliya",
+       "👑",
+       "f"
+      ],
+      [
+       "потребитель",
+       "tüketici",
+       "patrebitel'",
+       "🛒",
+       "m"
+      ],
+      [
+       "рост цен",
+       "fiyat artışı",
+       "rost tsen",
+       "⬆️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u48l4",
+     "kind": "vocab",
+     "title": "Ticaret",
+     "subtitle": "поставщик · доставка · тендер …",
+     "intro": "İhale, teslimat, tedarikçi…",
+     "v": [
+      [
+       "поставщик",
+       "tedarikçi",
+       "pastafşşik",
+       "🚚",
+       "m"
+      ],
+      [
+       "доставка",
+       "teslimat",
+       "dastafka",
+       "📬",
+       "f"
+      ],
+      [
+       "тендер",
+       "ihale",
+       "tender",
+       "📋",
+       "m"
+      ],
+      [
+       "вести переговоры",
+       "müzakere etmek",
+       "visti pirigavorı",
+       "🗣️"
+      ],
+      [
+       "сделка",
+       "anlaşma (ticari)",
+       "zdelka",
+       "🤝",
+       "f"
+      ],
+      [
+       "партнёр",
+       "ortak (iş)",
+       "partnyor",
+       "👬",
+       "m"
+      ],
+      [
+       "бренд",
+       "marka",
+       "brent",
+       "™️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u48l5",
+     "kind": "vocab",
+     "title": "İş fiilleri",
+     "subtitle": "основать · расширяться · получать прибыль …",
+     "intro": "Kurmak, genişlemek, kazanmak…",
+     "v": [
+      [
+       "основать",
+       "kurmak (şirket)",
+       "asnavat'",
+       "🏗️"
+      ],
+      [
+       "расширяться",
+       "genişlemek",
+       "rasşiryat'sa",
+       "↔️"
+      ],
+      [
+       "получать прибыль",
+       "kâr etmek",
+       "paluçat' pribıl'",
+       "💰"
+      ],
+      [
+       "привлекать инвестиции",
+       "yatırım çekmek",
+       "privlikat' investitsii",
+       "🧲"
+      ],
+      [
+       "экспортировать",
+       "ihraç etmek",
+       "ekspartiravat'",
+       "🚢"
+      ],
+      [
+       "торговаться",
+       "pazarlık etmek",
+       "targavat'sa",
+       "🤏"
+      ],
+      [
+       "обанкротиться",
+       "batmak (iflas)",
+       "abankrotitsa",
+       "🕳️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u49",
+   "level": "yuksek",
+   "title": "Bilim ve araştırma",
+   "subtitle": "Deney, keşif, teori, laboratuvar · 5 ders",
+   "lessons": [
+    {
+     "id": "u49l1",
+     "kind": "vocab",
+     "title": "Araştırma",
+     "subtitle": "исследование · эксперимент · гипотеза …",
+     "intro": "Deney, hipotez, sonuç…",
+     "v": [
+      [
+       "исследование",
+       "araştırma",
+       "issledavaniye",
+       "🔬",
+       "n"
+      ],
+      [
+       "эксперимент",
+       "deney",
+       "eksperiment",
+       "🧪",
+       "m"
+      ],
+      [
+       "гипотеза",
+       "hipotez",
+       "gipateza",
+       "💭",
+       "f"
+      ],
+      [
+       "теория",
+       "teori",
+       "teoriya",
+       "📐",
+       "f"
+      ],
+      [
+       "открытие",
+       "keşif",
+       "atkrıtiye",
+       "🔭",
+       "n"
+      ],
+      [
+       "метод",
+       "yöntem",
+       "metat",
+       "🧭",
+       "m"
+      ],
+      [
+       "данные",
+       "veri",
+       "dannıye",
+       "📊"
+      ]
+     ]
+    },
+    {
+     "id": "u49l2",
+     "kind": "vocab",
+     "title": "Bilim insanları",
+     "subtitle": "учёный · исследователь · специалист …",
+     "intro": "Akademisyen, uzman, mucit…",
+     "v": [
+      [
+       "учёный",
+       "bilim insanı",
+       "uçonıy",
+       "👩‍🔬",
+       "m"
+      ],
+      [
+       "исследователь",
+       "araştırmacı",
+       "issledavatel'",
+       "🔎",
+       "m"
+      ],
+      [
+       "специалист",
+       "uzman",
+       "spetsialist",
+       "🎓",
+       "m"
+      ],
+      [
+       "изобретатель",
+       "mucit",
+       "izabretatel'",
+       "💡",
+       "m"
+      ],
+      [
+       "академия",
+       "akademi",
+       "akademiya",
+       "🏛️",
+       "f"
+      ],
+      [
+       "лаборатория",
+       "laboratuvar",
+       "labaratoriya",
+       "🧫",
+       "f"
+      ],
+      [
+       "научный журнал",
+       "dergi (bilimsel)",
+       "nauçnıy jurnal",
+       "📰",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u49l3",
+     "kind": "vocab",
+     "title": "Doğa bilimleri",
+     "subtitle": "клетка организма · ген · молекула …",
+     "intro": "Hücre, gen, molekül…",
+     "v": [
+      [
+       "клетка организма",
+       "hücre",
+       "kletka arganizma",
+       "🦠",
+       "f"
+      ],
+      [
+       "ген",
+       "gen",
+       "gen",
+       "🧬",
+       "m"
+      ],
+      [
+       "молекула",
+       "molekül",
+       "malekula",
+       "⚛️",
+       "f"
+      ],
+      [
+       "эволюция",
+       "evrim",
+       "evalyutsiya",
+       "🐒",
+       "f"
+      ],
+      [
+       "гравитация",
+       "yer çekimi",
+       "gravitatsiya",
+       "🍎",
+       "f"
+      ],
+      [
+       "скорость света",
+       "ışık hızı",
+       "skorast' sveta",
+       "💫",
+       "f"
+      ],
+      [
+       "вещество",
+       "madde (fizik)",
+       "vişşistvo",
+       "🧱",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u49l4",
+     "kind": "vocab",
+     "title": "Teknik kavramlar",
+     "subtitle": "измерение · вычисление · модель …",
+     "intro": "Ölçüm, hesap, model…",
+     "v": [
+      [
+       "измерение",
+       "ölçüm",
+       "izmireniye",
+       "📏",
+       "n"
+      ],
+      [
+       "вычисление",
+       "hesaplama",
+       "vıçisleniye",
+       "🧮",
+       "n"
+      ],
+      [
+       "модель",
+       "model",
+       "madel'",
+       "🧩",
+       "f"
+      ],
+      [
+       "анализ",
+       "analiz",
+       "analis",
+       "📈",
+       "m"
+      ],
+      [
+       "статистика",
+       "istatistik",
+       "statistika",
+       "📊",
+       "f"
+      ],
+      [
+       "формула",
+       "formül",
+       "formula",
+       "➗",
+       "f"
+      ],
+      [
+       "уравнение",
+       "denklem",
+       "uravneniye",
+       "🟰",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u49l5",
+     "kind": "vocab",
+     "title": "Bilim fiilleri",
+     "subtitle": "исследовать · совершать открытие · изобретать …",
+     "intro": "Araştırmak, keşfetmek, kanıtlamak…",
+     "v": [
+      [
+       "исследовать",
+       "araştırmak",
+       "issledavat'",
+       "🔍"
+      ],
+      [
+       "совершать открытие",
+       "keşif yapmak",
+       "saverşat' atkrıtiye",
+       "🗝️"
+      ],
+      [
+       "изобретать",
+       "icat etmek",
+       "izabritat'",
+       "⚙️"
+      ],
+      [
+       "наблюдать",
+       "gözlemlemek",
+       "nabludat'",
+       "👀"
+      ],
+      [
+       "измерять",
+       "ölçmek",
+       "izmiryat'",
+       "📐"
+      ],
+      [
+       "анализировать",
+       "analiz etmek",
+       "analiziravat'",
+       "🧠"
+      ],
+      [
+       "публиковать",
+       "yayımlamak",
+       "publikavat'",
+       "📚"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u50",
+   "level": "yuksek",
+   "title": "Teknoloji ve dijital dünya",
+   "subtitle": "Yapay zekâ, veri, yazılım · 5 ders",
+   "lessons": [
+    {
+     "id": "u50l1",
+     "kind": "vocab",
+     "title": "Yazılım",
+     "subtitle": "программное обеспечение · программа · код …",
+     "intro": "Program, kod, geliştirici…",
+     "v": [
+      [
+       "программное обеспечение",
+       "yazılım",
+       "pragrammnaye abispeçeniye",
+       "💾",
+       "n"
+      ],
+      [
+       "программа",
+       "program",
+       "pragramma",
+       "🖥️",
+       "f"
+      ],
+      [
+       "код",
+       "kod",
+       "kot",
+       "👨‍💻",
+       "m"
+      ],
+      [
+       "разработчик",
+       "geliştirici",
+       "razrabotçik",
+       "🧑‍💻",
+       "m"
+      ],
+      [
+       "ошибка в программе",
+       "hata (yazılım)",
+       "aşıpka f pragramme",
+       "🐞",
+       "f"
+      ],
+      [
+       "версия",
+       "sürüm",
+       "versiya",
+       "🔢",
+       "f"
+      ],
+      [
+       "алгоритм",
+       "algoritma",
+       "algaritm",
+       "🔁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u50l2",
+     "kind": "vocab",
+     "title": "Yapay zekâ ve veri",
+     "subtitle": "искусственный интеллект · робот · сервер …",
+     "intro": "Yapay zekâ, sunucu, bulut…",
+     "v": [
+      [
+       "искусственный интеллект",
+       "yapay zekâ",
+       "iskusstvinnıy intellekt",
+       "🤖",
+       "m"
+      ],
+      [
+       "робот",
+       "robot",
+       "robat",
+       "🦾",
+       "m"
+      ],
+      [
+       "сервер",
+       "sunucu",
+       "server",
+       "🗄️",
+       "m"
+      ],
+      [
+       "облачное хранилище",
+       "bulut (bilişim)",
+       "oblaçnaye hranilişşe",
+       "☁️",
+       "n"
+      ],
+      [
+       "база данных",
+       "veritabanı",
+       "baza dannıh",
+       "🗃️",
+       "f"
+      ],
+      [
+       "сеть",
+       "ağ",
+       "set'",
+       "🕸️",
+       "f"
+      ],
+      [
+       "цифровой",
+       "dijital",
+       "tsifravoy",
+       "📱"
+      ]
+     ]
+    },
+    {
+     "id": "u50l3",
+     "kind": "vocab",
+     "title": "Güvenlik",
+     "subtitle": "шифрование · кибератака · хакер …",
+     "intro": "Şifreleme, saldırı, hacker…",
+     "v": [
+      [
+       "шифрование",
+       "şifreleme",
+       "şifravaniye",
+       "🔐",
+       "n"
+      ],
+      [
+       "кибератака",
+       "siber saldırı",
+       "kiberataka",
+       "💥",
+       "f"
+      ],
+      [
+       "хакер",
+       "hacker",
+       "haker",
+       "🕶️",
+       "m"
+      ],
+      [
+       "персональные данные",
+       "kişisel veriler",
+       "persanal'nıye dannıye",
+       "🧾"
+      ],
+      [
+       "файрвол",
+       "güvenlik duvarı",
+       "fayrvol",
+       "🧱",
+       "m"
+      ],
+      [
+       "резервная копия",
+       "yedek kopya",
+       "rezervnaya kopiya",
+       "📀",
+       "f"
+      ],
+      [
+       "авторизация",
+       "kimlik doğrulama",
+       "aftarizatsiya",
+       "🆔",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u50l4",
+     "kind": "vocab",
+     "title": "Cihazlar",
+     "subtitle": "процессор · память устройства · датчик …",
+     "intro": "İşlemci, bellek, sensör…",
+     "v": [
+      [
+       "процессор",
+       "işlemci",
+       "pratsessar",
+       "🔲",
+       "m"
+      ],
+      [
+       "память устройства",
+       "bellek",
+       "pamyat' ustroystva",
+       "🧠",
+       "f"
+      ],
+      [
+       "датчик",
+       "sensör",
+       "datçik",
+       "📡",
+       "m"
+      ],
+      [
+       "умные часы",
+       "akıllı saat",
+       "umnıye çisı",
+       "⌚"
+      ],
+      [
+       "кабель",
+       "kablo",
+       "kabel'",
+       "🔌",
+       "m"
+      ],
+      [
+       "заряд батареи",
+       "pil ömrü",
+       "zaryat batarei",
+       "🔋",
+       "m"
+      ],
+      [
+       "разрешение экрана",
+       "ekran çözünürlüğü",
+       "razrişeniye ekrana",
+       "🖼️",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u50l5",
+     "kind": "vocab",
+     "title": "Dijital fiiller",
+     "subtitle": "программировать · обновлять · устанавливать …",
+     "intro": "Programlamak, güncellemek, kurmak…",
+     "v": [
+      [
+       "программировать",
+       "programlamak",
+       "pragrammiravat'",
+       "⌨️"
+      ],
+      [
+       "обновлять",
+       "güncellemek",
+       "abnavlyat'",
+       "🔄"
+      ],
+      [
+       "устанавливать",
+       "kurmak (program)",
+       "ustanavlivat'",
+       "📥"
+      ],
+      [
+       "делать резервную копию",
+       "yedeklemek",
+       "delat' rezervnuyu kopiyu",
+       "💽"
+      ],
+      [
+       "шифровать",
+       "şifrelemek",
+       "şifravat'",
+       "🔏"
+      ],
+      [
+       "автоматизировать",
+       "otomatikleştirmek",
+       "aftamatiziravat'",
+       "🤖"
+      ],
+      [
+       "взламывать",
+       "hacklemek",
+       "vzlamıvat'",
+       "🧨"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u51",
+   "level": "yuksek",
+   "title": "Sağlık ve tıp",
+   "subtitle": "Teşhis, tedavi, uzman doktor · 5 ders",
+   "lessons": [
+    {
+     "id": "u51l1",
+     "kind": "vocab",
+     "title": "Teşhis",
+     "subtitle": "симптом · диагноз · осмотр …",
+     "intro": "Belirti, muayene, tahlil…",
+     "v": [
+      [
+       "симптом",
+       "belirti",
+       "simptom",
+       "🤒",
+       "m"
+      ],
+      [
+       "диагноз",
+       "teşhis",
+       "diagnas",
+       "🩺",
+       "m"
+      ],
+      [
+       "осмотр",
+       "muayene",
+       "asmotr",
+       "🔍",
+       "m"
+      ],
+      [
+       "анализ крови",
+       "tahlil",
+       "analis krovi",
+       "🧪",
+       "m"
+      ],
+      [
+       "рентген",
+       "röntgen",
+       "rentgen",
+       "🩻",
+       "m"
+      ],
+      [
+       "давление",
+       "tansiyon",
+       "davleniye",
+       "💓",
+       "n"
+      ],
+      [
+       "хронический",
+       "kronik",
+       "hraniçeskiy",
+       "♾️"
+      ]
+     ]
+    },
+    {
+     "id": "u51l2",
+     "kind": "vocab",
+     "title": "Tedavi",
+     "subtitle": "лечение · терапия · выздоровление …",
+     "intro": "Tedavi, terapi, rehabilitasyon…",
+     "v": [
+      [
+       "лечение",
+       "tedavi",
+       "liçeniye",
+       "💊",
+       "n"
+      ],
+      [
+       "терапия",
+       "terapi",
+       "terapiya",
+       "🛋️",
+       "f"
+      ],
+      [
+       "выздоровление",
+       "iyileşme",
+       "vızdaravleniye",
+       "🌤️",
+       "n"
+      ],
+      [
+       "иммунитет",
+       "bağışıklık",
+       "immunitet",
+       "🛡️",
+       "m"
+      ],
+      [
+       "побочный эффект",
+       "yan etki",
+       "paboçnıy effekt",
+       "⚠️",
+       "m"
+      ],
+      [
+       "доза",
+       "doz",
+       "doza",
+       "💉",
+       "f"
+      ],
+      [
+       "профилактика",
+       "önleme",
+       "prafilaktika",
+       "🚧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u51l3",
+     "kind": "vocab",
+     "title": "Uzmanlar",
+     "subtitle": "хирург · медсестра · кардиолог …",
+     "intro": "Cerrah, kardiyolog, hemşire…",
+     "v": [
+      [
+       "хирург",
+       "cerrah",
+       "hirurk",
+       "🔪",
+       "m"
+      ],
+      [
+       "медсестра",
+       "hemşire",
+       "metsistra",
+       "👩‍⚕️",
+       "f"
+      ],
+      [
+       "кардиолог",
+       "kardiyolog",
+       "kardiolak",
+       "❤️",
+       "m"
+      ],
+      [
+       "педиатр",
+       "çocuk doktoru",
+       "pediatr",
+       "🧸",
+       "m"
+      ],
+      [
+       "психолог",
+       "psikolog",
+       "psiholak",
+       "🧠",
+       "m"
+      ],
+      [
+       "окулист",
+       "göz doktoru",
+       "akulist",
+       "👓",
+       "m"
+      ],
+      [
+       "клиника",
+       "klinik",
+       "klinika",
+       "🏥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u51l4",
+     "kind": "vocab",
+     "title": "Hastalıklar",
+     "subtitle": "инфекция · воспаление · диабет …",
+     "intro": "Enfeksiyon, iltihap, diyabet…",
+     "v": [
+      [
+       "инфекция",
+       "enfeksiyon",
+       "infektsiya",
+       "🦠",
+       "f"
+      ],
+      [
+       "воспаление",
+       "iltihap",
+       "vaspaleniye",
+       "🔥",
+       "n"
+      ],
+      [
+       "диабет",
+       "diyabet",
+       "diabet",
+       "🍬",
+       "m"
+      ],
+      [
+       "рак",
+       "kanser",
+       "rak",
+       "🎗️",
+       "m"
+      ],
+      [
+       "инфаркт",
+       "kalp krizi",
+       "infarkt",
+       "💔",
+       "m"
+      ],
+      [
+       "эпидемия",
+       "salgın",
+       "epidemiya",
+       "🌍",
+       "f"
+      ],
+      [
+       "депрессия",
+       "depresyon",
+       "deprissiya",
+       "🌧️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u51l5",
+     "kind": "vocab",
+     "title": "Sağlık fiilleri",
+     "subtitle": "лечить · обследовать · ставить диагноз …",
+     "intro": "Tedavi etmek, muayene etmek, iyileşmek…",
+     "v": [
+      [
+       "лечить",
+       "tedavi etmek",
+       "liçit'",
+       "🩹"
+      ],
+      [
+       "обследовать",
+       "muayene etmek",
+       "abslyedavat'",
+       "🩺"
+      ],
+      [
+       "ставить диагноз",
+       "teşhis koymak",
+       "stavit' diagnas",
+       "📋"
+      ],
+      [
+       "выписывать лекарство",
+       "ilaç yazmak",
+       "vıpisıvat' likarstva",
+       "📝"
+      ],
+      [
+       "заболеть",
+       "hastalanmak",
+       "zabalet'",
+       "🤧"
+      ],
+      [
+       "заразиться",
+       "bulaşmak",
+       "zarazitsa",
+       "😷"
+      ],
+      [
+       "поправляться",
+       "toparlanmak",
+       "papraflyat'sa",
+       "💪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u52",
+   "level": "yuksek",
+   "title": "Psikoloji ve karakter",
+   "subtitle": "Kişilik, davranış, motivasyon · 5 ders",
+   "lessons": [
+    {
+     "id": "u52l1",
+     "kind": "vocab",
+     "title": "Kişilik",
+     "subtitle": "характер · личность · уверенность в себе …",
+     "intro": "Karakter, mizaç, öz güven…",
+     "v": [
+      [
+       "характер",
+       "karakter",
+       "harakter",
+       "🎭",
+       "m"
+      ],
+      [
+       "личность",
+       "kişilik",
+       "liçnast'",
+       "🪞",
+       "f"
+      ],
+      [
+       "уверенность в себе",
+       "öz güven",
+       "uverennast' f sibe",
+       "💪",
+       "f"
+      ],
+      [
+       "темперамент",
+       "mizaç",
+       "tempirament",
+       "🌗",
+       "m"
+      ],
+      [
+       "поведение",
+       "davranış",
+       "pavideniye",
+       "🚶",
+       "n"
+      ],
+      [
+       "вредная привычка",
+       "alışkanlık (kötü)",
+       "vrednaya privıçka",
+       "🚬",
+       "f"
+      ],
+      [
+       "высокомерие",
+       "kibir",
+       "vısakameriye",
+       "🦚",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u52l2",
+     "kind": "vocab",
+     "title": "Olumlu özellikler",
+     "subtitle": "скромный · откровенный · аккуратный …",
+     "intro": "Cömert, açık sözlü, alçakgönüllü…",
+     "v": [
+      [
+       "скромный",
+       "alçakgönüllü",
+       "skromnıy",
+       "🙇"
+      ],
+      [
+       "откровенный",
+       "açık sözlü",
+       "atkravennıy",
+       "🗨️"
+      ],
+      [
+       "аккуратный",
+       "dikkatli, özenli",
+       "akkuratnıy",
+       "🧐"
+      ],
+      [
+       "оптимистичный",
+       "iyimser",
+       "aptimistiçnıy",
+       "🌞"
+      ],
+      [
+       "верный",
+       "sadık",
+       "vernıy",
+       "🐕"
+      ],
+      [
+       "отзывчивый",
+       "duyarlı",
+       "atzıvçivıy",
+       "💞"
+      ],
+      [
+       "настойчивый",
+       "azimli",
+       "nastoyçivıy",
+       "🏔️"
+      ]
+     ]
+    },
+    {
+     "id": "u52l3",
+     "kind": "vocab",
+     "title": "Olumsuz özellikler",
+     "subtitle": "пессимистичный · упрямый · капризный …",
+     "intro": "Kötümser, kaprisli, inatçı…",
+     "v": [
+      [
+       "пессимистичный",
+       "kötümser",
+       "pessimistiçnıy",
+       "🌧️"
+      ],
+      [
+       "упрямый",
+       "inatçı",
+       "upryamıy",
+       "🐐"
+      ],
+      [
+       "капризный",
+       "kaprisli",
+       "kapriznıy",
+       "😤"
+      ],
+      [
+       "застенчивый",
+       "çekingen",
+       "zastençivıy",
+       "🫣"
+      ],
+      [
+       "рассеянный",
+       "dalgın",
+       "rasseyannıy",
+       "🌀"
+      ],
+      [
+       "хитрый",
+       "kurnaz",
+       "hitrıy",
+       "🦊"
+      ],
+      [
+       "раздражительный",
+       "sinirli (kolay kızan)",
+       "razdrajıtil'nıy",
+       "🌋"
+      ]
+     ]
+    },
+    {
+     "id": "u52l4",
+     "kind": "vocab",
+     "title": "Zihin",
+     "subtitle": "сознание · подсознание · интуиция …",
+     "intro": "Bilinç, hafıza, sezgi…",
+     "v": [
+      [
+       "сознание",
+       "bilinç",
+       "saznaniye",
+       "💡",
+       "n"
+      ],
+      [
+       "подсознание",
+       "bilinçaltı",
+       "patsaznaniye",
+       "🌊",
+       "n"
+      ],
+      [
+       "интуиция",
+       "sezgi",
+       "intuitsiya",
+       "🔮",
+       "f"
+      ],
+      [
+       "воображение",
+       "hayal gücü",
+       "vabrajeniye",
+       "🌈",
+       "n"
+      ],
+      [
+       "внимание",
+       "dikkat",
+       "vnimaniye",
+       "🎯",
+       "n"
+      ],
+      [
+       "мотивация",
+       "motivasyon",
+       "mativatsiya",
+       "🔥",
+       "f"
+      ],
+      [
+       "стресс",
+       "stres",
+       "stress",
+       "😫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u52l5",
+     "kind": "vocab",
+     "title": "Psikolojik fiiller",
+     "subtitle": "сожалеть · ревновать · стесняться …",
+     "intro": "Endişe etmek, kıskanmak, pişman olmak…",
+     "v": [
+      [
+       "сожалеть",
+       "pişman olmak",
+       "sajalet'",
+       "😔"
+      ],
+      [
+       "ревновать",
+       "kıskanmak",
+       "rivnavat'",
+       "😒"
+      ],
+      [
+       "стесняться",
+       "utanmak",
+       "stisnyat'sa",
+       "😳"
+      ],
+      [
+       "гордиться",
+       "gurur duymak",
+       "gardit'sa",
+       "😌"
+      ],
+      [
+       "подозревать",
+       "şüphelenmek",
+       "padazrevat'",
+       "🤨"
+      ],
+      [
+       "разочароваться",
+       "hayal kırıklığına uğramak",
+       "razaçaravat'sa",
+       "😞"
+      ],
+      [
+       "привыкать",
+       "alışmak",
+       "privıkat'",
+       "🔁"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u53",
+   "level": "yuksek",
+   "title": "Medya ve iletişim",
+   "subtitle": "Yayın, manşet, söyleşi, yorum · 5 ders",
+   "lessons": [
+    {
+     "id": "u53l1",
+     "kind": "vocab",
+     "title": "Basın",
+     "subtitle": "заголовок · корреспондент · редактор …",
+     "intro": "Manşet, muhabir, editör…",
+     "v": [
+      [
+       "заголовок",
+       "manşet",
+       "zagalovak",
+       "🗞️",
+       "m"
+      ],
+      [
+       "корреспондент",
+       "muhabir",
+       "karrespandent",
+       "🎤",
+       "m"
+      ],
+      [
+       "редактор",
+       "editör",
+       "redaktar",
+       "✏️",
+       "m"
+      ],
+      [
+       "издательство",
+       "yayınevi",
+       "izdatil'stva",
+       "🏢",
+       "n"
+      ],
+      [
+       "тираж",
+       "baskı (gazete)",
+       "tiraş",
+       "🖨️",
+       "m"
+      ],
+      [
+       "цензура",
+       "sansür",
+       "tsenzura",
+       "🚫",
+       "f"
+      ],
+      [
+       "пресс-конференция",
+       "basın toplantısı",
+       "press-kanferentsiya",
+       "📸",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u53l2",
+     "kind": "vocab",
+     "title": "Televizyon ve internet",
+     "subtitle": "канал · сериал · прямой эфир …",
+     "intro": "Kanal, dizi, yayın…",
+     "v": [
+      [
+       "канал",
+       "kanal",
+       "kanal",
+       "📺",
+       "m"
+      ],
+      [
+       "сериал",
+       "dizi",
+       "serial",
+       "🎬",
+       "m"
+      ],
+      [
+       "прямой эфир",
+       "canlı yayın",
+       "pryamoy efir",
+       "🔴",
+       "m"
+      ],
+      [
+       "зритель",
+       "izleyici",
+       "zritel'",
+       "🍿",
+       "m"
+      ],
+      [
+       "слушатель",
+       "dinleyici",
+       "sluşatil'",
+       "🎧",
+       "m"
+      ],
+      [
+       "подкаст",
+       "podcast",
+       "potkast",
+       "🎙️",
+       "m"
+      ],
+      [
+       "блогер",
+       "blog yazarı",
+       "blager",
+       "✍️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u53l3",
+     "kind": "vocab",
+     "title": "Bilgi",
+     "subtitle": "источник · фейк · слух …",
+     "intro": "Kaynak, sahte haber, söylenti…",
+     "v": [
+      [
+       "источник",
+       "kaynak (bilgi)",
+       "istoçnik",
+       "📚",
+       "m"
+      ],
+      [
+       "фейк",
+       "sahte haber",
+       "feyk",
+       "🤥",
+       "m"
+      ],
+      [
+       "слух",
+       "söylenti",
+       "sluh",
+       "👂",
+       "m"
+      ],
+      [
+       "факт",
+       "gerçek (olgu)",
+       "fakt",
+       "📌",
+       "m"
+      ],
+      [
+       "мнение",
+       "görüş",
+       "mneniye",
+       "💭",
+       "n"
+      ],
+      [
+       "комментарий эксперта",
+       "yorum (analiz)",
+       "kammentariy eksperta",
+       "🗒️",
+       "m"
+      ],
+      [
+       "общественное мнение",
+       "kamuoyu",
+       "abşşestvinnaye mneniye",
+       "👥",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u53l4",
+     "kind": "vocab",
+     "title": "İletişim",
+     "subtitle": "переписка · убеждение · разногласие …",
+     "intro": "Mektuplaşma, tartışma, ikna…",
+     "v": [
+      [
+       "переписка",
+       "yazışma",
+       "piripiska",
+       "📨",
+       "f"
+      ],
+      [
+       "убеждение",
+       "ikna",
+       "ubijdeniye",
+       "🫱",
+       "n"
+      ],
+      [
+       "разногласие",
+       "anlaşmazlık",
+       "raznaglasiye",
+       "💢",
+       "n"
+      ],
+      [
+       "компромисс",
+       "uzlaşma",
+       "kampramis",
+       "🤝",
+       "m"
+      ],
+      [
+       "намёк",
+       "ipucu, ima",
+       "namyok",
+       "😉",
+       "m"
+      ],
+      [
+       "диалог",
+       "diyalog",
+       "dialok",
+       "💬",
+       "m"
+      ],
+      [
+       "речь",
+       "konuşma (nutuk)",
+       "reç",
+       "🎙️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u53l5",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "сообщать · заявлять · убеждать …",
+     "intro": "Bildirmek, açıklamak, ikna etmek…",
+     "v": [
+      [
+       "сообщать",
+       "bildirmek",
+       "saabşşat'",
+       "📣"
+      ],
+      [
+       "заявлять",
+       "açıklamak (resmen)",
+       "zayavlyat'",
+       "📢"
+      ],
+      [
+       "убеждать",
+       "ikna etmek",
+       "ubijdat'",
+       "🫴"
+      ],
+      [
+       "возражать",
+       "itiraz etmek",
+       "vazrajat'",
+       "🙅"
+      ],
+      [
+       "опровергать",
+       "yalanlamak",
+       "aprevergat'",
+       "❌"
+      ],
+      [
+       "преувеличивать",
+       "abartmak",
+       "priuveliçivat'",
+       "🎈"
+      ],
+      [
+       "подчёркивать",
+       "vurgulamak",
+       "patçorkivat'",
+       "🖍️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u54",
+   "level": "yuksek",
+   "title": "Sanat ve kültür",
+   "subtitle": "Eser, sahne, sergi, yönetmen · 5 ders",
+   "lessons": [
+    {
+     "id": "u54l1",
+     "kind": "vocab",
+     "title": "Sahne sanatları",
+     "subtitle": "сцена · актёр · режиссёр …",
+     "intro": "Sahne, oyuncu, yönetmen…",
+     "v": [
+      [
+       "сцена",
+       "sahne",
+       "stsena",
+       "🎭",
+       "f"
+      ],
+      [
+       "актёр",
+       "oyuncu (aktör)",
+       "aktyor",
+       "🎬",
+       "m"
+      ],
+      [
+       "режиссёр",
+       "yönetmen",
+       "rejissyor",
+       "🎥",
+       "m"
+      ],
+      [
+       "спектакль",
+       "gösteri, oyun",
+       "spektakl'",
+       "🎟️",
+       "m"
+      ],
+      [
+       "балет",
+       "bale",
+       "balet",
+       "🩰",
+       "m"
+      ],
+      [
+       "опера",
+       "opera",
+       "opera",
+       "🎼",
+       "f"
+      ],
+      [
+       "аплодисменты",
+       "alkış",
+       "aplatismentı",
+       "👏"
+      ]
+     ]
+    },
+    {
+     "id": "u54l2",
+     "kind": "vocab",
+     "title": "Görsel sanatlar",
+     "subtitle": "живописец · холст · кисть …",
+     "intro": "Tablo, ressam, fırça…",
+     "v": [
+      [
+       "живописец",
+       "ressam",
+       "jivapisets",
+       "🎨",
+       "m"
+      ],
+      [
+       "холст",
+       "tuval",
+       "holst",
+       "🖼️",
+       "m"
+      ],
+      [
+       "кисть",
+       "fırça",
+       "kist'",
+       "🖌️",
+       "f"
+      ],
+      [
+       "портрет",
+       "portre",
+       "partret",
+       "👤",
+       "m"
+      ],
+      [
+       "пейзаж",
+       "manzara (resim)",
+       "peyzaş",
+       "🏞️",
+       "m"
+      ],
+      [
+       "шедевр",
+       "şaheser",
+       "şedevr",
+       "🏆",
+       "m"
+      ],
+      [
+       "галерея",
+       "galeri",
+       "galereya",
+       "🏛️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u54l3",
+     "kind": "vocab",
+     "title": "Edebiyat",
+     "subtitle": "произведение · герой · сюжет …",
+     "intro": "Yazar, kahraman, olay örgüsü…",
+     "v": [
+      [
+       "произведение",
+       "eser",
+       "praizvedeniye",
+       "📖",
+       "n"
+      ],
+      [
+       "герой",
+       "kahraman (roman)",
+       "giroy",
+       "🦸",
+       "m"
+      ],
+      [
+       "сюжет",
+       "olay örgüsü",
+       "syujet",
+       "🧵",
+       "m"
+      ],
+      [
+       "поэт",
+       "şair",
+       "paet",
+       "🪶",
+       "m"
+      ],
+      [
+       "рассказ",
+       "öykü",
+       "rasskas",
+       "📝",
+       "m"
+      ],
+      [
+       "читатель",
+       "okur",
+       "çitatil'",
+       "👓",
+       "m"
+      ],
+      [
+       "перевод книги",
+       "çeviri",
+       "pirivot knigi",
+       "🔁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u54l4",
+     "kind": "vocab",
+     "title": "Kültürel miras",
+     "subtitle": "наследие · фольклор · ремесло …",
+     "intro": "Gelenek, folklor, anıt…",
+     "v": [
+      [
+       "наследие",
+       "miras",
+       "nasledie",
+       "🏺",
+       "n"
+      ],
+      [
+       "фольклор",
+       "folklor",
+       "fal'klor",
+       "🪕",
+       "m"
+      ],
+      [
+       "ремесло",
+       "el sanatları",
+       "rimislo",
+       "🧶",
+       "n"
+      ],
+      [
+       "фестиваль",
+       "festival",
+       "festival'",
+       "🎉",
+       "m"
+      ],
+      [
+       "коллекция",
+       "koleksiyon",
+       "kalektsiya",
+       "🗂️",
+       "f"
+      ],
+      [
+       "стиль",
+       "tarz, üslup",
+       "stil'",
+       "✨",
+       "m"
+      ],
+      [
+       "творчество",
+       "yaratıcılık",
+       "tvorçistva",
+       "🌟",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u54l5",
+     "kind": "vocab",
+     "title": "Sanat fiilleri",
+     "subtitle": "создавать · ставить спектакль · выставлять …",
+     "intro": "Sahnelemek, yaratmak, sergilemek…",
+     "v": [
+      [
+       "создавать",
+       "yaratmak",
+       "sazdavat'",
+       "🛠️"
+      ],
+      [
+       "ставить спектакль",
+       "sahnelemek",
+       "stavit' spektakl'",
+       "🎭"
+      ],
+      [
+       "выставлять",
+       "sergilemek",
+       "vıstavlyat'",
+       "🖼️"
+      ],
+      [
+       "вдохновлять",
+       "ilham vermek",
+       "vdahnavlyat'",
+       "💫"
+      ],
+      [
+       "писать рецензию",
+       "eleştiri yazmak",
+       "pisat' ritsenziyu",
+       "🖋️"
+      ],
+      [
+       "играть роль",
+       "rol oynamak",
+       "igrat' rol'",
+       "🎬"
+      ],
+      [
+       "сочинять музыку",
+       "beste yapmak",
+       "saçinyat' muzıku",
+       "🎹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u55",
+   "level": "yuksek",
+   "title": "Eğitim ve kariyer",
+   "subtitle": "Yüksek lisans, staj, terfi · 5 ders",
+   "lessons": [
+    {
+     "id": "u55l1",
+     "kind": "vocab",
+     "title": "Yükseköğretim",
+     "subtitle": "бакалавриат · магистратура · аспирантура …",
+     "intro": "Lisans, yüksek lisans, tez…",
+     "v": [
+      [
+       "бакалавриат",
+       "lisans (derece)",
+       "bakalavriat",
+       "🎓",
+       "m"
+      ],
+      [
+       "магистратура",
+       "yüksek lisans",
+       "magistratura",
+       "📘",
+       "f"
+      ],
+      [
+       "аспирантура",
+       "doktora",
+       "aspirantura",
+       "🎓",
+       "f"
+      ],
+      [
+       "диссертация",
+       "tez",
+       "dissertatsiya",
+       "📚",
+       "f"
+      ],
+      [
+       "научный руководитель",
+       "akademik danışman",
+       "nauçnıy rukavaditil'",
+       "🧑‍🏫",
+       "m"
+      ],
+      [
+       "поступление",
+       "kabul (üniversite)",
+       "pastupleniye",
+       "📩",
+       "n"
+      ],
+      [
+       "выпускник",
+       "mezun",
+       "vıpusknik",
+       "🎉",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u55l2",
+     "kind": "vocab",
+     "title": "Kariyer",
+     "subtitle": "стажировка · повышение · резюме …",
+     "intro": "Staj, terfi, deneyim…",
+     "v": [
+      [
+       "стажировка",
+       "staj",
+       "stajıroka",
+       "🧑‍🎓",
+       "f"
+      ],
+      [
+       "повышение",
+       "terfi",
+       "pavışeniye",
+       "📈",
+       "n"
+      ],
+      [
+       "резюме",
+       "özgeçmiş",
+       "rezyume",
+       "📄",
+       "n"
+      ],
+      [
+       "навык",
+       "nitelik, beceri",
+       "navık",
+       "🛠️",
+       "m"
+      ],
+      [
+       "должность",
+       "pozisyon",
+       "doljnast'",
+       "🪑",
+       "f"
+      ],
+      [
+       "стаж работы",
+       "iş deneyimi",
+       "staş rabotı",
+       "⏳",
+       "m"
+      ],
+      [
+       "карьера",
+       "kariyer",
+       "kar'yera",
+       "🪜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u55l3",
+     "kind": "vocab",
+     "title": "İş ortamı",
+     "subtitle": "рабочий день · сверхурочная работа · ежегодный отпуск …",
+     "intro": "Mesai, izin, ekip…",
+     "v": [
+      [
+       "рабочий день",
+       "mesai, iş saatleri",
+       "raboçiy den'",
+       "🕘",
+       "m"
+      ],
+      [
+       "сверхурочная работа",
+       "fazla mesai",
+       "sverhuroçnaya rabota",
+       "🌙",
+       "f"
+      ],
+      [
+       "ежегодный отпуск",
+       "yıllık izin",
+       "yejegodnıy otpusk",
+       "🏖️",
+       "m"
+      ],
+      [
+       "коллектив",
+       "ekip",
+       "kalektif",
+       "👥",
+       "m"
+      ],
+      [
+       "нагрузка",
+       "iş yükü",
+       "nagruska",
+       "🏋️",
+       "f"
+      ],
+      [
+       "удалённая работа",
+       "uzaktan çalışma",
+       "udalyonnaya rabota",
+       "🏠",
+       "f"
+      ],
+      [
+       "дедлайн",
+       "son tarih",
+       "dedlayn",
+       "⏰",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u55l4",
+     "kind": "vocab",
+     "title": "Beceriler",
+     "subtitle": "лидерство · эффективность · гибкость …",
+     "intro": "Liderlik, iletişim, yaratıcılık…",
+     "v": [
+      [
+       "лидерство",
+       "liderlik",
+       "liderstva",
+       "🧭",
+       "n"
+      ],
+      [
+       "эффективность",
+       "verimlilik",
+       "effektivnast'",
+       "⚡",
+       "f"
+      ],
+      [
+       "гибкость",
+       "esneklik",
+       "gipkast'",
+       "🤸",
+       "f"
+      ],
+      [
+       "компетенция",
+       "yetkinlik",
+       "kampitentsiya",
+       "🏅",
+       "f"
+      ],
+      [
+       "инициатива",
+       "girişkenlik",
+       "initsiativa",
+       "🚀",
+       "f"
+      ],
+      [
+       "тайм-менеджмент",
+       "zaman yönetimi",
+       "taym-menedjment",
+       "⏱️",
+       "m"
+      ],
+      [
+       "командная работа",
+       "ekip çalışması",
+       "kamandnaya rabota",
+       "🤝",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u55l5",
+     "kind": "vocab",
+     "title": "Kariyer fiilleri",
+     "subtitle": "получить повышение · уволиться · проходить стажировку …",
+     "intro": "Başvurmak, terfi etmek, ayrılmak…",
+     "v": [
+      [
+       "получить повышение",
+       "terfi etmek",
+       "paluçit' pavışeniye",
+       "⬆️"
+      ],
+      [
+       "уволиться",
+       "istifa etmek (işten)",
+       "uvalit'sa",
+       "📤"
+      ],
+      [
+       "проходить стажировку",
+       "staj yapmak",
+       "prahadit' stajırovku",
+       "🗂️"
+      ],
+      [
+       "развиваться",
+       "kendini geliştirmek",
+       "razvivat'sa",
+       "🌱"
+      ],
+      [
+       "специализироваться",
+       "uzmanlaşmak",
+       "spetsializiravat'sa",
+       "🎯"
+      ],
+      [
+       "поручать",
+       "görevlendirmek",
+       "paruçat'",
+       "📌"
+      ],
+      [
+       "контролировать",
+       "denetlemek",
+       "kantraliravat'",
+       "🔎"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u56",
+   "level": "yuksek",
+   "title": "Çevre ve enerji",
+   "subtitle": "Emisyon, iklim değişikliği, yenilenebilir · 5 ders",
+   "lessons": [
+    {
+     "id": "u56l1",
+     "kind": "vocab",
+     "title": "İklim",
+     "subtitle": "глобальное потепление · изменение климата · выбросы …",
+     "intro": "Küresel ısınma, emisyon, sera gazı…",
+     "v": [
+      [
+       "глобальное потепление",
+       "küresel ısınma",
+       "glabal'naye patepleniye",
+       "🌡️",
+       "n"
+      ],
+      [
+       "изменение климата",
+       "iklim değişikliği",
+       "izmineniye klimata",
+       "🌍",
+       "n"
+      ],
+      [
+       "выбросы",
+       "emisyon",
+       "vıbrası",
+       "🏭"
+      ],
+      [
+       "парниковый эффект",
+       "sera etkisi",
+       "parnikavıy effekt",
+       "🏡",
+       "m"
+      ],
+      [
+       "углекислый газ",
+       "karbondioksit",
+       "uglekislıy gas",
+       "💨",
+       "m"
+      ],
+      [
+       "озоновый слой",
+       "ozon tabakası",
+       "azonavıy sloy",
+       "🛡️",
+       "m"
+      ],
+      [
+       "таяние ледников",
+       "buzulların erimesi",
+       "tayaniye lidnikof",
+       "🧊",
+       "n"
+      ]
+     ]
+    },
+    {
+     "id": "u56l2",
+     "kind": "vocab",
+     "title": "Enerji",
+     "subtitle": "возобновляемая энергия · ветряк · солнечная панель …",
+     "intro": "Yenilenebilir enerji, rüzgâr türbini…",
+     "v": [
+      [
+       "возобновляемая энергия",
+       "yenilenebilir enerji",
+       "vazabnavlyayemaya energiya",
+       "♻️",
+       "f"
+      ],
+      [
+       "ветряк",
+       "rüzgâr türbini",
+       "vitryak",
+       "🌬️",
+       "m"
+      ],
+      [
+       "солнечная панель",
+       "güneş paneli",
+       "solnıçnaya panel'",
+       "☀️",
+       "f"
+      ],
+      [
+       "атомная станция",
+       "nükleer santral",
+       "atamnaya stantsiya",
+       "⚛️",
+       "f"
+      ],
+      [
+       "нефть",
+       "petrol",
+       "neft'",
+       "🛢️",
+       "f"
+      ],
+      [
+       "природный газ",
+       "doğal gaz",
+       "prirodnıy gas",
+       "🔥",
+       "m"
+      ],
+      [
+       "уголь",
+       "kömür",
+       "ugal'",
+       "⚫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u56l3",
+     "kind": "vocab",
+     "title": "Doğa koruma",
+     "subtitle": "природные ресурсы · заповедник · исчезающий …",
+     "intro": "Doğal kaynak, nesli tükenmekte olan…",
+     "v": [
+      [
+       "природные ресурсы",
+       "doğal kaynaklar",
+       "prirodnıye resursı",
+       "🌲"
+      ],
+      [
+       "заповедник",
+       "milli park",
+       "zapavednik",
+       "🏞️",
+       "m"
+      ],
+      [
+       "исчезающий",
+       "nesli tükenmekte olan",
+       "isçezayuşşiy",
+       "🐼"
+      ],
+      [
+       "вырубка лесов",
+       "ormansızlaşma",
+       "vırupka lisof",
+       "🪓",
+       "f"
+      ],
+      [
+       "биоразнообразие",
+       "biyoçeşitlilik",
+       "bioraznaabraziye",
+       "🦋",
+       "n"
+      ],
+      [
+       "экосистема",
+       "ekosistem",
+       "ekasistema",
+       "🌿",
+       "f"
+      ],
+      [
+       "волонтёр",
+       "gönüllü",
+       "valantyor",
+       "🙋",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u56l4",
+     "kind": "vocab",
+     "title": "Atık",
+     "subtitle": "отходы · пластик · сортировка мусора …",
+     "intro": "Plastik, çöp ayrıştırma, kompost…",
+     "v": [
+      [
+       "отходы",
+       "atık",
+       "athodı",
+       "🗑️"
+      ],
+      [
+       "пластик",
+       "plastik",
+       "plastik",
+       "🧴",
+       "m"
+      ],
+      [
+       "сортировка мусора",
+       "çöp ayrıştırma",
+       "sartirofka musara",
+       "🚮",
+       "f"
+      ],
+      [
+       "упаковка",
+       "ambalaj",
+       "upakofka",
+       "📦",
+       "f"
+      ],
+      [
+       "свалка",
+       "çöplük",
+       "svalka",
+       "🏔️",
+       "f"
+      ],
+      [
+       "канализация",
+       "kanalizasyon",
+       "kanalizatsiya",
+       "🚰",
+       "f"
+      ],
+      [
+       "очистка воды",
+       "arıtma",
+       "açistka vadı",
+       "💧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u56l5",
+     "kind": "vocab",
+     "title": "Çevre fiilleri",
+     "subtitle": "экономить · загрязнять · перерабатывать …",
+     "intro": "Tasarruf etmek, kirletmek, korumak…",
+     "v": [
+      [
+       "экономить",
+       "tasarruf etmek",
+       "ekanomit'",
+       "💡"
+      ],
+      [
+       "загрязнять",
+       "kirletmek",
+       "zagriznyat'",
+       "🏭"
+      ],
+      [
+       "перерабатывать",
+       "geri dönüştürmek",
+       "piririabatıvat'",
+       "♻️"
+      ],
+      [
+       "уничтожать",
+       "yok etmek",
+       "uniçtajat'",
+       "💥"
+      ],
+      [
+       "сокращать",
+       "azaltmak",
+       "sakraşşat'",
+       "📉"
+      ],
+      [
+       "использовать повторно",
+       "yeniden kullanmak",
+       "ispol'zavat' paftorna",
+       "🔁"
+      ],
+      [
+       "сажать деревья",
+       "ağaç dikmek",
+       "sajat' direv'ya",
+       "🌳"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u57",
+   "level": "yuksek",
+   "title": "Toplum ve sosyal sorunlar",
+   "subtitle": "Göç, yoksulluk, eşitsizlik · 5 ders",
+   "lessons": [
+    {
+     "id": "u57l1",
+     "kind": "vocab",
+     "title": "Sosyal sorunlar",
+     "subtitle": "бедность · бездомный · неравенство …",
+     "intro": "Yoksulluk, evsizlik, eşitsizlik…",
+     "v": [
+      [
+       "бедность",
+       "yoksulluk",
+       "bednast'",
+       "🪙",
+       "f"
+      ],
+      [
+       "бездомный",
+       "evsiz",
+       "bizdomnıy",
+       "🏚️",
+       "m"
+      ],
+      [
+       "неравенство",
+       "eşitsizlik",
+       "neravenstva",
+       "⚖️",
+       "n"
+      ],
+      [
+       "зависимость",
+       "bağımlılık",
+       "zavisimast'",
+       "🍷",
+       "f"
+      ],
+      [
+       "преступность",
+       "suç oranı",
+       "prestupnast'",
+       "📊",
+       "f"
+      ],
+      [
+       "одиночество",
+       "yalnızlık",
+       "adinoçistva",
+       "🌑",
+       "n"
+      ],
+      [
+       "социальная помощь",
+       "sosyal yardım",
+       "satsial'naya pomaşş",
+       "🤲",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l2",
+     "kind": "vocab",
+     "title": "Göç",
+     "subtitle": "миграция · мигрант · беженец …",
+     "intro": "Göçmen, mülteci, uyum…",
+     "v": [
+      [
+       "миграция",
+       "göç",
+       "migratsiya",
+       "🧳",
+       "f"
+      ],
+      [
+       "мигрант",
+       "göçmen",
+       "migrant",
+       "🚶",
+       "m"
+      ],
+      [
+       "беженец",
+       "mülteci",
+       "bejenets",
+       "⛺",
+       "m"
+      ],
+      [
+       "адаптация",
+       "uyum (sosyal)",
+       "adaptatsiya",
+       "🧩",
+       "f"
+      ],
+      [
+       "гражданство",
+       "vatandaşlık",
+       "grajdanstva",
+       "🪪",
+       "n"
+      ],
+      [
+       "вид на жительство",
+       "oturma izni",
+       "vit na jıtil'stva",
+       "📃",
+       "m"
+      ],
+      [
+       "ностальгия",
+       "memleket özlemi",
+       "nastal'giya",
+       "💭",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l3",
+     "kind": "vocab",
+     "title": "Nesiller",
+     "subtitle": "поколение · молодёжь · пожилые люди …",
+     "intro": "Kuşak, emekliler, gençlik…",
+     "v": [
+      [
+       "поколение",
+       "kuşak, nesil",
+       "pakaleniye",
+       "👨‍👩‍👧",
+       "n"
+      ],
+      [
+       "молодёжь",
+       "gençlik (toplumsal)",
+       "maladyoş",
+       "🧑‍🤝‍🧑",
+       "f"
+      ],
+      [
+       "пожилые люди",
+       "yaşlılar",
+       "pajılıye lyudi",
+       "👴"
+      ],
+      [
+       "воспитание",
+       "çocuk yetiştirme",
+       "vaspitaniye",
+       "👶",
+       "n"
+      ],
+      [
+       "рождаемость",
+       "nüfus artışı",
+       "rajdayemast'",
+       "📈",
+       "f"
+      ],
+      [
+       "продолжительность жизни",
+       "ortalama ömür",
+       "pradaljıtil'nast' jızni",
+       "⏳",
+       "f"
+      ],
+      [
+       "пенсия",
+       "emeklilik maaşı",
+       "pensiya",
+       "💳",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l4",
+     "kind": "vocab",
+     "title": "Toplumsal yaşam",
+     "subtitle": "сообщество · благотворительность · волонтёрство …",
+     "intro": "Topluluk, hayır kurumu, gönüllülük…",
+     "v": [
+      [
+       "сообщество",
+       "topluluk",
+       "saobşşestva",
+       "🏘️",
+       "n"
+      ],
+      [
+       "благотворительность",
+       "hayır kurumu",
+       "blagatvaritil'nast'",
+       "💝",
+       "f"
+      ],
+      [
+       "волонтёрство",
+       "gönüllülük",
+       "valantyorstva",
+       "🙌",
+       "n"
+      ],
+      [
+       "терпимость",
+       "hoşgörü",
+       "tirpimast'",
+       "🫶",
+       "f"
+      ],
+      [
+       "солидарность",
+       "dayanışma",
+       "salidarnast'",
+       "🤝",
+       "f"
+      ],
+      [
+       "протест",
+       "protesto",
+       "pratest",
+       "✊",
+       "m"
+      ],
+      [
+       "забастовка",
+       "grev",
+       "zabastofka",
+       "🪧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l5",
+     "kind": "vocab",
+     "title": "Toplum fiilleri",
+     "subtitle": "эмигрировать · приспосабливаться · жертвовать …",
+     "intro": "Göç etmek, uyum sağlamak, yardım etmek…",
+     "v": [
+      [
+       "эмигрировать",
+       "göç etmek",
+       "emigriravat'",
+       "🛫"
+      ],
+      [
+       "приспосабливаться",
+       "uyum sağlamak",
+       "prispasablivat'sa",
+       "🧩"
+      ],
+      [
+       "жертвовать",
+       "bağış yapmak",
+       "jertvavat'",
+       "🎁"
+      ],
+      [
+       "протестовать",
+       "gösteri yapmak",
+       "pratestavat'",
+       "📣"
+      ],
+      [
+       "исключать",
+       "dışlamak",
+       "iskluçat'",
+       "🚪"
+      ],
+      [
+       "объединять",
+       "birleştirmek",
+       "abyedinyat'",
+       "🔗"
+      ],
+      [
+       "решать проблему",
+       "çözmek (sorun)",
+       "rişat' prablemu",
+       "🧠"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u58",
+   "level": "yuksek",
+   "title": "İleri fiiller",
+   "subtitle": "Etkilemek, kaçınmak, sağlamak, varsaymak · 5 ders",
+   "lessons": [
+    {
+     "id": "u58l1",
+     "kind": "vocab",
+     "title": "Etki ve neden",
+     "subtitle": "влиять · вызывать · зависеть …",
+     "intro": "Etkilemek, neden olmak, bağlı olmak…",
+     "v": [
+      [
+       "влиять",
+       "etkilemek",
+       "vliyat'",
+       "🌀"
+      ],
+      [
+       "вызывать",
+       "neden olmak",
+       "vızıvat'",
+       "➡️"
+      ],
+      [
+       "зависеть",
+       "bağlı olmak",
+       "zaviset'",
+       "🔗"
+      ],
+      [
+       "приводить к",
+       "sonuçlanmak",
+       "privadit' k",
+       "🏁"
+      ],
+      [
+       "предотвращать",
+       "önlemek",
+       "pridatvraşşat'",
+       "🛑"
+      ],
+      [
+       "облегчать",
+       "kolaylaştırmak",
+       "ablehçat'",
+       "🪶"
+      ],
+      [
+       "усложнять",
+       "zorlaştırmak",
+       "uslojnyat'",
+       "🧱"
+      ]
+     ]
+    },
+    {
+     "id": "u58l2",
+     "kind": "vocab",
+     "title": "Düşünce fiilleri",
+     "subtitle": "предполагать · делать вывод · оценивать …",
+     "intro": "Varsaymak, sonuç çıkarmak, değerlendirmek…",
+     "v": [
+      [
+       "предполагать",
+       "varsaymak",
+       "pritpalagat'",
+       "💭"
+      ],
+      [
+       "делать вывод",
+       "sonuç çıkarmak",
+       "delat' vıvat",
+       "🧩"
+      ],
+      [
+       "оценивать",
+       "değerlendirmek",
+       "atsenivat'",
+       "⚖️"
+      ],
+      [
+       "учитывать",
+       "dikkate almak",
+       "uçitıvat'",
+       "📝"
+      ],
+      [
+       "сравнивать",
+       "karşılaştırmak",
+       "sravnivat'",
+       "🆚"
+      ],
+      [
+       "осознавать",
+       "fark etmek (anlamak)",
+       "asaznavat'",
+       "💡"
+      ],
+      [
+       "сомневаться",
+       "tereddüt etmek",
+       "samnivat'sa",
+       "🤔"
+      ]
+     ]
+    },
+    {
+     "id": "u58l3",
+     "kind": "vocab",
+     "title": "Sağlamak ve elde etmek",
+     "subtitle": "обеспечивать · достигать · осуществлять …",
+     "intro": "Sağlamak, elde etmek, gerçekleştirmek…",
+     "v": [
+      [
+       "обеспечивать",
+       "sağlamak",
+       "abispeçivat'",
+       "🎁"
+      ],
+      [
+       "достигать",
+       "elde etmek",
+       "dastigat'",
+       "🏆"
+      ],
+      [
+       "осуществлять",
+       "gerçekleştirmek",
+       "asuşşestvlyat'",
+       "✅"
+      ],
+      [
+       "пользоваться",
+       "kullanmak (yararlanmak)",
+       "pol'zavat'sa",
+       "🧰"
+      ],
+      [
+       "применять",
+       "uygulamak",
+       "primenyat'",
+       "🛠️"
+      ],
+      [
+       "поддерживать связь",
+       "sürdürmek",
+       "paddyerjivat' svyas'",
+       "♾️"
+      ],
+      [
+       "откладывать",
+       "ertelemek",
+       "atkladıvat'",
+       "⏸️"
+      ]
+     ]
+    },
+    {
+     "id": "u58l4",
+     "kind": "vocab",
+     "title": "Kaçınma ve vazgeçme",
+     "subtitle": "избегать · отказываться · сдаваться …",
+     "intro": "Kaçınmak, reddetmek, vazgeçmek…",
+     "v": [
+      [
+       "избегать",
+       "kaçınmak",
+       "izbegat'",
+       "🙈"
+      ],
+      [
+       "отказываться",
+       "reddetmek",
+       "atkazıvat'sa",
+       "🙅"
+      ],
+      [
+       "сдаваться",
+       "vazgeçmek",
+       "zdavat'sa",
+       "🏳️"
+      ],
+      [
+       "скрывать",
+       "gizlemek",
+       "skrıvat'",
+       "🫥"
+      ],
+      [
+       "пренебрегать",
+       "ihmal etmek",
+       "pinibregat'",
+       "😶"
+      ],
+      [
+       "сопротивляться",
+       "direnmek",
+       "saprativlyat'sa",
+       "🧱"
+      ],
+      [
+       "не сдаваться",
+       "pes etmemek",
+       "ni zdavat'sa",
+       "💪"
+      ]
+     ]
+    },
+    {
+     "id": "u58l5",
+     "kind": "vocab",
+     "title": "Değişim fiilleri",
+     "subtitle": "превращаться · развиваться дальше · адаптировать …",
+     "intro": "Dönüşmek, gelişmek, uyarlamak…",
+     "v": [
+      [
+       "превращаться",
+       "dönüşmek",
+       "privraşşat'sa",
+       "🦋"
+      ],
+      [
+       "развиваться дальше",
+       "gelişmek",
+       "razvivat'sa dal'şe",
+       "📈"
+      ],
+      [
+       "адаптировать",
+       "uyarlamak",
+       "adaptiravat'",
+       "🔧"
+      ],
+      [
+       "улучшать",
+       "iyileştirmek",
+       "uluçşat'",
+       "⭐"
+      ],
+      [
+       "ухудшаться",
+       "kötüleşmek",
+       "uhutşat'sa",
+       "📉"
+      ],
+      [
+       "обновлять дом",
+       "yenilemek",
+       "abnavlyat' dom",
+       "🔄"
+      ],
+      [
+       "беречь ресурсы",
+       "kaynakları korumak",
+       "biriç resursı",
+       "🌿"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u59",
+   "level": "yuksek",
+   "title": "Tartışma ve ifade",
+   "subtitle": "Görüş bildirme, bağlaçlar, akademik dil · 5 ders",
+   "lessons": [
+    {
+     "id": "u59l1",
+     "kind": "vocab",
+     "title": "Görüş bildirme",
+     "subtitle": "мне кажется · на мой взгляд · несомненно …",
+     "intro": "Bana öyle geliyor ki, kuşkusuz…",
+     "v": [
+      [
+       "мне кажется",
+       "bana öyle geliyor ki",
+       "mne kajetsa",
+       "🤔"
+      ],
+      [
+       "на мой взгляд",
+       "bence (resmi)",
+       "na moy vzglyat",
+       "🗨️"
+      ],
+      [
+       "несомненно",
+       "kuşkusuz",
+       "nisamnenna",
+       "✔️"
+      ],
+      [
+       "вероятно",
+       "muhtemelen",
+       "virayatna",
+       "🎲"
+      ],
+      [
+       "по-видимому",
+       "görünüşe göre",
+       "pa-vidimamu",
+       "👀"
+      ],
+      [
+       "честно говоря",
+       "açıkçası",
+       "çesna gavarya",
+       "🙌"
+      ],
+      [
+       "насколько я знаю",
+       "bildiğim kadarıyla",
+       "naskol'ka ya znayu",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u59l2",
+     "kind": "vocab",
+     "title": "Bağlaçlar 2",
+     "subtitle": "следовательно · с другой стороны · более того …",
+     "intro": "Bu nedenle, öte yandan, üstelik…",
+     "v": [
+      [
+       "следовательно",
+       "bu nedenle",
+       "sledavatil'na",
+       "➡️"
+      ],
+      [
+       "с другой стороны",
+       "öte yandan",
+       "z drugoy staranı",
+       "🔄"
+      ],
+      [
+       "более того",
+       "üstelik",
+       "boleye tavo",
+       "➕"
+      ],
+      [
+       "то есть",
+       "yani (açıklama)",
+       "to yest'",
+       "🟰"
+      ],
+      [
+       "тем не менее",
+       "buna rağmen",
+       "tem ni meneye",
+       "🔀"
+      ],
+      [
+       "итак",
+       "özetle",
+       "itak",
+       "📝"
+      ],
+      [
+       "во-первых",
+       "ilk olarak",
+       "va-pervıh",
+       "1️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u59l3",
+     "kind": "vocab",
+     "title": "Akademik dil",
+     "subtitle": "подход · точка зрения · аргумент …",
+     "intro": "Sorun, yaklaşım, bakış açısı…",
+     "v": [
+      [
+       "подход",
+       "yaklaşım",
+       "patkhot",
+       "🧭",
+       "m"
+      ],
+      [
+       "точка зрения",
+       "bakış açısı",
+       "toçka zreniya",
+       "🔭",
+       "f"
+      ],
+      [
+       "аргумент",
+       "argüman",
+       "argument",
+       "🗣️",
+       "m"
+      ],
+      [
+       "вывод",
+       "sonuç (çıkarım)",
+       "vıvat",
+       "🏁",
+       "m"
+      ],
+      [
+       "особенность",
+       "özellik",
+       "asobinnast'",
+       "🔖",
+       "f"
+      ],
+      [
+       "тенденция",
+       "eğilim",
+       "tendentsiya",
+       "📈",
+       "f"
+      ],
+      [
+       "фактор",
+       "etken",
+       "faktar",
+       "⚙️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u59l4",
+     "kind": "vocab",
+     "title": "Tartışma ifadeleri",
+     "subtitle": "полностью согласен · отчасти ты прав · дело в том, что …",
+     "intro": "Katılıyorum ama…, mesele şu ki…",
+     "v": [
+      [
+       "полностью согласен",
+       "tamamen katılıyorum",
+       "polnast'yu saglasen",
+       "💯"
+      ],
+      [
+       "отчасти ты прав",
+       "kısmen haklısın",
+       "atçasti tı praf",
+       "🌗"
+      ],
+      [
+       "дело в том, что",
+       "mesele şu ki",
+       "delo f tom şto",
+       "❗"
+      ],
+      [
+       "к примеру",
+       "örneğin (resmi)",
+       "k primeru",
+       "📌"
+      ],
+      [
+       "с одной стороны",
+       "bir yandan",
+       "s adnoy staranı",
+       "↔️"
+      ],
+      [
+       "в итоге",
+       "sonuç olarak",
+       "v itoge",
+       "🏁"
+      ],
+      [
+       "иными словами",
+       "başka bir deyişle",
+       "inımi slavami",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u59l5",
+     "kind": "vocab",
+     "title": "Sıfatlar 3",
+     "subtitle": "основной · реалистичный · спорный …",
+     "intro": "Temel, gerçekçi, tartışmalı…",
+     "v": [
+      [
+       "основной",
+       "temel",
+       "asnavnoy",
+       "🧱"
+      ],
+      [
+       "реалистичный",
+       "gerçekçi",
+       "realistiçnıy",
+       "🎯"
+      ],
+      [
+       "спорный",
+       "tartışmalı",
+       "spornıy",
+       "⚡"
+      ],
+      [
+       "неопределённый",
+       "belirsiz",
+       "neapridilyonnıy",
+       "🌫️"
+      ],
+      [
+       "эффективный",
+       "etkili",
+       "effektivnıy",
+       "💥"
+      ],
+      [
+       "действительный",
+       "geçerli (resmi)",
+       "deystvitil'nıy",
+       "✅"
+      ],
+      [
+       "недостаточный",
+       "yeterli olmayan",
+       "nedastatoçnıy",
+       "📉"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u60",
+   "level": "yuksek",
+   "title": "Duygular ve ilişkiler 3",
+   "subtitle": "Saygı, güven, ihanet, şefkat · 5 ders",
+   "lessons": [
+    {
+     "id": "u60l1",
+     "kind": "vocab",
+     "title": "Duygular",
+     "subtitle": "нежность · восхищение · ненависть …",
+     "intro": "Şefkat, hayranlık, nefret…",
+     "v": [
+      [
+       "нежность",
+       "şefkat",
+       "nejnast'",
+       "🤗",
+       "f"
+      ],
+      [
+       "восхищение",
+       "hayranlık",
+       "vashişşeniye",
+       "🤩",
+       "n"
+      ],
+      [
+       "ненависть",
+       "nefret",
+       "nenavist'",
+       "😠",
+       "f"
+      ],
+      [
+       "ревность",
+       "kıskançlık",
+       "revnast'",
+       "💚",
+       "f"
+      ],
+      [
+       "разочарование",
+       "hayal kırıklığı",
+       "razaçaravaniye",
+       "😞",
+       "n"
+      ],
+      [
+       "благодарность",
+       "minnettarlık",
+       "blagadarnast'",
+       "🙏",
+       "f"
+      ],
+      [
+       "стыд",
+       "utanç",
+       "stıt",
+       "😳",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u60l2",
+     "kind": "vocab",
+     "title": "İlişkiler",
+     "subtitle": "доверие · уважение · предательство …",
+     "intro": "Güven, saygı, ihanet…",
+     "v": [
+      [
+       "доверие",
+       "güven",
+       "daveriye",
+       "🤝",
+       "n"
+      ],
+      [
+       "уважение",
+       "saygı",
+       "uvajeniye",
+       "🙇",
+       "n"
+      ],
+      [
+       "предательство",
+       "ihanet",
+       "pridatil'stva",
+       "🗡️",
+       "n"
+      ],
+      [
+       "преданность",
+       "bağlılık",
+       "predannast'",
+       "💍",
+       "f"
+      ],
+      [
+       "поддержка",
+       "destek",
+       "paddyerjka",
+       "🫂",
+       "f"
+      ],
+      [
+       "понимание",
+       "anlayış",
+       "panimaniye",
+       "💡",
+       "n"
+      ],
+      [
+       "конфликт",
+       "çatışma",
+       "kanflikt",
+       "⚔️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u60l3",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "знакомый · ровесник · сослуживец …",
+     "intro": "Tanıdık, akran, rakip…",
+     "v": [
+      [
+       "знакомый",
+       "tanıdık",
+       "znakomıy",
+       "👋",
+       "m"
+      ],
+      [
+       "ровесник",
+       "akran",
+       "ravesnik",
+       "🧑‍🤝‍🧑",
+       "m"
+      ],
+      [
+       "сослуживец",
+       "meslektaş (resmi)",
+       "saslujıvets",
+       "👔",
+       "m"
+      ],
+      [
+       "наставник",
+       "akıl hocası",
+       "nastavnik",
+       "🧙",
+       "m"
+      ],
+      [
+       "враг",
+       "düşman",
+       "vrak",
+       "👿",
+       "m"
+      ],
+      [
+       "незнакомец",
+       "yabancı (tanımadık)",
+       "niznakomits",
+       "👤",
+       "m"
+      ],
+      [
+       "сосед по квартире",
+       "ev arkadaşı",
+       "sased pa kvartire",
+       "🏠",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u60l4",
+     "kind": "vocab",
+     "title": "İlişki fiilleri",
+     "subtitle": "мириться · обижаться · потерять доверие …",
+     "intro": "Barışmak, kırılmak, özür dilemek…",
+     "v": [
+      [
+       "мириться",
+       "barışmak",
+       "mirit'sa",
+       "🕊️"
+      ],
+      [
+       "обижаться",
+       "gücenmek",
+       "abijat'sa",
+       "😤"
+      ],
+      [
+       "потерять доверие",
+       "güvenini kaybetmek",
+       "patiryat' daveriye",
+       "💔"
+      ],
+      [
+       "предавать",
+       "ihanet etmek",
+       "pridavat'",
+       "🗡️"
+      ],
+      [
+       "поддержать друга",
+       "desteklemek (manevi)",
+       "paddyerjat' druga",
+       "🫂"
+      ],
+      [
+       "ладить",
+       "anlaşmak (geçinmek)",
+       "ladit'",
+       "🤝"
+      ],
+      [
+       "разойтись",
+       "ayrılmak (yollar)",
+       "razaytis'",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u60l5",
+     "kind": "vocab",
+     "title": "Kalıplar",
+     "subtitle": "я тебя прекрасно понимаю · ты этого не заслужил · всё наладится …",
+     "intro": "Seni anlıyorum, kendine iyi bak…",
+     "v": [
+      [
+       "я тебя прекрасно понимаю",
+       "seni çok iyi anlıyorum",
+       "ya tibya prikrasna panimayu",
+       "🫶"
+      ],
+      [
+       "ты этого не заслужил",
+       "bunu hak etmedin",
+       "tı etava ni zaslujıl",
+       "🥺"
+      ],
+      [
+       "всё наладится",
+       "her şey yoluna girecek",
+       "fsyo naladitsa",
+       "🌈"
+      ],
+      [
+       "не вешай нос",
+       "moralini bozma",
+       "ni veşay nos",
+       "💪"
+      ],
+      [
+       "скажи, что ты думаешь",
+       "ne düşündüğünü söyle",
+       "skajı, şto tı dumayeş",
+       "💬"
+      ],
+      [
+       "я горжусь тобой",
+       "seninle gurur duyuyorum",
+       "ya garjus' taboy",
+       "🏅"
+      ],
+      [
+       "я рядом",
+       "yanındayım",
+       "ya ryadam",
+       "🤝"
+      ]
+     ]
+    }
+   ]
   }
  ],
  "upcoming": [
