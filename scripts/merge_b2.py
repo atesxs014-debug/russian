@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
-"""content/vocab/ru_b2.txt → extra 'yuksek' vocab units (u46+) in src/data/ru.json.
+"""content/vocab/<lang>_b2.txt → extra 'yuksek' vocab units (u46+) in src/data/<lang>.json.  Usage: merge_b2.py <lang> [--dry]
 
 Line: tr|emoji|ru|okunuş|cinsiyet(m/f/n/boş)   Headers: "## Unit | subtitle", "# Lesson | intro"
 Each lesson needs 7 words; words already in the course are reported.
 """
 import json, pathlib, sys
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-src = ROOT / "content" / "vocab" / "ru_b2.txt"
-dst = ROOT / "src" / "data" / "ru.json"
+LANG = sys.argv[1]
+src = ROOT / "content" / "vocab" / f"{LANG}_b2.txt"
+dst = ROOT / "src" / "data" / f"{LANG}.json"
 dry = "--dry" in sys.argv
 key = lambda s: s.replace("́", "").strip().lower()
 

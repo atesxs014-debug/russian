@@ -201,7 +201,7 @@ B Perfect. What time shall we meet?|Mükemmel. Saat kaçta buluşalım?
 A How about six outside the cinema?|Altıda sinemanın önünde nasıl?
 B Deal. See you on Saturday!|Anlaştık. Cumartesi görüşürüz!
 
-== y1|yuksek|grammar|end|Koşul cümleleri|If … : gerçek, hayal ve pişmanlık
+== y1|yuksek|grammar|u47|Koşul cümleleri|If … : gerçek, hayal ve pişmanlık
 -- grammar|Birinci tip (gerçek)|Olası bir durum ve sonucu.
 R If + Present, will + fiil|If it rains, we will stay at home.
 E If you study, you will pass.|Çalışırsan geçersin.
@@ -242,7 +242,7 @@ Q I wish I ___ that.|hadn't said|didn't say;don't say;won't say|Keşke onu söyl
 Q If they had taken a taxi, they ___ been late.|wouldn't have|won't have;wouldn't;didn't|Taksiye binselerdi geç kalmazlardı.|wouldn't have
 Q If only I ___ listened to you!|had|have;would;did|Keşke seni dinleseydim!|if only + had
 
-== y2|yuksek|grammar|end|Edilgen yapı ve dolaylı anlatım|is made, was built, she said that …
+== y2|yuksek|grammar|u49|Edilgen yapı ve dolaylı anlatım|is made, was built, she said that …
 -- grammar|Edilgen: şimdiki ve geçmiş|Eylemi kimin yaptığı önemli değilse.
 R am/is/are + 3. hâl|English is spoken here. The rooms are cleaned every day.
 E English is spoken all over the world.|İngilizce dünyanın her yerinde konuşulur.
@@ -283,7 +283,7 @@ Q He ___ his car washed every week.|has|is;does;makes|Her hafta arabasını yık
 Q You should get your teeth ___.|checked|check;checking;to check|Dişlerini kontrol ettirmelisin.|get + 3. hâl
 Q They had a new kitchen ___.|installed|install;installing;installs|Yeni bir mutfak taktırdılar.|had + 3. hâl
 
-== y3|yuksek|text|end|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
+== y3|yuksek|text|u51|Metin okuma ve anlama|Kısa metinler, bilmediğin kelimeye dokun
 -- text|A Day in London|Sophie Londra'daki gününü anlatıyor.
 T My name is Sophie and I've lived in London for six years. Every morning I take the Tube to work, which is quick but often crowded. At lunchtime I like to sit in a park with a sandwich, especially when the weather is nice. After work I sometimes meet friends at a pub or go to a museum, because most of them are free. The city is expensive, but there is always something to do. I miss the quiet of my hometown, but London feels like home now.
 TR Benim adım Sophie ve altı yıldır Londra'da yaşıyorum. Her sabah işe metroyla giderim; hızlı ama genelde kalabalık. Öğle arasında, özellikle hava güzelken, bir parkta sandviçimle oturmayı severim. İşten sonra bazen bir pubda arkadaşlarla buluşurum ya da bir müzeye giderim, çünkü çoğu ücretsiz. Şehir pahalı ama her zaman yapacak bir şey vardır. Memleketimin sessizliğini özlüyorum ama Londra artık evim gibi.
@@ -324,7 +324,7 @@ Q How do most British people drink tea?|With milk|With lemon;With honey;Without 
 Q What did rich families eat at afternoon tea?|Sandwiches, scones and cakes|Soup and bread;Fish and chips;Fruit only
 Q What is "a cuppa"?|A cup of tea|A small cake;A coffee;A type of sandwich
 
-== y4|yuksek|dialog|end|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
+== y4|yuksek|dialog|u54|Serbest konuşma|Fikir söyle, derdini anlat, kendini tanıt
 -- dialog|Fikrini söyle|Şehir mi köy mü? Jack fikrini savunuyor.|Emma|Jack
 A Jack, do you think it's better to live in the city or in the countryside?|Jack, sence şehirde mi yaşamak daha iyi, kırsalda mı?
 B In my opinion, the city. There are more jobs and opportunities.|Bence şehir. Daha çok iş ve fırsat var.
@@ -352,3 +352,524 @@ A What are your main strengths?|Başlıca güçlü yönleriniz neler?
 B I'm reliable, I work well in a team and I learn quickly.|Güvenilirim, ekipte iyi çalışırım ve hızlı öğrenirim.
 A When would you be able to start?|Ne zaman başlayabilirsiniz?
 B In two weeks, once I've finished my current project.|İki hafta sonra, mevcut projemi bitirince.
+
+== g5|orta|grammar|u35|Sıfatlar ve karşılaştırma|bigger, the best, as … as, too / enough
+-- grammar|Karşılaştırma: -er / more|İki şeyi karşılaştırmak için.
+R Kısa sıfatlar: -er than|big → bigger, cheap → cheaper, happy → happier. "than" = -den.
+E London is bigger than Manchester.|Londra Manchester'dan büyük.
+E My sister is younger than me.|Kız kardeşim benden küçük.
+R Uzun sıfatlar: more … than|expensive → more expensive, interesting → more interesting.
+E This book is more interesting than the film.|Bu kitap filmden daha ilginç.
+E Taxis are more expensive than buses.|Taksiler otobüslerden pahalı.
+Q The train is ___ than the bus.|faster|more fast;fastest;fast|Tren otobüsten hızlı.|kısa sıfat → -er
+Q This hotel is ___ expensive than that one.|more|most;much;very|Bu otel ötekinden pahalı.|uzun sıfat → more
+Q Today is ___ than yesterday.|hotter|hoter;more hot;hottest|Bugün dünden sıcak.|hot → hotter (çift t)
+Q My bag is ___ than yours.|heavier|heavyer;more heavy;heaviest|Çantam seninkinden ağır.|-y → -ier
+Q Russia is bigger ___ France.|than|that;then;as|Rusya Fransa'dan büyük.|-den = than
+Q English is ___ than Russian for me.|easier|more easy;easyer;easiest|Benim için İngilizce Rusçadan kolay.|easy → easier
+-- grammar|En üstünlük: the -est / the most|Bir gruptaki en … olanı söylemek için.
+R the + -est / the most|the biggest, the cheapest, the most beautiful.
+E Everest is the highest mountain in the world.|Everest dünyanın en yüksek dağı.
+E This is the most beautiful beach on the island.|Bu adadaki en güzel plaj.
+R Düzensizler|good → better → the best, bad → worse → the worst, far → further → the furthest.
+E This is the best pizza in town.|Bu şehrin en iyi pizzası.
+E Yesterday was the worst day of my life.|Dün hayatımın en kötü günüydü.
+Q It's the ___ restaurant in the city.|best|goodest;better;most good|Şehrin en iyi restoranı.|good → the best
+Q This is the ___ film I've ever seen.|worst|baddest;worse;most bad|İzlediğim en kötü film bu.|bad → the worst
+Q He's the ___ person in our family.|tallest|most tall;taller;tall|Ailemizin en uzun boylusu.|tall → the tallest
+Q Her English is ___ than mine.|better|gooder;best;more good|Onun İngilizcesi benimkinden iyi.|good → better
+Q This is the ___ important question.|most|much;best;very|En önemli soru bu.|uzun sıfat → the most
+Q August is the ___ month of the year.|hottest|hotest;hotter;most hot|Ağustos yılın en sıcak ayı.|hot → the hottest
+-- grammar|as … as, too ve enough|Eşitlik, fazlalık ve yeterlilik.
+R as … as / not as … as|He is as tall as his father. (… kadar) It's not as cold as yesterday.
+E My car is as old as yours.|Arabam seninki kadar eski.
+E The film wasn't as good as the book.|Film kitap kadar iyi değildi.
+R too + sıfat / sıfat + enough|too expensive = fazla pahalı; old enough = yeterince büyük.
+E This coffee is too hot to drink.|Bu kahve içilemeyecek kadar sıcak.
+E She isn't old enough to drive.|Araba kullanacak yaşta değil.
+Q My brother is ___ tall as me.|as|so;than;more|Erkek kardeşim benim kadar uzun.|as … as
+Q This shirt is ___ small for me.|too|enough;very much;so much|Bu gömlek bana fazla küçük.|too + sıfat
+Q He isn't strong ___ to lift it.|enough|too;as;very|Onu kaldıracak kadar güçlü değil.|sıfat + enough
+Q The test wasn't as difficult ___ I thought.|as|than;that;like|Test sandığım kadar zor değildi.|not as … as
+Q It's ___ late to call him now.|too|enough;so many;very much|Onu şimdi aramak için çok geç.|too late
+Q Is the water warm ___ to swim?|enough|too;as;so|Su yüzmek için yeterince ılık mı?|warm enough
+
+== g6|orta|grammar|u39|Modal fiiller|can, must, have to, should, might
+-- grammar|can / could|Yetenek, izin ve rica.
+R can + yalın fiil|I can swim. Can I sit here? Olumsuz: can't. Geçmiş: could.
+E I can speak three languages.|Üç dil konuşabiliyorum.
+E Can I open the window?|Pencereyi açabilir miyim?
+R could: geçmiş yetenek ve kibar rica|When I was five, I could read. Could you help me, please?
+E I couldn't sleep last night.|Dün gece uyuyamadım.
+E Could you pass the salt, please?|Tuzu uzatabilir misiniz lütfen?
+Q ___ you swim?|Can|Do;Are;Must|Yüzebiliyor musun?|yetenek sorusu → Can
+Q She can ___ the piano very well.|play|plays;to play;playing|Piyanoyu çok iyi çalabiliyor.|can + yalın fiil
+Q When I was a child, I ___ climb trees.|could|can;may;must|Çocukken ağaca tırmanabiliyordum.|geçmiş yetenek → could
+Q I ___ find my keys. Can you help me?|can't|mustn't;shouldn't;needn't|Anahtarlarımı bulamıyorum. Yardım eder misin?|yapamamak → can't
+Q ___ you tell me the time, please?|Could|Must;Should;Might|Saati söyleyebilir misiniz lütfen?|kibar rica → Could
+Q He couldn't ___ because of the noise.|sleep|slept;sleeping;to sleep|Gürültüden uyuyamadı.|could + yalın fiil
+-- grammar|must / have to / mustn't|Zorunluluk ve yasak.
+R must ve have to|You must wear a seatbelt. I have to work on Saturdays. (zorunda olmak)
+E I have to get up early tomorrow.|Yarın erken kalkmak zorundayım.
+E You must be quiet in the library.|Kütüphanede sessiz olmalısın.
+R mustn't ≠ don't have to|mustn't = yasak; don't have to = gerek yok.
+E You mustn't smoke here.|Burada sigara içmemelisin (yasak).
+E It's Sunday. You don't have to go to work.|Pazar. İşe gitmek zorunda değilsin.
+Q She ___ to wear a uniform at work.|has|have;must;do|İşte üniforma giymek zorunda.|she → has to
+Q You ___ touch that. It's dangerous!|mustn't|don't have to;needn't;haven't|Ona dokunmamalısın. Tehlikeli!|yasak → mustn't
+Q We don't ___ to pay. It's free.|have|must;has;need to|Ödemek zorunda değiliz. Ücretsiz.|don't have to = gerek yok
+Q Did you ___ to wait long?|have|had;must;has|Uzun beklemek zorunda kaldın mı?|did + have to
+Q You ___ stop at a red light.|must|mustn't;don't have to;can't|Kırmızı ışıkta durmalısın.|zorunluluk → must
+Q Yesterday I ___ to stay late at work.|had|have;must;has|Dün işte geç saate kadar kalmak zorunda kaldım.|geçmiş → had to
+-- grammar|should / might|Tavsiye ve olasılık.
+R should / shouldn't|You should see a doctor. You shouldn't eat so much sugar.
+E You should drink more water.|Daha çok su içmelisin.
+E You shouldn't go to bed so late.|Bu kadar geç yatmamalısın.
+R might / may: belki|It might rain later. I may be late. (olasılık)
+E Take an umbrella, it might rain.|Şemsiye al, yağmur yağabilir.
+E I might go to the party, I'm not sure.|Partiye gidebilirim, emin değilim.
+Q You look tired. You ___ go to bed.|should|don't;mustn't;has|Yorgun görünüyorsun. Yatmalısın.|tavsiye → should
+Q You ___ eat so much fast food.|shouldn't|doesn't;don't have;hasn't|Bu kadar çok fast food yememelisin.|olumsuz tavsiye
+Q I'm not sure, but I ___ come tomorrow.|might|must;have;am|Emin değilim ama yarın gelebilirim.|belki → might
+Q What should I ___ ?|do|to do;doing;did|Ne yapmalıyım?|should + yalın fiil
+Q Don't wait for me. I ___ be late.|may|have;am;do|Beni bekleme. Geç kalabilirim.|olasılık → may
+Q ___ I call him or send a message?|Should|Might;Have;Does|Onu arayayım mı yoksa mesaj mı atayım?|tavsiye sorusu → Should
+
+== g7|orta|grammar|u41|Artikeller ve miktar|a / an / the, some / any, much / many
+-- grammar|a, an, the|Belirsiz ve belirli artikel.
+R a / an|a + ünsüz sesi (a car, a university), an + ünlü sesi (an apple, an hour).
+E I have an idea.|Bir fikrim var.
+E She's a teacher.|O bir öğretmen.
+R the|Bilinen, tekrar edilen ya da tek olan şey: the sun, the station, the book I bought.
+E The sun is very hot today.|Güneş bugün çok sıcak.
+E I bought a book. The book is about Rome.|Bir kitap aldım. Kitap Roma hakkında.
+Q I eat ___ apple every day.|an|a;the;some|Her gün bir elma yerim.|ünlüden önce an
+Q She works at ___ university.|a|an;the;some|Bir üniversitede çalışıyor.|"yu" sesi → a
+Q We waited for ___ hour.|an|a;the;some|Bir saat bekledik.|h okunmaz → an
+Q ___ moon is very bright tonight.|The|A;An;Some|Ay bu gece çok parlak.|tek olan → the
+Q I saw a dog. ___ dog was black.|The|A;An;Some|Bir köpek gördüm. Köpek siyahtı.|ikinci kez → the
+Q My father is ___ engineer.|an|a;the;some|Babam mühendis.|meslek, ünlü → an
+-- grammar|some / any|Belirsiz miktar.
+R some: olumlu cümle|There is some milk. I bought some apples. Rica ve teklifte de: Would you like some tea?
+E I need some help.|Biraz yardıma ihtiyacım var.
+E Would you like some coffee?|Biraz kahve ister misin?
+R any: olumsuz ve soru|There isn't any bread. Have you got any brothers?
+E We don't have any milk.|Hiç sütümüz yok.
+E Are there any questions?|Hiç soru var mı?
+Q There's ___ cheese in the fridge.|some|any;many;few|Buzdolabında biraz peynir var.|olumlu → some
+Q I don't have ___ money.|any|some;a;many|Hiç param yok.|olumsuz → any
+Q Have you got ___ children?|any|much;a;little|Hiç çocuğun var mı?|soru → any
+Q Would you like ___ cake?|some|many;a few;few|Biraz pasta ister misin?|teklif → some
+Q There aren't ___ eggs left.|any|some;much;a|Hiç yumurta kalmadı.|olumsuz → any
+Q I'd like ___ water, please.|some|any;many;few|Biraz su alabilir miyim lütfen?|rica → some
+-- grammar|much, many, a lot of|Sayılabilen ve sayılamayan isimler.
+R many + sayılabilen, much + sayılamayan|many books, many people; much time, much money (çoğunlukla olumsuz ve soruda).
+E How many people came?|Kaç kişi geldi?
+E I don't have much time.|Çok vaktim yok.
+R a lot of, a few, a little|a lot of = çok (her ikisi); a few + sayılabilen; a little + sayılamayan.
+E She has a lot of friends.|Çok arkadaşı var.
+E I speak a little Spanish.|Biraz İspanyolca konuşuyorum.
+Q How ___ brothers do you have?|many|much;a lot;few of|Kaç erkek kardeşin var?|sayılabilen → many
+Q How ___ is this jacket?|much|many;lot;few|Bu ceket ne kadar?|fiyat → how much
+Q There isn't ___ sugar in my tea.|much|many;a few;lots|Çayımda çok şeker yok.|sayılamayan → much
+Q I have a ___ friends in London.|few|little;much;lot|Londra'da birkaç arkadaşım var.|sayılabilen → a few
+Q Can I have a ___ milk in my coffee?|little|few;many;lots|Kahveme biraz süt alabilir miyim?|sayılamayan → a little
+Q There were a ___ of people at the concert.|lot|lots;many;much|Konserde çok insan vardı.|a lot of
+
+== g8|orta|grammar|u43|Past Continuous ve used to|was doing, when / while, used to
+-- grammar|Past Continuous|Geçmişte belli bir anda süren eylem.
+R was / were + -ing|At eight o'clock I was having dinner. They were watching TV.
+E I was sleeping when you called.|Sen aradığında uyuyordum.
+E What were you doing at ten?|Saat onda ne yapıyordun?
+R Olumsuz ve soru|wasn't / weren't + -ing; Was he working? Were they playing?
+E She wasn't listening to me.|Beni dinlemiyordu.
+E Were you driving fast?|Hızlı mı sürüyordun?
+Q At nine o'clock I ___ reading a book.|was|were;am;did|Saat dokuzda kitap okuyordum.|I → was
+Q They ___ playing football in the park.|were|was;are;did|Parkta futbol oynuyorlardı.|they → were
+Q What ___ you doing last night at ten?|were|was;did;are|Dün gece saat onda ne yapıyordun?|you → were
+Q She was ___ a shower when the phone rang.|having|have;had;has|Telefon çaldığında duş alıyordu.|was + -ing
+Q We ___ watching TV, we were sleeping.|weren't|wasn't;didn't;aren't|Televizyon izlemiyorduk, uyuyorduk.|we → weren't
+Q It ___ raining when we left.|was|were;is;did|Çıktığımızda yağmur yağıyordu.|it → was
+-- grammar|when ve while|Kesilen eylem: uzun eylem + kısa eylem.
+R while + Past Continuous|While I was cooking, the phone rang. (sürerken)
+E While she was walking home, it started to rain.|Eve yürürken yağmur başladı.
+E I met Tom while I was living in Leeds.|Leeds'te yaşarken Tom'la tanıştım.
+R when + Past Simple|I was watching TV when the lights went out. (aniden olan kısa eylem)
+E We were having dinner when he arrived.|O geldiğinde akşam yemeği yiyorduk.
+E When I opened the door, the cat ran out.|Kapıyı açınca kedi dışarı kaçtı.
+Q I was reading ___ the lights went out.|when|while;during;since|Işıklar söndüğünde kitap okuyordum.|kısa eylem → when
+Q ___ I was cooking, I cut my finger.|While|During;Since;For|Yemek yaparken parmağımı kestim.|süren eylem → while
+Q She was ___ when I saw her.|crying|cry;cried;cries|Onu gördüğümde ağlıyordu.|süren eylem → was + -ing
+Q He fell while he ___ skiing.|was|were;is;did|Kayak yaparken düştü.|he → was
+Q When the bus ___, we got on.|came|was coming;comes;come|Otobüs gelince bindik.|ardışık eylem → Past Simple
+Q They were sleeping when the alarm ___.|rang|was ringing;rings;ring|Alarm çaldığında uyuyorlardı.|kısa eylem → Past Simple
+-- grammar|used to|Eskiden yapılan ama artık yapılmayan şeyler.
+R used to + yalın fiil|I used to smoke. (Eskiden içerdim, artık içmiyorum.)
+E I used to live in Izmir.|Eskiden İzmir'de yaşardım.
+E He used to have long hair.|Eskiden uzun saçları vardı.
+R Olumsuz ve soru|didn't use to; Did you use to …?
+E I didn't use to like coffee.|Eskiden kahve sevmezdim.
+E Did you use to play an instrument?|Eskiden bir enstrüman çalar mıydın?
+Q I ___ to play tennis, but now I don't.|used|use;using;was used|Eskiden tenis oynardım ama artık oynamıyorum.|used to
+Q She used to ___ in a bank.|work|working;worked;works|Eskiden bir bankada çalışırdı.|used to + yalın fiil
+Q I didn't ___ to like vegetables.|use|used;using;uses|Eskiden sebze sevmezdim.|didn't use to
+Q Did you ___ to walk to school?|use|used;using;uses|Eskiden okula yürür müydün?|Did … use to
+Q There ___ to be a cinema here.|used|use;was;were|Eskiden burada bir sinema vardı.|there used to be
+Q My grandfather used to ___ me stories.|tell|told;telling;tells|Dedem bana hikâyeler anlatırdı.|used to + yalın fiil
+
+== g9|orta|grammar|u45|Edatlar ve fiil kalıpları|in / on / at, for / since, -ing ve to
+-- grammar|in, on, at: zaman|Saat, gün ve dönemler.
+R at saat, on gün, in ay/yıl/mevsim|at six o'clock, at night; on Monday, on 5 May; in July, in 2020, in summer.
+E The film starts at eight.|Film sekizde başlıyor.
+E My birthday is on Friday.|Doğum günüm cuma.
+R in the morning, at the weekend|in the morning / afternoon / evening, at the weekend, at Christmas.
+E I go running in the morning.|Sabahları koşuya çıkarım.
+E What are you doing at the weekend?|Hafta sonu ne yapıyorsun?
+Q The meeting is ___ ten o'clock.|at|in;on;to|Toplantı saat onda.|saat → at
+Q I was born ___ 1995.|in|on;at;to|1995'te doğdum.|yıl → in
+Q See you ___ Monday!|on|in;at;to|Pazartesi görüşürüz!|gün → on
+Q It's cold here ___ winter.|in|on;at;to|Burada kışın hava soğuk.|mevsim → in
+Q I never work ___ night.|at|in;on;to|Gece asla çalışmam.|at night
+Q We have English ___ the afternoon.|in|at;on;to|Öğleden sonra İngilizce dersimiz var.|in the afternoon
+-- grammar|for ve since|Present Perfect ile süre.
+R for + süre|for two years, for an hour, for a long time.
+E I've lived here for ten years.|On yıldır burada yaşıyorum.
+E We've been friends for a long time.|Uzun zamandır arkadaşız.
+R since + başlangıç noktası|since 2015, since Monday, since I was a child.
+E She has worked here since March.|Marttan beri burada çalışıyor.
+E I haven't seen him since Christmas.|Noel'den beri onu görmedim.
+Q I've known her ___ five years.|for|since;from;during|Onu beş yıldır tanıyorum.|süre → for
+Q He's been ill ___ Friday.|since|for;from;during|Cumadan beri hasta.|başlangıç → since
+Q We've lived in this house ___ 2010.|since|for;from;at|2010'dan beri bu evde yaşıyoruz.|yıl, başlangıç → since
+Q They've been married ___ twenty years.|for|since;during;ago|Yirmi yıldır evliler.|süre → for
+Q I haven't eaten ___ this morning.|since|for;ago;from|Bu sabahtan beri bir şey yemedim.|başlangıç → since
+Q She's been waiting ___ an hour.|for|since;ago;during|Bir saattir bekliyor.|süre → for
+-- grammar|Fiil + -ing / fiil + to|Bazı fiillerden sonra -ing, bazılarından sonra to gelir.
+R -ing alanlar|enjoy, like, love, hate, finish, stop, mind: I enjoy swimming.
+E I enjoy reading in bed.|Yatakta okumaktan keyif alırım.
+E Have you finished eating?|Yemeği bitirdin mi?
+R to alanlar|want, decide, hope, plan, need, learn, would like: I want to travel.
+E She decided to study medicine.|Tıp okumaya karar verdi.
+E I'd like to book a table.|Bir masa ayırtmak istiyorum.
+Q I enjoy ___ to music.|listening|to listen;listen;listened|Müzik dinlemekten hoşlanırım.|enjoy + -ing
+Q We decided ___ a car.|to buy|buying;buy;bought|Araba almaya karar verdik.|decide + to
+Q Do you mind ___ the window?|opening|to open;open;opened|Pencereyi açar mısın?|mind + -ing
+Q She wants ___ a doctor.|to become|becoming;become;became|Doktor olmak istiyor.|want + to
+Q Stop ___ ! I'm trying to sleep.|talking|to talk;talk;talked|Konuşmayı kes! Uyumaya çalışıyorum.|stop + -ing
+Q I hope ___ you again soon.|to see|seeing;see;saw|Seni yakında tekrar görmeyi umuyorum.|hope + to
+
+== y5|yuksek|grammar|u52|Past Perfect ve ileri zamanlar|had done, will have done, have been doing
+-- grammar|Past Perfect|Geçmişteki bir olaydan daha önce olanlar (-mişti).
+R had + V3|When I arrived, the film had already started. (Ben vardığımda film başlamıştı.)
+E She had left before I called.|Ben aramadan önce çıkmıştı.
+E I had never seen the sea before that trip.|O geziden önce denizi hiç görmemiştim.
+R Past Simple ile birlikte|Önce olan → Past Perfect, sonra olan → Past Simple. Bağlaçlar: before, after, by the time, already.
+E By the time we got there, everyone had gone home.|Biz oraya vardığımızda herkes eve gitmişti.
+E After he had finished his work, he went out.|İşini bitirdikten sonra dışarı çıktı.
+Q When we arrived, the train had already ___.|left|leave;leaving;leaves|Vardığımızda tren çoktan kalkmıştı.|had + V3
+Q I ___ never eaten sushi before that day.|had|have;was;did|O günden önce hiç suşi yememiştim.|Past Perfect → had
+Q She was tired because she had ___ all day.|worked|work;working;works|Bütün gün çalıştığı için yorgundu.|had + V3
+Q By the time the police came, the thief had ___.|escaped|escape;escaping;escapes|Polis geldiğinde hırsız kaçmıştı.|had + V3
+Q He ___ the book before he saw the film.|had read|has read;reads;have read|Filmi görmeden önce kitabı okumuştu.|önce olan → had + V3
+Q They had ___ each other for years before they married.|known|knew;know;knowing|Evlenmeden önce yıllardır tanışıyorlardı.|know → known
+-- grammar|Present Perfect Continuous|Geçmişte başlayıp hâlâ süren eylem.
+R have / has been + -ing|I've been waiting for an hour. (Bir saattir bekliyorum.)
+E It has been raining all morning.|Bütün sabah yağmur yağıyor.
+E How long have you been learning English?|Ne zamandır İngilizce öğreniyorsun?
+R Sonucu görünen eylem|You look tired. Have you been running? (Koşuyor muydun?)
+E Your eyes are red. Have you been crying?|Gözlerin kızarmış. Ağlıyor muydun?
+E I've been working on this project since May.|Mayıstan beri bu proje üzerinde çalışıyorum.
+Q I've been ___ for you for two hours!|waiting|wait;waited;waits|İki saattir seni bekliyorum!|have been + -ing
+Q How long ___ you been living here?|have|has;are;did|Ne zamandır burada yaşıyorsun?|you → have
+Q She ___ been studying since this morning.|has|have;is;was|Bu sabahtan beri ders çalışıyor.|she → has
+Q It has been ___ all day.|snowing|snow;snowed;snows|Bütün gün kar yağıyor.|been + -ing
+Q We've been ___ about this problem for weeks.|talking|talk;talked;talks|Haftalardır bu sorun hakkında konuşuyoruz.|been + -ing
+Q You're out of breath. Have you been ___ ?|running|run;ran;runs|Nefes nefesesin. Koşuyor muydun?|been + -ing
+-- grammar|Future Continuous ve Future Perfect|Gelecekte bir anda sürecek ya da bitmiş olacak eylemler.
+R will be + -ing|This time tomorrow I'll be flying to New York. (Yarın bu saatte uçuyor olacağım.)
+E Don't call at eight, I'll be having dinner.|Sekizde arama, yemek yiyor olacağım.
+E At ten I'll be sitting in a meeting.|Onda bir toplantıda oturuyor olacağım.
+R will have + V3|By next year I'll have finished university. (Gelecek yıla kadar bitirmiş olacağım.)
+E By six o'clock, I'll have written the report.|Saat altıya kadar raporu yazmış olacağım.
+E They will have arrived by the time we leave.|Biz çıkana kadar onlar varmış olacak.
+Q This time next week I'll be ___ on the beach.|lying|lie;lay;lain|Gelecek hafta bu saatte plajda uzanıyor olacağım.|will be + -ing
+Q By 2030 they will have ___ the new bridge.|built|build;building;builds|2030'a kadar yeni köprüyü inşa etmiş olacaklar.|will have + V3
+Q At nine I ___ be working, so call me later.|will|have;am;did|Dokuzda çalışıyor olacağım, sonra ara.|will be + -ing
+Q By the end of the day, I'll have ___ fifty emails.|answered|answer;answering;answers|Gün sonuna kadar elli e-postayı yanıtlamış olacağım.|will have + V3
+Q Don't come at seven. We'll be ___ dinner.|having|have;had;has|Yedide gelme. Yemek yiyor olacağız.|will be + -ing
+Q By the time you get here, I will ___ cooked dinner.|have|be;had;has|Sen buraya gelene kadar yemeği pişirmiş olacağım.|will have + V3
+
+== y6|yuksek|grammar|u55|İlgi cümleleri ve bağlaçlar|who, which, whose; although, despite, whereas
+-- grammar|İlgi zamirleri|who, which, that, whose, where.
+R who / which / that|who → insanlar, which → şeyler, that → ikisi de. The man who lives next door. The car which I bought.
+E The woman who called you is my boss.|Seni arayan kadın patronum.
+E This is the book that changed my life.|Bu hayatımı değiştiren kitap.
+R whose / where|whose = kimin (sahiplik), where = yer. The girl whose father is a pilot. The town where I was born.
+E That's the man whose car was stolen.|Arabası çalınan adam bu.
+E This is the café where we first met.|İlk tanıştığımız kafe burası.
+Q The man ___ lives next door is a doctor.|who|which;whose;where|Yan evde oturan adam doktor.|insan → who
+Q I lost the watch ___ my father gave me.|which|who;whose;where|Babamın bana verdiği saati kaybettim.|şey → which
+Q That's the hotel ___ we stayed last year.|where|which;who;whose|Geçen yıl kaldığımız otel bu.|yer → where
+Q She's the girl ___ brother is in my class.|whose|who;which;where|Kardeşi benim sınıfımda olan kız o.|sahiplik → whose
+Q The film ___ we saw yesterday was boring.|that|who;whose;where|Dün izlediğimiz film sıkıcıydı.|şey → that
+Q Do you know anyone ___ speaks Japanese?|who|which;whose;where|Japonca konuşan birini tanıyor musun?|insan → who
+-- grammar|Karşıtlık: although, despite, however|Beklenmedik bir sonucu bağlamak.
+R although / even though + cümle|Although it was raining, we went out.
+E Although he was tired, he kept working.|Yorgun olmasına rağmen çalışmaya devam etti.
+E Even though she's rich, she lives simply.|Zengin olmasına rağmen sade yaşıyor.
+R despite / in spite of + isim / -ing|Despite the rain, we went out. In spite of being ill, she came.
+E Despite the traffic, we arrived on time.|Trafiğe rağmen zamanında vardık.
+E In spite of feeling sick, he went to work.|Kendini kötü hissetmesine rağmen işe gitti.
+Q ___ it was cold, we went swimming.|Although|Despite;In spite of;However|Hava soğuk olmasına rağmen yüzmeye gittik.|+ cümle → although
+Q ___ the rain, the match continued.|Despite|Although;Even though;However|Yağmura rağmen maç devam etti.|+ isim → despite
+Q In spite ___ his age, he runs every day.|of|to;from;for|Yaşına rağmen her gün koşuyor.|in spite of
+Q The hotel was expensive. ___, it was worth it.|However|Although;Despite;Even though|Otel pahalıydı. Ancak buna değdi.|yeni cümle → However
+Q She passed the exam ___ she didn't study much.|even though|despite;in spite of;however|Pek çalışmamasına rağmen sınavı geçti.|+ cümle → even though
+Q Despite ___ tired, he finished the race.|being|be;was;to be|Yorgun olmasına rağmen yarışı bitirdi.|despite + -ing
+-- grammar|Sebep, sonuç ve amaç|because, since, so that, therefore, whereas.
+R Sebep ve sonuç|because / since / as + cümle; because of + isim; therefore, as a result = bu nedenle.
+E We stayed at home because of the storm.|Fırtına yüzünden evde kaldık.
+E He missed the bus; therefore, he was late.|Otobüsü kaçırdı; bu nedenle geç kaldı.
+R Amaç ve zıtlık|so that = -sın diye; in order to + fiil; whereas / while = oysa.
+E I left early so that I wouldn't miss the train.|Treni kaçırmayayım diye erken çıktım.
+E I love the sea, whereas my wife prefers mountains.|Ben denizi severim, oysa karım dağları tercih eder.
+Q The flight was cancelled ___ of the fog.|because|since;as;so|Uçuş sis yüzünden iptal edildi.|+ of + isim → because of
+Q Speak slowly ___ everyone can understand.|so that|despite;whereas;therefore|Herkes anlayabilsin diye yavaş konuş.|amaç → so that
+Q He studied hard; ___, he passed.|therefore|whereas;although;because|Çok çalıştı; bu nedenle geçti.|sonuç → therefore
+Q My brother is tall, ___ I'm short.|whereas|therefore;so that;because of|Erkek kardeşim uzun, oysa ben kısayım.|zıtlık → whereas
+Q I went to the shop in order ___ buy milk.|to|for;that;of|Süt almak için markete gittim.|in order to
+Q ___ it was late, we took a taxi.|As|So;Therefore;Whereas|Geç olduğu için taksiye bindik.|sebep → As
+
+== y7|yuksek|grammar|u58|İleri yapılar|I wish, if only, devrik yapı, vurgu cümleleri
+-- grammar|I wish / If only|Dilek ve pişmanlık.
+R Şimdiki dilek: wish + Past Simple|I wish I had more time. (Keşke daha çok vaktim olsa.) I wish I were taller.
+E I wish I could speak Chinese.|Keşke Çince konuşabilsem.
+E If only it were summer!|Keşke yaz olsa!
+R Geçmiş pişmanlık: wish + Past Perfect|I wish I had studied harder. (Keşke daha çok çalışsaydım.)
+E I wish I hadn't said that.|Keşke bunu söylemeseydim.
+E If only we had left earlier!|Keşke daha erken çıksaydık!
+Q I wish I ___ a car.|had|have;has;having|Keşke bir arabam olsa.|şimdiki dilek → Past Simple
+Q I wish I ___ gone to the party.|had|have;did;was|Keşke partiye gitseydim.|geçmiş pişmanlık → had + V3
+Q If only I ___ the answer!|knew|know;knows;known|Keşke cevabı bilsem!|şimdiki dilek → Past Simple
+Q I wish you ___ here with me.|were|are;be;been|Keşke burada benimle olsan.|wish + were
+Q She wishes she hadn't ___ so much money.|spent|spend;spending;spends|Keşke o kadar para harcamasaydı diye düşünüyor.|hadn't + V3
+Q I wish I ___ swim.|could|can;will;may|Keşke yüzebilsem.|wish + could
+-- grammar|Devrik yapı|Vurgu için yardımcı fiil özneden önce gelir.
+R Olumsuz zarflardan sonra|Never have I seen such a beautiful place. Rarely does he complain.
+E Never have I eaten such good food.|Hiç bu kadar güzel yemek yemedim.
+E Rarely do we see such talent.|Böyle bir yeteneği nadiren görürüz.
+R Not only … but also / No sooner … than|Not only is she clever, but she is also kind. No sooner had I arrived than it started to rain.
+E Not only did he win, but he also broke the record.|Sadece kazanmakla kalmadı, rekoru da kırdı.
+E No sooner had we sat down than the phone rang.|Oturur oturmaz telefon çaldı.
+Q Never ___ I seen such a big dog.|have|I have;has;did|Hiç bu kadar büyük köpek görmedim.|devrik: Never have I
+Q Rarely ___ she go out at night.|does|she does;do;is|Geceleri nadiren dışarı çıkar.|devrik: Rarely does she
+Q Not only ___ he sing, but he also dances.|does|he does;is;do|Sadece şarkı söylemekle kalmıyor, dans da ediyor.|Not only does he
+Q No sooner had I left ___ it started to rain.|than|then;that;when|Çıkar çıkmaz yağmur başladı.|No sooner … than
+Q Seldom ___ we been so happy.|have|we have;has;did|Nadiren bu kadar mutlu olduk.|devrik: Seldom have we
+Q Not only was it cold, ___ it was also windy.|but|and;so;or|Sadece soğuk değildi, rüzgârlıydı da.|Not only … but also
+-- grammar|Vurgu cümleleri|It is … that / What … is.
+R It is / was … that|It was John that broke the window. (Camı kıran John'du.)
+E It was in Paris that they first met.|İlk kez tanıştıkları yer Paris'ti.
+E It's the price that worries me.|Beni endişelendiren fiyat.
+R What … is / was|What I need is a holiday. (İhtiyacım olan şey bir tatil.)
+E What I like about him is his honesty.|Onda sevdiğim şey dürüstlüğü.
+E What surprised me was the silence.|Beni şaşırtan şey sessizlikti.
+Q It was my sister ___ told me the news.|who|which;what;whose|Bana haberi veren kız kardeşimdi.|It was … who
+Q ___ I need is a good night's sleep.|What|That;Which;It|İhtiyacım olan şey iyi bir gece uykusu.|What … is
+Q It ___ in 2010 that I moved to London.|was|is;were;has|Londra'ya taşındığım yıl 2010'du.|geçmiş → It was
+Q What she wants ___ a new job.|is|are;be;being|İstediği şey yeni bir iş.|What … is
+Q It's not the money ___ matters.|that|what;whose;where|Önemli olan para değil.|It's … that
+Q What ___ me was his rudeness.|annoyed|annoy;annoying;annoyance|Beni sinirlendiren şey kabalığıydı.|What + fiil (geçmiş)
+
+== t1|orta|text|u39|Kısa okumalar|Gündelik hayattan kolay metinler
+-- text|My Day|Tom sıradan bir gününü anlatıyor.
+T My name is Tom. I get up at seven, have a shower and drink a cup of coffee. At eight I take the bus to work. I work in a bank in the city centre. I have lunch at one with my colleagues. In the evening I walk my dog in the park and then I cook dinner. Before I go to sleep, I read a book. I go to bed at eleven.
+TR Benim adım Tom. Yedide kalkar, duş alır ve bir fincan kahve içerim. Sekizde işe gitmek için otobüse binerim. Şehir merkezindeki bir bankada çalışıyorum. Saat birde iş arkadaşlarımla öğle yemeği yerim. Akşamları köpeğimi parkta gezdiririm, sonra akşam yemeği pişiririm. Uyumadan önce kitap okurum. On birde yatarım.
+G get up|kalkmak
+G have a shower|duş almak
+G colleagues|iş arkadaşları
+G walk my dog|köpeğimi gezdirmek
+G then|sonra
+G before|-meden önce
+Q Where does Tom work?|In a bank|In a school;In a shop;In a hospital
+Q How does he go to work?|By bus|By car;By train;On foot
+Q What does he do before he goes to sleep?|He reads a book|He watches TV;He walks his dog;He drinks coffee
+-- text|My Family|Lucy ailesini tanıtıyor.
+T Hi, I'm Lucy and I'm twenty-five. I have a big family. My father is a doctor and my mother is a teacher. I have an older brother and a younger sister. My brother lives in Bristol; he's an engineer. My sister is still at school. We also have a cat called Smudge. On Sundays we all have lunch together at my grandmother's house.
+TR Selam, ben Lucy, yirmi beş yaşındayım. Kalabalık bir ailem var. Babam doktor, annem öğretmen. Bir ağabeyim ve bir küçük kız kardeşim var. Ağabeyim Bristol'da yaşıyor, mühendis. Kız kardeşim hâlâ okula gidiyor. Bir de Smudge adında bir kedimiz var. Pazar günleri hep birlikte büyükannemin evinde öğle yemeği yeriz.
+G older brother|ağabey
+G younger sister|küçük kız kardeş
+G still|hâlâ
+G called|adında
+G together|birlikte
+G grandmother's house|büyükannenin evi
+Q What does Lucy's mother do?|She's a teacher|She's a doctor;She's an engineer;She's a nurse
+Q Where does Lucy's brother live?|In Bristol|In London;In Leeds;At his grandmother's house
+Q What does the family do on Sundays?|They have lunch together|They go to the cinema;They work;They play football
+-- text|A Weekend in the Country|Bir ailenin kırsaldaki hafta sonu.
+T On Friday evening we drove to the country. My grandparents' house is in a small village near a river. On Saturday morning my father worked in the garden and I picked strawberries with my mother. In the afternoon it was hot, so we swam in the river. In the evening my grandfather had a barbecue and we stayed outside until late. On Sunday we went back to the city, tired but happy.
+TR Cuma akşamı arabayla kırsala gittik. Büyükannemle büyükbabamın evi bir nehrin yakınındaki küçük bir köyde. Cumartesi sabahı babam bahçede çalıştı, ben de annemle çilek topladım. Öğleden sonra hava sıcaktı, bu yüzden nehirde yüzdük. Akşam dedem mangal yaptı ve geç saate kadar dışarıda kaldık. Pazar günü şehre yorgun ama mutlu döndük.
+G the country|kırsal
+G drove|arabayla gittik (drive)
+G picked|topladım (pick)
+G swam|yüzdük (swim)
+G until late|geç saate kadar
+G went back|döndük
+Q Where is the grandparents' house?|In a village near a river|In the city;By the sea;In the mountains
+Q What did the narrator and her mother do on Saturday morning?|They picked strawberries|They swam;They had a barbecue;They slept
+Q How did they feel when they went back?|Tired but happy|Sad;Ill;Angry
+
+== d2|orta|dialog|u41|Günlük durumlar|Eczane, otel, randevu, pazar
+-- dialog|At the Pharmacy|Jack eczaneden ilaç alıyor.|Emma|Jack
+B Hello. Have you got anything for a headache?|Merhaba. Baş ağrısına bir şeyiniz var mı?
+A Yes, these tablets. Take one after a meal.|Evet, bu tabletler. Yemekten sonra bir tane alın.
+B And do you have something for a cough?|Öksürük için de bir şeyiniz var mı?
+A There's this syrup. You don't need a prescription.|Bu şurup var. Reçeteye gerek yok.
+B Great, I'll take both.|Harika, ikisini de alıyorum.
+A That's twelve pounds fifty, please.|On iki pound elli lütfen.
+B Here you are. Thank you.|Buyurun. Teşekkürler.
+A You're welcome. Get well soon!|Rica ederim. Geçmiş olsun!
+-- dialog|At the Hotel|Jack otele giriş yapıyor.|Emma|Jack
+A Good evening. How can I help you?|İyi akşamlar. Size nasıl yardımcı olabilirim?
+B Good evening. I have a reservation in the name of Jack Taylor.|İyi akşamlar. Jack Taylor adına rezervasyonum var.
+A Yes, a double room for three nights. Could I see your passport?|Evet, üç gecelik çift kişilik oda. Pasaportunuzu görebilir miyim?
+B Here you are. Is breakfast included?|Buyurun. Kahvaltı dahil mi?
+A Yes, it's served from seven to ten in the restaurant.|Evet, yediden ona kadar restoranda servis ediliyor.
+B What's the wi-fi password?|Kablosuz ağ şifresi ne?
+A It's on your key card. Your room is on the fourth floor.|Anahtar kartınızın üstünde. Odanız dördüncü katta.
+B Thank you very much.|Çok teşekkür ederim.
+-- dialog|Making an Appointment|Jack doktordan randevu alıyor.|Emma|Jack
+A Good morning, Riverside Surgery.|Günaydın, Riverside Sağlık Merkezi.
+B Hello, I'd like to make an appointment with Dr Patel.|Merhaba, Dr. Patel'den randevu almak istiyorum.
+A Of course. Is Thursday at ten OK?|Tabii. Perşembe saat on uygun mu?
+B Sorry, I work on Thursday morning. Is there anything in the afternoon?|Kusura bakmayın, perşembe sabahı çalışıyorum. Öğleden sonra bir şey var mı?
+A We have Thursday at four thirty.|Perşembe dört buçuk var.
+B Perfect, that suits me.|Mükemmel, bana uyar.
+A Can I have your name and date of birth?|Adınızı ve doğum tarihinizi alabilir miyim?
+B Jack Taylor, the twelfth of March, nineteen ninety.|Jack Taylor, on iki mart bin dokuz yüz doksan.
+-- dialog|At the Market|Jack pazarda meyve alıyor.|Emma|Jack
+A Hello! These strawberries are very fresh today.|Merhaba! Bu çilekler bugün çok taze.
+B How much are they?|Ne kadar?
+A Three pounds a box.|Kutusu üç pound.
+B I'll take two boxes. And a kilo of apples, please.|İki kutu alıyorum. Bir de bir kilo elma lütfen.
+A Red or green?|Kırmızı mı yeşil mi?
+B Green, please. Are these tomatoes local?|Yeşil lütfen. Bu domatesler yerli mi?
+A Yes, they're from a farm near here.|Evet, buraya yakın bir çiftlikten.
+B Then I'll take half a kilo too.|O zaman yarım kilo da alayım.
+
+== d3|orta|dialog|u43|Günlük durumlar 2|Taksi, postane, komşu, banka
+-- dialog|In a Taxi|Jack taksiyle havalimanına gidiyor.|Emma|Jack
+A Where to?|Nereye?
+B To the airport, please. Terminal two.|Havalimanına lütfen. İkinci terminal.
+A No problem. Are you in a hurry?|Sorun değil. Aceleniz var mı?
+B A little. My flight is at six.|Biraz. Uçuşum altıda.
+A Don't worry, the traffic isn't too bad today.|Merak etmeyin, bugün trafik çok kötü değil.
+B How long will it take?|Ne kadar sürer?
+A About thirty minutes.|Yaklaşık otuz dakika.
+B Great. Can I pay by card?|Harika. Kartla ödeyebilir miyim?
+-- dialog|At the Post Office|Jack Türkiye'ye paket gönderiyor.|Emma|Jack
+B Hello, I'd like to send this parcel to Turkey.|Merhaba, bu paketi Türkiye'ye göndermek istiyorum.
+A Put it on the scale, please. It's two kilos.|Lütfen teraziye koyun. İki kilo.
+B How long does it take?|Ne kadar sürer?
+A About a week by standard post, or three days by express.|Normal postayla yaklaşık bir hafta, ekspresle üç gün.
+B How much is express?|Ekspres ne kadar?
+A Twenty-four pounds.|Yirmi dört pound.
+B That's fine, express please. And a stamp for this postcard.|Tamam, ekspres lütfen. Bir de bu kartpostal için bir pul.
+A Here you are. Please fill in this form.|Buyurun. Lütfen bu formu doldurun.
+-- dialog|A New Neighbour|Jack yeni komşusu Emma ile tanışıyor.|Emma|Jack
+A Hi! I've just moved in next door. I'm Emma.|Selam! Yan eve yeni taşındım. Ben Emma.
+B Oh, hello! I'm Jack. Welcome to the building!|Ah, merhaba! Ben Jack. Binaya hoş geldin!
+A Thanks! Do you know where the nearest supermarket is?|Teşekkürler! En yakın süpermarketin nerede olduğunu biliyor musun?
+B Yes, it's just round the corner, next to the bakery.|Evet, hemen köşede, fırının yanında.
+A Great. And what day do they collect the rubbish?|Harika. Çöpleri hangi gün topluyorlar?
+B On Tuesday mornings. Put the bins out on Monday night.|Salı sabahları. Çöp kutularını pazartesi gecesi dışarı çıkar.
+A Thanks for your help!|Yardımın için teşekkürler!
+B No problem. If you need anything, just knock.|Sorun değil. Bir şeye ihtiyacın olursa kapıyı çal yeter.
+-- dialog|At the Bank|Jack banka hesabı açıyor.|Emma|Jack
+B Good morning. I'd like to open a bank account.|Günaydın. Banka hesabı açmak istiyorum.
+A Certainly. Do you have your passport and proof of address?|Tabii. Pasaportunuz ve adres belgeniz yanınızda mı?
+B Yes, here's my passport and a letter from my landlord.|Evet, işte pasaportum ve ev sahibimden bir mektup.
+A Thank you. Would you like a debit card?|Teşekkürler. Banka kartı ister misiniz?
+B Yes, please. Can I use it abroad?|Evet, lütfen. Yurt dışında kullanabilir miyim?
+A Yes, but there's a small fee for each payment.|Evet ama her ödeme için küçük bir ücret var.
+B OK. When will I get the card?|Tamam. Kartı ne zaman alacağım?
+A In about five working days, by post.|Yaklaşık beş iş günü içinde, postayla.
+
+== y8|yuksek|dialog|u57|Konuşma pratiği|Şikâyet, kira, tartışma, plan
+-- dialog|Making a Complaint|Jack otelde şikâyette bulunuyor.|Emma|Jack
+B Excuse me, I'm afraid there's a problem with my room.|Affedersiniz, korkarım odamla ilgili bir sorun var.
+A I'm sorry to hear that. What seems to be the matter?|Bunu duyduğuma üzüldüm. Sorun nedir?
+B The air conditioning doesn't work and the room is boiling.|Klima çalışmıyor ve oda cehennem gibi sıcak.
+A I do apologise. I'll send someone up straight away.|Çok özür dilerim. Hemen birini yukarı gönderiyorum.
+B I'd appreciate that. It's also quite noisy because of the building work.|Sevinirim. Ayrıca inşaat yüzünden oldukça gürültülü.
+A In that case, would you like to move to a quieter room?|O zaman daha sessiz bir odaya geçmek ister misiniz?
+B Yes, that would be much better, thank you.|Evet, bu çok daha iyi olur, teşekkürler.
+A Of course. And breakfast tomorrow is on us, as an apology.|Tabii. Özür olarak yarınki kahvaltı da bizden.
+-- dialog|Renting a Flat|Jack bir daireyi kiralamak için ev sahibiyle konuşuyor.|Emma|Jack
+A So, this is the living room. As you can see, it gets a lot of light.|Evet, burası oturma odası. Gördüğünüz gibi çok ışık alıyor.
+B It's lovely. How much is the rent per month?|Çok güzel. Aylık kira ne kadar?
+A Nine hundred pounds, plus bills.|Dokuz yüz pound, faturalar hariç.
+B Is there a deposit?|Depozito var mı?
+A Yes, one month's rent. And the minimum contract is a year.|Evet, bir aylık kira. En kısa sözleşme bir yıl.
+B Are pets allowed? I have a small cat.|Evcil hayvana izin var mı? Küçük bir kedim var.
+A A cat should be fine, as long as it doesn't damage anything.|Bir şeye zarar vermediği sürece kedi sorun olmaz.
+B Great. I'd like to think about it and call you tomorrow, if that's OK.|Harika. Sakıncası yoksa biraz düşünüp yarın sizi aramak istiyorum.
+-- dialog|A Discussion|Emma ve Jack uzaktan çalışmayı tartışıyor.|Emma|Jack
+A Do you think working from home is better than working in an office?|Sence evden çalışmak ofiste çalışmaktan daha mı iyi?
+B On the whole, yes. You save time and money on travel.|Genel olarak evet. Yolda zamandan ve paradan tasarruf edersin.
+A That's true, but don't you feel lonely?|Doğru ama yalnız hissetmiyor musun?
+B Sometimes. Having said that, I can concentrate much better at home.|Bazen. Yine de evde çok daha iyi odaklanabiliyorum.
+A I see your point, but I think meeting colleagues in person is important.|Ne demek istediğini anlıyorum ama bence iş arkadaşlarıyla yüz yüze görüşmek önemli.
+B I agree to some extent. Maybe two days in the office is the best solution.|Bir yere kadar katılıyorum. Belki ofiste iki gün en iyi çözüm.
+A That sounds like a reasonable compromise.|Kulağa makul bir uzlaşma gibi geliyor.
+B Exactly. It depends on the person and the job, really.|Aynen. Aslında kişiye ve işe bağlı.
+-- dialog|Planning a Trip|Emma ve Jack bir hafta sonu gezisi planlıyor.|Emma|Jack
+A How about going to Edinburgh for the long weekend?|Uzun hafta sonu Edinburgh'a gitmeye ne dersin?
+B Sounds great! Shall we go by train or fly?|Harika! Trenle mi gidelim, uçakla mı?
+A The train takes longer, but it's more relaxing and the views are amazing.|Tren daha uzun sürüyor ama daha rahat ve manzara muhteşem.
+B Fair enough. Let's book the tickets tonight before they get more expensive.|Haklısın. Daha pahalı olmadan biletleri bu akşam alalım.
+A Where shall we stay? A hotel or a flat?|Nerede kalalım? Otel mi daire mi?
+B A flat in the old town would be nice. We could cook breakfast.|Eski şehirde bir daire güzel olurdu. Kahvaltıyı kendimiz hazırlayabiliriz.
+A Good idea. I'd love to visit the castle and climb Arthur's Seat.|İyi fikir. Kaleyi gezip Arthur's Seat'e tırmanmayı çok isterim.
+B Me too. I'll check the weather forecast and pack my walking boots.|Ben de. Hava tahminine bakıp yürüyüş botlarımı hazırlarım.
+
+== y9|yuksek|text|u60|Okuma: Britanya'yı tanı|Shakespeare, Stonehenge, Wimbledon
+-- text|William Shakespeare|Dünyanın en ünlü oyun yazarı.
+T William Shakespeare was born in Stratford-upon-Avon in 1564. As a young man he moved to London, where he worked as an actor and began writing plays. Over the next twenty years he wrote around thirty-seven plays, including Romeo and Juliet, Hamlet and Macbeth, as well as more than a hundred and fifty poems. Many expressions that we use today, such as "break the ice", come from his works. His plays have been translated into almost every language and are still performed all over the world.
+TR William Shakespeare 1564'te Stratford-upon-Avon'da doğdu. Genç yaşta Londra'ya taşındı; orada oyuncu olarak çalıştı ve oyun yazmaya başladı. Sonraki yirmi yıl içinde Romeo ve Juliet, Hamlet ve Macbeth dahil yaklaşık otuz yedi oyun ve yüz elliden fazla şiir yazdı. Bugün kullandığımız "buzları kırmak" gibi pek çok ifade onun eserlerinden gelir. Oyunları neredeyse her dile çevrildi ve hâlâ dünyanın her yerinde sahneleniyor.
+G plays|oyunlar (tiyatro)
+G including|dahil olmak üzere
+G as well as|-in yanı sıra
+G expressions|ifadeler
+G works|eserler
+G translated|çevrilmiş
+G performed|sahnelenmiş
+Q Where was Shakespeare born?|In Stratford-upon-Avon|In London;In Oxford;In Edinburgh
+Q What did he do in London?|He worked as an actor and wrote plays|He was a teacher;He studied law;He was a soldier
+Q Where does "break the ice" come from?|From Shakespeare's works|From a newspaper;From a song;From a film
+-- text|Stonehenge|Gizemli taş anıt.
+T Stonehenge is a circle of huge stones on Salisbury Plain in the south of England. It was built in several stages, beginning about five thousand years ago. Some of the stones weigh more than twenty tonnes, and the smaller ones were brought from Wales, almost two hundred and fifty kilometres away. Nobody knows for sure why it was built. Some experts believe it was a temple, while others think it was used as a calendar, because the stones line up with the sun on the longest and shortest days of the year. Today it attracts more than a million visitors every year.
+TR Stonehenge, İngiltere'nin güneyindeki Salisbury Ovası'nda devasa taşlardan oluşan bir çemberdir. Yaklaşık beş bin yıl önce başlayarak birkaç aşamada inşa edildi. Taşların bazıları yirmi tondan ağırdır; küçükleri ise neredeyse iki yüz elli kilometre uzaklıktaki Galler'den getirildi. Neden yapıldığını kimse kesin olarak bilmiyor. Bazı uzmanlar bir tapınak olduğuna inanırken, bazıları taşlar yılın en uzun ve en kısa günlerinde güneşle hizalandığı için takvim olarak kullanıldığını düşünüyor. Bugün her yıl bir milyondan fazla ziyaretçi çekiyor.
+G huge|devasa
+G stages|aşamalar
+G weigh|ağırlığında olmak
+G for sure|kesin olarak
+G temple|tapınak
+G line up with|hizalanmak
+G attracts|çekiyor
+Q Where are the smaller stones from?|From Wales|From Scotland;From France;From London
+Q Why do some people think it was a calendar?|The stones line up with the sun|It has twelve stones;It was built in a year;It has numbers on it
+Q How many people visit it every year?|More than a million|About a thousand;Five thousand;Twenty thousand
+-- text|Wimbledon|Dünyanın en eski tenis turnuvası.
+T Wimbledon is the oldest tennis tournament in the world. It was first held in 1877 in a district of south-west London and takes place every summer for two weeks. Unlike most other big tournaments, it is played on grass. The tournament is famous for its traditions: players must wear almost completely white clothes, and visitors traditionally eat strawberries and cream. Every year, around two hundred thousand portions are sold. Many people queue all night to buy tickets on the day of the match.
+TR Wimbledon dünyanın en eski tenis turnuvasıdır. İlk kez 1877'de Londra'nın güneybatısındaki bir semtte düzenlendi ve her yaz iki hafta sürer. Diğer büyük turnuvaların çoğunun aksine çim üzerinde oynanır. Turnuva gelenekleriyle ünlüdür: oyuncular neredeyse tamamen beyaz giyinmek zorundadır ve izleyiciler geleneksel olarak kremalı çilek yer. Her yıl yaklaşık iki yüz bin porsiyon satılır. Pek çok kişi maç günü bilet almak için bütün gece kuyrukta bekler.
+G tournament|turnuva
+G held|düzenlendi
+G district|semt
+G takes place|gerçekleşir
+G unlike|-in aksine
+G grass|çim
+G queue|kuyrukta beklemek
+Q When was Wimbledon first held?|In 1877|In 1977;In 1900;In 1066
+Q What surface is it played on?|Grass|Clay;Sand;Concrete
+Q What do visitors traditionally eat?|Strawberries and cream|Fish and chips;Ice cream;Sandwiches

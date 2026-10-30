@@ -1,0 +1,615 @@
+## Siyaset ve yönetim | Meclis, parti, reform, diplomasi
+# Devlet kurumları | Meclis, bakanlık, belediye…
+meclis|🏛️|le parlement|lö parlömã|m
+bakanlık|🏢|le ministère|lö ministèr|m
+bakan|👔|le ministre|lö ministr|m
+belediye başkanı|🏙️|le maire|lö mer|m
+belediye binası|🏤|la mairie|la meri|f
+yetkililer|🧑‍💼|les autorités|le zotorite|
+anayasa|📜|la constitution|la kõstitüsyõ|f
+# Parti ve seçim | Muhalefet, aday, oy…
+parti|🎗️|le parti politique|lö parti politik|m
+muhalefet|🗣️|l'opposition|lopozisyõ|f
+aday|🙋|le candidat|lö kãdida|m
+seçmen|🗳️|l'électeur|lelektör|m
+oy (seçimde)|✅|la voix|la vua|f
+kampanya|📢|la campagne électorale|la kãpany elektoral|f
+çoğunluk|👥|la majorité|la majorite|f
+# Yönetim ve reform | Reform, karar, politika…
+reform|🔧|la réforme|la reform|f
+siyaset|🧭|la politique|la politik|f
+kararname|📝|le décret|lö dekre|m
+yönetim|⚙️|l'administration|ladministrasyõ|f
+yolsuzluk|💰|la corruption|la korüpsyõ|f
+şeffaflık|🔍|la transparence|la trãsparãs|f
+sorumluluk|⚖️|la responsabilité|la rıspõsabilite|f
+# Diplomasi | Elçilik, antlaşma, müzakere…
+diplomasi|🤝|la diplomatie|la diplomasi|f
+büyükelçilik|🏳️|l'ambassade|lãbasad|f
+büyükelçi|🎩|l'ambassadeur|lãbasadör|m
+antlaşma|✍️|le traité|lö trete|m
+müzakereler|💬|les négociations|le negosyasyõ|
+yaptırımlar|🚫|les sanctions|le sãksyõ|
+uluslararası|🌐|international|ẽternasyonal|
+# Siyasi fiiller | Seçmek, yönetmek, desteklemek…
+seçmek|☑️|élire|elir|
+yönetmek (ülke)|👑|gouverner|guverne|
+desteklemek|👍|soutenir|sutnir|
+karşı çıkmak|✋|s'opposer à|sopoze a|
+yasayı kabul etmek|📗|adopter une loi|adopte ün lua|
+eleştirmek|🗯️|critiquer|kritike|
+istifa etmek|🚪|démissionner|demisyone|
+## Hukuk ve adalet | Dava, avukat, delil, ceza
+# Mahkemede | Dava, sanık, tanık…
+dava|📂|le procès|lö prose|m
+sanık|🧍|l'accusé|laküze|m
+tanık|👁️|le témoin|lö temuẽ|m
+savcı|👨‍⚖️|le procureur|lö prokürör|m
+jüri|👥|le jury|lö jüri|m
+karar (mahkeme)|🔨|le verdict|lö verdikt|m
+temyiz|📨|l'appel|lapel|m
+# Suç ve ceza | Hapis, delil, soruşturma…
+delil, kanıt|🧾|la preuve|la pröv|f
+soruşturma|🕵️|l'enquête|lãket|f
+hapishane|⛓️|la prison|la prizõ|f
+tutuklamak|🚔|arrêter|arete|
+dolandırıcılık|🎭|l'escroquerie|leskrokri|f
+kaçakçılık|📦|la contrebande|la kõtrıbãd|f
+şiddet|👊|la violence|la vyolãs|f
+# Haklar | Adalet, eşitlik, ayrımcılık…
+adalet|⚖️|la justice|la jüstis|f
+eşitlik|🟰|l'égalité|legalite|f
+ayrımcılık|🚷|la discrimination|la diskriminasyõ|f
+insan hakları|🕊️|les droits de l'homme|le drua dö lom|
+ifade özgürlüğü|🗣️|la liberté d'expression|la liberte dekspresyõ|f
+özel hayat|🔒|la vie privée|la vi prive|f
+güvenlik|🛡️|la sécurité|la sekürite|f
+# Belgeler | Madde, noter, vekâlet…
+madde (sözleşme)|📄|la clause|la kloz|f
+noter|🖋️|le notaire|lö noter|m
+vekâletname|📃|la procuration|la prokürasyõ|f
+dilekçe, başvuru|📥|la demande officielle|la dömãd ofisyel|f
+izin belgesi|🪪|le permis|lö permi|m
+bildirim|✉️|la notification|la notifikasyõ|f
+mühür, kaşe|🔴|le tampon|lö tãpõ|m
+# Hukuk fiilleri | Suçlamak, kanıtlamak, ihlal etmek…
+suçlamak|👉|accuser|aküze|
+kanıtlamak|✔️|prouver|pruve|
+ihlal etmek|⚠️|enfreindre|ãfrẽdr|
+mahkemede savunmak|🛡️|défendre au tribunal|defãdr o tribünal|
+dava açmak|📤|porter plainte|porte plẽt|
+cezalandırmak|🚨|punir|pünir|
+beraat ettirmek|🙌|acquitter|akite|
+## Ekonomi ve iş dünyası | Şirket, yatırım, rekabet, kâr
+# Şirket | Hissedar, yönetim kurulu, şube…
+hissedar|📈|l'actionnaire|laksyoner|m
+hisse senedi|📊|l'action|laksyõ|f
+yönetim kurulu|🪑|le conseil d'administration|lö kõsey dadministrasyõ|m
+şube|🏬|la succursale|la sükürsal|f
+girişimci|🚀|l'entrepreneur|lãtröprönör|m
+işletme|🏭|la société commerciale|la sosyete komersyal|f
+iflas|📉|la faillite|la fayit|f
+# Para ve kâr | Gelir, gider, kâr, zarar…
+gelir|💵|le revenu|lö rövnü|m
+giderler|💸|les dépenses|le depãs|
+kâr|💹|le bénéfice|lö benefis|m
+zarar|🔻|la perte|la pert|f
+ciro|🔄|le chiffre d'affaires|lö şifr dafer|m
+sermaye|🏦|le capital|lö kapital|m
+yatırımlar|🌱|les investissements|le zẽvestismã|
+# Piyasa | Talep, arz, rekabet, tekel…
+talep (piyasa)|🙋|la demande du marché|la dömãd dü marşe|f
+arz|📦|l'offre|lofr|f
+rekabet|🏁|la concurrence|la kõkürãs|f
+rakip|🥊|le concurrent|lö kõkürã|m
+tekel|👑|le monopole|lö monopol|m
+tüketici|🛒|le consommateur|lö kõsomatör|m
+fiyat artışı|⬆️|la hausse des prix|la os de pri|f
+# Ticaret | Tedarikçi, teslimat, ihale…
+tedarikçi|🚚|le fournisseur|lö furnisör|m
+teslimat|📬|la livraison|la livrezõ|f
+ihale|📋|l'appel d'offres|lapel dofr|m
+müzakere etmek|🗣️|négocier|negosye|
+ticari anlaşma|🤝|l'accord commercial|lakor komersyal|m
+iş ortağı|👬|l'associé|lasosye|m
+marka|™️|la marque|la mark|f
+# İş fiilleri | Kurmak, genişlemek, kâr etmek…
+şirket kurmak|🏗️|fonder une entreprise|fõde ün ãtröpriz|
+genişlemek|↔️|se développer|sö devlope|
+kâr etmek|💰|faire des bénéfices|fer de benefis|
+yatırım çekmek|🧲|attirer des investisseurs|atire de zẽvestisör|
+ihraç etmek|🚢|exporter|eksporte|
+pazarlık etmek|🤏|marchander|marşãde|
+iflas etmek|🕳️|faire faillite|fer fayit|
+## Bilim ve araştırma | Deney, keşif, teori, laboratuvar
+# Araştırma | Deney, hipotez, sonuç…
+araştırma|🔬|la recherche|la rışerş|f
+deney|🧪|l'expérience scientifique|leksperyãs syãtifik|f
+hipotez|💭|l'hypothèse|lipotez|f
+teori|📐|la théorie|la teori|f
+keşif|🔭|la découverte|la dekuvert|f
+yöntem|🧭|la méthode|la metod|f
+veriler|📊|les données|le done|
+# Bilim insanları | Bilim insanı, araştırmacı, mucit…
+bilim insanı|👩‍🔬|le scientifique|lö syãtifik|m
+araştırmacı|🔎|le chercheur|lö şerşör|m
+uzman|🎓|l'expert|leksper|m
+mucit|💡|l'inventeur|lẽvãtör|m
+akademi|🏛️|l'académie|lakademi|f
+laboratuvar|🧫|le laboratoire|lö laboratuar|m
+bilimsel dergi|📰|la revue scientifique|la rövü syãtifik|f
+# Doğa bilimleri | Hücre, gen, molekül…
+hücre|🦠|la cellule|la selül|f
+gen|🧬|le gène|lö jen|m
+molekül|⚛️|la molécule|la molekül|f
+evrim|🐒|l'évolution|levolüsyõ|f
+yer çekimi|🍎|la gravité|la gravite|f
+ışık hızı|💫|la vitesse de la lumière|la vites dö la lümyer|f
+madde (fizik)|🧱|la matière|la matyer|f
+# Teknik kavramlar | Ölçüm, hesap, model…
+ölçüm|📏|la mesure|la mözür|f
+hesaplama|🧮|le calcul|lö kalkül|m
+model|🧩|le modèle|lö model|m
+analiz|📈|l'analyse|lanaliz|f
+istatistik|📊|les statistiques|le statistik|
+formül|➗|la formule|la formül|f
+denklem|🟰|l'équation|lekuasyõ|f
+# Bilim fiilleri | Araştırmak, keşfetmek, icat etmek…
+araştırmak|🔍|faire des recherches|fer de rışerş|
+keşfetmek|🗝️|découvrir|dekuvrir|
+icat etmek|⚙️|inventer|ẽvãte|
+gözlemlemek|👀|examiner|egzamine|
+ölçmek|📐|mesurer|mözüre|
+analiz etmek|🧠|analyser|analize|
+yayımlamak|📚|publier|püblie|
+## Teknoloji ve dijital dünya | Yapay zekâ, veri, yazılım
+# Yazılım | Program, kod, geliştirici…
+yazılım|💾|le logiciel|lö lojisyel|m
+program|🖥️|le programme|lö program|m
+kod|👨‍💻|le code|lö kod|m
+geliştirici|🧑‍💻|le développeur|lö devlopör|m
+yazılım hatası|🐞|le bug|lö bög|m
+sürüm|🔢|la version|la versyõ|f
+algoritma|🔁|l'algorithme|lalgoritm|m
+# Yapay zekâ ve veri | Yapay zekâ, sunucu, bulut…
+yapay zekâ|🤖|l'intelligence artificielle|lẽtelijãs artifisyel|f
+robot|🦾|le robot|lö robo|m
+sunucu|🗄️|le serveur informatique|lö servör ẽformatik|m
+bulut (bilişim)|☁️|le cloud|lö klaud|m
+veritabanı|🗃️|la base de données|la baz dö done|f
+ağ|🕸️|le réseau|lö rezo|m
+dijital|📱|numérique|nümerik|
+# Güvenlik | Şifreleme, saldırı, hacker…
+şifreleme|🔐|le chiffrement|lö şifrımã|m
+siber saldırı|💥|la cyberattaque|la siberatak|f
+hacker|🕶️|le pirate informatique|lö pirat ẽformatik|m
+kişisel veriler|🧾|les données personnelles|le done personel|
+güvenlik duvarı|🧱|le pare-feu|lö par-fö|m
+yedek kopya|📀|la sauvegarde|la sovgard|f
+kimlik doğrulama|🆔|l'authentification|lotãtifikasyõ|f
+# Cihazlar | İşlemci, bellek, sensör…
+işlemci|🔲|le processeur|lö prosesör|m
+bellek|🧠|la mémoire|la memuar|f
+sensör|📡|le capteur|lö kaptör|m
+akıllı saat|⌚|la montre connectée|la mõtr konekte|f
+kablo|🔌|le câble|lö kabl|m
+pil ömrü|🔋|l'autonomie|lotonomi|f
+ekran çözünürlüğü|🖼️|la résolution|la rezolüsyõ|f
+# Dijital fiiller | Programlamak, güncellemek, kurmak…
+programlamak|⌨️|programmer|programe|
+güncellemek|🔄|mettre à jour|metr a jur|
+kurmak (program)|📥|installer|ẽstale|
+yedeklemek|💽|sauvegarder|sovgarde|
+şifrelemek|🔏|chiffrer|şifre|
+otomatikleştirmek|🤖|automatiser|otomatize|
+hacklemek|🧨|pirater|pirate|
+## Sağlık ve tıp | Teşhis, tedavi, uzman doktor
+# Teşhis | Belirti, muayene, tahlil…
+belirti|🤒|le symptôme|lö sẽptom|m
+teşhis|🩺|le diagnostic|lö dyagnostik|m
+muayene|🔍|l'examen médical|legzamẽ medikal|m
+kan tahlili|🧪|la prise de sang|la priz dö sã|f
+röntgen|🩻|la radiographie|la radyografi|f
+tansiyon|💓|la tension artérielle|la tãsyõ arteryel|f
+kronik|♾️|chronique|kronik|
+# Tedavi | Tedavi, terapi, iyileşme…
+tedavi|💊|le traitement|lö tretmã|m
+terapi|🛋️|la thérapie|la terapi|f
+iyileşme|🌤️|la guérison|la gerizõ|f
+bağışıklık|🛡️|l'immunité|limünite|f
+yan etki|⚠️|l'effet secondaire|lefe sögõder|m
+doz|💉|la dose|la doz|f
+önleme|🚧|la prévention|la prevãsyõ|f
+# Uzmanlar | Cerrah, kardiyolog, çocuk doktoru…
+cerrah|🔪|le chirurgien|lö şirürjyẽ|m
+kardiyolog|❤️|le cardiologue|lö kardyolog|m
+çocuk doktoru|🧸|le pédiatre|lö pedyatr|m
+psikolog|🧠|le psychologue|lö psikolog|m
+göz doktoru|👓|l'ophtalmologue|loftalmolog|m
+klinik|🏥|la clinique|la klinik|f
+sağlık personeli|🩺|le personnel soignant|lö personel suanyã|m
+# Hastalıklar | Enfeksiyon, iltihap, diyabet…
+enfeksiyon|🦠|l'infection|lẽfeksyõ|f
+iltihap|🔥|l'inflammation|lẽflamasyõ|f
+diyabet|🍬|le diabète|lö dyabet|m
+kanser|🎗️|le cancer|lö kãser|m
+kalp krizi|💔|la crise cardiaque|la kriz kardyak|f
+salgın|🌍|l'épidémie|lepidemi|f
+depresyon|🌧️|la dépression|la depresyõ|f
+# Sağlık fiilleri | Tedavi etmek, muayene etmek…
+tedavi etmek|🩹|soigner|suanye|
+muayene etmek|🩺|ausculter|oskülte|
+teşhis koymak|📋|diagnostiquer|dyagnostike|
+ilaç yazmak|📝|prescrire|preskrir|
+hastalanmak|🤧|tomber malade|tõbe malad|
+bulaşmak|😷|attraper un virus|atrape ẽ virüs|
+toparlanmak|💪|se rétablir|sö retablir|
+## Psikoloji ve karakter | Kişilik, davranış, motivasyon
+# Kişilik | Karakter, mizaç, öz güven…
+karakter|🎭|le caractère|lö karakter|m
+kişilik|🪞|la personnalité|la personalite|f
+öz güven|💪|la confiance en soi|la kõfyãs ã sua|f
+mizaç|🌗|le tempérament|lö tãperamã|m
+davranış|🚶|le comportement|lö kõportömã|m
+kötü alışkanlık|🚬|la mauvaise habitude|la movez abitüd|f
+kibir|🦚|l'arrogance|larogãs|f
+# Olumlu özellikler | Alçakgönüllü, açık sözlü…
+alçakgönüllü|🙇|modeste|modest|
+açık sözlü|🗨️|franc|frã|
+özenli|🧐|soigneux|suanyö|
+iyimser|🌞|optimiste|optimist|
+sadık|🐕|fidèle|fidel|
+yardımsever|💞|serviable|servyabl|
+azimli|🏔️|persévérant|perseverã|
+# Olumsuz özellikler | Kötümser, inatçı, kaprisli…
+kötümser|🌧️|pessimiste|pesimist|
+inatçı|🐐|têtu|tetü|
+kaprisli|😤|capricieux|kaprisyö|
+çekingen|🫣|réservé|rezerve|
+dalgın|🌀|distrait|distre|
+kurnaz|🦊|rusé|rüze|
+çabuk sinirlenen|🌋|irritable|iritabl|
+# Zihin | Bilinç, sezgi, hayal gücü…
+bilinç|💡|la conscience|la kõsyãs|f
+bilinçaltı|🌊|l'inconscient|lẽkõsyã|m
+sezgi|🔮|l'intuition|lẽtüisyõ|f
+hayal gücü|🌈|l'imagination|limajinasyõ|f
+dikkat|🎯|l'attention|latãsyõ|f
+motivasyon|🔥|la motivation|la motivasyõ|f
+stres|😫|le stress|lö stres|m
+# Psikolojik fiiller | Pişman olmak, kıskanmak…
+pişman olmak|😔|regretter|rögrete|
+kıskanmak|😒|envier|ãvye|
+utanmak|😳|avoir honte|avuar õt|
+gurur duymak|😌|être fier de|etr fyer dö|
+şüphelenmek|🤨|soupçonner|supsone|
+hayal kırıklığına uğramak|😞|être déçu|etr desü|
+alışmak|🔁|s'habituer|sabitüe|
+## Medya ve iletişim | Yayın, manşet, söyleşi, yorum
+# Basın | Manşet, muhabir, editör…
+manşet|🗞️|le gros titre|lö gro titr|m
+muhabir|🎤|le reporter|lö röporter|m
+editör|✏️|le rédacteur|lö redaktör|m
+yayınevi|🏢|la maison d'édition|la mezõ dedisyõ|f
+tiraj|🖨️|le tirage|lö tiraj|m
+sansür|🚫|la censure|la sãsür|f
+basın toplantısı|📸|la conférence de presse|la kõferãs dö pres|f
+# Televizyon ve internet | Kanal, dizi, yayın…
+kanal|📺|la chaîne|la şen|f
+dizi|🎬|la série|la seri|f
+canlı yayın|🔴|le direct|lö direkt|m
+izleyici|🍿|le téléspectateur|lö telespektatör|m
+dinleyici|🎧|l'auditeur|loditör|m
+podcast|🎙️|le podcast|lö podkast|m
+içerik üreticisi|✍️|l'influenceur|lẽflüãsör|m
+# Bilgi | Kaynak, sahte haber, söylenti…
+kaynak (bilgi)|📚|la source|la surs|f
+sahte haber|🤥|la fausse information|la fos ẽformasyõ|f
+söylenti|👂|la rumeur|la rümör|f
+olgu|📌|le fait|lö fe|m
+görüş|💭|l'opinion|lopinyõ|f
+yorum (analiz)|🗒️|le commentaire d'expert|lö komãter dekspert|m
+kamuoyu|👥|l'opinion publique|lopinyõ püblik|f
+# İletişim | Yazışma, ikna, uzlaşma…
+yazışma|📨|la correspondance écrite|la korespõdãs ekrit|f
+ikna|🫱|la persuasion|la persüazyõ|f
+anlaşmazlık|💢|le désaccord|lö dezakor|m
+uzlaşma|🤝|le compromis|lö kõpromi|m
+ima|😉|l'allusion|lalüzyõ|f
+diyalog|💬|le dialogue|lö dyalog|m
+nutuk, konuşma|🎙️|le discours|lö diskur|m
+# İletişim fiilleri | Bildirmek, açıklamak, ikna etmek…
+bildirmek|📣|informer|ẽforme|
+açıklamak (resmen)|📢|déclarer|deklare|
+ikna etmek|🫴|convaincre|kõvẽkr|
+itiraz etmek|🙅|objecter|objekte|
+yalanlamak|❌|démentir|demãtir|
+abartmak|🎈|exagérer|egzajere|
+vurgulamak|🖍️|souligner|sulinye|
+## Sanat ve kültür | Eser, sahne, sergi, yönetmen
+# Sahne sanatları | Sahne, oyuncu, yönetmen…
+sahne|🎭|la scène|la sen|f
+aktör|🎬|l'acteur|laktör|m
+yönetmen|🎥|le metteur en scène|lö metör ã sen|m
+gösteri, oyun|🎟️|la pièce de théâtre|la pyes dö teatr|f
+bale|🩰|le ballet|lö bale|m
+opera|🎼|l'opéra|lopera|m
+alkış|👏|les applaudissements|le zaplodismã|
+# Görsel sanatlar | Ressam, tuval, fırça…
+ressam|🎨|le peintre|lö pẽtr|m
+tuval|🖼️|la toile|la tual|f
+fırça|🖌️|le pinceau|lö pẽso|m
+portre|👤|le portrait|lö portre|m
+manzara resmi|🏞️|le paysage|lö peizaj|m
+şaheser|🏆|le chef-d'œuvre|lö şe dövr|m
+galeri|🏛️|la galerie|la galri|f
+# Edebiyat | Eser, kahraman, olay örgüsü…
+eser|📖|l'œuvre|lövr|f
+kahraman (roman)|🦸|le héros|lö ero|m
+olay örgüsü|🧵|l'intrigue|lẽtrig|f
+şair|🪶|le poète|lö poet|m
+öykü|📝|la nouvelle|la nuvel|f
+okur|👓|le lecteur|lö lektör|m
+çeviri (kitap)|🔁|la traduction|la tradüksyõ|f
+# Kültürel miras | Miras, folklor, zanaat…
+miras|🏺|l'héritage|leritaj|m
+folklor|🪕|le folklore|lö folklor|m
+zanaat|🧶|l'artisanat|lartizana|m
+festival|🎉|le festival|lö festival|m
+koleksiyon|🗂️|la collection|la koleksyõ|f
+üslup|✨|le style|lö stil|m
+yaratıcılık|🌟|la créativité|la kreativite|f
+# Sanat fiilleri | Yaratmak, sergilemek, ilham vermek…
+yaratmak|🛠️|créer|kree|
+sahnelemek|🎭|mettre en scène|metr ã sen|
+sergilemek|🖼️|exposer|ekspoze|
+ilham vermek|💫|inspirer|ẽspire|
+eleştiri yazmak|🖋️|écrire une critique|ekrir ün kritik|
+rol oynamak|🎬|jouer un rôle|jue ẽ rol|
+beste yapmak|🎹|composer|kõpoze|
+## Eğitim ve kariyer | Yüksek lisans, staj, terfi
+# Yükseköğretim | Lisans, yüksek lisans, tez…
+lisans|🎓|la licence|la lisãs|f
+yüksek lisans|📘|le master|lö master|m
+doktora|🎓|le doctorat|lö doktora|m
+tez|📚|la thèse|la tez|f
+tez danışmanı|🧑‍🏫|le directeur de thèse|lö direktör dö tez|m
+kayıt (üniversite)|📩|l'inscription|lẽskripsyõ|f
+mezun|🎉|le diplômé|lö diplome|m
+# Kariyer | Staj, terfi, özgeçmiş…
+staj|🧑‍🎓|le stage|lö staj|m
+terfi|📈|la promotion|la promosyõ|f
+özgeçmiş|📄|le CV|lö sevé|m
+beceri|🛠️|la compétence|la kõpetãs|f
+pozisyon|🪑|le poste|lö post|m
+iş deneyimi|⏳|l'expérience professionnelle|leksperyãs profesyonel|f
+kariyer|🪜|la carrière|la karyer|f
+# İş ortamı | Mesai, izin, ekip…
+iş günü|🕘|la journée de travail|la jurne dö travay|f
+fazla mesai|🌙|les heures supplémentaires|le zör süplemãter|
+yıllık izin|🏖️|les congés payés|le kõje peye|
+ekip|👥|l'équipe de travail|lekip dö travay|f
+iş yükü|🏋️|la charge de travail|la şarj dö travay|f
+uzaktan çalışma|🏠|le télétravail|lö teletravay|m
+son tarih|⏰|la date limite|la dat limit|f
+# Beceriler | Liderlik, verimlilik, esneklik…
+liderlik|🧭|le leadership|lö lidörşip|m
+verimlilik|⚡|l'efficacité|lefikasite|f
+esneklik|🤸|la flexibilité|la fleksibilite|f
+girişkenlik|🚀|l'initiative|linisyativ|f
+zaman yönetimi|⏱️|la gestion du temps|la jestyõ dü tã|f
+ekip çalışması|🤝|le travail d'équipe|lö travay dekip|m
+yetkinlik|🏅|le savoir-faire|lö savuar-fer|m
+# Kariyer fiilleri | Terfi almak, istifa etmek…
+terfi almak|⬆️|être promu|etr promü|
+işten ayrılmak|📤|quitter son emploi|kite sõ nãplua|
+staj yapmak|🗂️|faire un stage|fer ẽ staj|
+kendini geliştirmek|🌱|progresser|progrese|
+uzmanlaşmak|🎯|se spécialiser|sö spesyalize|
+görevlendirmek|📌|confier une tâche|kõfye ün taş|
+denetlemek|🔎|superviser|süpervize|
+## Çevre ve enerji | Emisyon, iklim değişikliği, yenilenebilir
+# İklim | Küresel ısınma, emisyon, sera etkisi…
+küresel ısınma|🌡️|le réchauffement climatique|lö reşofmã klimatik|m
+iklim değişikliği|🌍|le changement climatique|lö şãjmã klimatik|m
+emisyonlar|🏭|les émissions|le zemisyõ|
+sera etkisi|🏡|l'effet de serre|lefe dö ser|m
+karbondioksit|💨|le dioxyde de carbone|lö dyoksid dö karbon|m
+ozon tabakası|🛡️|la couche d'ozone|la kuş dozon|f
+buzulların erimesi|🧊|la fonte des glaciers|la fõt de glasye|f
+# Enerji | Yenilenebilir enerji, türbin, panel…
+yenilenebilir enerji|♻️|l'énergie renouvelable|lenerji rönuvlabl|f
+rüzgâr türbini|🌬️|l'éolienne|leolyen|f
+güneş paneli|☀️|le panneau solaire|lö pano soler|m
+nükleer santral|⚛️|la centrale nucléaire|la sãtral nükleer|f
+petrol|🛢️|le pétrole|lö petrol|m
+doğal gaz|🔥|le gaz naturel|lö gaz natürel|m
+kömür|⚫|le charbon|lö şarbõ|m
+# Doğa koruma | Kaynaklar, koruma alanı…
+doğal kaynaklar|🌲|les ressources naturelles|le rösurs natürel|
+koruma alanı|🏞️|la réserve naturelle|la rezerv natürel|f
+nesli tükenmekte olan|🐼|menacé d'extinction|mönase dekstẽksyõ|
+ormansızlaşma|🪓|la déforestation|la deforestasyõ|f
+biyoçeşitlilik|🦋|la biodiversité|la byodiversite|f
+ekosistem|🌿|l'écosystème|lekosistem|m
+gönüllü|🙋|le bénévole|lö benevol|m
+# Atık | Plastik, çöp ayrıştırma, ambalaj…
+atıklar|🗑️|les déchets|le deşe|
+plastik|🧴|le plastique|lö plastik|m
+çöp ayrıştırma|🚮|le tri sélectif|lö tri selektif|m
+ambalaj|📦|l'emballage|lãbalaj|m
+çöplük|🏔️|la décharge|la deşarj|f
+kanalizasyon|🚰|les égouts|le zegu|
+su arıtma|💧|le traitement de l'eau|lö tretmã dö lo|m
+# Çevre fiilleri | Kirletmek, geri dönüştürmek…
+kirletmek|🏭|polluer|polüe|
+geri dönüştürmek|♻️|recycler|rösikle|
+yok etmek|💥|détruire|detrüir|
+azaltmak|📉|réduire|redüir|
+yeniden kullanmak|🔁|réutiliser|reütilize|
+ağaç dikmek|🌳|planter des arbres|plãte de zarbr|
+kaynakları korumak|🌿|préserver les ressources|prezerve le rösurs|
+## Toplum ve sosyal sorunlar | Göç, yoksulluk, eşitsizlik
+# Sosyal sorunlar | Yoksulluk, evsizlik, eşitsizlik…
+yoksulluk|🪙|la pauvreté|la povröte|f
+evsiz|🏚️|le sans-abri|lö sã-zabri|m
+eşitsizlik|⚖️|l'inégalité|linegalite|f
+bağımlılık|🍷|la dépendance|la depãdãs|f
+suç oranı|📊|la criminalité|la kriminalite|f
+yalnızlık|🌑|la solitude|la solitüd|f
+sosyal yardım|🤲|l'aide sociale|led sosyal|f
+# Göç | Göçmen, mülteci, uyum…
+göç|🧳|l'immigration|limigrasyõ|f
+göçmen|🚶|l'immigré|limigre|m
+mülteci|⛺|le réfugié|lö refüjye|m
+uyum (sosyal)|🧩|l'intégration|lẽtegrasyõ|f
+vatandaşlık|🪪|la nationalité|la nasyonalite|f
+oturma izni|📃|le titre de séjour|lö titr dö sejur|m
+memleket hasreti|💭|le mal du pays|lö mal dü pei|m
+# Nesiller | Kuşak, gençler, yaşlılar…
+kuşak, nesil|👨‍👩‍👧|la génération|la jenerasyõ|f
+gençlik (toplum)|🧑‍🤝‍🧑|les jeunes|le jön|
+yaşlılar|👴|les personnes âgées|le person zaje|
+çocuk eğitimi|👶|l'éducation des enfants|ledükasyõ de zãfã|f
+doğum oranı|📈|la natalité|la natalite|f
+ortalama ömür|⏳|l'espérance de vie|lesperãs dö vi|f
+emekli maaşı|💳|la pension de retraite|la pãsyõ dö rötret|f
+# Toplumsal yaşam | Topluluk, hayır işi, dayanışma…
+topluluk|🏘️|la communauté|la komünote|f
+hayır işleri|💝|la charité|la şarite|f
+gönüllülük|🙌|le bénévolat|lö benevola|m
+hoşgörü|🫶|la tolérance|la tolerãs|f
+dayanışma|🤝|la solidarité|la solidarite|f
+gösteri (protesto)|✊|la manifestation|la manifestasyõ|f
+grev|🪧|la grève|la grev|f
+# Toplum fiilleri | Göç etmek, uyum sağlamak…
+göç etmek|🛫|émigrer|emigre|
+uyum sağlamak|🧩|s'adapter|sadapte|
+bağış yapmak|🎁|faire un don|fer ẽ dõ|
+gösteri yapmak|📣|manifester|manifeste|
+dışlamak|🚪|exclure|eksklür|
+birleştirmek|🔗|unir|ünir|
+sorunu çözmek|🧠|résoudre un problème|rezudr ẽ problem|
+## İleri fiiller | Etkilemek, kaçınmak, sağlamak, varsaymak
+# Etki ve neden | Etkilemek, neden olmak, bağlı olmak…
+etkilemek|🌀|influencer|ẽflüãse|
+neden olmak|➡️|provoquer|provoke|
+bağlı olmak|🔗|dépendre de|depãdr dö|
+yol açmak|🏁|entraîner|ãtrene|
+önlemek|🛑|empêcher|ãpeşe|
+kolaylaştırmak|🪶|faciliter|fasilite|
+zorlaştırmak|🧱|compliquer|kõplike|
+# Düşünce fiilleri | Varsaymak, değerlendirmek…
+varsaymak|💭|supposer|süpoze|
+sonuç çıkarmak|🧩|conclure|kõklür|
+değerlendirmek|⚖️|évaluer|evalüe|
+dikkate almak|📝|tenir compte de|tönir kõt dö|
+karşılaştırmak|🆚|comparer|kõpare|
+farkına varmak|💡|se rendre compte|sö rãdr kõt|
+tereddüt etmek|🤔|hésiter|ezite|
+# Sağlamak ve elde etmek | Sağlamak, ulaşmak, gerçekleştirmek…
+sağlamak|🎁|fournir|furnir|
+ulaşmak (hedefe)|🏆|atteindre|atẽdr|
+gerçekleştirmek|✅|réaliser|realize|
+yararlanmak|🧰|profiter de|profite dö|
+uygulamak|🛠️|appliquer|aplike|
+sürdürmek|♾️|maintenir|mẽtnir|
+ertelemek|⏸️|reporter|röporte|
+# Kaçınma ve vazgeçme | Kaçınmak, reddetmek…
+kaçınmak|🙈|éviter|evite|
+reddetmek|🙅|refuser|röfüze|
+vazgeçmek|🏳️|renoncer|rönõse|
+gizlemek|🫥|dissimuler|disimüle|
+ihmal etmek|😶|négliger|neglije|
+direnmek|🧱|résister|reziste|
+pes etmemek|💪|tenir bon|tönir bõ|
+# Değişim fiilleri | Dönüşmek, uyarlamak, iyileştirmek…
+dönüşmek|🦋|se transformer|sö trãsforme|
+gelişmek|📈|évoluer|evolüe|
+uyarlamak|🔧|adapter|adapte|
+iyileştirmek|⭐|améliorer|ameliore|
+kötüleşmek|📉|empirer|ãpire|
+yenilemek|🔄|rénover|renove|
+korumak, muhafaza etmek|🌿|conserver|kõserve|
+## Tartışma ve ifade | Görüş bildirme, bağlaçlar, akademik dil
+# Görüş bildirme | Bana öyle geliyor ki, kuşkusuz…
+bana öyle geliyor ki|🤔|il me semble que|il mö sãbl kö|
+bence (resmî)|🗨️|selon moi|sölõ mua|
+kuşkusuz|✔️|sans aucun doute|sã zokẽ dut|
+muhtemelen|🎲|probablement|probablömã|
+görünüşe göre|👀|apparemment|aparamã|
+açıkçası|🙌|franchement|frãşmã|
+bildiğim kadarıyla|📚|à ma connaissance|a ma konesãs|
+# Bağlaçlar 2 | Bu nedenle, öte yandan…
+bu nedenle|➡️|par conséquent|par kõsekã|
+öte yandan|🔄|d'autre part|dotr par|
+üstelik|➕|en outre|ã nutr|
+yani|🟰|c'est-à-dire|setadir|
+buna rağmen|🔀|néanmoins|neãmuẽ|
+özetle|📝|bref|bref|
+birincisi|1️⃣|premièrement|prömyermã|
+# Akademik dil | Yaklaşım, bakış açısı, argüman…
+yaklaşım|🧭|l'approche|laproş|f
+bakış açısı|🔭|le point de vue|lö puẽ dö vü|m
+argüman|🗣️|l'argument|largümã|m
+sonuç (çıkarım)|🏁|la conclusion|la kõklüzyõ|f
+özellik|🔖|la particularité|la partikülarite|f
+eğilim|📈|la tendance|la tãdãs|f
+etken|⚙️|le facteur|lö faktör|m
+# Tartışma ifadeleri | Tamamen katılıyorum…
+tamamen katılıyorum|💯|je suis tout à fait d'accord|jö süi tutafe dakor|
+kısmen haklısın|🌗|tu as en partie raison|tü a ã parti rezõ|
+mesele şu ki|❗|le problème, c'est que|lö problem se kö|
+örneğin (resmî)|📌|à titre d'exemple|a titr degzãpl|
+bir yandan|↔️|d'une part|dün par|
+sonuç olarak|🏁|en fin de compte|ã fẽ dö kõt|
+başka bir deyişle|🔁|autrement dit|otrömã di|
+# Sıfatlar 3 | Temel, gerçekçi, tartışmalı…
+temel|🧱|fondamental|fõdamãtal|
+gerçekçi|🎯|réaliste|realist|
+tartışmalı|⚡|controversé|kõtroverse|
+belirsiz|🌫️|incertain|ẽsertẽ|
+etkili|💥|efficace|efikas|
+geçerli|✅|valable|valabl|
+yetersiz|📉|insuffisant|ẽsüfizã|
+## Duygular ve ilişkiler 3 | Saygı, güven, ihanet, şefkat
+# Duygular | Şefkat, hayranlık, nefret…
+şefkat|🤗|la tendresse|la tãdres|f
+hayranlık|🤩|l'admiration|ladmirasyõ|f
+nefret|😠|la haine|la en|f
+kıskançlık|💚|la jalousie|la jaluzi|f
+hayal kırıklığı|😞|la déception|la desepsyõ|f
+minnettarlık|🙏|la gratitude|la gratitüd|f
+utanç|😳|la honte|la õt|f
+# İlişkiler | Güven, saygı, ihanet…
+güven|🤝|la confiance|la kõfyãs|f
+saygı|🙇|le respect|lö respe|m
+ihanet|🗡️|la trahison|la traizõ|f
+bağlılık|💍|la fidélité|la fidelite|f
+destek|🫂|le soutien|lö sutyẽ|m
+anlayış|💡|la compréhension|la kõpreãsyõ|f
+çatışma|⚔️|le conflit|lö kõfli|m
+# İnsanlar | Tanıdık, akran, akıl hocası…
+tanıdık|👋|la connaissance (personne)|la konesãs|f
+yaşıt|🧑‍🤝‍🧑|la personne du même âge|la person dü mem aj|f
+akıl hocası|🧙|le mentor|lö mãtor|m
+düşman|👿|l'ennemi|lenmi|m
+yabancı (tanımadık)|👤|l'inconnu|lẽkonü|m
+ev arkadaşı|🏠|le colocataire|lö kolokater|m
+sırdaş|🤫|le confident|lö kõfidã|m
+# İlişki fiilleri | Barışmak, gücenmek, ihanet etmek…
+barışmak|🕊️|se réconcilier|sö rekõsilye|
+gücenmek|😤|se vexer|sö vekse|
+güveni kaybetmek|💔|perdre confiance|perdr kõfyãs|
+ihanet etmek|🗡️|trahir|trair|
+moral vermek|🫂|remonter le moral|römõte lö moral|
+iyi geçinmek|🤝|bien s'entendre|byẽ sãtãdr|
+ayrılmak (yollar)|🚶|se quitter|sö kite|
+# Kalıplar | Seni anlıyorum, her şey yoluna girecek…
+seni çok iyi anlıyorum|🫶|je te comprends très bien|jö tö kõprã tre byẽ|
+bunu hak etmedin|🥺|tu ne méritais pas ça|tü nö merite pa sa|
+her şey yoluna girecek|🌈|tout va s'arranger|tu va sarãje|
+moralini bozma|💪|garde le moral|gard lö moral|
+ne düşündüğünü söyle|💬|dis-moi ce que tu en penses|di mua sö kö tü ã pãs|
+seninle gurur duyuyorum|🏅|je suis fier de toi|jö süi fyer dö tua|
+yanındayım|🤝|je suis là pour toi|jö süi la pur tua|

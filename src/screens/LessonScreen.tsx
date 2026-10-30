@@ -436,7 +436,14 @@ function TextCard({ x, course, onAdd }: { x: ReadText; course: Course; onAdd: (w
     if (!w) return;
     const n = norm(w);
     const known = course.words[wordItemId({ t: w, tr: '', read: '' })];
-    const hit = gloss.get(n) ?? known?.tr ?? [...gloss.entries()].find(([k]) => k.startsWith(n.slice(0, Math.max(4, n.length - 2))))?.[1];
+    const entries = [...gloss.entries()];
+    const stem = n.slice(0, Math.max(4, n.length - 2));
+    const hit =
+      gloss.get(n) ??
+      known?.tr ??
+      // multi-word glosses ("je me lève"): match the tapped word inside them
+      entries.find(([k]) => k.split(' ').includes(n))?.[1] ??
+      entries.find(([k]) => k.split(' ').some((p) => p.startsWith(stem)))?.[1];
     speak(w);
     setSel({ t: w, tr: hit ?? 'Sözlükte yok — bağlamdan tahmin et', read: '' });
   }

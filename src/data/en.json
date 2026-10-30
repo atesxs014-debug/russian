@@ -12170,6 +12170,3951 @@
      ]
     }
    ]
+  },
+  {
+   "id": "u46",
+   "level": "yuksek",
+   "title": "Siyaset ve yönetim",
+   "subtitle": "Meclis, parti, reform, diplomasi · 5 ders",
+   "lessons": [
+    {
+     "id": "u46l1",
+     "kind": "vocab",
+     "title": "Devlet kurumları",
+     "subtitle": "parliament · ministry · minister …",
+     "intro": "Meclis, bakanlık, belediye…",
+     "v": [
+      [
+       "parliament",
+       "meclis",
+       "paarlımınt",
+       "🏛️"
+      ],
+      [
+       "ministry",
+       "bakanlık",
+       "ministri",
+       "🏢"
+      ],
+      [
+       "minister",
+       "bakan",
+       "ministır",
+       "👔"
+      ],
+      [
+       "mayor",
+       "belediye başkanı",
+       "meyır",
+       "🏙️"
+      ],
+      [
+       "town hall",
+       "belediye binası",
+       "taun hool",
+       "🏤"
+      ],
+      [
+       "the authorities",
+       "yetkililer",
+       "ði oθorıtiz",
+       "🧑‍💼"
+      ],
+      [
+       "constitution",
+       "anayasa",
+       "konstityuuşın",
+       "📜"
+      ]
+     ]
+    },
+    {
+     "id": "u46l2",
+     "kind": "vocab",
+     "title": "Parti ve seçim",
+     "subtitle": "political party · opposition · candidate …",
+     "intro": "Muhalefet, aday, oy…",
+     "v": [
+      [
+       "political party",
+       "parti",
+       "pılitikıl paarti",
+       "🎗️"
+      ],
+      [
+       "opposition",
+       "muhalefet",
+       "opızişın",
+       "🗣️"
+      ],
+      [
+       "candidate",
+       "aday",
+       "kendidıt",
+       "🙋"
+      ],
+      [
+       "voter",
+       "seçmen",
+       "voutır",
+       "🗳️"
+      ],
+      [
+       "ballot",
+       "oy pusulası",
+       "belıt",
+       "✅"
+      ],
+      [
+       "election campaign",
+       "kampanya",
+       "ileksın kempeyn",
+       "📢"
+      ],
+      [
+       "majority",
+       "çoğunluk",
+       "mıcorıti",
+       "👥"
+      ]
+     ]
+    },
+    {
+     "id": "u46l3",
+     "kind": "vocab",
+     "title": "Yönetim ve reform",
+     "subtitle": "reform · politics · decree …",
+     "intro": "Reform, karar, politika…",
+     "v": [
+      [
+       "reform",
+       "reform",
+       "rifoorm",
+       "🔧"
+      ],
+      [
+       "politics",
+       "siyaset",
+       "politiks",
+       "🧭"
+      ],
+      [
+       "decree",
+       "kararname",
+       "dikrii",
+       "📝"
+      ],
+      [
+       "administration",
+       "yönetim",
+       "ıdministreyşın",
+       "⚙️"
+      ],
+      [
+       "corruption",
+       "yolsuzluk",
+       "kırapşın",
+       "💰"
+      ],
+      [
+       "transparency",
+       "şeffaflık",
+       "trensperınsi",
+       "🔍"
+      ],
+      [
+       "responsibility",
+       "sorumluluk",
+       "risponsıbilıti",
+       "⚖️"
+      ]
+     ]
+    },
+    {
+     "id": "u46l4",
+     "kind": "vocab",
+     "title": "Diplomasi",
+     "subtitle": "diplomacy · embassy · ambassador …",
+     "intro": "Elçilik, antlaşma, müzakere…",
+     "v": [
+      [
+       "diplomacy",
+       "diplomasi",
+       "diploumısi",
+       "🤝"
+      ],
+      [
+       "embassy",
+       "büyükelçilik",
+       "embısi",
+       "🏳️"
+      ],
+      [
+       "ambassador",
+       "büyükelçi",
+       "embesıdır",
+       "🎩"
+      ],
+      [
+       "treaty",
+       "antlaşma",
+       "triiti",
+       "✍️"
+      ],
+      [
+       "negotiations",
+       "müzakereler",
+       "nigouşieyşınz",
+       "💬"
+      ],
+      [
+       "sanctions",
+       "yaptırımlar",
+       "senkşınz",
+       "🚫"
+      ],
+      [
+       "international",
+       "uluslararası",
+       "intırneşınıl",
+       "🌐"
+      ]
+     ]
+    },
+    {
+     "id": "u46l5",
+     "kind": "vocab",
+     "title": "Siyasi fiiller",
+     "subtitle": "elect · govern · support …",
+     "intro": "Seçmek, yönetmek, desteklemek…",
+     "v": [
+      [
+       "elect",
+       "seçmek",
+       "ilekt",
+       "☑️"
+      ],
+      [
+       "govern",
+       "yönetmek (ülke)",
+       "gavırn",
+       "👑"
+      ],
+      [
+       "support",
+       "desteklemek",
+       "sıpoort",
+       "👍"
+      ],
+      [
+       "oppose",
+       "karşı çıkmak",
+       "ıpouz",
+       "✋"
+      ],
+      [
+       "pass a law",
+       "yasayı kabul etmek",
+       "paas ı loo",
+       "📗"
+      ],
+      [
+       "criticise",
+       "eleştirmek",
+       "kritisayz",
+       "🗯️"
+      ],
+      [
+       "resign",
+       "istifa etmek",
+       "rizayn",
+       "🚪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u47",
+   "level": "yuksek",
+   "title": "Hukuk ve adalet",
+   "subtitle": "Dava, avukat, delil, ceza · 5 ders",
+   "lessons": [
+    {
+     "id": "u47l1",
+     "kind": "vocab",
+     "title": "Mahkemede",
+     "subtitle": "trial · the accused · witness …",
+     "intro": "Dava, sanık, tanık…",
+     "v": [
+      [
+       "trial",
+       "dava",
+       "trayıl",
+       "📂"
+      ],
+      [
+       "the accused",
+       "sanık",
+       "ði ıkyuuzd",
+       "🧍"
+      ],
+      [
+       "witness",
+       "tanık",
+       "witnıs",
+       "👁️"
+      ],
+      [
+       "prosecutor",
+       "savcı",
+       "prosikyuutır",
+       "👨‍⚖️"
+      ],
+      [
+       "jury",
+       "jüri",
+       "cuıri",
+       "👥"
+      ],
+      [
+       "verdict",
+       "karar (mahkeme)",
+       "vördikt",
+       "🔨"
+      ],
+      [
+       "appeal",
+       "temyiz",
+       "ıpiil",
+       "📨"
+      ]
+     ]
+    },
+    {
+     "id": "u47l2",
+     "kind": "vocab",
+     "title": "Suç ve ceza",
+     "subtitle": "evidence · investigation · prison …",
+     "intro": "Hapis, delil, soruşturma…",
+     "v": [
+      [
+       "evidence",
+       "delil, kanıt",
+       "evidıns",
+       "🧾"
+      ],
+      [
+       "investigation",
+       "soruşturma",
+       "investigeyşın",
+       "🕵️"
+      ],
+      [
+       "prison",
+       "hapishane",
+       "prizın",
+       "⛓️"
+      ],
+      [
+       "arrest",
+       "tutuklamak",
+       "ırest",
+       "🚔"
+      ],
+      [
+       "fraud",
+       "dolandırıcılık",
+       "frood",
+       "🎭"
+      ],
+      [
+       "smuggling",
+       "kaçakçılık",
+       "smagling",
+       "📦"
+      ],
+      [
+       "violence",
+       "şiddet",
+       "vayılıns",
+       "👊"
+      ]
+     ]
+    },
+    {
+     "id": "u47l3",
+     "kind": "vocab",
+     "title": "Haklar",
+     "subtitle": "justice · equality · discrimination …",
+     "intro": "Adalet, eşitlik, ayrımcılık…",
+     "v": [
+      [
+       "justice",
+       "adalet",
+       "castis",
+       "⚖️"
+      ],
+      [
+       "equality",
+       "eşitlik",
+       "ikwolıti",
+       "🟰"
+      ],
+      [
+       "discrimination",
+       "ayrımcılık",
+       "diskrimineyşın",
+       "🚷"
+      ],
+      [
+       "human rights",
+       "insan hakları",
+       "hyuumın rayts",
+       "🕊️"
+      ],
+      [
+       "freedom of speech",
+       "ifade özgürlüğü",
+       "friidım ıv spiiç",
+       "🗣️"
+      ],
+      [
+       "privacy",
+       "özel hayat",
+       "privısi",
+       "🔒"
+      ],
+      [
+       "security",
+       "güvenlik",
+       "sikyuırıti",
+       "🛡️"
+      ]
+     ]
+    },
+    {
+     "id": "u47l4",
+     "kind": "vocab",
+     "title": "Belgeler",
+     "subtitle": "clause · notary · power of attorney …",
+     "intro": "Madde, noter, vekâlet…",
+     "v": [
+      [
+       "clause",
+       "madde (sözleşme)",
+       "klooz",
+       "📄"
+      ],
+      [
+       "notary",
+       "noter",
+       "noutıri",
+       "🖋️"
+      ],
+      [
+       "power of attorney",
+       "vekâletname",
+       "pauır ıv ıtörni",
+       "📃"
+      ],
+      [
+       "application form",
+       "dilekçe, başvuru",
+       "eplikeyşın foorm",
+       "📥"
+      ],
+      [
+       "permit",
+       "izin belgesi",
+       "pörmit",
+       "🪪"
+      ],
+      [
+       "notification",
+       "bildirim",
+       "noutifikeyşın",
+       "✉️"
+      ],
+      [
+       "stamp",
+       "mühür, kaşe",
+       "stemp",
+       "🔴"
+      ]
+     ]
+    },
+    {
+     "id": "u47l5",
+     "kind": "vocab",
+     "title": "Hukuk fiilleri",
+     "subtitle": "accuse · prove · violate …",
+     "intro": "Suçlamak, kanıtlamak, ihlal etmek…",
+     "v": [
+      [
+       "accuse",
+       "suçlamak",
+       "ıkyuuz",
+       "👉"
+      ],
+      [
+       "prove",
+       "kanıtlamak",
+       "pruuv",
+       "✔️"
+      ],
+      [
+       "violate",
+       "ihlal etmek",
+       "vayıleyt",
+       "⚠️"
+      ],
+      [
+       "defend in court",
+       "mahkemede savunmak",
+       "difend in koort",
+       "🛡️"
+      ],
+      [
+       "sue",
+       "dava açmak",
+       "suu",
+       "📤"
+      ],
+      [
+       "punish",
+       "cezalandırmak",
+       "paniş",
+       "🚨"
+      ],
+      [
+       "acquit",
+       "beraat ettirmek",
+       "ıkwit",
+       "🙌"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u48",
+   "level": "yuksek",
+   "title": "Ekonomi ve iş dünyası",
+   "subtitle": "Şirket, yatırım, rekabet, kâr · 5 ders",
+   "lessons": [
+    {
+     "id": "u48l1",
+     "kind": "vocab",
+     "title": "Şirket",
+     "subtitle": "shareholder · stock · board of directors …",
+     "intro": "Hissedar, yönetim kurulu, şube…",
+     "v": [
+      [
+       "shareholder",
+       "hissedar",
+       "şeırhouldır",
+       "📈"
+      ],
+      [
+       "stock",
+       "hisse senedi",
+       "stok",
+       "📊"
+      ],
+      [
+       "board of directors",
+       "yönetim kurulu",
+       "boord ıv dayrektırz",
+       "🪑"
+      ],
+      [
+       "branch office",
+       "şube",
+       "braanç ofis",
+       "🏬"
+      ],
+      [
+       "entrepreneur",
+       "girişimci",
+       "ontrıprınör",
+       "🚀"
+      ],
+      [
+       "business",
+       "işletme",
+       "biznıs",
+       "🏭"
+      ],
+      [
+       "bankruptcy",
+       "iflas",
+       "benkraptsi",
+       "📉"
+      ]
+     ]
+    },
+    {
+     "id": "u48l2",
+     "kind": "vocab",
+     "title": "Para ve kâr",
+     "subtitle": "income · expenses · profit …",
+     "intro": "Gelir, gider, kâr, zarar…",
+     "v": [
+      [
+       "income",
+       "gelir",
+       "inkam",
+       "💵"
+      ],
+      [
+       "expenses",
+       "giderler",
+       "ikspensiz",
+       "💸"
+      ],
+      [
+       "profit",
+       "kâr",
+       "profit",
+       "💹"
+      ],
+      [
+       "loss",
+       "zarar",
+       "los",
+       "🔻"
+      ],
+      [
+       "turnover",
+       "ciro",
+       "törnouvır",
+       "🔄"
+      ],
+      [
+       "funds",
+       "sermaye, fon",
+       "fandz",
+       "🏦"
+      ],
+      [
+       "investments",
+       "yatırımlar",
+       "investmınts",
+       "🌱"
+      ]
+     ]
+    },
+    {
+     "id": "u48l3",
+     "kind": "vocab",
+     "title": "Piyasa",
+     "subtitle": "demand · supply · competition …",
+     "intro": "Talep, arz, rekabet, tekel…",
+     "v": [
+      [
+       "demand",
+       "talep (piyasa)",
+       "dimaand",
+       "🙋"
+      ],
+      [
+       "supply",
+       "arz",
+       "sıplay",
+       "📦"
+      ],
+      [
+       "competition",
+       "rekabet",
+       "kompıtişın",
+       "🏁"
+      ],
+      [
+       "competitor",
+       "rakip",
+       "kımpetitır",
+       "🥊"
+      ],
+      [
+       "monopoly",
+       "tekel",
+       "mınopıli",
+       "👑"
+      ],
+      [
+       "consumer",
+       "tüketici",
+       "kınsyuumır",
+       "🛒"
+      ],
+      [
+       "price rise",
+       "fiyat artışı",
+       "prays rayz",
+       "⬆️"
+      ]
+     ]
+    },
+    {
+     "id": "u48l4",
+     "kind": "vocab",
+     "title": "Ticaret",
+     "subtitle": "supplier · delivery · tender …",
+     "intro": "Tedarikçi, teslimat, ihale…",
+     "v": [
+      [
+       "supplier",
+       "tedarikçi",
+       "sıplayır",
+       "🚚"
+      ],
+      [
+       "delivery",
+       "teslimat",
+       "diliveri",
+       "📬"
+      ],
+      [
+       "tender",
+       "ihale",
+       "tendır",
+       "📋"
+      ],
+      [
+       "negotiate",
+       "müzakere etmek",
+       "nigouşieyt",
+       "🗣️"
+      ],
+      [
+       "trade agreement",
+       "ticari anlaşma",
+       "treyd ıgriimınt",
+       "🤝"
+      ],
+      [
+       "business partner",
+       "iş ortağı",
+       "biznıs paartnır",
+       "👬"
+      ],
+      [
+       "brand",
+       "marka",
+       "brend",
+       "™️"
+      ]
+     ]
+    },
+    {
+     "id": "u48l5",
+     "kind": "vocab",
+     "title": "İş fiilleri",
+     "subtitle": "start a business · expand · make a profit …",
+     "intro": "Kurmak, genişlemek, kâr etmek…",
+     "v": [
+      [
+       "start a business",
+       "şirket kurmak",
+       "staart ı biznıs",
+       "🏗️"
+      ],
+      [
+       "expand",
+       "genişlemek",
+       "ikspend",
+       "↔️"
+      ],
+      [
+       "make a profit",
+       "kâr etmek",
+       "meyk ı profit",
+       "💰"
+      ],
+      [
+       "attract investors",
+       "yatırım çekmek",
+       "ıtrekt investırz",
+       "🧲"
+      ],
+      [
+       "trade",
+       "ticaret yapmak",
+       "treyd",
+       "🚢"
+      ],
+      [
+       "bargain",
+       "pazarlık etmek",
+       "baargın",
+       "🤏"
+      ],
+      [
+       "go bankrupt",
+       "iflas etmek",
+       "gou benkrapt",
+       "🕳️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u49",
+   "level": "yuksek",
+   "title": "Bilim ve araştırma",
+   "subtitle": "Deney, keşif, teori, laboratuvar · 5 ders",
+   "lessons": [
+    {
+     "id": "u49l1",
+     "kind": "vocab",
+     "title": "Araştırma",
+     "subtitle": "research · experiment · hypothesis …",
+     "intro": "Deney, hipotez, sonuç…",
+     "v": [
+      [
+       "research",
+       "araştırma",
+       "risörç",
+       "🔬"
+      ],
+      [
+       "experiment",
+       "deney",
+       "iksperimınt",
+       "🧪"
+      ],
+      [
+       "hypothesis",
+       "hipotez",
+       "haypoθısis",
+       "💭"
+      ],
+      [
+       "theory",
+       "teori",
+       "θiıri",
+       "📐"
+      ],
+      [
+       "discovery",
+       "keşif",
+       "diskavıri",
+       "🔭"
+      ],
+      [
+       "method",
+       "yöntem",
+       "meθıd",
+       "🧭"
+      ],
+      [
+       "data",
+       "veriler",
+       "deytı",
+       "📊"
+      ]
+     ]
+    },
+    {
+     "id": "u49l2",
+     "kind": "vocab",
+     "title": "Bilim insanları",
+     "subtitle": "scientist · researcher · expert …",
+     "intro": "Bilim insanı, araştırmacı, mucit…",
+     "v": [
+      [
+       "scientist",
+       "bilim insanı",
+       "sayıntist",
+       "👩‍🔬"
+      ],
+      [
+       "researcher",
+       "araştırmacı",
+       "risörçır",
+       "🔎"
+      ],
+      [
+       "expert",
+       "uzman",
+       "ekspört",
+       "🎓"
+      ],
+      [
+       "inventor",
+       "mucit",
+       "inventır",
+       "💡"
+      ],
+      [
+       "academy",
+       "akademi",
+       "ıkedımi",
+       "🏛️"
+      ],
+      [
+       "laboratory",
+       "laboratuvar",
+       "lıborıtri",
+       "🧫"
+      ],
+      [
+       "scientific journal",
+       "bilimsel dergi",
+       "sayıntifik cörnıl",
+       "📰"
+      ]
+     ]
+    },
+    {
+     "id": "u49l3",
+     "kind": "vocab",
+     "title": "Doğa bilimleri",
+     "subtitle": "cell · gene · molecule …",
+     "intro": "Hücre, gen, molekül…",
+     "v": [
+      [
+       "cell",
+       "hücre",
+       "sel",
+       "🦠"
+      ],
+      [
+       "gene",
+       "gen",
+       "ciin",
+       "🧬"
+      ],
+      [
+       "molecule",
+       "molekül",
+       "molikyuul",
+       "⚛️"
+      ],
+      [
+       "evolution",
+       "evrim",
+       "iivıluuşın",
+       "🐒"
+      ],
+      [
+       "gravity",
+       "yer çekimi",
+       "grevıti",
+       "🍎"
+      ],
+      [
+       "speed of light",
+       "ışık hızı",
+       "spiid ıv layt",
+       "💫"
+      ],
+      [
+       "matter",
+       "madde (fizik)",
+       "metır",
+       "🧱"
+      ]
+     ]
+    },
+    {
+     "id": "u49l4",
+     "kind": "vocab",
+     "title": "Teknik kavramlar",
+     "subtitle": "measurement · calculation · model …",
+     "intro": "Ölçüm, hesap, model…",
+     "v": [
+      [
+       "measurement",
+       "ölçüm",
+       "mejımınt",
+       "📏"
+      ],
+      [
+       "calculation",
+       "hesaplama",
+       "kelkyuleyşın",
+       "🧮"
+      ],
+      [
+       "model",
+       "model",
+       "modıl",
+       "🧩"
+      ],
+      [
+       "analysis",
+       "analiz",
+       "ınelısis",
+       "📈"
+      ],
+      [
+       "statistics",
+       "istatistik",
+       "stıtistiks",
+       "📊"
+      ],
+      [
+       "formula",
+       "formül",
+       "foormyulı",
+       "➗"
+      ],
+      [
+       "equation",
+       "denklem",
+       "ikweyjın",
+       "🟰"
+      ]
+     ]
+    },
+    {
+     "id": "u49l5",
+     "kind": "vocab",
+     "title": "Bilim fiilleri",
+     "subtitle": "do research · discover · invent …",
+     "intro": "Araştırmak, keşfetmek, icat etmek…",
+     "v": [
+      [
+       "do research",
+       "araştırmak",
+       "duu risörç",
+       "🔍"
+      ],
+      [
+       "discover",
+       "keşfetmek",
+       "diskavır",
+       "🗝️"
+      ],
+      [
+       "invent",
+       "icat etmek",
+       "invent",
+       "⚙️"
+      ],
+      [
+       "observe",
+       "gözlemlemek",
+       "ıbzörv",
+       "👀"
+      ],
+      [
+       "measure",
+       "ölçmek",
+       "mejır",
+       "📐"
+      ],
+      [
+       "analyse",
+       "analiz etmek",
+       "enılayz",
+       "🧠"
+      ],
+      [
+       "publish",
+       "yayımlamak",
+       "pabliş",
+       "📚"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u50",
+   "level": "yuksek",
+   "title": "Teknoloji ve dijital dünya",
+   "subtitle": "Yapay zekâ, veri, yazılım · 5 ders",
+   "lessons": [
+    {
+     "id": "u50l1",
+     "kind": "vocab",
+     "title": "Yazılım",
+     "subtitle": "software · computer program · code …",
+     "intro": "Program, kod, geliştirici…",
+     "v": [
+      [
+       "software",
+       "yazılım",
+       "softweır",
+       "💾"
+      ],
+      [
+       "computer program",
+       "program",
+       "kımpyuutır prougrem",
+       "🖥️"
+      ],
+      [
+       "code",
+       "kod",
+       "koud",
+       "👨‍💻"
+      ],
+      [
+       "developer",
+       "geliştirici",
+       "divelıpır",
+       "🧑‍💻"
+      ],
+      [
+       "bug",
+       "yazılım hatası",
+       "bag",
+       "🐞"
+      ],
+      [
+       "version",
+       "sürüm",
+       "vörjın",
+       "🔢"
+      ],
+      [
+       "algorithm",
+       "algoritma",
+       "elgıriðım",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u50l2",
+     "kind": "vocab",
+     "title": "Yapay zekâ ve veri",
+     "subtitle": "artificial intelligence · robot · server …",
+     "intro": "Yapay zekâ, sunucu, bulut…",
+     "v": [
+      [
+       "artificial intelligence",
+       "yapay zekâ",
+       "aartifişıl intelicıns",
+       "🤖"
+      ],
+      [
+       "robot",
+       "robot",
+       "roubot",
+       "🦾"
+      ],
+      [
+       "server",
+       "sunucu",
+       "sörvır",
+       "🗄️"
+      ],
+      [
+       "the cloud",
+       "bulut (bilişim)",
+       "ðı klaud",
+       "☁️"
+      ],
+      [
+       "database",
+       "veritabanı",
+       "deytıbeys",
+       "🗃️"
+      ],
+      [
+       "network",
+       "ağ",
+       "netwörk",
+       "🕸️"
+      ],
+      [
+       "digital",
+       "dijital",
+       "dicitıl",
+       "📱"
+      ]
+     ]
+    },
+    {
+     "id": "u50l3",
+     "kind": "vocab",
+     "title": "Güvenlik",
+     "subtitle": "encryption · cyberattack · hacker …",
+     "intro": "Şifreleme, saldırı, hacker…",
+     "v": [
+      [
+       "encryption",
+       "şifreleme",
+       "inkripşın",
+       "🔐"
+      ],
+      [
+       "cyberattack",
+       "siber saldırı",
+       "saybırıtek",
+       "💥"
+      ],
+      [
+       "hacker",
+       "hacker",
+       "hekır",
+       "🕶️"
+      ],
+      [
+       "personal data",
+       "kişisel veriler",
+       "pörsınıl deytı",
+       "🧾"
+      ],
+      [
+       "firewall",
+       "güvenlik duvarı",
+       "fayırwool",
+       "🧱"
+      ],
+      [
+       "backup",
+       "yedek kopya",
+       "bekap",
+       "📀"
+      ],
+      [
+       "authentication",
+       "kimlik doğrulama",
+       "ooθentikeyşın",
+       "🆔"
+      ]
+     ]
+    },
+    {
+     "id": "u50l4",
+     "kind": "vocab",
+     "title": "Cihazlar",
+     "subtitle": "processor · memory · sensor …",
+     "intro": "İşlemci, bellek, sensör…",
+     "v": [
+      [
+       "processor",
+       "işlemci",
+       "prousesır",
+       "🔲"
+      ],
+      [
+       "memory",
+       "bellek",
+       "memıri",
+       "🧠"
+      ],
+      [
+       "sensor",
+       "sensör",
+       "sensır",
+       "📡"
+      ],
+      [
+       "smartwatch",
+       "akıllı saat",
+       "smaartwoç",
+       "⌚"
+      ],
+      [
+       "cable",
+       "kablo",
+       "keybıl",
+       "🔌"
+      ],
+      [
+       "battery life",
+       "pil ömrü",
+       "betıri layf",
+       "🔋"
+      ],
+      [
+       "screen resolution",
+       "ekran çözünürlüğü",
+       "skriin rezıluuşın",
+       "🖼️"
+      ]
+     ]
+    },
+    {
+     "id": "u50l5",
+     "kind": "vocab",
+     "title": "Dijital fiiller",
+     "subtitle": "develop software · upgrade · install …",
+     "intro": "Programlamak, güncellemek, kurmak…",
+     "v": [
+      [
+       "develop software",
+       "yazılım geliştirmek",
+       "divelıp softweır",
+       "⌨️"
+      ],
+      [
+       "upgrade",
+       "yükseltmek (sürüm)",
+       "apgreyd",
+       "🔄"
+      ],
+      [
+       "install",
+       "kurmak (program)",
+       "instool",
+       "📥"
+      ],
+      [
+       "back up",
+       "yedeklemek",
+       "bek ap",
+       "💽"
+      ],
+      [
+       "encrypt",
+       "şifrelemek",
+       "inkript",
+       "🔏"
+      ],
+      [
+       "automate",
+       "otomatikleştirmek",
+       "ootımeyt",
+       "🤖"
+      ],
+      [
+       "hack",
+       "hacklemek",
+       "hek",
+       "🧨"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u51",
+   "level": "yuksek",
+   "title": "Sağlık ve tıp",
+   "subtitle": "Teşhis, tedavi, uzman doktor · 5 ders",
+   "lessons": [
+    {
+     "id": "u51l1",
+     "kind": "vocab",
+     "title": "Teşhis",
+     "subtitle": "symptom · diagnosis · check-up …",
+     "intro": "Belirti, muayene, tahlil…",
+     "v": [
+      [
+       "symptom",
+       "belirti",
+       "simptım",
+       "🤒"
+      ],
+      [
+       "diagnosis",
+       "teşhis",
+       "dayıgnousis",
+       "🩺"
+      ],
+      [
+       "check-up",
+       "muayene",
+       "çekap",
+       "🔍"
+      ],
+      [
+       "blood test",
+       "kan tahlili",
+       "blad test",
+       "🧪"
+      ],
+      [
+       "X-ray",
+       "röntgen",
+       "eksrey",
+       "🩻"
+      ],
+      [
+       "blood pressure",
+       "tansiyon",
+       "blad preşır",
+       "💓"
+      ],
+      [
+       "chronic",
+       "kronik",
+       "kronik",
+       "♾️"
+      ]
+     ]
+    },
+    {
+     "id": "u51l2",
+     "kind": "vocab",
+     "title": "Tedavi",
+     "subtitle": "treatment · therapy · recovery …",
+     "intro": "Tedavi, terapi, iyileşme…",
+     "v": [
+      [
+       "treatment",
+       "tedavi",
+       "triitmınt",
+       "💊"
+      ],
+      [
+       "therapy",
+       "terapi",
+       "θerıpi",
+       "🛋️"
+      ],
+      [
+       "recovery",
+       "iyileşme",
+       "rikavıri",
+       "🌤️"
+      ],
+      [
+       "immunity",
+       "bağışıklık",
+       "imyuunıti",
+       "🛡️"
+      ],
+      [
+       "side effect",
+       "yan etki",
+       "sayd ifekt",
+       "⚠️"
+      ],
+      [
+       "dose",
+       "doz",
+       "dous",
+       "💉"
+      ],
+      [
+       "prevention",
+       "önleme",
+       "privenşın",
+       "🚧"
+      ]
+     ]
+    },
+    {
+     "id": "u51l3",
+     "kind": "vocab",
+     "title": "Uzmanlar",
+     "subtitle": "surgeon · cardiologist · paediatrician …",
+     "intro": "Cerrah, kardiyolog, çocuk doktoru…",
+     "v": [
+      [
+       "surgeon",
+       "cerrah",
+       "sörcın",
+       "🔪"
+      ],
+      [
+       "cardiologist",
+       "kardiyolog",
+       "kaardiolıcist",
+       "❤️"
+      ],
+      [
+       "paediatrician",
+       "çocuk doktoru",
+       "piidiıtrişın",
+       "🧸"
+      ],
+      [
+       "psychologist",
+       "psikolog",
+       "saykolıcist",
+       "🧠"
+      ],
+      [
+       "eye specialist",
+       "göz doktoru",
+       "ay speşılist",
+       "👓"
+      ],
+      [
+       "clinic",
+       "klinik",
+       "klinik",
+       "🏥"
+      ],
+      [
+       "medical staff",
+       "sağlık personeli",
+       "medikıl staaf",
+       "🩺"
+      ]
+     ]
+    },
+    {
+     "id": "u51l4",
+     "kind": "vocab",
+     "title": "Hastalıklar",
+     "subtitle": "infection · inflammation · diabetes …",
+     "intro": "Enfeksiyon, iltihap, diyabet…",
+     "v": [
+      [
+       "infection",
+       "enfeksiyon",
+       "infekşın",
+       "🦠"
+      ],
+      [
+       "inflammation",
+       "iltihap",
+       "inflımeyşın",
+       "🔥"
+      ],
+      [
+       "diabetes",
+       "diyabet",
+       "dayıbiitiiz",
+       "🍬"
+      ],
+      [
+       "cancer",
+       "kanser",
+       "kensır",
+       "🎗️"
+      ],
+      [
+       "heart attack",
+       "kalp krizi",
+       "haart ıtek",
+       "💔"
+      ],
+      [
+       "epidemic",
+       "salgın",
+       "epidemik",
+       "🌍"
+      ],
+      [
+       "depression",
+       "depresyon",
+       "dipreşın",
+       "🌧️"
+      ]
+     ]
+    },
+    {
+     "id": "u51l5",
+     "kind": "vocab",
+     "title": "Sağlık fiilleri",
+     "subtitle": "treat · examine · diagnose …",
+     "intro": "Tedavi etmek, muayene etmek…",
+     "v": [
+      [
+       "treat",
+       "tedavi etmek",
+       "triit",
+       "🩹"
+      ],
+      [
+       "examine",
+       "muayene etmek",
+       "igzemin",
+       "🩺"
+      ],
+      [
+       "diagnose",
+       "teşhis koymak",
+       "dayıgnouz",
+       "📋"
+      ],
+      [
+       "prescribe",
+       "ilaç yazmak",
+       "priskrayb",
+       "📝"
+      ],
+      [
+       "fall ill",
+       "hastalanmak",
+       "fool il",
+       "🤧"
+      ],
+      [
+       "catch a virus",
+       "bulaşmak",
+       "keç ı vayrıs",
+       "😷"
+      ],
+      [
+       "recover",
+       "toparlanmak",
+       "rikavır",
+       "💪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u52",
+   "level": "yuksek",
+   "title": "Psikoloji ve karakter",
+   "subtitle": "Kişilik, davranış, motivasyon · 5 ders",
+   "lessons": [
+    {
+     "id": "u52l1",
+     "kind": "vocab",
+     "title": "Kişilik",
+     "subtitle": "character · personality · self-confidence …",
+     "intro": "Karakter, mizaç, öz güven…",
+     "v": [
+      [
+       "character",
+       "karakter",
+       "kerıktır",
+       "🎭"
+      ],
+      [
+       "personality",
+       "kişilik",
+       "pörsınelıti",
+       "🪞"
+      ],
+      [
+       "self-confidence",
+       "öz güven",
+       "self konfidıns",
+       "💪"
+      ],
+      [
+       "temperament",
+       "mizaç",
+       "tempırımınt",
+       "🌗"
+      ],
+      [
+       "behaviour",
+       "davranış",
+       "biheyvyır",
+       "🚶"
+      ],
+      [
+       "bad habit",
+       "kötü alışkanlık",
+       "bed hebit",
+       "🚬"
+      ],
+      [
+       "arrogance",
+       "kibir",
+       "erıgıns",
+       "🦚"
+      ]
+     ]
+    },
+    {
+     "id": "u52l2",
+     "kind": "vocab",
+     "title": "Olumlu özellikler",
+     "subtitle": "modest · outspoken · meticulous …",
+     "intro": "Alçakgönüllü, açık sözlü…",
+     "v": [
+      [
+       "modest",
+       "alçakgönüllü",
+       "modist",
+       "🙇"
+      ],
+      [
+       "outspoken",
+       "açık sözlü",
+       "autspoukın",
+       "🗨️"
+      ],
+      [
+       "meticulous",
+       "özenli",
+       "mıtikyulıs",
+       "🧐"
+      ],
+      [
+       "optimistic",
+       "iyimser",
+       "optimistik",
+       "🌞"
+      ],
+      [
+       "loyal",
+       "sadık",
+       "loyıl",
+       "🐕"
+      ],
+      [
+       "helpful",
+       "yardımsever",
+       "helpful",
+       "💞"
+      ],
+      [
+       "persistent",
+       "azimli",
+       "pörsistınt",
+       "🏔️"
+      ]
+     ]
+    },
+    {
+     "id": "u52l3",
+     "kind": "vocab",
+     "title": "Olumsuz özellikler",
+     "subtitle": "pessimistic · stubborn · moody …",
+     "intro": "Kötümser, inatçı, kaprisli…",
+     "v": [
+      [
+       "pessimistic",
+       "kötümser",
+       "pesimistik",
+       "🌧️"
+      ],
+      [
+       "stubborn",
+       "inatçı",
+       "stabırn",
+       "🐐"
+      ],
+      [
+       "moody",
+       "kaprisli, huysuz",
+       "muudi",
+       "😤"
+      ],
+      [
+       "reserved",
+       "çekingen",
+       "rizörvd",
+       "🫣"
+      ],
+      [
+       "absent-minded",
+       "dalgın",
+       "ebsınt mayndid",
+       "🌀"
+      ],
+      [
+       "cunning",
+       "kurnaz",
+       "kaning",
+       "🦊"
+      ],
+      [
+       "irritable",
+       "çabuk sinirlenen",
+       "iritıbıl",
+       "🌋"
+      ]
+     ]
+    },
+    {
+     "id": "u52l4",
+     "kind": "vocab",
+     "title": "Zihin",
+     "subtitle": "consciousness · the subconscious · intuition …",
+     "intro": "Bilinç, sezgi, hayal gücü…",
+     "v": [
+      [
+       "consciousness",
+       "bilinç",
+       "konşısnıs",
+       "💡"
+      ],
+      [
+       "the subconscious",
+       "bilinçaltı",
+       "ðı sabkonşıs",
+       "🌊"
+      ],
+      [
+       "intuition",
+       "sezgi",
+       "intyuişın",
+       "🔮"
+      ],
+      [
+       "imagination",
+       "hayal gücü",
+       "imecineyşın",
+       "🌈"
+      ],
+      [
+       "attention",
+       "dikkat",
+       "ıtenşın",
+       "🎯"
+      ],
+      [
+       "motivation",
+       "motivasyon",
+       "moutiveyşın",
+       "🔥"
+      ],
+      [
+       "stress",
+       "stres",
+       "stres",
+       "😫"
+      ]
+     ]
+    },
+    {
+     "id": "u52l5",
+     "kind": "vocab",
+     "title": "Psikolojik fiiller",
+     "subtitle": "regret · envy · be ashamed …",
+     "intro": "Pişman olmak, kıskanmak…",
+     "v": [
+      [
+       "regret",
+       "pişman olmak",
+       "rigret",
+       "😔"
+      ],
+      [
+       "envy",
+       "kıskanmak",
+       "envi",
+       "😒"
+      ],
+      [
+       "be ashamed",
+       "utanmak",
+       "bii ışeymd",
+       "😳"
+      ],
+      [
+       "be proud of",
+       "gurur duymak",
+       "bii praud ıv",
+       "😌"
+      ],
+      [
+       "suspect",
+       "şüphelenmek",
+       "sıspekt",
+       "🤨"
+      ],
+      [
+       "be disappointed",
+       "hayal kırıklığına uğramak",
+       "bii disıpoyntid",
+       "😞"
+      ],
+      [
+       "get used to",
+       "alışmak",
+       "get yuuzd tu",
+       "🔁"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u53",
+   "level": "yuksek",
+   "title": "Medya ve iletişim",
+   "subtitle": "Yayın, manşet, söyleşi, yorum · 5 ders",
+   "lessons": [
+    {
+     "id": "u53l1",
+     "kind": "vocab",
+     "title": "Basın",
+     "subtitle": "headline · reporter · editor …",
+     "intro": "Manşet, muhabir, editör…",
+     "v": [
+      [
+       "headline",
+       "manşet",
+       "hedlayn",
+       "🗞️"
+      ],
+      [
+       "reporter",
+       "muhabir",
+       "ripoortır",
+       "🎤"
+      ],
+      [
+       "editor",
+       "editör",
+       "editır",
+       "✏️"
+      ],
+      [
+       "publishing house",
+       "yayınevi",
+       "pablişing haus",
+       "🏢"
+      ],
+      [
+       "circulation",
+       "tiraj",
+       "sörkyuleyşın",
+       "🖨️"
+      ],
+      [
+       "censorship",
+       "sansür",
+       "sensırşip",
+       "🚫"
+      ],
+      [
+       "press conference",
+       "basın toplantısı",
+       "pres konfırıns",
+       "📸"
+      ]
+     ]
+    },
+    {
+     "id": "u53l2",
+     "kind": "vocab",
+     "title": "Televizyon ve internet",
+     "subtitle": "channel · series · live broadcast …",
+     "intro": "Kanal, dizi, yayın…",
+     "v": [
+      [
+       "channel",
+       "kanal",
+       "çenıl",
+       "📺"
+      ],
+      [
+       "series",
+       "dizi",
+       "siıriiz",
+       "🎬"
+      ],
+      [
+       "live broadcast",
+       "canlı yayın",
+       "layv broodkaast",
+       "🔴"
+      ],
+      [
+       "viewer",
+       "izleyici",
+       "vyuuır",
+       "🍿"
+      ],
+      [
+       "listener",
+       "dinleyici",
+       "lisınır",
+       "🎧"
+      ],
+      [
+       "podcast",
+       "podcast",
+       "podkaast",
+       "🎙️"
+      ],
+      [
+       "influencer",
+       "içerik üreticisi",
+       "influınsır",
+       "✍️"
+      ]
+     ]
+    },
+    {
+     "id": "u53l3",
+     "kind": "vocab",
+     "title": "Bilgi",
+     "subtitle": "source · fake news · rumour …",
+     "intro": "Kaynak, sahte haber, söylenti…",
+     "v": [
+      [
+       "source",
+       "kaynak (bilgi)",
+       "soors",
+       "📚"
+      ],
+      [
+       "fake news",
+       "sahte haber",
+       "feyk nyuuz",
+       "🤥"
+      ],
+      [
+       "rumour",
+       "söylenti",
+       "ruumır",
+       "👂"
+      ],
+      [
+       "fact",
+       "olgu",
+       "fekt",
+       "📌"
+      ],
+      [
+       "opinion",
+       "görüş",
+       "ıpinyın",
+       "💭"
+      ],
+      [
+       "commentary",
+       "yorum (analiz)",
+       "komıntri",
+       "🗒️"
+      ],
+      [
+       "public opinion",
+       "kamuoyu",
+       "pablik ıpinyın",
+       "👥"
+      ]
+     ]
+    },
+    {
+     "id": "u53l4",
+     "kind": "vocab",
+     "title": "İletişim",
+     "subtitle": "correspondence · persuasion · disagreement …",
+     "intro": "Yazışma, ikna, uzlaşma…",
+     "v": [
+      [
+       "correspondence",
+       "yazışma",
+       "korıspondıns",
+       "📨"
+      ],
+      [
+       "persuasion",
+       "ikna",
+       "pırsweyjın",
+       "🫱"
+      ],
+      [
+       "disagreement",
+       "anlaşmazlık",
+       "disıgriimınt",
+       "💢"
+      ],
+      [
+       "compromise",
+       "uzlaşma",
+       "komprımayz",
+       "🤝"
+      ],
+      [
+       "hint",
+       "ima",
+       "hint",
+       "😉"
+      ],
+      [
+       "dialogue",
+       "diyalog",
+       "dayılog",
+       "💬"
+      ],
+      [
+       "speech",
+       "nutuk, konuşma",
+       "spiiç",
+       "🎙️"
+      ]
+     ]
+    },
+    {
+     "id": "u53l5",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "inform · announce · persuade …",
+     "intro": "Bildirmek, açıklamak, ikna etmek…",
+     "v": [
+      [
+       "inform",
+       "bildirmek",
+       "infoorm",
+       "📣"
+      ],
+      [
+       "announce",
+       "açıklamak (resmen)",
+       "ınauns",
+       "📢"
+      ],
+      [
+       "persuade",
+       "ikna etmek",
+       "pırsweyd",
+       "🫴"
+      ],
+      [
+       "object",
+       "itiraz etmek",
+       "ıbcekt",
+       "🙅"
+      ],
+      [
+       "deny",
+       "yalanlamak",
+       "dinay",
+       "❌"
+      ],
+      [
+       "exaggerate",
+       "abartmak",
+       "igzecıreyt",
+       "🎈"
+      ],
+      [
+       "emphasise",
+       "vurgulamak",
+       "emfısayz",
+       "🖍️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u54",
+   "level": "yuksek",
+   "title": "Sanat ve kültür",
+   "subtitle": "Eser, sahne, sergi, yönetmen · 5 ders",
+   "lessons": [
+    {
+     "id": "u54l1",
+     "kind": "vocab",
+     "title": "Sahne sanatları",
+     "subtitle": "stage · actor · director …",
+     "intro": "Sahne, oyuncu, yönetmen…",
+     "v": [
+      [
+       "stage",
+       "sahne",
+       "steyc",
+       "🎭"
+      ],
+      [
+       "actor",
+       "aktör",
+       "ektır",
+       "🎬"
+      ],
+      [
+       "director",
+       "yönetmen",
+       "dırektır",
+       "🎥"
+      ],
+      [
+       "play (theatre)",
+       "gösteri, oyun",
+       "pley",
+       "🎟️"
+      ],
+      [
+       "ballet",
+       "bale",
+       "beley",
+       "🩰"
+      ],
+      [
+       "opera",
+       "opera",
+       "opırı",
+       "🎼"
+      ],
+      [
+       "applause",
+       "alkış",
+       "ıplooz",
+       "👏"
+      ]
+     ]
+    },
+    {
+     "id": "u54l2",
+     "kind": "vocab",
+     "title": "Görsel sanatlar",
+     "subtitle": "painter · canvas · paintbrush …",
+     "intro": "Ressam, tuval, fırça…",
+     "v": [
+      [
+       "painter",
+       "ressam",
+       "peyntır",
+       "🎨"
+      ],
+      [
+       "canvas",
+       "tuval",
+       "kenvıs",
+       "🖼️"
+      ],
+      [
+       "paintbrush",
+       "fırça",
+       "peyntbraş",
+       "🖌️"
+      ],
+      [
+       "portrait",
+       "portre",
+       "poortrit",
+       "👤"
+      ],
+      [
+       "landscape",
+       "manzara resmi",
+       "lendskeyp",
+       "🏞️"
+      ],
+      [
+       "masterpiece",
+       "şaheser",
+       "maastırpiis",
+       "🏆"
+      ],
+      [
+       "gallery",
+       "galeri",
+       "gelıri",
+       "🏛️"
+      ]
+     ]
+    },
+    {
+     "id": "u54l3",
+     "kind": "vocab",
+     "title": "Edebiyat",
+     "subtitle": "work of art · hero · plot …",
+     "intro": "Eser, kahraman, olay örgüsü…",
+     "v": [
+      [
+       "work of art",
+       "eser",
+       "wörk ıv aart",
+       "📖"
+      ],
+      [
+       "hero",
+       "kahraman (roman)",
+       "hiırou",
+       "🦸"
+      ],
+      [
+       "plot",
+       "olay örgüsü",
+       "plot",
+       "🧵"
+      ],
+      [
+       "poet",
+       "şair",
+       "pouit",
+       "🪶"
+      ],
+      [
+       "short story",
+       "öykü",
+       "şoort stoori",
+       "📝"
+      ],
+      [
+       "reader",
+       "okur",
+       "riidır",
+       "👓"
+      ],
+      [
+       "translation",
+       "çeviri (kitap)",
+       "trenzleyşın",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u54l4",
+     "kind": "vocab",
+     "title": "Kültürel miras",
+     "subtitle": "heritage · folklore · craft …",
+     "intro": "Miras, folklor, zanaat…",
+     "v": [
+      [
+       "heritage",
+       "miras",
+       "herıtic",
+       "🏺"
+      ],
+      [
+       "folklore",
+       "folklor",
+       "fouklor",
+       "🪕"
+      ],
+      [
+       "craft",
+       "zanaat",
+       "kraaft",
+       "🧶"
+      ],
+      [
+       "carnival",
+       "karnaval",
+       "kaarnivıl",
+       "🎉"
+      ],
+      [
+       "collection",
+       "koleksiyon",
+       "kılekşın",
+       "🗂️"
+      ],
+      [
+       "style",
+       "üslup",
+       "stayl",
+       "✨"
+      ],
+      [
+       "creativity",
+       "yaratıcılık",
+       "kriieytivıti",
+       "🌟"
+      ]
+     ]
+    },
+    {
+     "id": "u54l5",
+     "kind": "vocab",
+     "title": "Sanat fiilleri",
+     "subtitle": "create · stage a play · exhibit …",
+     "intro": "Yaratmak, sergilemek, ilham vermek…",
+     "v": [
+      [
+       "create",
+       "yaratmak",
+       "krieyt",
+       "🛠️"
+      ],
+      [
+       "stage a play",
+       "sahnelemek",
+       "steyc ı pley",
+       "🎭"
+      ],
+      [
+       "exhibit",
+       "sergilemek",
+       "igzibit",
+       "🖼️"
+      ],
+      [
+       "inspire",
+       "ilham vermek",
+       "inspayır",
+       "💫"
+      ],
+      [
+       "write a review",
+       "eleştiri yazmak",
+       "rayt ı rivyuu",
+       "🖋️"
+      ],
+      [
+       "play a role",
+       "rol oynamak",
+       "pley ı roul",
+       "🎬"
+      ],
+      [
+       "compose",
+       "beste yapmak",
+       "kımpouz",
+       "🎹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u55",
+   "level": "yuksek",
+   "title": "Eğitim ve kariyer",
+   "subtitle": "Yüksek lisans, staj, terfi · 5 ders",
+   "lessons": [
+    {
+     "id": "u55l1",
+     "kind": "vocab",
+     "title": "Yükseköğretim",
+     "subtitle": "bachelor's degree · master's degree · PhD …",
+     "intro": "Lisans, yüksek lisans, tez…",
+     "v": [
+      [
+       "bachelor's degree",
+       "lisans",
+       "beçılırz digrii",
+       "🎓"
+      ],
+      [
+       "master's degree",
+       "yüksek lisans",
+       "maastırz digrii",
+       "📘"
+      ],
+      [
+       "PhD",
+       "doktora",
+       "pii eyç dii",
+       "🎓"
+      ],
+      [
+       "thesis",
+       "tez",
+       "θiisis",
+       "📚"
+      ],
+      [
+       "supervisor",
+       "tez danışmanı",
+       "suupırvayzır",
+       "🧑‍🏫"
+      ],
+      [
+       "enrolment",
+       "kayıt (üniversite)",
+       "inroulmınt",
+       "📩"
+      ],
+      [
+       "graduate",
+       "mezun",
+       "grecuıt",
+       "🎉"
+      ]
+     ]
+    },
+    {
+     "id": "u55l2",
+     "kind": "vocab",
+     "title": "Kariyer",
+     "subtitle": "internship · promotion · CV …",
+     "intro": "Staj, terfi, özgeçmiş…",
+     "v": [
+      [
+       "internship",
+       "staj",
+       "intörnşip",
+       "🧑‍🎓"
+      ],
+      [
+       "promotion",
+       "terfi",
+       "prımouşın",
+       "📈"
+      ],
+      [
+       "CV",
+       "özgeçmiş",
+       "sii vii",
+       "📄"
+      ],
+      [
+       "skill",
+       "beceri",
+       "skil",
+       "🛠️"
+      ],
+      [
+       "position",
+       "pozisyon",
+       "pızişın",
+       "🪑"
+      ],
+      [
+       "work experience",
+       "iş deneyimi",
+       "wörk ikspiıriıns",
+       "⏳"
+      ],
+      [
+       "career",
+       "kariyer",
+       "kıriır",
+       "🪜"
+      ]
+     ]
+    },
+    {
+     "id": "u55l3",
+     "kind": "vocab",
+     "title": "İş ortamı",
+     "subtitle": "working day · overtime · annual leave …",
+     "intro": "Mesai, izin, ekip…",
+     "v": [
+      [
+       "working day",
+       "iş günü",
+       "wörking dey",
+       "🕘"
+      ],
+      [
+       "overtime",
+       "fazla mesai",
+       "ouvırtaym",
+       "🌙"
+      ],
+      [
+       "annual leave",
+       "yıllık izin",
+       "enyuıl liiv",
+       "🏖️"
+      ],
+      [
+       "staff",
+       "personel, ekip",
+       "staaf",
+       "👥"
+      ],
+      [
+       "workload",
+       "iş yükü",
+       "wörkloud",
+       "🏋️"
+      ],
+      [
+       "remote work",
+       "uzaktan çalışma",
+       "rimout wörk",
+       "🏠"
+      ],
+      [
+       "deadline",
+       "son tarih",
+       "dedlayn",
+       "⏰"
+      ]
+     ]
+    },
+    {
+     "id": "u55l4",
+     "kind": "vocab",
+     "title": "Beceriler",
+     "subtitle": "leadership · efficiency · flexibility …",
+     "intro": "Liderlik, verimlilik, esneklik…",
+     "v": [
+      [
+       "leadership",
+       "liderlik",
+       "liidırşip",
+       "🧭"
+      ],
+      [
+       "efficiency",
+       "verimlilik",
+       "ifişınsi",
+       "⚡"
+      ],
+      [
+       "flexibility",
+       "esneklik",
+       "fleksıbilıti",
+       "🤸"
+      ],
+      [
+       "initiative",
+       "girişkenlik",
+       "inişıtiv",
+       "🚀"
+      ],
+      [
+       "time management",
+       "zaman yönetimi",
+       "taym menicmınt",
+       "⏱️"
+      ],
+      [
+       "teamwork",
+       "ekip çalışması",
+       "tiimwörk",
+       "🤝"
+      ],
+      [
+       "expertise",
+       "yetkinlik",
+       "ekspörtiiz",
+       "🏅"
+      ]
+     ]
+    },
+    {
+     "id": "u55l5",
+     "kind": "vocab",
+     "title": "Kariyer fiilleri",
+     "subtitle": "get promoted · quit your job · do an internship …",
+     "intro": "Terfi almak, istifa etmek…",
+     "v": [
+      [
+       "get promoted",
+       "terfi almak",
+       "get prımoutid",
+       "⬆️"
+      ],
+      [
+       "quit your job",
+       "işten ayrılmak",
+       "kwit yoor cob",
+       "📤"
+      ],
+      [
+       "do an internship",
+       "staj yapmak",
+       "duu ın intörnşip",
+       "🗂️"
+      ],
+      [
+       "improve yourself",
+       "kendini geliştirmek",
+       "impruuv yoorself",
+       "🌱"
+      ],
+      [
+       "specialise",
+       "uzmanlaşmak",
+       "speşılayz",
+       "🎯"
+      ],
+      [
+       "delegate",
+       "görevlendirmek",
+       "deligeyt",
+       "📌"
+      ],
+      [
+       "supervise",
+       "denetlemek",
+       "suupırvayz",
+       "🔎"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u56",
+   "level": "yuksek",
+   "title": "Çevre ve enerji",
+   "subtitle": "Emisyon, iklim değişikliği, yenilenebilir · 5 ders",
+   "lessons": [
+    {
+     "id": "u56l1",
+     "kind": "vocab",
+     "title": "İklim",
+     "subtitle": "global warming · climate change · emissions …",
+     "intro": "Küresel ısınma, emisyon, sera etkisi…",
+     "v": [
+      [
+       "global warming",
+       "küresel ısınma",
+       "gloubıl woorming",
+       "🌡️"
+      ],
+      [
+       "climate change",
+       "iklim değişikliği",
+       "klaymıt çeync",
+       "🌍"
+      ],
+      [
+       "emissions",
+       "emisyonlar",
+       "imişınz",
+       "🏭"
+      ],
+      [
+       "greenhouse effect",
+       "sera etkisi",
+       "griinhaus ifekt",
+       "🏡"
+      ],
+      [
+       "carbon dioxide",
+       "karbondioksit",
+       "kaarbın dayoksayd",
+       "💨"
+      ],
+      [
+       "ozone layer",
+       "ozon tabakası",
+       "ouzoun leyır",
+       "🛡️"
+      ],
+      [
+       "melting glaciers",
+       "buzulların erimesi",
+       "melting glesiırz",
+       "🧊"
+      ]
+     ]
+    },
+    {
+     "id": "u56l2",
+     "kind": "vocab",
+     "title": "Enerji",
+     "subtitle": "renewable energy · wind turbine · solar panel …",
+     "intro": "Yenilenebilir enerji, türbin, panel…",
+     "v": [
+      [
+       "renewable energy",
+       "yenilenebilir enerji",
+       "rinyuuıbıl enırci",
+       "♻️"
+      ],
+      [
+       "wind turbine",
+       "rüzgâr türbini",
+       "wind törbayn",
+       "🌬️"
+      ],
+      [
+       "solar panel",
+       "güneş paneli",
+       "soulır penıl",
+       "☀️"
+      ],
+      [
+       "nuclear power station",
+       "nükleer santral",
+       "nyuukliır pauır steyşın",
+       "⚛️"
+      ],
+      [
+       "oil",
+       "petrol",
+       "oyl",
+       "🛢️"
+      ],
+      [
+       "natural gas",
+       "doğal gaz",
+       "neçırıl ges",
+       "🔥"
+      ],
+      [
+       "coal",
+       "kömür",
+       "koul",
+       "⚫"
+      ]
+     ]
+    },
+    {
+     "id": "u56l3",
+     "kind": "vocab",
+     "title": "Doğa koruma",
+     "subtitle": "natural resources · nature reserve · endangered …",
+     "intro": "Kaynaklar, koruma alanı…",
+     "v": [
+      [
+       "natural resources",
+       "doğal kaynaklar",
+       "neçırıl rizoorsiz",
+       "🌲"
+      ],
+      [
+       "nature reserve",
+       "koruma alanı",
+       "neyçır rizörv",
+       "🏞️"
+      ],
+      [
+       "endangered",
+       "nesli tükenmekte olan",
+       "indeyncırd",
+       "🐼"
+      ],
+      [
+       "deforestation",
+       "ormansızlaşma",
+       "diiforısteyşın",
+       "🪓"
+      ],
+      [
+       "biodiversity",
+       "biyoçeşitlilik",
+       "bayoudayvörsıti",
+       "🦋"
+      ],
+      [
+       "ecosystem",
+       "ekosistem",
+       "iikousistım",
+       "🌿"
+      ],
+      [
+       "volunteer",
+       "gönüllü",
+       "volıntiır",
+       "🙋"
+      ]
+     ]
+    },
+    {
+     "id": "u56l4",
+     "kind": "vocab",
+     "title": "Atık",
+     "subtitle": "waste · plastic · waste sorting …",
+     "intro": "Plastik, çöp ayrıştırma, ambalaj…",
+     "v": [
+      [
+       "waste",
+       "atıklar",
+       "weyst",
+       "🗑️"
+      ],
+      [
+       "plastic",
+       "plastik",
+       "plestik",
+       "🧴"
+      ],
+      [
+       "waste sorting",
+       "çöp ayrıştırma",
+       "weyst soorting",
+       "🚮"
+      ],
+      [
+       "packaging",
+       "ambalaj",
+       "pekıcing",
+       "📦"
+      ],
+      [
+       "landfill",
+       "çöplük",
+       "lendfil",
+       "🏔️"
+      ],
+      [
+       "sewage system",
+       "kanalizasyon",
+       "suuic sistım",
+       "🚰"
+      ],
+      [
+       "water treatment",
+       "su arıtma",
+       "wootır triitmınt",
+       "💧"
+      ]
+     ]
+    },
+    {
+     "id": "u56l5",
+     "kind": "vocab",
+     "title": "Çevre fiilleri",
+     "subtitle": "pollute · recycle · destroy …",
+     "intro": "Kirletmek, geri dönüştürmek…",
+     "v": [
+      [
+       "pollute",
+       "kirletmek",
+       "pıluut",
+       "🏭"
+      ],
+      [
+       "recycle",
+       "geri dönüştürmek",
+       "riisaykıl",
+       "♻️"
+      ],
+      [
+       "destroy",
+       "yok etmek",
+       "distroy",
+       "💥"
+      ],
+      [
+       "reduce",
+       "azaltmak",
+       "ridyuus",
+       "📉"
+      ],
+      [
+       "reuse",
+       "yeniden kullanmak",
+       "riiyuuz",
+       "🔁"
+      ],
+      [
+       "plant trees",
+       "ağaç dikmek",
+       "plaant triiz",
+       "🌳"
+      ],
+      [
+       "conserve resources",
+       "kaynakları korumak",
+       "kınsörv rizoorsiz",
+       "🌿"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u57",
+   "level": "yuksek",
+   "title": "Toplum ve sosyal sorunlar",
+   "subtitle": "Göç, yoksulluk, eşitsizlik · 5 ders",
+   "lessons": [
+    {
+     "id": "u57l1",
+     "kind": "vocab",
+     "title": "Sosyal sorunlar",
+     "subtitle": "poverty · homeless person · inequality …",
+     "intro": "Yoksulluk, evsizlik, eşitsizlik…",
+     "v": [
+      [
+       "poverty",
+       "yoksulluk",
+       "povırti",
+       "🪙"
+      ],
+      [
+       "homeless person",
+       "evsiz",
+       "houmlıs pörsın",
+       "🏚️"
+      ],
+      [
+       "inequality",
+       "eşitsizlik",
+       "inikwolıti",
+       "⚖️"
+      ],
+      [
+       "addiction",
+       "bağımlılık",
+       "ıdikşın",
+       "🍷"
+      ],
+      [
+       "crime rate",
+       "suç oranı",
+       "kraym reyt",
+       "📊"
+      ],
+      [
+       "loneliness",
+       "yalnızlık",
+       "lounlinıs",
+       "🌑"
+      ],
+      [
+       "social welfare",
+       "sosyal yardım",
+       "souşıl welfeır",
+       "🤲"
+      ]
+     ]
+    },
+    {
+     "id": "u57l2",
+     "kind": "vocab",
+     "title": "Göç",
+     "subtitle": "immigration · immigrant · refugee …",
+     "intro": "Göçmen, mülteci, uyum…",
+     "v": [
+      [
+       "immigration",
+       "göç",
+       "imigreyşın",
+       "🧳"
+      ],
+      [
+       "immigrant",
+       "göçmen",
+       "imigrınt",
+       "🚶"
+      ],
+      [
+       "refugee",
+       "mülteci",
+       "refyucii",
+       "⛺"
+      ],
+      [
+       "integration",
+       "uyum (sosyal)",
+       "intigreyşın",
+       "🧩"
+      ],
+      [
+       "citizenship",
+       "vatandaşlık",
+       "sitizınşip",
+       "🪪"
+      ],
+      [
+       "residence permit",
+       "oturma izni",
+       "rezidıns pörmit",
+       "📃"
+      ],
+      [
+       "homesickness",
+       "memleket hasreti",
+       "houmsiknıs",
+       "💭"
+      ]
+     ]
+    },
+    {
+     "id": "u57l3",
+     "kind": "vocab",
+     "title": "Nesiller",
+     "subtitle": "generation · young people · the elderly …",
+     "intro": "Kuşak, gençler, yaşlılar…",
+     "v": [
+      [
+       "generation",
+       "kuşak, nesil",
+       "cenıreyşın",
+       "👨‍👩‍👧"
+      ],
+      [
+       "young people",
+       "gençlik (toplum)",
+       "yang piipıl",
+       "🧑‍🤝‍🧑"
+      ],
+      [
+       "the elderly",
+       "yaşlılar",
+       "ði eldırli",
+       "👴"
+      ],
+      [
+       "upbringing",
+       "çocuk eğitimi",
+       "apbringing",
+       "👶"
+      ],
+      [
+       "birth rate",
+       "doğum oranı",
+       "börθ reyt",
+       "📈"
+      ],
+      [
+       "life expectancy",
+       "ortalama ömür",
+       "layf ikspektınsi",
+       "⏳"
+      ],
+      [
+       "pension",
+       "emekli maaşı",
+       "penşın",
+       "💳"
+      ]
+     ]
+    },
+    {
+     "id": "u57l4",
+     "kind": "vocab",
+     "title": "Toplumsal yaşam",
+     "subtitle": "community · charity · volunteering …",
+     "intro": "Topluluk, hayır işi, dayanışma…",
+     "v": [
+      [
+       "community",
+       "topluluk",
+       "kımyuunıti",
+       "🏘️"
+      ],
+      [
+       "charity",
+       "hayır işleri",
+       "çerıti",
+       "💝"
+      ],
+      [
+       "volunteering",
+       "gönüllülük",
+       "volıntiıring",
+       "🙌"
+      ],
+      [
+       "tolerance",
+       "hoşgörü",
+       "tolırıns",
+       "🫶"
+      ],
+      [
+       "solidarity",
+       "dayanışma",
+       "solıderıti",
+       "🤝"
+      ],
+      [
+       "protest",
+       "gösteri (protesto)",
+       "proutest",
+       "✊"
+      ],
+      [
+       "strike",
+       "grev",
+       "strayk",
+       "🪧"
+      ]
+     ]
+    },
+    {
+     "id": "u57l5",
+     "kind": "vocab",
+     "title": "Toplum fiilleri",
+     "subtitle": "emigrate · adapt · donate …",
+     "intro": "Göç etmek, uyum sağlamak…",
+     "v": [
+      [
+       "emigrate",
+       "göç etmek",
+       "emigreyt",
+       "🛫"
+      ],
+      [
+       "adapt",
+       "uyum sağlamak",
+       "ıdept",
+       "🧩"
+      ],
+      [
+       "donate",
+       "bağış yapmak",
+       "douneyt",
+       "🎁"
+      ],
+      [
+       "demonstrate",
+       "gösteri yapmak",
+       "demınstreyt",
+       "📣"
+      ],
+      [
+       "exclude",
+       "dışlamak",
+       "ikskluud",
+       "🚪"
+      ],
+      [
+       "unite",
+       "birleştirmek",
+       "yuunayt",
+       "🔗"
+      ],
+      [
+       "solve a problem",
+       "sorunu çözmek",
+       "solv ı problım",
+       "🧠"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u58",
+   "level": "yuksek",
+   "title": "İleri fiiller",
+   "subtitle": "Etkilemek, kaçınmak, sağlamak, varsaymak · 5 ders",
+   "lessons": [
+    {
+     "id": "u58l1",
+     "kind": "vocab",
+     "title": "Etki ve neden",
+     "subtitle": "influence · cause · depend on …",
+     "intro": "Etkilemek, neden olmak, bağlı olmak…",
+     "v": [
+      [
+       "influence",
+       "etkilemek",
+       "influıns",
+       "🌀"
+      ],
+      [
+       "cause",
+       "neden olmak",
+       "kooz",
+       "➡️"
+      ],
+      [
+       "depend on",
+       "bağlı olmak",
+       "dipend on",
+       "🔗"
+      ],
+      [
+       "lead to",
+       "yol açmak",
+       "liid tu",
+       "🏁"
+      ],
+      [
+       "prevent",
+       "önlemek",
+       "privent",
+       "🛑"
+      ],
+      [
+       "make easier",
+       "kolaylaştırmak",
+       "meyk iiziır",
+       "🪶"
+      ],
+      [
+       "complicate",
+       "zorlaştırmak",
+       "komplikeyt",
+       "🧱"
+      ]
+     ]
+    },
+    {
+     "id": "u58l2",
+     "kind": "vocab",
+     "title": "Düşünce fiilleri",
+     "subtitle": "assume · conclude · evaluate …",
+     "intro": "Varsaymak, değerlendirmek…",
+     "v": [
+      [
+       "assume",
+       "varsaymak",
+       "ısyuum",
+       "💭"
+      ],
+      [
+       "conclude",
+       "sonuç çıkarmak",
+       "kınkluud",
+       "🧩"
+      ],
+      [
+       "evaluate",
+       "değerlendirmek",
+       "ivelyueyt",
+       "⚖️"
+      ],
+      [
+       "take into account",
+       "dikkate almak",
+       "teyk intu ıkaunt",
+       "📝"
+      ],
+      [
+       "compare",
+       "karşılaştırmak",
+       "kımpeır",
+       "🆚"
+      ],
+      [
+       "realise",
+       "farkına varmak",
+       "riıılayz",
+       "💡"
+      ],
+      [
+       "hesitate",
+       "tereddüt etmek",
+       "heziteyt",
+       "🤔"
+      ]
+     ]
+    },
+    {
+     "id": "u58l3",
+     "kind": "vocab",
+     "title": "Sağlamak ve elde etmek",
+     "subtitle": "provide · achieve · carry out …",
+     "intro": "Sağlamak, ulaşmak, gerçekleştirmek…",
+     "v": [
+      [
+       "provide",
+       "sağlamak",
+       "prıvayd",
+       "🎁"
+      ],
+      [
+       "achieve",
+       "ulaşmak (hedefe)",
+       "ıçiiv",
+       "🏆"
+      ],
+      [
+       "carry out",
+       "gerçekleştirmek",
+       "keri aut",
+       "✅"
+      ],
+      [
+       "take advantage of",
+       "yararlanmak",
+       "teyk ıdvaantic ıv",
+       "🧰"
+      ],
+      [
+       "implement",
+       "uygulamak",
+       "implıment",
+       "🛠️"
+      ],
+      [
+       "maintain",
+       "sürdürmek",
+       "meynteyn",
+       "♾️"
+      ],
+      [
+       "postpone",
+       "ertelemek",
+       "poustpoun",
+       "⏸️"
+      ]
+     ]
+    },
+    {
+     "id": "u58l4",
+     "kind": "vocab",
+     "title": "Kaçınma ve vazgeçme",
+     "subtitle": "avoid · refuse · abandon …",
+     "intro": "Kaçınmak, reddetmek…",
+     "v": [
+      [
+       "avoid",
+       "kaçınmak",
+       "ıvoyd",
+       "🙈"
+      ],
+      [
+       "refuse",
+       "reddetmek",
+       "rifyuuz",
+       "🙅"
+      ],
+      [
+       "abandon",
+       "vazgeçmek",
+       "ıbendın",
+       "🏳️"
+      ],
+      [
+       "conceal",
+       "gizlemek",
+       "kınsiil",
+       "🫥"
+      ],
+      [
+       "neglect",
+       "ihmal etmek",
+       "niglekt",
+       "😶"
+      ],
+      [
+       "resist",
+       "direnmek",
+       "rizist",
+       "🧱"
+      ],
+      [
+       "keep going",
+       "pes etmemek",
+       "kiip gouing",
+       "💪"
+      ]
+     ]
+    },
+    {
+     "id": "u58l5",
+     "kind": "vocab",
+     "title": "Değişim fiilleri",
+     "subtitle": "transform · evolve · adjust …",
+     "intro": "Dönüşmek, uyarlamak, iyileştirmek…",
+     "v": [
+      [
+       "transform",
+       "dönüşmek",
+       "trensfoorm",
+       "🦋"
+      ],
+      [
+       "evolve",
+       "gelişmek",
+       "ivolv",
+       "📈"
+      ],
+      [
+       "adjust",
+       "uyarlamak, ayarlamak",
+       "ıcast",
+       "🔧"
+      ],
+      [
+       "improve",
+       "iyileştirmek",
+       "impruuv",
+       "⭐"
+      ],
+      [
+       "get worse",
+       "kötüleşmek",
+       "get wörs",
+       "📉"
+      ],
+      [
+       "renovate",
+       "yenilemek",
+       "renıveyt",
+       "🔄"
+      ],
+      [
+       "preserve",
+       "korumak, muhafaza etmek",
+       "prizörv",
+       "🌿"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u59",
+   "level": "yuksek",
+   "title": "Tartışma ve ifade",
+   "subtitle": "Görüş bildirme, bağlaçlar, akademik dil · 5 ders",
+   "lessons": [
+    {
+     "id": "u59l1",
+     "kind": "vocab",
+     "title": "Görüş bildirme",
+     "subtitle": "it seems to me that · in my view · undoubtedly …",
+     "intro": "Bana öyle geliyor ki, kuşkusuz…",
+     "v": [
+      [
+       "it seems to me that",
+       "bana öyle geliyor ki",
+       "it siimz tu mii ðet",
+       "🤔"
+      ],
+      [
+       "in my view",
+       "bence (resmî)",
+       "in may vyuu",
+       "🗨️"
+      ],
+      [
+       "undoubtedly",
+       "kuşkusuz",
+       "andautidli",
+       "✔️"
+      ],
+      [
+       "probably",
+       "muhtemelen",
+       "probıbli",
+       "🎲"
+      ],
+      [
+       "apparently",
+       "görünüşe göre",
+       "ıperıntli",
+       "👀"
+      ],
+      [
+       "frankly",
+       "açıkçası",
+       "frenkli",
+       "🙌"
+      ],
+      [
+       "as far as I know",
+       "bildiğim kadarıyla",
+       "ez faar ız ay nou",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u59l2",
+     "kind": "vocab",
+     "title": "Bağlaçlar 2",
+     "subtitle": "therefore · on the other hand · moreover …",
+     "intro": "Bu nedenle, öte yandan…",
+     "v": [
+      [
+       "therefore",
+       "bu nedenle",
+       "ðeırfoor",
+       "➡️"
+      ],
+      [
+       "on the other hand",
+       "öte yandan",
+       "on ði aðır hend",
+       "🔄"
+      ],
+      [
+       "moreover",
+       "üstelik",
+       "moorouvır",
+       "➕"
+      ],
+      [
+       "that is to say",
+       "yani",
+       "ðet iz tu sey",
+       "🟰"
+      ],
+      [
+       "nevertheless",
+       "buna rağmen",
+       "nevırðıles",
+       "🔀"
+      ],
+      [
+       "in short",
+       "özetle",
+       "in şoort",
+       "📝"
+      ],
+      [
+       "firstly",
+       "birincisi",
+       "förstli",
+       "1️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u59l3",
+     "kind": "vocab",
+     "title": "Akademik dil",
+     "subtitle": "approach · point of view · claim …",
+     "intro": "Yaklaşım, bakış açısı, argüman…",
+     "v": [
+      [
+       "approach",
+       "yaklaşım",
+       "ıprouç",
+       "🧭"
+      ],
+      [
+       "point of view",
+       "bakış açısı",
+       "poynt ıv vyuu",
+       "🔭"
+      ],
+      [
+       "claim",
+       "iddia, argüman",
+       "kleym",
+       "🗣️"
+      ],
+      [
+       "conclusion",
+       "sonuç (çıkarım)",
+       "kınkluujın",
+       "🏁"
+      ],
+      [
+       "feature",
+       "özellik",
+       "fiiçır",
+       "🔖"
+      ],
+      [
+       "trend",
+       "eğilim",
+       "trend",
+       "📈"
+      ],
+      [
+       "factor",
+       "etken",
+       "fektır",
+       "⚙️"
+      ]
+     ]
+    },
+    {
+     "id": "u59l4",
+     "kind": "vocab",
+     "title": "Tartışma ifadeleri",
+     "subtitle": "I completely agree · you're partly right · the thing is …",
+     "intro": "Tamamen katılıyorum…",
+     "v": [
+      [
+       "I completely agree",
+       "tamamen katılıyorum",
+       "ay kımpliitli ıgrii",
+       "💯"
+      ],
+      [
+       "you're partly right",
+       "kısmen haklısın",
+       "yoor paartli rayt",
+       "🌗"
+      ],
+      [
+       "the thing is",
+       "mesele şu ki",
+       "ðı θing iz",
+       "❗"
+      ],
+      [
+       "for instance",
+       "örneğin (resmî)",
+       "foor instıns",
+       "📌"
+      ],
+      [
+       "on the one hand",
+       "bir yandan",
+       "on ðı wan hend",
+       "↔️"
+      ],
+      [
+       "in the end",
+       "sonuç olarak",
+       "in ði end",
+       "🏁"
+      ],
+      [
+       "in other words",
+       "başka bir deyişle",
+       "in aðır wördz",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u59l5",
+     "kind": "vocab",
+     "title": "Sıfatlar 3",
+     "subtitle": "fundamental · realistic · controversial …",
+     "intro": "Temel, gerçekçi, tartışmalı…",
+     "v": [
+      [
+       "fundamental",
+       "temel",
+       "fandımentıl",
+       "🧱"
+      ],
+      [
+       "realistic",
+       "gerçekçi",
+       "riıılistik",
+       "🎯"
+      ],
+      [
+       "controversial",
+       "tartışmalı",
+       "kontrıvörşıl",
+       "⚡"
+      ],
+      [
+       "uncertain",
+       "belirsiz",
+       "ansörtın",
+       "🌫️"
+      ],
+      [
+       "effective",
+       "etkili",
+       "ifektiv",
+       "💥"
+      ],
+      [
+       "valid",
+       "geçerli",
+       "velid",
+       "✅"
+      ],
+      [
+       "insufficient",
+       "yetersiz",
+       "insıfişınt",
+       "📉"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u60",
+   "level": "yuksek",
+   "title": "Duygular ve ilişkiler 3",
+   "subtitle": "Saygı, güven, ihanet, şefkat · 5 ders",
+   "lessons": [
+    {
+     "id": "u60l1",
+     "kind": "vocab",
+     "title": "Duygular",
+     "subtitle": "tenderness · admiration · hatred …",
+     "intro": "Şefkat, hayranlık, nefret…",
+     "v": [
+      [
+       "tenderness",
+       "şefkat",
+       "tendırnıs",
+       "🤗"
+      ],
+      [
+       "admiration",
+       "hayranlık",
+       "edmıreyşın",
+       "🤩"
+      ],
+      [
+       "hatred",
+       "nefret",
+       "heytrid",
+       "😠"
+      ],
+      [
+       "jealousy",
+       "kıskançlık",
+       "celısi",
+       "💚"
+      ],
+      [
+       "disappointment",
+       "hayal kırıklığı",
+       "disıpoyntmınt",
+       "😞"
+      ],
+      [
+       "gratitude",
+       "minnettarlık",
+       "gretityuud",
+       "🙏"
+      ],
+      [
+       "shame",
+       "utanç",
+       "şeym",
+       "😳"
+      ]
+     ]
+    },
+    {
+     "id": "u60l2",
+     "kind": "vocab",
+     "title": "İlişkiler",
+     "subtitle": "confidence · respect · betrayal …",
+     "intro": "Güven, saygı, ihanet…",
+     "v": [
+      [
+       "confidence",
+       "güven",
+       "konfidıns",
+       "🤝"
+      ],
+      [
+       "respect",
+       "saygı",
+       "rispekt",
+       "🙇"
+      ],
+      [
+       "betrayal",
+       "ihanet",
+       "bitreyıl",
+       "🗡️"
+      ],
+      [
+       "loyalty",
+       "bağlılık",
+       "loyılti",
+       "💍"
+      ],
+      [
+       "encouragement",
+       "destek, cesaret verme",
+       "inkarıcmınt",
+       "🫂"
+      ],
+      [
+       "understanding",
+       "anlayış",
+       "andırstending",
+       "💡"
+      ],
+      [
+       "conflict",
+       "çatışma",
+       "konflikt",
+       "⚔️"
+      ]
+     ]
+    },
+    {
+     "id": "u60l3",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "acquaintance · peer · mentor …",
+     "intro": "Tanıdık, akran, akıl hocası…",
+     "v": [
+      [
+       "acquaintance",
+       "tanıdık",
+       "ıkweyntıns",
+       "👋"
+      ],
+      [
+       "peer",
+       "yaşıt",
+       "piır",
+       "🧑‍🤝‍🧑"
+      ],
+      [
+       "mentor",
+       "akıl hocası",
+       "mentoor",
+       "🧙"
+      ],
+      [
+       "enemy",
+       "düşman",
+       "enımi",
+       "👿"
+      ],
+      [
+       "stranger",
+       "yabancı (tanımadık)",
+       "streyncır",
+       "👤"
+      ],
+      [
+       "flatmate",
+       "ev arkadaşı",
+       "fletmeyt",
+       "🏠"
+      ],
+      [
+       "confidant",
+       "sırdaş",
+       "konfident",
+       "🤫"
+      ]
+     ]
+    },
+    {
+     "id": "u60l4",
+     "kind": "vocab",
+     "title": "İlişki fiilleri",
+     "subtitle": "make up · take offence · lose trust …",
+     "intro": "Barışmak, gücenmek, ihanet etmek…",
+     "v": [
+      [
+       "make up",
+       "barışmak",
+       "meyk ap",
+       "🕊️"
+      ],
+      [
+       "take offence",
+       "gücenmek",
+       "teyk ıfens",
+       "😤"
+      ],
+      [
+       "lose trust",
+       "güveni kaybetmek",
+       "luuz trast",
+       "💔"
+      ],
+      [
+       "betray",
+       "ihanet etmek",
+       "bitrey",
+       "🗡️"
+      ],
+      [
+       "cheer up",
+       "moral vermek",
+       "çiır ap",
+       "🫂"
+      ],
+      [
+       "get on well",
+       "iyi geçinmek",
+       "get on wel",
+       "🤝"
+      ],
+      [
+       "part ways",
+       "ayrılmak (yollar)",
+       "paart weyz",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u60l5",
+     "kind": "vocab",
+     "title": "Kalıplar",
+     "subtitle": "I know exactly how you feel · you didn't deserve that · everything will be fine …",
+     "intro": "Seni anlıyorum, her şey yoluna girecek…",
+     "v": [
+      [
+       "I know exactly how you feel",
+       "seni çok iyi anlıyorum",
+       "ay nou igzektli hau yuu fiil",
+       "🫶"
+      ],
+      [
+       "you didn't deserve that",
+       "bunu hak etmedin",
+       "yuu didnt dizörv ðet",
+       "🥺"
+      ],
+      [
+       "everything will be fine",
+       "her şey yoluna girecek",
+       "evriθing wil bii fayn",
+       "🌈"
+      ],
+      [
+       "keep your chin up",
+       "moralini bozma",
+       "kiip yoor çin ap",
+       "💪"
+      ],
+      [
+       "tell me what you think",
+       "ne düşündüğünü söyle",
+       "tel mii wot yuu θink",
+       "💬"
+      ],
+      [
+       "I'm proud of you",
+       "seninle gurur duyuyorum",
+       "aym praud ıv yuu",
+       "🏅"
+      ],
+      [
+       "I'm here for you",
+       "yanındayım",
+       "aym hiır foor yuu",
+       "🤝"
+      ]
+     ]
+    }
+   ]
   }
  ],
  "upcoming": [

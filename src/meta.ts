@@ -4,10 +4,10 @@ import { BUILD, REPO } from './buildInfo';
 
 /** Shown once after installing a new build ("Yenilikler"). */
 export const WHATS_NEW: string[] = [
-  'Rusça derinleşti: her kelimeye örnek cümle (kartta, sözlükte ve sorularda), 2.100+ kelime',
-  'Rusça dilbilgisi tam set: sıfat çekimi, çoğul hâller, zamirler, -ся fiilleri, sayılar, koşul kipi, который, ön ekli hareket fiilleri',
-  'Rusça 19 diyalog ve 9 okuma metni (eczane, otel, banka, kira, Puşkin, Baykal…)',
-  'Rusça yüksek seviyeye 525 yeni kelime: siyaset, hukuk, ekonomi, bilim, sağlık, medya, sanat…',
+  'Rusça, Fransızca ve İngilizce derinleşti: her kelimeye örnek cümle (kartta, sözlükte ve sorularda)',
+  'Her üç dilde yüksek seviyeye 525 yeni kelime: siyaset, hukuk, ekonomi, bilim, sağlık, medya, sanat… (2.000+ kelime)',
+  'Dilbilgisi tam set: Rusçada hâller ve hareket fiilleri, Fransızcada subjonctif ve zamirler, İngilizcede modal fiiller, Past Perfect, devrik yapı…',
+  'Her dilde 19 diyalog ve 9 okuma metni (eczane, otel, banka, kira; Puşkin, Victor Hugo, Shakespeare…)',
 ];
 
 const SEEN_KEY = 'voxa.seenBuild';

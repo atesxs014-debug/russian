@@ -12967,6 +12967,4277 @@
      ]
     }
    ]
+  },
+  {
+   "id": "u46",
+   "level": "yuksek",
+   "title": "Siyaset ve yönetim",
+   "subtitle": "Meclis, parti, reform, diplomasi · 5 ders",
+   "lessons": [
+    {
+     "id": "u46l1",
+     "kind": "vocab",
+     "title": "Devlet kurumları",
+     "subtitle": "le parlement · le ministère · le ministre …",
+     "intro": "Meclis, bakanlık, belediye…",
+     "v": [
+      [
+       "le parlement",
+       "meclis",
+       "lö parlömã",
+       "🏛️",
+       "m"
+      ],
+      [
+       "le ministère",
+       "bakanlık",
+       "lö ministèr",
+       "🏢",
+       "m"
+      ],
+      [
+       "le ministre",
+       "bakan",
+       "lö ministr",
+       "👔",
+       "m"
+      ],
+      [
+       "le maire",
+       "belediye başkanı",
+       "lö mer",
+       "🏙️",
+       "m"
+      ],
+      [
+       "la mairie",
+       "belediye binası",
+       "la meri",
+       "🏤",
+       "f"
+      ],
+      [
+       "les autorités",
+       "yetkililer",
+       "le zotorite",
+       "🧑‍💼"
+      ],
+      [
+       "la constitution",
+       "anayasa",
+       "la kõstitüsyõ",
+       "📜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u46l2",
+     "kind": "vocab",
+     "title": "Parti ve seçim",
+     "subtitle": "le parti politique · l'opposition · le candidat …",
+     "intro": "Muhalefet, aday, oy…",
+     "v": [
+      [
+       "le parti politique",
+       "parti",
+       "lö parti politik",
+       "🎗️",
+       "m"
+      ],
+      [
+       "l'opposition",
+       "muhalefet",
+       "lopozisyõ",
+       "🗣️",
+       "f"
+      ],
+      [
+       "le candidat",
+       "aday",
+       "lö kãdida",
+       "🙋",
+       "m"
+      ],
+      [
+       "l'électeur",
+       "seçmen",
+       "lelektör",
+       "🗳️",
+       "m"
+      ],
+      [
+       "la voix",
+       "oy (seçimde)",
+       "la vua",
+       "✅",
+       "f"
+      ],
+      [
+       "la campagne électorale",
+       "kampanya",
+       "la kãpany elektoral",
+       "📢",
+       "f"
+      ],
+      [
+       "la majorité",
+       "çoğunluk",
+       "la majorite",
+       "👥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u46l3",
+     "kind": "vocab",
+     "title": "Yönetim ve reform",
+     "subtitle": "la réforme · la politique · le décret …",
+     "intro": "Reform, karar, politika…",
+     "v": [
+      [
+       "la réforme",
+       "reform",
+       "la reform",
+       "🔧",
+       "f"
+      ],
+      [
+       "la politique",
+       "siyaset",
+       "la politik",
+       "🧭",
+       "f"
+      ],
+      [
+       "le décret",
+       "kararname",
+       "lö dekre",
+       "📝",
+       "m"
+      ],
+      [
+       "l'administration",
+       "yönetim",
+       "ladministrasyõ",
+       "⚙️",
+       "f"
+      ],
+      [
+       "la corruption",
+       "yolsuzluk",
+       "la korüpsyõ",
+       "💰",
+       "f"
+      ],
+      [
+       "la transparence",
+       "şeffaflık",
+       "la trãsparãs",
+       "🔍",
+       "f"
+      ],
+      [
+       "la responsabilité",
+       "sorumluluk",
+       "la rıspõsabilite",
+       "⚖️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u46l4",
+     "kind": "vocab",
+     "title": "Diplomasi",
+     "subtitle": "la diplomatie · l'ambassade · l'ambassadeur …",
+     "intro": "Elçilik, antlaşma, müzakere…",
+     "v": [
+      [
+       "la diplomatie",
+       "diplomasi",
+       "la diplomasi",
+       "🤝",
+       "f"
+      ],
+      [
+       "l'ambassade",
+       "büyükelçilik",
+       "lãbasad",
+       "🏳️",
+       "f"
+      ],
+      [
+       "l'ambassadeur",
+       "büyükelçi",
+       "lãbasadör",
+       "🎩",
+       "m"
+      ],
+      [
+       "le traité",
+       "antlaşma",
+       "lö trete",
+       "✍️",
+       "m"
+      ],
+      [
+       "les négociations",
+       "müzakereler",
+       "le negosyasyõ",
+       "💬"
+      ],
+      [
+       "les sanctions",
+       "yaptırımlar",
+       "le sãksyõ",
+       "🚫"
+      ],
+      [
+       "international",
+       "uluslararası",
+       "ẽternasyonal",
+       "🌐"
+      ]
+     ]
+    },
+    {
+     "id": "u46l5",
+     "kind": "vocab",
+     "title": "Siyasi fiiller",
+     "subtitle": "élire · gouverner · soutenir …",
+     "intro": "Seçmek, yönetmek, desteklemek…",
+     "v": [
+      [
+       "élire",
+       "seçmek",
+       "elir",
+       "☑️"
+      ],
+      [
+       "gouverner",
+       "yönetmek (ülke)",
+       "guverne",
+       "👑"
+      ],
+      [
+       "soutenir",
+       "desteklemek",
+       "sutnir",
+       "👍"
+      ],
+      [
+       "s'opposer à",
+       "karşı çıkmak",
+       "sopoze a",
+       "✋"
+      ],
+      [
+       "adopter une loi",
+       "yasayı kabul etmek",
+       "adopte ün lua",
+       "📗"
+      ],
+      [
+       "critiquer",
+       "eleştirmek",
+       "kritike",
+       "🗯️"
+      ],
+      [
+       "démissionner",
+       "istifa etmek",
+       "demisyone",
+       "🚪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u47",
+   "level": "yuksek",
+   "title": "Hukuk ve adalet",
+   "subtitle": "Dava, avukat, delil, ceza · 5 ders",
+   "lessons": [
+    {
+     "id": "u47l1",
+     "kind": "vocab",
+     "title": "Mahkemede",
+     "subtitle": "le procès · l'accusé · le témoin …",
+     "intro": "Dava, sanık, tanık…",
+     "v": [
+      [
+       "le procès",
+       "dava",
+       "lö prose",
+       "📂",
+       "m"
+      ],
+      [
+       "l'accusé",
+       "sanık",
+       "laküze",
+       "🧍",
+       "m"
+      ],
+      [
+       "le témoin",
+       "tanık",
+       "lö temuẽ",
+       "👁️",
+       "m"
+      ],
+      [
+       "le procureur",
+       "savcı",
+       "lö prokürör",
+       "👨‍⚖️",
+       "m"
+      ],
+      [
+       "le jury",
+       "jüri",
+       "lö jüri",
+       "👥",
+       "m"
+      ],
+      [
+       "le verdict",
+       "karar (mahkeme)",
+       "lö verdikt",
+       "🔨",
+       "m"
+      ],
+      [
+       "l'appel",
+       "temyiz",
+       "lapel",
+       "📨",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u47l2",
+     "kind": "vocab",
+     "title": "Suç ve ceza",
+     "subtitle": "la preuve · l'enquête · la prison …",
+     "intro": "Hapis, delil, soruşturma…",
+     "v": [
+      [
+       "la preuve",
+       "delil, kanıt",
+       "la pröv",
+       "🧾",
+       "f"
+      ],
+      [
+       "l'enquête",
+       "soruşturma",
+       "lãket",
+       "🕵️",
+       "f"
+      ],
+      [
+       "la prison",
+       "hapishane",
+       "la prizõ",
+       "⛓️",
+       "f"
+      ],
+      [
+       "arrêter",
+       "tutuklamak",
+       "arete",
+       "🚔"
+      ],
+      [
+       "l'escroquerie",
+       "dolandırıcılık",
+       "leskrokri",
+       "🎭",
+       "f"
+      ],
+      [
+       "la contrebande",
+       "kaçakçılık",
+       "la kõtrıbãd",
+       "📦",
+       "f"
+      ],
+      [
+       "la violence",
+       "şiddet",
+       "la vyolãs",
+       "👊",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u47l3",
+     "kind": "vocab",
+     "title": "Haklar",
+     "subtitle": "la justice · l'égalité · la discrimination …",
+     "intro": "Adalet, eşitlik, ayrımcılık…",
+     "v": [
+      [
+       "la justice",
+       "adalet",
+       "la jüstis",
+       "⚖️",
+       "f"
+      ],
+      [
+       "l'égalité",
+       "eşitlik",
+       "legalite",
+       "🟰",
+       "f"
+      ],
+      [
+       "la discrimination",
+       "ayrımcılık",
+       "la diskriminasyõ",
+       "🚷",
+       "f"
+      ],
+      [
+       "les droits de l'homme",
+       "insan hakları",
+       "le drua dö lom",
+       "🕊️"
+      ],
+      [
+       "la liberté d'expression",
+       "ifade özgürlüğü",
+       "la liberte dekspresyõ",
+       "🗣️",
+       "f"
+      ],
+      [
+       "la vie privée",
+       "özel hayat",
+       "la vi prive",
+       "🔒",
+       "f"
+      ],
+      [
+       "la sécurité",
+       "güvenlik",
+       "la sekürite",
+       "🛡️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u47l4",
+     "kind": "vocab",
+     "title": "Belgeler",
+     "subtitle": "la clause · le notaire · la procuration …",
+     "intro": "Madde, noter, vekâlet…",
+     "v": [
+      [
+       "la clause",
+       "madde (sözleşme)",
+       "la kloz",
+       "📄",
+       "f"
+      ],
+      [
+       "le notaire",
+       "noter",
+       "lö noter",
+       "🖋️",
+       "m"
+      ],
+      [
+       "la procuration",
+       "vekâletname",
+       "la prokürasyõ",
+       "📃",
+       "f"
+      ],
+      [
+       "la demande officielle",
+       "dilekçe, başvuru",
+       "la dömãd ofisyel",
+       "📥",
+       "f"
+      ],
+      [
+       "le permis",
+       "izin belgesi",
+       "lö permi",
+       "🪪",
+       "m"
+      ],
+      [
+       "la notification",
+       "bildirim",
+       "la notifikasyõ",
+       "✉️",
+       "f"
+      ],
+      [
+       "le tampon",
+       "mühür, kaşe",
+       "lö tãpõ",
+       "🔴",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u47l5",
+     "kind": "vocab",
+     "title": "Hukuk fiilleri",
+     "subtitle": "accuser · prouver · enfreindre …",
+     "intro": "Suçlamak, kanıtlamak, ihlal etmek…",
+     "v": [
+      [
+       "accuser",
+       "suçlamak",
+       "aküze",
+       "👉"
+      ],
+      [
+       "prouver",
+       "kanıtlamak",
+       "pruve",
+       "✔️"
+      ],
+      [
+       "enfreindre",
+       "ihlal etmek",
+       "ãfrẽdr",
+       "⚠️"
+      ],
+      [
+       "défendre au tribunal",
+       "mahkemede savunmak",
+       "defãdr o tribünal",
+       "🛡️"
+      ],
+      [
+       "porter plainte",
+       "dava açmak",
+       "porte plẽt",
+       "📤"
+      ],
+      [
+       "punir",
+       "cezalandırmak",
+       "pünir",
+       "🚨"
+      ],
+      [
+       "acquitter",
+       "beraat ettirmek",
+       "akite",
+       "🙌"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u48",
+   "level": "yuksek",
+   "title": "Ekonomi ve iş dünyası",
+   "subtitle": "Şirket, yatırım, rekabet, kâr · 5 ders",
+   "lessons": [
+    {
+     "id": "u48l1",
+     "kind": "vocab",
+     "title": "Şirket",
+     "subtitle": "l'actionnaire · l'action · le conseil d'administration …",
+     "intro": "Hissedar, yönetim kurulu, şube…",
+     "v": [
+      [
+       "l'actionnaire",
+       "hissedar",
+       "laksyoner",
+       "📈",
+       "m"
+      ],
+      [
+       "l'action",
+       "hisse senedi",
+       "laksyõ",
+       "📊",
+       "f"
+      ],
+      [
+       "le conseil d'administration",
+       "yönetim kurulu",
+       "lö kõsey dadministrasyõ",
+       "🪑",
+       "m"
+      ],
+      [
+       "la succursale",
+       "şube",
+       "la sükürsal",
+       "🏬",
+       "f"
+      ],
+      [
+       "l'entrepreneur",
+       "girişimci",
+       "lãtröprönör",
+       "🚀",
+       "m"
+      ],
+      [
+       "la société commerciale",
+       "işletme",
+       "la sosyete komersyal",
+       "🏭",
+       "f"
+      ],
+      [
+       "la faillite",
+       "iflas",
+       "la fayit",
+       "📉",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u48l2",
+     "kind": "vocab",
+     "title": "Para ve kâr",
+     "subtitle": "le revenu · les dépenses · le bénéfice …",
+     "intro": "Gelir, gider, kâr, zarar…",
+     "v": [
+      [
+       "le revenu",
+       "gelir",
+       "lö rövnü",
+       "💵",
+       "m"
+      ],
+      [
+       "les dépenses",
+       "giderler",
+       "le depãs",
+       "💸"
+      ],
+      [
+       "le bénéfice",
+       "kâr",
+       "lö benefis",
+       "💹",
+       "m"
+      ],
+      [
+       "la perte",
+       "zarar",
+       "la pert",
+       "🔻",
+       "f"
+      ],
+      [
+       "le chiffre d'affaires",
+       "ciro",
+       "lö şifr dafer",
+       "🔄",
+       "m"
+      ],
+      [
+       "le capital",
+       "sermaye",
+       "lö kapital",
+       "🏦",
+       "m"
+      ],
+      [
+       "les investissements",
+       "yatırımlar",
+       "le zẽvestismã",
+       "🌱"
+      ]
+     ]
+    },
+    {
+     "id": "u48l3",
+     "kind": "vocab",
+     "title": "Piyasa",
+     "subtitle": "la demande du marché · l'offre · la concurrence …",
+     "intro": "Talep, arz, rekabet, tekel…",
+     "v": [
+      [
+       "la demande du marché",
+       "talep (piyasa)",
+       "la dömãd dü marşe",
+       "🙋",
+       "f"
+      ],
+      [
+       "l'offre",
+       "arz",
+       "lofr",
+       "📦",
+       "f"
+      ],
+      [
+       "la concurrence",
+       "rekabet",
+       "la kõkürãs",
+       "🏁",
+       "f"
+      ],
+      [
+       "le concurrent",
+       "rakip",
+       "lö kõkürã",
+       "🥊",
+       "m"
+      ],
+      [
+       "le monopole",
+       "tekel",
+       "lö monopol",
+       "👑",
+       "m"
+      ],
+      [
+       "le consommateur",
+       "tüketici",
+       "lö kõsomatör",
+       "🛒",
+       "m"
+      ],
+      [
+       "la hausse des prix",
+       "fiyat artışı",
+       "la os de pri",
+       "⬆️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u48l4",
+     "kind": "vocab",
+     "title": "Ticaret",
+     "subtitle": "le fournisseur · la livraison · l'appel d'offres …",
+     "intro": "Tedarikçi, teslimat, ihale…",
+     "v": [
+      [
+       "le fournisseur",
+       "tedarikçi",
+       "lö furnisör",
+       "🚚",
+       "m"
+      ],
+      [
+       "la livraison",
+       "teslimat",
+       "la livrezõ",
+       "📬",
+       "f"
+      ],
+      [
+       "l'appel d'offres",
+       "ihale",
+       "lapel dofr",
+       "📋",
+       "m"
+      ],
+      [
+       "négocier",
+       "müzakere etmek",
+       "negosye",
+       "🗣️"
+      ],
+      [
+       "l'accord commercial",
+       "ticari anlaşma",
+       "lakor komersyal",
+       "🤝",
+       "m"
+      ],
+      [
+       "l'associé",
+       "iş ortağı",
+       "lasosye",
+       "👬",
+       "m"
+      ],
+      [
+       "la marque",
+       "marka",
+       "la mark",
+       "™️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u48l5",
+     "kind": "vocab",
+     "title": "İş fiilleri",
+     "subtitle": "fonder une entreprise · se développer · faire des bénéfices …",
+     "intro": "Kurmak, genişlemek, kâr etmek…",
+     "v": [
+      [
+       "fonder une entreprise",
+       "şirket kurmak",
+       "fõde ün ãtröpriz",
+       "🏗️"
+      ],
+      [
+       "se développer",
+       "genişlemek",
+       "sö devlope",
+       "↔️"
+      ],
+      [
+       "faire des bénéfices",
+       "kâr etmek",
+       "fer de benefis",
+       "💰"
+      ],
+      [
+       "attirer des investisseurs",
+       "yatırım çekmek",
+       "atire de zẽvestisör",
+       "🧲"
+      ],
+      [
+       "exporter",
+       "ihraç etmek",
+       "eksporte",
+       "🚢"
+      ],
+      [
+       "marchander",
+       "pazarlık etmek",
+       "marşãde",
+       "🤏"
+      ],
+      [
+       "faire faillite",
+       "iflas etmek",
+       "fer fayit",
+       "🕳️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u49",
+   "level": "yuksek",
+   "title": "Bilim ve araştırma",
+   "subtitle": "Deney, keşif, teori, laboratuvar · 5 ders",
+   "lessons": [
+    {
+     "id": "u49l1",
+     "kind": "vocab",
+     "title": "Araştırma",
+     "subtitle": "la recherche · l'expérience scientifique · l'hypothèse …",
+     "intro": "Deney, hipotez, sonuç…",
+     "v": [
+      [
+       "la recherche",
+       "araştırma",
+       "la rışerş",
+       "🔬",
+       "f"
+      ],
+      [
+       "l'expérience scientifique",
+       "deney",
+       "leksperyãs syãtifik",
+       "🧪",
+       "f"
+      ],
+      [
+       "l'hypothèse",
+       "hipotez",
+       "lipotez",
+       "💭",
+       "f"
+      ],
+      [
+       "la théorie",
+       "teori",
+       "la teori",
+       "📐",
+       "f"
+      ],
+      [
+       "la découverte",
+       "keşif",
+       "la dekuvert",
+       "🔭",
+       "f"
+      ],
+      [
+       "la méthode",
+       "yöntem",
+       "la metod",
+       "🧭",
+       "f"
+      ],
+      [
+       "les données",
+       "veriler",
+       "le done",
+       "📊"
+      ]
+     ]
+    },
+    {
+     "id": "u49l2",
+     "kind": "vocab",
+     "title": "Bilim insanları",
+     "subtitle": "le scientifique · le chercheur · l'expert …",
+     "intro": "Bilim insanı, araştırmacı, mucit…",
+     "v": [
+      [
+       "le scientifique",
+       "bilim insanı",
+       "lö syãtifik",
+       "👩‍🔬",
+       "m"
+      ],
+      [
+       "le chercheur",
+       "araştırmacı",
+       "lö şerşör",
+       "🔎",
+       "m"
+      ],
+      [
+       "l'expert",
+       "uzman",
+       "leksper",
+       "🎓",
+       "m"
+      ],
+      [
+       "l'inventeur",
+       "mucit",
+       "lẽvãtör",
+       "💡",
+       "m"
+      ],
+      [
+       "l'académie",
+       "akademi",
+       "lakademi",
+       "🏛️",
+       "f"
+      ],
+      [
+       "le laboratoire",
+       "laboratuvar",
+       "lö laboratuar",
+       "🧫",
+       "m"
+      ],
+      [
+       "la revue scientifique",
+       "bilimsel dergi",
+       "la rövü syãtifik",
+       "📰",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u49l3",
+     "kind": "vocab",
+     "title": "Doğa bilimleri",
+     "subtitle": "la cellule · le gène · la molécule …",
+     "intro": "Hücre, gen, molekül…",
+     "v": [
+      [
+       "la cellule",
+       "hücre",
+       "la selül",
+       "🦠",
+       "f"
+      ],
+      [
+       "le gène",
+       "gen",
+       "lö jen",
+       "🧬",
+       "m"
+      ],
+      [
+       "la molécule",
+       "molekül",
+       "la molekül",
+       "⚛️",
+       "f"
+      ],
+      [
+       "l'évolution",
+       "evrim",
+       "levolüsyõ",
+       "🐒",
+       "f"
+      ],
+      [
+       "la gravité",
+       "yer çekimi",
+       "la gravite",
+       "🍎",
+       "f"
+      ],
+      [
+       "la vitesse de la lumière",
+       "ışık hızı",
+       "la vites dö la lümyer",
+       "💫",
+       "f"
+      ],
+      [
+       "la matière",
+       "madde (fizik)",
+       "la matyer",
+       "🧱",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u49l4",
+     "kind": "vocab",
+     "title": "Teknik kavramlar",
+     "subtitle": "la mesure · le calcul · le modèle …",
+     "intro": "Ölçüm, hesap, model…",
+     "v": [
+      [
+       "la mesure",
+       "ölçüm",
+       "la mözür",
+       "📏",
+       "f"
+      ],
+      [
+       "le calcul",
+       "hesaplama",
+       "lö kalkül",
+       "🧮",
+       "m"
+      ],
+      [
+       "le modèle",
+       "model",
+       "lö model",
+       "🧩",
+       "m"
+      ],
+      [
+       "l'analyse",
+       "analiz",
+       "lanaliz",
+       "📈",
+       "f"
+      ],
+      [
+       "les statistiques",
+       "istatistik",
+       "le statistik",
+       "📊"
+      ],
+      [
+       "la formule",
+       "formül",
+       "la formül",
+       "➗",
+       "f"
+      ],
+      [
+       "l'équation",
+       "denklem",
+       "lekuasyõ",
+       "🟰",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u49l5",
+     "kind": "vocab",
+     "title": "Bilim fiilleri",
+     "subtitle": "faire des recherches · découvrir · inventer …",
+     "intro": "Araştırmak, keşfetmek, icat etmek…",
+     "v": [
+      [
+       "faire des recherches",
+       "araştırmak",
+       "fer de rışerş",
+       "🔍"
+      ],
+      [
+       "découvrir",
+       "keşfetmek",
+       "dekuvrir",
+       "🗝️"
+      ],
+      [
+       "inventer",
+       "icat etmek",
+       "ẽvãte",
+       "⚙️"
+      ],
+      [
+       "examiner",
+       "gözlemlemek",
+       "egzamine",
+       "👀"
+      ],
+      [
+       "mesurer",
+       "ölçmek",
+       "mözüre",
+       "📐"
+      ],
+      [
+       "analyser",
+       "analiz etmek",
+       "analize",
+       "🧠"
+      ],
+      [
+       "publier",
+       "yayımlamak",
+       "püblie",
+       "📚"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u50",
+   "level": "yuksek",
+   "title": "Teknoloji ve dijital dünya",
+   "subtitle": "Yapay zekâ, veri, yazılım · 5 ders",
+   "lessons": [
+    {
+     "id": "u50l1",
+     "kind": "vocab",
+     "title": "Yazılım",
+     "subtitle": "le logiciel · le programme · le code …",
+     "intro": "Program, kod, geliştirici…",
+     "v": [
+      [
+       "le logiciel",
+       "yazılım",
+       "lö lojisyel",
+       "💾",
+       "m"
+      ],
+      [
+       "le programme",
+       "program",
+       "lö program",
+       "🖥️",
+       "m"
+      ],
+      [
+       "le code",
+       "kod",
+       "lö kod",
+       "👨‍💻",
+       "m"
+      ],
+      [
+       "le développeur",
+       "geliştirici",
+       "lö devlopör",
+       "🧑‍💻",
+       "m"
+      ],
+      [
+       "le bug",
+       "yazılım hatası",
+       "lö bög",
+       "🐞",
+       "m"
+      ],
+      [
+       "la version",
+       "sürüm",
+       "la versyõ",
+       "🔢",
+       "f"
+      ],
+      [
+       "l'algorithme",
+       "algoritma",
+       "lalgoritm",
+       "🔁",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u50l2",
+     "kind": "vocab",
+     "title": "Yapay zekâ ve veri",
+     "subtitle": "l'intelligence artificielle · le robot · le serveur informatique …",
+     "intro": "Yapay zekâ, sunucu, bulut…",
+     "v": [
+      [
+       "l'intelligence artificielle",
+       "yapay zekâ",
+       "lẽtelijãs artifisyel",
+       "🤖",
+       "f"
+      ],
+      [
+       "le robot",
+       "robot",
+       "lö robo",
+       "🦾",
+       "m"
+      ],
+      [
+       "le serveur informatique",
+       "sunucu",
+       "lö servör ẽformatik",
+       "🗄️",
+       "m"
+      ],
+      [
+       "le cloud",
+       "bulut (bilişim)",
+       "lö klaud",
+       "☁️",
+       "m"
+      ],
+      [
+       "la base de données",
+       "veritabanı",
+       "la baz dö done",
+       "🗃️",
+       "f"
+      ],
+      [
+       "le réseau",
+       "ağ",
+       "lö rezo",
+       "🕸️",
+       "m"
+      ],
+      [
+       "numérique",
+       "dijital",
+       "nümerik",
+       "📱"
+      ]
+     ]
+    },
+    {
+     "id": "u50l3",
+     "kind": "vocab",
+     "title": "Güvenlik",
+     "subtitle": "le chiffrement · la cyberattaque · le pirate informatique …",
+     "intro": "Şifreleme, saldırı, hacker…",
+     "v": [
+      [
+       "le chiffrement",
+       "şifreleme",
+       "lö şifrımã",
+       "🔐",
+       "m"
+      ],
+      [
+       "la cyberattaque",
+       "siber saldırı",
+       "la siberatak",
+       "💥",
+       "f"
+      ],
+      [
+       "le pirate informatique",
+       "hacker",
+       "lö pirat ẽformatik",
+       "🕶️",
+       "m"
+      ],
+      [
+       "les données personnelles",
+       "kişisel veriler",
+       "le done personel",
+       "🧾"
+      ],
+      [
+       "le pare-feu",
+       "güvenlik duvarı",
+       "lö par-fö",
+       "🧱",
+       "m"
+      ],
+      [
+       "la sauvegarde",
+       "yedek kopya",
+       "la sovgard",
+       "📀",
+       "f"
+      ],
+      [
+       "l'authentification",
+       "kimlik doğrulama",
+       "lotãtifikasyõ",
+       "🆔",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u50l4",
+     "kind": "vocab",
+     "title": "Cihazlar",
+     "subtitle": "le processeur · la mémoire · le capteur …",
+     "intro": "İşlemci, bellek, sensör…",
+     "v": [
+      [
+       "le processeur",
+       "işlemci",
+       "lö prosesör",
+       "🔲",
+       "m"
+      ],
+      [
+       "la mémoire",
+       "bellek",
+       "la memuar",
+       "🧠",
+       "f"
+      ],
+      [
+       "le capteur",
+       "sensör",
+       "lö kaptör",
+       "📡",
+       "m"
+      ],
+      [
+       "la montre connectée",
+       "akıllı saat",
+       "la mõtr konekte",
+       "⌚",
+       "f"
+      ],
+      [
+       "le câble",
+       "kablo",
+       "lö kabl",
+       "🔌",
+       "m"
+      ],
+      [
+       "l'autonomie",
+       "pil ömrü",
+       "lotonomi",
+       "🔋",
+       "f"
+      ],
+      [
+       "la résolution",
+       "ekran çözünürlüğü",
+       "la rezolüsyõ",
+       "🖼️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u50l5",
+     "kind": "vocab",
+     "title": "Dijital fiiller",
+     "subtitle": "programmer · mettre à jour · installer …",
+     "intro": "Programlamak, güncellemek, kurmak…",
+     "v": [
+      [
+       "programmer",
+       "programlamak",
+       "programe",
+       "⌨️"
+      ],
+      [
+       "mettre à jour",
+       "güncellemek",
+       "metr a jur",
+       "🔄"
+      ],
+      [
+       "installer",
+       "kurmak (program)",
+       "ẽstale",
+       "📥"
+      ],
+      [
+       "sauvegarder",
+       "yedeklemek",
+       "sovgarde",
+       "💽"
+      ],
+      [
+       "chiffrer",
+       "şifrelemek",
+       "şifre",
+       "🔏"
+      ],
+      [
+       "automatiser",
+       "otomatikleştirmek",
+       "otomatize",
+       "🤖"
+      ],
+      [
+       "pirater",
+       "hacklemek",
+       "pirate",
+       "🧨"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u51",
+   "level": "yuksek",
+   "title": "Sağlık ve tıp",
+   "subtitle": "Teşhis, tedavi, uzman doktor · 5 ders",
+   "lessons": [
+    {
+     "id": "u51l1",
+     "kind": "vocab",
+     "title": "Teşhis",
+     "subtitle": "le symptôme · le diagnostic · l'examen médical …",
+     "intro": "Belirti, muayene, tahlil…",
+     "v": [
+      [
+       "le symptôme",
+       "belirti",
+       "lö sẽptom",
+       "🤒",
+       "m"
+      ],
+      [
+       "le diagnostic",
+       "teşhis",
+       "lö dyagnostik",
+       "🩺",
+       "m"
+      ],
+      [
+       "l'examen médical",
+       "muayene",
+       "legzamẽ medikal",
+       "🔍",
+       "m"
+      ],
+      [
+       "la prise de sang",
+       "kan tahlili",
+       "la priz dö sã",
+       "🧪",
+       "f"
+      ],
+      [
+       "la radiographie",
+       "röntgen",
+       "la radyografi",
+       "🩻",
+       "f"
+      ],
+      [
+       "la tension artérielle",
+       "tansiyon",
+       "la tãsyõ arteryel",
+       "💓",
+       "f"
+      ],
+      [
+       "chronique",
+       "kronik",
+       "kronik",
+       "♾️"
+      ]
+     ]
+    },
+    {
+     "id": "u51l2",
+     "kind": "vocab",
+     "title": "Tedavi",
+     "subtitle": "le traitement · la thérapie · la guérison …",
+     "intro": "Tedavi, terapi, iyileşme…",
+     "v": [
+      [
+       "le traitement",
+       "tedavi",
+       "lö tretmã",
+       "💊",
+       "m"
+      ],
+      [
+       "la thérapie",
+       "terapi",
+       "la terapi",
+       "🛋️",
+       "f"
+      ],
+      [
+       "la guérison",
+       "iyileşme",
+       "la gerizõ",
+       "🌤️",
+       "f"
+      ],
+      [
+       "l'immunité",
+       "bağışıklık",
+       "limünite",
+       "🛡️",
+       "f"
+      ],
+      [
+       "l'effet secondaire",
+       "yan etki",
+       "lefe sögõder",
+       "⚠️",
+       "m"
+      ],
+      [
+       "la dose",
+       "doz",
+       "la doz",
+       "💉",
+       "f"
+      ],
+      [
+       "la prévention",
+       "önleme",
+       "la prevãsyõ",
+       "🚧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u51l3",
+     "kind": "vocab",
+     "title": "Uzmanlar",
+     "subtitle": "le chirurgien · le cardiologue · le pédiatre …",
+     "intro": "Cerrah, kardiyolog, çocuk doktoru…",
+     "v": [
+      [
+       "le chirurgien",
+       "cerrah",
+       "lö şirürjyẽ",
+       "🔪",
+       "m"
+      ],
+      [
+       "le cardiologue",
+       "kardiyolog",
+       "lö kardyolog",
+       "❤️",
+       "m"
+      ],
+      [
+       "le pédiatre",
+       "çocuk doktoru",
+       "lö pedyatr",
+       "🧸",
+       "m"
+      ],
+      [
+       "le psychologue",
+       "psikolog",
+       "lö psikolog",
+       "🧠",
+       "m"
+      ],
+      [
+       "l'ophtalmologue",
+       "göz doktoru",
+       "loftalmolog",
+       "👓",
+       "m"
+      ],
+      [
+       "la clinique",
+       "klinik",
+       "la klinik",
+       "🏥",
+       "f"
+      ],
+      [
+       "le personnel soignant",
+       "sağlık personeli",
+       "lö personel suanyã",
+       "🩺",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u51l4",
+     "kind": "vocab",
+     "title": "Hastalıklar",
+     "subtitle": "l'infection · l'inflammation · le diabète …",
+     "intro": "Enfeksiyon, iltihap, diyabet…",
+     "v": [
+      [
+       "l'infection",
+       "enfeksiyon",
+       "lẽfeksyõ",
+       "🦠",
+       "f"
+      ],
+      [
+       "l'inflammation",
+       "iltihap",
+       "lẽflamasyõ",
+       "🔥",
+       "f"
+      ],
+      [
+       "le diabète",
+       "diyabet",
+       "lö dyabet",
+       "🍬",
+       "m"
+      ],
+      [
+       "le cancer",
+       "kanser",
+       "lö kãser",
+       "🎗️",
+       "m"
+      ],
+      [
+       "la crise cardiaque",
+       "kalp krizi",
+       "la kriz kardyak",
+       "💔",
+       "f"
+      ],
+      [
+       "l'épidémie",
+       "salgın",
+       "lepidemi",
+       "🌍",
+       "f"
+      ],
+      [
+       "la dépression",
+       "depresyon",
+       "la depresyõ",
+       "🌧️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u51l5",
+     "kind": "vocab",
+     "title": "Sağlık fiilleri",
+     "subtitle": "soigner · ausculter · diagnostiquer …",
+     "intro": "Tedavi etmek, muayene etmek…",
+     "v": [
+      [
+       "soigner",
+       "tedavi etmek",
+       "suanye",
+       "🩹"
+      ],
+      [
+       "ausculter",
+       "muayene etmek",
+       "oskülte",
+       "🩺"
+      ],
+      [
+       "diagnostiquer",
+       "teşhis koymak",
+       "dyagnostike",
+       "📋"
+      ],
+      [
+       "prescrire",
+       "ilaç yazmak",
+       "preskrir",
+       "📝"
+      ],
+      [
+       "tomber malade",
+       "hastalanmak",
+       "tõbe malad",
+       "🤧"
+      ],
+      [
+       "attraper un virus",
+       "bulaşmak",
+       "atrape ẽ virüs",
+       "😷"
+      ],
+      [
+       "se rétablir",
+       "toparlanmak",
+       "sö retablir",
+       "💪"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u52",
+   "level": "yuksek",
+   "title": "Psikoloji ve karakter",
+   "subtitle": "Kişilik, davranış, motivasyon · 5 ders",
+   "lessons": [
+    {
+     "id": "u52l1",
+     "kind": "vocab",
+     "title": "Kişilik",
+     "subtitle": "le caractère · la personnalité · la confiance en soi …",
+     "intro": "Karakter, mizaç, öz güven…",
+     "v": [
+      [
+       "le caractère",
+       "karakter",
+       "lö karakter",
+       "🎭",
+       "m"
+      ],
+      [
+       "la personnalité",
+       "kişilik",
+       "la personalite",
+       "🪞",
+       "f"
+      ],
+      [
+       "la confiance en soi",
+       "öz güven",
+       "la kõfyãs ã sua",
+       "💪",
+       "f"
+      ],
+      [
+       "le tempérament",
+       "mizaç",
+       "lö tãperamã",
+       "🌗",
+       "m"
+      ],
+      [
+       "le comportement",
+       "davranış",
+       "lö kõportömã",
+       "🚶",
+       "m"
+      ],
+      [
+       "la mauvaise habitude",
+       "kötü alışkanlık",
+       "la movez abitüd",
+       "🚬",
+       "f"
+      ],
+      [
+       "l'arrogance",
+       "kibir",
+       "larogãs",
+       "🦚",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u52l2",
+     "kind": "vocab",
+     "title": "Olumlu özellikler",
+     "subtitle": "modeste · franc · soigneux …",
+     "intro": "Alçakgönüllü, açık sözlü…",
+     "v": [
+      [
+       "modeste",
+       "alçakgönüllü",
+       "modest",
+       "🙇"
+      ],
+      [
+       "franc",
+       "açık sözlü",
+       "frã",
+       "🗨️"
+      ],
+      [
+       "soigneux",
+       "özenli",
+       "suanyö",
+       "🧐"
+      ],
+      [
+       "optimiste",
+       "iyimser",
+       "optimist",
+       "🌞"
+      ],
+      [
+       "fidèle",
+       "sadık",
+       "fidel",
+       "🐕"
+      ],
+      [
+       "serviable",
+       "yardımsever",
+       "servyabl",
+       "💞"
+      ],
+      [
+       "persévérant",
+       "azimli",
+       "perseverã",
+       "🏔️"
+      ]
+     ]
+    },
+    {
+     "id": "u52l3",
+     "kind": "vocab",
+     "title": "Olumsuz özellikler",
+     "subtitle": "pessimiste · têtu · capricieux …",
+     "intro": "Kötümser, inatçı, kaprisli…",
+     "v": [
+      [
+       "pessimiste",
+       "kötümser",
+       "pesimist",
+       "🌧️"
+      ],
+      [
+       "têtu",
+       "inatçı",
+       "tetü",
+       "🐐"
+      ],
+      [
+       "capricieux",
+       "kaprisli",
+       "kaprisyö",
+       "😤"
+      ],
+      [
+       "réservé",
+       "çekingen",
+       "rezerve",
+       "🫣"
+      ],
+      [
+       "distrait",
+       "dalgın",
+       "distre",
+       "🌀"
+      ],
+      [
+       "rusé",
+       "kurnaz",
+       "rüze",
+       "🦊"
+      ],
+      [
+       "irritable",
+       "çabuk sinirlenen",
+       "iritabl",
+       "🌋"
+      ]
+     ]
+    },
+    {
+     "id": "u52l4",
+     "kind": "vocab",
+     "title": "Zihin",
+     "subtitle": "la conscience · l'inconscient · l'intuition …",
+     "intro": "Bilinç, sezgi, hayal gücü…",
+     "v": [
+      [
+       "la conscience",
+       "bilinç",
+       "la kõsyãs",
+       "💡",
+       "f"
+      ],
+      [
+       "l'inconscient",
+       "bilinçaltı",
+       "lẽkõsyã",
+       "🌊",
+       "m"
+      ],
+      [
+       "l'intuition",
+       "sezgi",
+       "lẽtüisyõ",
+       "🔮",
+       "f"
+      ],
+      [
+       "l'imagination",
+       "hayal gücü",
+       "limajinasyõ",
+       "🌈",
+       "f"
+      ],
+      [
+       "l'attention",
+       "dikkat",
+       "latãsyõ",
+       "🎯",
+       "f"
+      ],
+      [
+       "la motivation",
+       "motivasyon",
+       "la motivasyõ",
+       "🔥",
+       "f"
+      ],
+      [
+       "le stress",
+       "stres",
+       "lö stres",
+       "😫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u52l5",
+     "kind": "vocab",
+     "title": "Psikolojik fiiller",
+     "subtitle": "regretter · envier · avoir honte …",
+     "intro": "Pişman olmak, kıskanmak…",
+     "v": [
+      [
+       "regretter",
+       "pişman olmak",
+       "rögrete",
+       "😔"
+      ],
+      [
+       "envier",
+       "kıskanmak",
+       "ãvye",
+       "😒"
+      ],
+      [
+       "avoir honte",
+       "utanmak",
+       "avuar õt",
+       "😳"
+      ],
+      [
+       "être fier de",
+       "gurur duymak",
+       "etr fyer dö",
+       "😌"
+      ],
+      [
+       "soupçonner",
+       "şüphelenmek",
+       "supsone",
+       "🤨"
+      ],
+      [
+       "être déçu",
+       "hayal kırıklığına uğramak",
+       "etr desü",
+       "😞"
+      ],
+      [
+       "s'habituer",
+       "alışmak",
+       "sabitüe",
+       "🔁"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u53",
+   "level": "yuksek",
+   "title": "Medya ve iletişim",
+   "subtitle": "Yayın, manşet, söyleşi, yorum · 5 ders",
+   "lessons": [
+    {
+     "id": "u53l1",
+     "kind": "vocab",
+     "title": "Basın",
+     "subtitle": "le gros titre · le reporter · le rédacteur …",
+     "intro": "Manşet, muhabir, editör…",
+     "v": [
+      [
+       "le gros titre",
+       "manşet",
+       "lö gro titr",
+       "🗞️",
+       "m"
+      ],
+      [
+       "le reporter",
+       "muhabir",
+       "lö röporter",
+       "🎤",
+       "m"
+      ],
+      [
+       "le rédacteur",
+       "editör",
+       "lö redaktör",
+       "✏️",
+       "m"
+      ],
+      [
+       "la maison d'édition",
+       "yayınevi",
+       "la mezõ dedisyõ",
+       "🏢",
+       "f"
+      ],
+      [
+       "le tirage",
+       "tiraj",
+       "lö tiraj",
+       "🖨️",
+       "m"
+      ],
+      [
+       "la censure",
+       "sansür",
+       "la sãsür",
+       "🚫",
+       "f"
+      ],
+      [
+       "la conférence de presse",
+       "basın toplantısı",
+       "la kõferãs dö pres",
+       "📸",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u53l2",
+     "kind": "vocab",
+     "title": "Televizyon ve internet",
+     "subtitle": "la chaîne · la série · le direct …",
+     "intro": "Kanal, dizi, yayın…",
+     "v": [
+      [
+       "la chaîne",
+       "kanal",
+       "la şen",
+       "📺",
+       "f"
+      ],
+      [
+       "la série",
+       "dizi",
+       "la seri",
+       "🎬",
+       "f"
+      ],
+      [
+       "le direct",
+       "canlı yayın",
+       "lö direkt",
+       "🔴",
+       "m"
+      ],
+      [
+       "le téléspectateur",
+       "izleyici",
+       "lö telespektatör",
+       "🍿",
+       "m"
+      ],
+      [
+       "l'auditeur",
+       "dinleyici",
+       "loditör",
+       "🎧",
+       "m"
+      ],
+      [
+       "le podcast",
+       "podcast",
+       "lö podkast",
+       "🎙️",
+       "m"
+      ],
+      [
+       "l'influenceur",
+       "içerik üreticisi",
+       "lẽflüãsör",
+       "✍️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u53l3",
+     "kind": "vocab",
+     "title": "Bilgi",
+     "subtitle": "la source · la fausse information · la rumeur …",
+     "intro": "Kaynak, sahte haber, söylenti…",
+     "v": [
+      [
+       "la source",
+       "kaynak (bilgi)",
+       "la surs",
+       "📚",
+       "f"
+      ],
+      [
+       "la fausse information",
+       "sahte haber",
+       "la fos ẽformasyõ",
+       "🤥",
+       "f"
+      ],
+      [
+       "la rumeur",
+       "söylenti",
+       "la rümör",
+       "👂",
+       "f"
+      ],
+      [
+       "le fait",
+       "olgu",
+       "lö fe",
+       "📌",
+       "m"
+      ],
+      [
+       "l'opinion",
+       "görüş",
+       "lopinyõ",
+       "💭",
+       "f"
+      ],
+      [
+       "le commentaire d'expert",
+       "yorum (analiz)",
+       "lö komãter dekspert",
+       "🗒️",
+       "m"
+      ],
+      [
+       "l'opinion publique",
+       "kamuoyu",
+       "lopinyõ püblik",
+       "👥",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u53l4",
+     "kind": "vocab",
+     "title": "İletişim",
+     "subtitle": "la correspondance écrite · la persuasion · le désaccord …",
+     "intro": "Yazışma, ikna, uzlaşma…",
+     "v": [
+      [
+       "la correspondance écrite",
+       "yazışma",
+       "la korespõdãs ekrit",
+       "📨",
+       "f"
+      ],
+      [
+       "la persuasion",
+       "ikna",
+       "la persüazyõ",
+       "🫱",
+       "f"
+      ],
+      [
+       "le désaccord",
+       "anlaşmazlık",
+       "lö dezakor",
+       "💢",
+       "m"
+      ],
+      [
+       "le compromis",
+       "uzlaşma",
+       "lö kõpromi",
+       "🤝",
+       "m"
+      ],
+      [
+       "l'allusion",
+       "ima",
+       "lalüzyõ",
+       "😉",
+       "f"
+      ],
+      [
+       "le dialogue",
+       "diyalog",
+       "lö dyalog",
+       "💬",
+       "m"
+      ],
+      [
+       "le discours",
+       "nutuk, konuşma",
+       "lö diskur",
+       "🎙️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u53l5",
+     "kind": "vocab",
+     "title": "İletişim fiilleri",
+     "subtitle": "informer · déclarer · convaincre …",
+     "intro": "Bildirmek, açıklamak, ikna etmek…",
+     "v": [
+      [
+       "informer",
+       "bildirmek",
+       "ẽforme",
+       "📣"
+      ],
+      [
+       "déclarer",
+       "açıklamak (resmen)",
+       "deklare",
+       "📢"
+      ],
+      [
+       "convaincre",
+       "ikna etmek",
+       "kõvẽkr",
+       "🫴"
+      ],
+      [
+       "objecter",
+       "itiraz etmek",
+       "objekte",
+       "🙅"
+      ],
+      [
+       "démentir",
+       "yalanlamak",
+       "demãtir",
+       "❌"
+      ],
+      [
+       "exagérer",
+       "abartmak",
+       "egzajere",
+       "🎈"
+      ],
+      [
+       "souligner",
+       "vurgulamak",
+       "sulinye",
+       "🖍️"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u54",
+   "level": "yuksek",
+   "title": "Sanat ve kültür",
+   "subtitle": "Eser, sahne, sergi, yönetmen · 5 ders",
+   "lessons": [
+    {
+     "id": "u54l1",
+     "kind": "vocab",
+     "title": "Sahne sanatları",
+     "subtitle": "la scène · l'acteur · le metteur en scène …",
+     "intro": "Sahne, oyuncu, yönetmen…",
+     "v": [
+      [
+       "la scène",
+       "sahne",
+       "la sen",
+       "🎭",
+       "f"
+      ],
+      [
+       "l'acteur",
+       "aktör",
+       "laktör",
+       "🎬",
+       "m"
+      ],
+      [
+       "le metteur en scène",
+       "yönetmen",
+       "lö metör ã sen",
+       "🎥",
+       "m"
+      ],
+      [
+       "la pièce de théâtre",
+       "gösteri, oyun",
+       "la pyes dö teatr",
+       "🎟️",
+       "f"
+      ],
+      [
+       "le ballet",
+       "bale",
+       "lö bale",
+       "🩰",
+       "m"
+      ],
+      [
+       "l'opéra",
+       "opera",
+       "lopera",
+       "🎼",
+       "m"
+      ],
+      [
+       "les applaudissements",
+       "alkış",
+       "le zaplodismã",
+       "👏"
+      ]
+     ]
+    },
+    {
+     "id": "u54l2",
+     "kind": "vocab",
+     "title": "Görsel sanatlar",
+     "subtitle": "le peintre · la toile · le pinceau …",
+     "intro": "Ressam, tuval, fırça…",
+     "v": [
+      [
+       "le peintre",
+       "ressam",
+       "lö pẽtr",
+       "🎨",
+       "m"
+      ],
+      [
+       "la toile",
+       "tuval",
+       "la tual",
+       "🖼️",
+       "f"
+      ],
+      [
+       "le pinceau",
+       "fırça",
+       "lö pẽso",
+       "🖌️",
+       "m"
+      ],
+      [
+       "le portrait",
+       "portre",
+       "lö portre",
+       "👤",
+       "m"
+      ],
+      [
+       "le paysage",
+       "manzara resmi",
+       "lö peizaj",
+       "🏞️",
+       "m"
+      ],
+      [
+       "le chef-d'œuvre",
+       "şaheser",
+       "lö şe dövr",
+       "🏆",
+       "m"
+      ],
+      [
+       "la galerie",
+       "galeri",
+       "la galri",
+       "🏛️",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u54l3",
+     "kind": "vocab",
+     "title": "Edebiyat",
+     "subtitle": "l'œuvre · le héros · l'intrigue …",
+     "intro": "Eser, kahraman, olay örgüsü…",
+     "v": [
+      [
+       "l'œuvre",
+       "eser",
+       "lövr",
+       "📖",
+       "f"
+      ],
+      [
+       "le héros",
+       "kahraman (roman)",
+       "lö ero",
+       "🦸",
+       "m"
+      ],
+      [
+       "l'intrigue",
+       "olay örgüsü",
+       "lẽtrig",
+       "🧵",
+       "f"
+      ],
+      [
+       "le poète",
+       "şair",
+       "lö poet",
+       "🪶",
+       "m"
+      ],
+      [
+       "la nouvelle",
+       "öykü",
+       "la nuvel",
+       "📝",
+       "f"
+      ],
+      [
+       "le lecteur",
+       "okur",
+       "lö lektör",
+       "👓",
+       "m"
+      ],
+      [
+       "la traduction",
+       "çeviri (kitap)",
+       "la tradüksyõ",
+       "🔁",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u54l4",
+     "kind": "vocab",
+     "title": "Kültürel miras",
+     "subtitle": "l'héritage · le folklore · l'artisanat …",
+     "intro": "Miras, folklor, zanaat…",
+     "v": [
+      [
+       "l'héritage",
+       "miras",
+       "leritaj",
+       "🏺",
+       "m"
+      ],
+      [
+       "le folklore",
+       "folklor",
+       "lö folklor",
+       "🪕",
+       "m"
+      ],
+      [
+       "l'artisanat",
+       "zanaat",
+       "lartizana",
+       "🧶",
+       "m"
+      ],
+      [
+       "le festival",
+       "festival",
+       "lö festival",
+       "🎉",
+       "m"
+      ],
+      [
+       "la collection",
+       "koleksiyon",
+       "la koleksyõ",
+       "🗂️",
+       "f"
+      ],
+      [
+       "le style",
+       "üslup",
+       "lö stil",
+       "✨",
+       "m"
+      ],
+      [
+       "la créativité",
+       "yaratıcılık",
+       "la kreativite",
+       "🌟",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u54l5",
+     "kind": "vocab",
+     "title": "Sanat fiilleri",
+     "subtitle": "créer · mettre en scène · exposer …",
+     "intro": "Yaratmak, sergilemek, ilham vermek…",
+     "v": [
+      [
+       "créer",
+       "yaratmak",
+       "kree",
+       "🛠️"
+      ],
+      [
+       "mettre en scène",
+       "sahnelemek",
+       "metr ã sen",
+       "🎭"
+      ],
+      [
+       "exposer",
+       "sergilemek",
+       "ekspoze",
+       "🖼️"
+      ],
+      [
+       "inspirer",
+       "ilham vermek",
+       "ẽspire",
+       "💫"
+      ],
+      [
+       "écrire une critique",
+       "eleştiri yazmak",
+       "ekrir ün kritik",
+       "🖋️"
+      ],
+      [
+       "jouer un rôle",
+       "rol oynamak",
+       "jue ẽ rol",
+       "🎬"
+      ],
+      [
+       "composer",
+       "beste yapmak",
+       "kõpoze",
+       "🎹"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u55",
+   "level": "yuksek",
+   "title": "Eğitim ve kariyer",
+   "subtitle": "Yüksek lisans, staj, terfi · 5 ders",
+   "lessons": [
+    {
+     "id": "u55l1",
+     "kind": "vocab",
+     "title": "Yükseköğretim",
+     "subtitle": "la licence · le master · le doctorat …",
+     "intro": "Lisans, yüksek lisans, tez…",
+     "v": [
+      [
+       "la licence",
+       "lisans",
+       "la lisãs",
+       "🎓",
+       "f"
+      ],
+      [
+       "le master",
+       "yüksek lisans",
+       "lö master",
+       "📘",
+       "m"
+      ],
+      [
+       "le doctorat",
+       "doktora",
+       "lö doktora",
+       "🎓",
+       "m"
+      ],
+      [
+       "la thèse",
+       "tez",
+       "la tez",
+       "📚",
+       "f"
+      ],
+      [
+       "le directeur de thèse",
+       "tez danışmanı",
+       "lö direktör dö tez",
+       "🧑‍🏫",
+       "m"
+      ],
+      [
+       "l'inscription",
+       "kayıt (üniversite)",
+       "lẽskripsyõ",
+       "📩",
+       "f"
+      ],
+      [
+       "le diplômé",
+       "mezun",
+       "lö diplome",
+       "🎉",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u55l2",
+     "kind": "vocab",
+     "title": "Kariyer",
+     "subtitle": "le stage · la promotion · le CV …",
+     "intro": "Staj, terfi, özgeçmiş…",
+     "v": [
+      [
+       "le stage",
+       "staj",
+       "lö staj",
+       "🧑‍🎓",
+       "m"
+      ],
+      [
+       "la promotion",
+       "terfi",
+       "la promosyõ",
+       "📈",
+       "f"
+      ],
+      [
+       "le CV",
+       "özgeçmiş",
+       "lö sevé",
+       "📄",
+       "m"
+      ],
+      [
+       "la compétence",
+       "beceri",
+       "la kõpetãs",
+       "🛠️",
+       "f"
+      ],
+      [
+       "le poste",
+       "pozisyon",
+       "lö post",
+       "🪑",
+       "m"
+      ],
+      [
+       "l'expérience professionnelle",
+       "iş deneyimi",
+       "leksperyãs profesyonel",
+       "⏳",
+       "f"
+      ],
+      [
+       "la carrière",
+       "kariyer",
+       "la karyer",
+       "🪜",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u55l3",
+     "kind": "vocab",
+     "title": "İş ortamı",
+     "subtitle": "la journée de travail · les heures supplémentaires · les congés payés …",
+     "intro": "Mesai, izin, ekip…",
+     "v": [
+      [
+       "la journée de travail",
+       "iş günü",
+       "la jurne dö travay",
+       "🕘",
+       "f"
+      ],
+      [
+       "les heures supplémentaires",
+       "fazla mesai",
+       "le zör süplemãter",
+       "🌙"
+      ],
+      [
+       "les congés payés",
+       "yıllık izin",
+       "le kõje peye",
+       "🏖️"
+      ],
+      [
+       "l'équipe de travail",
+       "ekip",
+       "lekip dö travay",
+       "👥",
+       "f"
+      ],
+      [
+       "la charge de travail",
+       "iş yükü",
+       "la şarj dö travay",
+       "🏋️",
+       "f"
+      ],
+      [
+       "le télétravail",
+       "uzaktan çalışma",
+       "lö teletravay",
+       "🏠",
+       "m"
+      ],
+      [
+       "la date limite",
+       "son tarih",
+       "la dat limit",
+       "⏰",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u55l4",
+     "kind": "vocab",
+     "title": "Beceriler",
+     "subtitle": "le leadership · l'efficacité · la flexibilité …",
+     "intro": "Liderlik, verimlilik, esneklik…",
+     "v": [
+      [
+       "le leadership",
+       "liderlik",
+       "lö lidörşip",
+       "🧭",
+       "m"
+      ],
+      [
+       "l'efficacité",
+       "verimlilik",
+       "lefikasite",
+       "⚡",
+       "f"
+      ],
+      [
+       "la flexibilité",
+       "esneklik",
+       "la fleksibilite",
+       "🤸",
+       "f"
+      ],
+      [
+       "l'initiative",
+       "girişkenlik",
+       "linisyativ",
+       "🚀",
+       "f"
+      ],
+      [
+       "la gestion du temps",
+       "zaman yönetimi",
+       "la jestyõ dü tã",
+       "⏱️",
+       "f"
+      ],
+      [
+       "le travail d'équipe",
+       "ekip çalışması",
+       "lö travay dekip",
+       "🤝",
+       "m"
+      ],
+      [
+       "le savoir-faire",
+       "yetkinlik",
+       "lö savuar-fer",
+       "🏅",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u55l5",
+     "kind": "vocab",
+     "title": "Kariyer fiilleri",
+     "subtitle": "être promu · quitter son emploi · faire un stage …",
+     "intro": "Terfi almak, istifa etmek…",
+     "v": [
+      [
+       "être promu",
+       "terfi almak",
+       "etr promü",
+       "⬆️"
+      ],
+      [
+       "quitter son emploi",
+       "işten ayrılmak",
+       "kite sõ nãplua",
+       "📤"
+      ],
+      [
+       "faire un stage",
+       "staj yapmak",
+       "fer ẽ staj",
+       "🗂️"
+      ],
+      [
+       "progresser",
+       "kendini geliştirmek",
+       "progrese",
+       "🌱"
+      ],
+      [
+       "se spécialiser",
+       "uzmanlaşmak",
+       "sö spesyalize",
+       "🎯"
+      ],
+      [
+       "confier une tâche",
+       "görevlendirmek",
+       "kõfye ün taş",
+       "📌"
+      ],
+      [
+       "superviser",
+       "denetlemek",
+       "süpervize",
+       "🔎"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u56",
+   "level": "yuksek",
+   "title": "Çevre ve enerji",
+   "subtitle": "Emisyon, iklim değişikliği, yenilenebilir · 5 ders",
+   "lessons": [
+    {
+     "id": "u56l1",
+     "kind": "vocab",
+     "title": "İklim",
+     "subtitle": "le réchauffement climatique · le changement climatique · les émissions …",
+     "intro": "Küresel ısınma, emisyon, sera etkisi…",
+     "v": [
+      [
+       "le réchauffement climatique",
+       "küresel ısınma",
+       "lö reşofmã klimatik",
+       "🌡️",
+       "m"
+      ],
+      [
+       "le changement climatique",
+       "iklim değişikliği",
+       "lö şãjmã klimatik",
+       "🌍",
+       "m"
+      ],
+      [
+       "les émissions",
+       "emisyonlar",
+       "le zemisyõ",
+       "🏭"
+      ],
+      [
+       "l'effet de serre",
+       "sera etkisi",
+       "lefe dö ser",
+       "🏡",
+       "m"
+      ],
+      [
+       "le dioxyde de carbone",
+       "karbondioksit",
+       "lö dyoksid dö karbon",
+       "💨",
+       "m"
+      ],
+      [
+       "la couche d'ozone",
+       "ozon tabakası",
+       "la kuş dozon",
+       "🛡️",
+       "f"
+      ],
+      [
+       "la fonte des glaciers",
+       "buzulların erimesi",
+       "la fõt de glasye",
+       "🧊",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u56l2",
+     "kind": "vocab",
+     "title": "Enerji",
+     "subtitle": "l'énergie renouvelable · l'éolienne · le panneau solaire …",
+     "intro": "Yenilenebilir enerji, türbin, panel…",
+     "v": [
+      [
+       "l'énergie renouvelable",
+       "yenilenebilir enerji",
+       "lenerji rönuvlabl",
+       "♻️",
+       "f"
+      ],
+      [
+       "l'éolienne",
+       "rüzgâr türbini",
+       "leolyen",
+       "🌬️",
+       "f"
+      ],
+      [
+       "le panneau solaire",
+       "güneş paneli",
+       "lö pano soler",
+       "☀️",
+       "m"
+      ],
+      [
+       "la centrale nucléaire",
+       "nükleer santral",
+       "la sãtral nükleer",
+       "⚛️",
+       "f"
+      ],
+      [
+       "le pétrole",
+       "petrol",
+       "lö petrol",
+       "🛢️",
+       "m"
+      ],
+      [
+       "le gaz naturel",
+       "doğal gaz",
+       "lö gaz natürel",
+       "🔥",
+       "m"
+      ],
+      [
+       "le charbon",
+       "kömür",
+       "lö şarbõ",
+       "⚫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u56l3",
+     "kind": "vocab",
+     "title": "Doğa koruma",
+     "subtitle": "les ressources naturelles · la réserve naturelle · menacé d'extinction …",
+     "intro": "Kaynaklar, koruma alanı…",
+     "v": [
+      [
+       "les ressources naturelles",
+       "doğal kaynaklar",
+       "le rösurs natürel",
+       "🌲"
+      ],
+      [
+       "la réserve naturelle",
+       "koruma alanı",
+       "la rezerv natürel",
+       "🏞️",
+       "f"
+      ],
+      [
+       "menacé d'extinction",
+       "nesli tükenmekte olan",
+       "mönase dekstẽksyõ",
+       "🐼"
+      ],
+      [
+       "la déforestation",
+       "ormansızlaşma",
+       "la deforestasyõ",
+       "🪓",
+       "f"
+      ],
+      [
+       "la biodiversité",
+       "biyoçeşitlilik",
+       "la byodiversite",
+       "🦋",
+       "f"
+      ],
+      [
+       "l'écosystème",
+       "ekosistem",
+       "lekosistem",
+       "🌿",
+       "m"
+      ],
+      [
+       "le bénévole",
+       "gönüllü",
+       "lö benevol",
+       "🙋",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u56l4",
+     "kind": "vocab",
+     "title": "Atık",
+     "subtitle": "les déchets · le plastique · le tri sélectif …",
+     "intro": "Plastik, çöp ayrıştırma, ambalaj…",
+     "v": [
+      [
+       "les déchets",
+       "atıklar",
+       "le deşe",
+       "🗑️"
+      ],
+      [
+       "le plastique",
+       "plastik",
+       "lö plastik",
+       "🧴",
+       "m"
+      ],
+      [
+       "le tri sélectif",
+       "çöp ayrıştırma",
+       "lö tri selektif",
+       "🚮",
+       "m"
+      ],
+      [
+       "l'emballage",
+       "ambalaj",
+       "lãbalaj",
+       "📦",
+       "m"
+      ],
+      [
+       "la décharge",
+       "çöplük",
+       "la deşarj",
+       "🏔️",
+       "f"
+      ],
+      [
+       "les égouts",
+       "kanalizasyon",
+       "le zegu",
+       "🚰"
+      ],
+      [
+       "le traitement de l'eau",
+       "su arıtma",
+       "lö tretmã dö lo",
+       "💧",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u56l5",
+     "kind": "vocab",
+     "title": "Çevre fiilleri",
+     "subtitle": "polluer · recycler · détruire …",
+     "intro": "Kirletmek, geri dönüştürmek…",
+     "v": [
+      [
+       "polluer",
+       "kirletmek",
+       "polüe",
+       "🏭"
+      ],
+      [
+       "recycler",
+       "geri dönüştürmek",
+       "rösikle",
+       "♻️"
+      ],
+      [
+       "détruire",
+       "yok etmek",
+       "detrüir",
+       "💥"
+      ],
+      [
+       "réduire",
+       "azaltmak",
+       "redüir",
+       "📉"
+      ],
+      [
+       "réutiliser",
+       "yeniden kullanmak",
+       "reütilize",
+       "🔁"
+      ],
+      [
+       "planter des arbres",
+       "ağaç dikmek",
+       "plãte de zarbr",
+       "🌳"
+      ],
+      [
+       "préserver les ressources",
+       "kaynakları korumak",
+       "prezerve le rösurs",
+       "🌿"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u57",
+   "level": "yuksek",
+   "title": "Toplum ve sosyal sorunlar",
+   "subtitle": "Göç, yoksulluk, eşitsizlik · 5 ders",
+   "lessons": [
+    {
+     "id": "u57l1",
+     "kind": "vocab",
+     "title": "Sosyal sorunlar",
+     "subtitle": "la pauvreté · le sans-abri · l'inégalité …",
+     "intro": "Yoksulluk, evsizlik, eşitsizlik…",
+     "v": [
+      [
+       "la pauvreté",
+       "yoksulluk",
+       "la povröte",
+       "🪙",
+       "f"
+      ],
+      [
+       "le sans-abri",
+       "evsiz",
+       "lö sã-zabri",
+       "🏚️",
+       "m"
+      ],
+      [
+       "l'inégalité",
+       "eşitsizlik",
+       "linegalite",
+       "⚖️",
+       "f"
+      ],
+      [
+       "la dépendance",
+       "bağımlılık",
+       "la depãdãs",
+       "🍷",
+       "f"
+      ],
+      [
+       "la criminalité",
+       "suç oranı",
+       "la kriminalite",
+       "📊",
+       "f"
+      ],
+      [
+       "la solitude",
+       "yalnızlık",
+       "la solitüd",
+       "🌑",
+       "f"
+      ],
+      [
+       "l'aide sociale",
+       "sosyal yardım",
+       "led sosyal",
+       "🤲",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l2",
+     "kind": "vocab",
+     "title": "Göç",
+     "subtitle": "l'immigration · l'immigré · le réfugié …",
+     "intro": "Göçmen, mülteci, uyum…",
+     "v": [
+      [
+       "l'immigration",
+       "göç",
+       "limigrasyõ",
+       "🧳",
+       "f"
+      ],
+      [
+       "l'immigré",
+       "göçmen",
+       "limigre",
+       "🚶",
+       "m"
+      ],
+      [
+       "le réfugié",
+       "mülteci",
+       "lö refüjye",
+       "⛺",
+       "m"
+      ],
+      [
+       "l'intégration",
+       "uyum (sosyal)",
+       "lẽtegrasyõ",
+       "🧩",
+       "f"
+      ],
+      [
+       "la nationalité",
+       "vatandaşlık",
+       "la nasyonalite",
+       "🪪",
+       "f"
+      ],
+      [
+       "le titre de séjour",
+       "oturma izni",
+       "lö titr dö sejur",
+       "📃",
+       "m"
+      ],
+      [
+       "le mal du pays",
+       "memleket hasreti",
+       "lö mal dü pei",
+       "💭",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u57l3",
+     "kind": "vocab",
+     "title": "Nesiller",
+     "subtitle": "la génération · les jeunes · les personnes âgées …",
+     "intro": "Kuşak, gençler, yaşlılar…",
+     "v": [
+      [
+       "la génération",
+       "kuşak, nesil",
+       "la jenerasyõ",
+       "👨‍👩‍👧",
+       "f"
+      ],
+      [
+       "les jeunes",
+       "gençlik (toplum)",
+       "le jön",
+       "🧑‍🤝‍🧑"
+      ],
+      [
+       "les personnes âgées",
+       "yaşlılar",
+       "le person zaje",
+       "👴"
+      ],
+      [
+       "l'éducation des enfants",
+       "çocuk eğitimi",
+       "ledükasyõ de zãfã",
+       "👶",
+       "f"
+      ],
+      [
+       "la natalité",
+       "doğum oranı",
+       "la natalite",
+       "📈",
+       "f"
+      ],
+      [
+       "l'espérance de vie",
+       "ortalama ömür",
+       "lesperãs dö vi",
+       "⏳",
+       "f"
+      ],
+      [
+       "la pension de retraite",
+       "emekli maaşı",
+       "la pãsyõ dö rötret",
+       "💳",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l4",
+     "kind": "vocab",
+     "title": "Toplumsal yaşam",
+     "subtitle": "la communauté · la charité · le bénévolat …",
+     "intro": "Topluluk, hayır işi, dayanışma…",
+     "v": [
+      [
+       "la communauté",
+       "topluluk",
+       "la komünote",
+       "🏘️",
+       "f"
+      ],
+      [
+       "la charité",
+       "hayır işleri",
+       "la şarite",
+       "💝",
+       "f"
+      ],
+      [
+       "le bénévolat",
+       "gönüllülük",
+       "lö benevola",
+       "🙌",
+       "m"
+      ],
+      [
+       "la tolérance",
+       "hoşgörü",
+       "la tolerãs",
+       "🫶",
+       "f"
+      ],
+      [
+       "la solidarité",
+       "dayanışma",
+       "la solidarite",
+       "🤝",
+       "f"
+      ],
+      [
+       "la manifestation",
+       "gösteri (protesto)",
+       "la manifestasyõ",
+       "✊",
+       "f"
+      ],
+      [
+       "la grève",
+       "grev",
+       "la grev",
+       "🪧",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u57l5",
+     "kind": "vocab",
+     "title": "Toplum fiilleri",
+     "subtitle": "émigrer · s'adapter · faire un don …",
+     "intro": "Göç etmek, uyum sağlamak…",
+     "v": [
+      [
+       "émigrer",
+       "göç etmek",
+       "emigre",
+       "🛫"
+      ],
+      [
+       "s'adapter",
+       "uyum sağlamak",
+       "sadapte",
+       "🧩"
+      ],
+      [
+       "faire un don",
+       "bağış yapmak",
+       "fer ẽ dõ",
+       "🎁"
+      ],
+      [
+       "manifester",
+       "gösteri yapmak",
+       "manifeste",
+       "📣"
+      ],
+      [
+       "exclure",
+       "dışlamak",
+       "eksklür",
+       "🚪"
+      ],
+      [
+       "unir",
+       "birleştirmek",
+       "ünir",
+       "🔗"
+      ],
+      [
+       "résoudre un problème",
+       "sorunu çözmek",
+       "rezudr ẽ problem",
+       "🧠"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u58",
+   "level": "yuksek",
+   "title": "İleri fiiller",
+   "subtitle": "Etkilemek, kaçınmak, sağlamak, varsaymak · 5 ders",
+   "lessons": [
+    {
+     "id": "u58l1",
+     "kind": "vocab",
+     "title": "Etki ve neden",
+     "subtitle": "influencer · provoquer · dépendre de …",
+     "intro": "Etkilemek, neden olmak, bağlı olmak…",
+     "v": [
+      [
+       "influencer",
+       "etkilemek",
+       "ẽflüãse",
+       "🌀"
+      ],
+      [
+       "provoquer",
+       "neden olmak",
+       "provoke",
+       "➡️"
+      ],
+      [
+       "dépendre de",
+       "bağlı olmak",
+       "depãdr dö",
+       "🔗"
+      ],
+      [
+       "entraîner",
+       "yol açmak",
+       "ãtrene",
+       "🏁"
+      ],
+      [
+       "empêcher",
+       "önlemek",
+       "ãpeşe",
+       "🛑"
+      ],
+      [
+       "faciliter",
+       "kolaylaştırmak",
+       "fasilite",
+       "🪶"
+      ],
+      [
+       "compliquer",
+       "zorlaştırmak",
+       "kõplike",
+       "🧱"
+      ]
+     ]
+    },
+    {
+     "id": "u58l2",
+     "kind": "vocab",
+     "title": "Düşünce fiilleri",
+     "subtitle": "supposer · conclure · évaluer …",
+     "intro": "Varsaymak, değerlendirmek…",
+     "v": [
+      [
+       "supposer",
+       "varsaymak",
+       "süpoze",
+       "💭"
+      ],
+      [
+       "conclure",
+       "sonuç çıkarmak",
+       "kõklür",
+       "🧩"
+      ],
+      [
+       "évaluer",
+       "değerlendirmek",
+       "evalüe",
+       "⚖️"
+      ],
+      [
+       "tenir compte de",
+       "dikkate almak",
+       "tönir kõt dö",
+       "📝"
+      ],
+      [
+       "comparer",
+       "karşılaştırmak",
+       "kõpare",
+       "🆚"
+      ],
+      [
+       "se rendre compte",
+       "farkına varmak",
+       "sö rãdr kõt",
+       "💡"
+      ],
+      [
+       "hésiter",
+       "tereddüt etmek",
+       "ezite",
+       "🤔"
+      ]
+     ]
+    },
+    {
+     "id": "u58l3",
+     "kind": "vocab",
+     "title": "Sağlamak ve elde etmek",
+     "subtitle": "fournir · atteindre · réaliser …",
+     "intro": "Sağlamak, ulaşmak, gerçekleştirmek…",
+     "v": [
+      [
+       "fournir",
+       "sağlamak",
+       "furnir",
+       "🎁"
+      ],
+      [
+       "atteindre",
+       "ulaşmak (hedefe)",
+       "atẽdr",
+       "🏆"
+      ],
+      [
+       "réaliser",
+       "gerçekleştirmek",
+       "realize",
+       "✅"
+      ],
+      [
+       "profiter de",
+       "yararlanmak",
+       "profite dö",
+       "🧰"
+      ],
+      [
+       "appliquer",
+       "uygulamak",
+       "aplike",
+       "🛠️"
+      ],
+      [
+       "maintenir",
+       "sürdürmek",
+       "mẽtnir",
+       "♾️"
+      ],
+      [
+       "reporter",
+       "ertelemek",
+       "röporte",
+       "⏸️"
+      ]
+     ]
+    },
+    {
+     "id": "u58l4",
+     "kind": "vocab",
+     "title": "Kaçınma ve vazgeçme",
+     "subtitle": "éviter · refuser · renoncer …",
+     "intro": "Kaçınmak, reddetmek…",
+     "v": [
+      [
+       "éviter",
+       "kaçınmak",
+       "evite",
+       "🙈"
+      ],
+      [
+       "refuser",
+       "reddetmek",
+       "röfüze",
+       "🙅"
+      ],
+      [
+       "renoncer",
+       "vazgeçmek",
+       "rönõse",
+       "🏳️"
+      ],
+      [
+       "dissimuler",
+       "gizlemek",
+       "disimüle",
+       "🫥"
+      ],
+      [
+       "négliger",
+       "ihmal etmek",
+       "neglije",
+       "😶"
+      ],
+      [
+       "résister",
+       "direnmek",
+       "reziste",
+       "🧱"
+      ],
+      [
+       "tenir bon",
+       "pes etmemek",
+       "tönir bõ",
+       "💪"
+      ]
+     ]
+    },
+    {
+     "id": "u58l5",
+     "kind": "vocab",
+     "title": "Değişim fiilleri",
+     "subtitle": "se transformer · évoluer · adapter …",
+     "intro": "Dönüşmek, uyarlamak, iyileştirmek…",
+     "v": [
+      [
+       "se transformer",
+       "dönüşmek",
+       "sö trãsforme",
+       "🦋"
+      ],
+      [
+       "évoluer",
+       "gelişmek",
+       "evolüe",
+       "📈"
+      ],
+      [
+       "adapter",
+       "uyarlamak",
+       "adapte",
+       "🔧"
+      ],
+      [
+       "améliorer",
+       "iyileştirmek",
+       "ameliore",
+       "⭐"
+      ],
+      [
+       "empirer",
+       "kötüleşmek",
+       "ãpire",
+       "📉"
+      ],
+      [
+       "rénover",
+       "yenilemek",
+       "renove",
+       "🔄"
+      ],
+      [
+       "conserver",
+       "korumak, muhafaza etmek",
+       "kõserve",
+       "🌿"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u59",
+   "level": "yuksek",
+   "title": "Tartışma ve ifade",
+   "subtitle": "Görüş bildirme, bağlaçlar, akademik dil · 5 ders",
+   "lessons": [
+    {
+     "id": "u59l1",
+     "kind": "vocab",
+     "title": "Görüş bildirme",
+     "subtitle": "il me semble que · selon moi · sans aucun doute …",
+     "intro": "Bana öyle geliyor ki, kuşkusuz…",
+     "v": [
+      [
+       "il me semble que",
+       "bana öyle geliyor ki",
+       "il mö sãbl kö",
+       "🤔"
+      ],
+      [
+       "selon moi",
+       "bence (resmî)",
+       "sölõ mua",
+       "🗨️"
+      ],
+      [
+       "sans aucun doute",
+       "kuşkusuz",
+       "sã zokẽ dut",
+       "✔️"
+      ],
+      [
+       "probablement",
+       "muhtemelen",
+       "probablömã",
+       "🎲"
+      ],
+      [
+       "apparemment",
+       "görünüşe göre",
+       "aparamã",
+       "👀"
+      ],
+      [
+       "franchement",
+       "açıkçası",
+       "frãşmã",
+       "🙌"
+      ],
+      [
+       "à ma connaissance",
+       "bildiğim kadarıyla",
+       "a ma konesãs",
+       "📚"
+      ]
+     ]
+    },
+    {
+     "id": "u59l2",
+     "kind": "vocab",
+     "title": "Bağlaçlar 2",
+     "subtitle": "par conséquent · d'autre part · en outre …",
+     "intro": "Bu nedenle, öte yandan…",
+     "v": [
+      [
+       "par conséquent",
+       "bu nedenle",
+       "par kõsekã",
+       "➡️"
+      ],
+      [
+       "d'autre part",
+       "öte yandan",
+       "dotr par",
+       "🔄"
+      ],
+      [
+       "en outre",
+       "üstelik",
+       "ã nutr",
+       "➕"
+      ],
+      [
+       "c'est-à-dire",
+       "yani",
+       "setadir",
+       "🟰"
+      ],
+      [
+       "néanmoins",
+       "buna rağmen",
+       "neãmuẽ",
+       "🔀"
+      ],
+      [
+       "bref",
+       "özetle",
+       "bref",
+       "📝"
+      ],
+      [
+       "premièrement",
+       "birincisi",
+       "prömyermã",
+       "1️⃣"
+      ]
+     ]
+    },
+    {
+     "id": "u59l3",
+     "kind": "vocab",
+     "title": "Akademik dil",
+     "subtitle": "l'approche · le point de vue · l'argument …",
+     "intro": "Yaklaşım, bakış açısı, argüman…",
+     "v": [
+      [
+       "l'approche",
+       "yaklaşım",
+       "laproş",
+       "🧭",
+       "f"
+      ],
+      [
+       "le point de vue",
+       "bakış açısı",
+       "lö puẽ dö vü",
+       "🔭",
+       "m"
+      ],
+      [
+       "l'argument",
+       "argüman",
+       "largümã",
+       "🗣️",
+       "m"
+      ],
+      [
+       "la conclusion",
+       "sonuç (çıkarım)",
+       "la kõklüzyõ",
+       "🏁",
+       "f"
+      ],
+      [
+       "la particularité",
+       "özellik",
+       "la partikülarite",
+       "🔖",
+       "f"
+      ],
+      [
+       "la tendance",
+       "eğilim",
+       "la tãdãs",
+       "📈",
+       "f"
+      ],
+      [
+       "le facteur",
+       "etken",
+       "lö faktör",
+       "⚙️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u59l4",
+     "kind": "vocab",
+     "title": "Tartışma ifadeleri",
+     "subtitle": "je suis tout à fait d'accord · tu as en partie raison · le problème, c'est que …",
+     "intro": "Tamamen katılıyorum…",
+     "v": [
+      [
+       "je suis tout à fait d'accord",
+       "tamamen katılıyorum",
+       "jö süi tutafe dakor",
+       "💯"
+      ],
+      [
+       "tu as en partie raison",
+       "kısmen haklısın",
+       "tü a ã parti rezõ",
+       "🌗"
+      ],
+      [
+       "le problème, c'est que",
+       "mesele şu ki",
+       "lö problem se kö",
+       "❗"
+      ],
+      [
+       "à titre d'exemple",
+       "örneğin (resmî)",
+       "a titr degzãpl",
+       "📌"
+      ],
+      [
+       "d'une part",
+       "bir yandan",
+       "dün par",
+       "↔️"
+      ],
+      [
+       "en fin de compte",
+       "sonuç olarak",
+       "ã fẽ dö kõt",
+       "🏁"
+      ],
+      [
+       "autrement dit",
+       "başka bir deyişle",
+       "otrömã di",
+       "🔁"
+      ]
+     ]
+    },
+    {
+     "id": "u59l5",
+     "kind": "vocab",
+     "title": "Sıfatlar 3",
+     "subtitle": "fondamental · réaliste · controversé …",
+     "intro": "Temel, gerçekçi, tartışmalı…",
+     "v": [
+      [
+       "fondamental",
+       "temel",
+       "fõdamãtal",
+       "🧱"
+      ],
+      [
+       "réaliste",
+       "gerçekçi",
+       "realist",
+       "🎯"
+      ],
+      [
+       "controversé",
+       "tartışmalı",
+       "kõtroverse",
+       "⚡"
+      ],
+      [
+       "incertain",
+       "belirsiz",
+       "ẽsertẽ",
+       "🌫️"
+      ],
+      [
+       "efficace",
+       "etkili",
+       "efikas",
+       "💥"
+      ],
+      [
+       "valable",
+       "geçerli",
+       "valabl",
+       "✅"
+      ],
+      [
+       "insuffisant",
+       "yetersiz",
+       "ẽsüfizã",
+       "📉"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "u60",
+   "level": "yuksek",
+   "title": "Duygular ve ilişkiler 3",
+   "subtitle": "Saygı, güven, ihanet, şefkat · 5 ders",
+   "lessons": [
+    {
+     "id": "u60l1",
+     "kind": "vocab",
+     "title": "Duygular",
+     "subtitle": "la tendresse · l'admiration · la haine …",
+     "intro": "Şefkat, hayranlık, nefret…",
+     "v": [
+      [
+       "la tendresse",
+       "şefkat",
+       "la tãdres",
+       "🤗",
+       "f"
+      ],
+      [
+       "l'admiration",
+       "hayranlık",
+       "ladmirasyõ",
+       "🤩",
+       "f"
+      ],
+      [
+       "la haine",
+       "nefret",
+       "la en",
+       "😠",
+       "f"
+      ],
+      [
+       "la jalousie",
+       "kıskançlık",
+       "la jaluzi",
+       "💚",
+       "f"
+      ],
+      [
+       "la déception",
+       "hayal kırıklığı",
+       "la desepsyõ",
+       "😞",
+       "f"
+      ],
+      [
+       "la gratitude",
+       "minnettarlık",
+       "la gratitüd",
+       "🙏",
+       "f"
+      ],
+      [
+       "la honte",
+       "utanç",
+       "la õt",
+       "😳",
+       "f"
+      ]
+     ]
+    },
+    {
+     "id": "u60l2",
+     "kind": "vocab",
+     "title": "İlişkiler",
+     "subtitle": "la confiance · le respect · la trahison …",
+     "intro": "Güven, saygı, ihanet…",
+     "v": [
+      [
+       "la confiance",
+       "güven",
+       "la kõfyãs",
+       "🤝",
+       "f"
+      ],
+      [
+       "le respect",
+       "saygı",
+       "lö respe",
+       "🙇",
+       "m"
+      ],
+      [
+       "la trahison",
+       "ihanet",
+       "la traizõ",
+       "🗡️",
+       "f"
+      ],
+      [
+       "la fidélité",
+       "bağlılık",
+       "la fidelite",
+       "💍",
+       "f"
+      ],
+      [
+       "le soutien",
+       "destek",
+       "lö sutyẽ",
+       "🫂",
+       "m"
+      ],
+      [
+       "la compréhension",
+       "anlayış",
+       "la kõpreãsyõ",
+       "💡",
+       "f"
+      ],
+      [
+       "le conflit",
+       "çatışma",
+       "lö kõfli",
+       "⚔️",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u60l3",
+     "kind": "vocab",
+     "title": "İnsanlar",
+     "subtitle": "la connaissance (personne) · la personne du même âge · le mentor …",
+     "intro": "Tanıdık, akran, akıl hocası…",
+     "v": [
+      [
+       "la connaissance (personne)",
+       "tanıdık",
+       "la konesãs",
+       "👋",
+       "f"
+      ],
+      [
+       "la personne du même âge",
+       "yaşıt",
+       "la person dü mem aj",
+       "🧑‍🤝‍🧑",
+       "f"
+      ],
+      [
+       "le mentor",
+       "akıl hocası",
+       "lö mãtor",
+       "🧙",
+       "m"
+      ],
+      [
+       "l'ennemi",
+       "düşman",
+       "lenmi",
+       "👿",
+       "m"
+      ],
+      [
+       "l'inconnu",
+       "yabancı (tanımadık)",
+       "lẽkonü",
+       "👤",
+       "m"
+      ],
+      [
+       "le colocataire",
+       "ev arkadaşı",
+       "lö kolokater",
+       "🏠",
+       "m"
+      ],
+      [
+       "le confident",
+       "sırdaş",
+       "lö kõfidã",
+       "🤫",
+       "m"
+      ]
+     ]
+    },
+    {
+     "id": "u60l4",
+     "kind": "vocab",
+     "title": "İlişki fiilleri",
+     "subtitle": "se réconcilier · se vexer · perdre confiance …",
+     "intro": "Barışmak, gücenmek, ihanet etmek…",
+     "v": [
+      [
+       "se réconcilier",
+       "barışmak",
+       "sö rekõsilye",
+       "🕊️"
+      ],
+      [
+       "se vexer",
+       "gücenmek",
+       "sö vekse",
+       "😤"
+      ],
+      [
+       "perdre confiance",
+       "güveni kaybetmek",
+       "perdr kõfyãs",
+       "💔"
+      ],
+      [
+       "trahir",
+       "ihanet etmek",
+       "trair",
+       "🗡️"
+      ],
+      [
+       "remonter le moral",
+       "moral vermek",
+       "römõte lö moral",
+       "🫂"
+      ],
+      [
+       "bien s'entendre",
+       "iyi geçinmek",
+       "byẽ sãtãdr",
+       "🤝"
+      ],
+      [
+       "se quitter",
+       "ayrılmak (yollar)",
+       "sö kite",
+       "🚶"
+      ]
+     ]
+    },
+    {
+     "id": "u60l5",
+     "kind": "vocab",
+     "title": "Kalıplar",
+     "subtitle": "je te comprends très bien · tu ne méritais pas ça · tout va s'arranger …",
+     "intro": "Seni anlıyorum, her şey yoluna girecek…",
+     "v": [
+      [
+       "je te comprends très bien",
+       "seni çok iyi anlıyorum",
+       "jö tö kõprã tre byẽ",
+       "🫶"
+      ],
+      [
+       "tu ne méritais pas ça",
+       "bunu hak etmedin",
+       "tü nö merite pa sa",
+       "🥺"
+      ],
+      [
+       "tout va s'arranger",
+       "her şey yoluna girecek",
+       "tu va sarãje",
+       "🌈"
+      ],
+      [
+       "garde le moral",
+       "moralini bozma",
+       "gard lö moral",
+       "💪"
+      ],
+      [
+       "dis-moi ce que tu en penses",
+       "ne düşündüğünü söyle",
+       "di mua sö kö tü ã pãs",
+       "💬"
+      ],
+      [
+       "je suis fier de toi",
+       "seninle gurur duyuyorum",
+       "jö süi fyer dö tua",
+       "🏅"
+      ],
+      [
+       "je suis là pour toi",
+       "yanındayım",
+       "jö süi la pur tua",
+       "🤝"
+      ]
+     ]
+    }
+   ]
   }
  ],
  "upcoming": [

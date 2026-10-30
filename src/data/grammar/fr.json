@@ -1589,7 +1589,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u47",
    "unit": {
     "id": "y1",
     "level": "yuksek",
@@ -1928,7 +1928,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u49",
    "unit": {
     "id": "y2",
     "level": "yuksek",
@@ -2267,7 +2267,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u51",
    "unit": {
     "id": "y3",
     "level": "yuksek",
@@ -2489,7 +2489,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u54",
    "unit": {
     "id": "y4",
     "level": "yuksek",
@@ -2658,6 +2658,3842 @@
          "p": 1,
          "t": "Dans deux semaines, quand j'aurai fini mon projet actuel.",
          "tr": "İki hafta sonra, mevcut projemi bitirdiğimde."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u35",
+   "unit": {
+    "id": "g5",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Sıfatlar",
+    "subtitle": "Uyum, yer, karşılaştırma · 3 ders",
+    "lessons": [
+     {
+      "id": "g5l1",
+      "kind": "grammar",
+      "title": "Sıfat uyumu",
+      "subtitle": "Dişil -e, çoğul -s · Düzensiz dişiller",
+      "intro": "Sıfat ismin cinsiyetine ve sayısına uyar.",
+      "rules": [
+       {
+        "title": "Dişil -e, çoğul -s",
+        "text": "un petit chat, une petite maison, des petits chats, des petites maisons.",
+        "examples": [
+         {
+          "t": "C'est une petite maison.",
+          "tr": "Bu küçük bir ev.",
+          "read": ""
+         },
+         {
+          "t": "Ils sont contents.",
+          "tr": "Onlar memnun.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Düzensiz dişiller",
+        "text": "beau → belle, nouveau → nouvelle, vieux → vieille, blanc → blanche, heureux → heureuse.",
+        "examples": [
+         {
+          "t": "C'est une belle journée.",
+          "tr": "Güzel bir gün.",
+          "read": ""
+         },
+         {
+          "t": "J'ai une nouvelle voiture.",
+          "tr": "Yeni bir arabam var.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "C'est une voiture ___.",
+        "a": "blanche",
+        "o": [
+         "blanc",
+         "blancs",
+         "blanches"
+        ],
+        "tr": "Bu beyaz bir araba.",
+        "why": "blanc → blanche"
+       },
+       {
+        "s": "Elle est très ___.",
+        "a": "heureuse",
+        "o": [
+         "heureux",
+         "heureuses",
+         "heureuxe"
+        ],
+        "tr": "O çok mutlu.",
+        "why": "-eux → -euse"
+       },
+       {
+        "s": "Les enfants sont ___.",
+        "a": "fatigués",
+        "o": [
+         "fatigué",
+         "fatiguée",
+         "fatiguées"
+        ],
+        "tr": "Çocuklar yorgun.",
+        "why": "eril çoğul → -s"
+       },
+       {
+        "s": "C'est une ___ amie.",
+        "a": "vieille",
+        "o": [
+         "vieux",
+         "vieil",
+         "vieilles"
+        ],
+        "tr": "Bu eski bir arkadaş.",
+        "why": "vieux → vieille"
+       },
+       {
+        "s": "J'ai des chaussures ___.",
+        "a": "noires",
+        "o": [
+         "noir",
+         "noire",
+         "noirs"
+        ],
+        "tr": "Siyah ayakkabılarım var.",
+        "why": "dişil çoğul → -es"
+       },
+       {
+        "s": "C'est un ___ hôtel.",
+        "a": "bel",
+        "o": [
+         "beau",
+         "belle",
+         "beaux"
+        ],
+        "tr": "Bu güzel bir otel.",
+        "why": "ünlüden önce: bel"
+       }
+      ]
+     },
+     {
+      "id": "g5l2",
+      "kind": "grammar",
+      "title": "Sıfatın yeri",
+      "subtitle": "Çoğunlukla isimden sonra · BAGS: önde gelenler",
+      "intro": "Çoğu sıfat isimden sonra, bazı kısa sıfatlar önce gelir.",
+      "rules": [
+       {
+        "title": "Çoğunlukla isimden sonra",
+        "text": "une voiture rouge, un livre intéressant, un homme gentil.",
+        "examples": [
+         {
+          "t": "J'ai lu un livre intéressant.",
+          "tr": "İlginç bir kitap okudum.",
+          "read": ""
+         },
+         {
+          "t": "Elle porte une robe rouge.",
+          "tr": "Kırmızı bir elbise giyiyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "BAGS: önde gelenler",
+        "text": "Güzellik, yaş, iyilik, büyüklük: beau, jeune, vieux, bon, mauvais, petit, grand.",
+        "examples": [
+         {
+          "t": "C'est un bon restaurant.",
+          "tr": "Bu iyi bir restoran.",
+          "read": ""
+         },
+         {
+          "t": "Nous avons une grande maison.",
+          "tr": "Büyük bir evimiz var.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "J'ai acheté une ___ voiture.",
+        "a": "nouvelle",
+        "o": [
+         "voiture nouvelle",
+         "nouveau",
+         "nouvelles"
+        ],
+        "tr": "Yeni bir araba aldım.",
+        "why": "nouveau → önde, dişil"
+       },
+       {
+        "s": "C'est un film ___.",
+        "a": "intéressant",
+        "o": [
+         "intéressante",
+         "intéressants",
+         "intéressantes"
+        ],
+        "tr": "Bu ilginç bir film.",
+        "why": "çoğu sıfat sonra"
+       },
+       {
+        "s": "Elle a les yeux ___.",
+        "a": "bleus",
+        "o": [
+         "bleu",
+         "bleue",
+         "bleues"
+        ],
+        "tr": "Gözleri mavi.",
+        "why": "les yeux eril çoğul"
+       },
+       {
+        "s": "C'est une ___ idée.",
+        "a": "bonne",
+        "o": [
+         "bon",
+         "bons",
+         "bonnes"
+        ],
+        "tr": "İyi bir fikir.",
+        "why": "bon → bonne, önde"
+       },
+       {
+        "s": "Il habite dans une maison ___.",
+        "a": "moderne",
+        "o": [
+         "modernes",
+         "modernement",
+         "moderner"
+        ],
+        "tr": "Modern bir evde oturuyor.",
+        "why": "-e ile biten değişmez"
+       },
+       {
+        "s": "Nous avons un ___ jardin.",
+        "a": "petit",
+        "o": [
+         "petite",
+         "petits",
+         "petites"
+        ],
+        "tr": "Küçük bir bahçemiz var.",
+        "why": "petit önde"
+       }
+      ]
+     },
+     {
+      "id": "g5l3",
+      "kind": "grammar",
+      "title": "Karşılaştırma",
+      "subtitle": "plus … que, moins … que, aussi … que · Düzensiz: meilleur, mieux",
+      "intro": "plus / moins / aussi … que; le plus.",
+      "rules": [
+       {
+        "title": "plus … que, moins … que, aussi … que",
+        "text": "Paris est plus grand que Lyon. Il est aussi grand que moi.",
+        "examples": [
+         {
+          "t": "Le train est plus rapide que le bus.",
+          "tr": "Tren otobüsten hızlı.",
+          "read": ""
+         },
+         {
+          "t": "Elle est aussi intelligente que son frère.",
+          "tr": "O da kardeşi kadar akıllı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Düzensiz: meilleur, mieux",
+        "text": "bon → meilleur, bien → mieux; en: le plus, le meilleur.",
+        "examples": [
+         {
+          "t": "Ce gâteau est meilleur.",
+          "tr": "Bu kek daha iyi.",
+          "read": ""
+         },
+         {
+          "t": "C'est le meilleur restaurant de la ville.",
+          "tr": "Bu şehrin en iyi restoranı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Paris est ___ grand que Lyon.",
+        "a": "plus",
+        "o": [
+         "plus que",
+         "le plus",
+         "moins que"
+        ],
+        "tr": "Paris Lyon'dan büyük.",
+        "why": "plus … que"
+       },
+       {
+        "s": "Ce vin est ___ que l'autre.",
+        "a": "meilleur",
+        "o": [
+         "plus bon",
+         "bon",
+         "mieux"
+        ],
+        "tr": "Bu şarap ötekinden daha iyi.",
+        "why": "bon → meilleur"
+       },
+       {
+        "s": "Il chante ___ que moi.",
+        "a": "mieux",
+        "o": [
+         "meilleur",
+         "plus bien",
+         "bon"
+        ],
+        "tr": "O benden iyi şarkı söylüyor.",
+        "why": "bien → mieux"
+       },
+       {
+        "s": "C'est la ville la ___ belle du monde.",
+        "a": "plus",
+        "o": [
+         "plus que",
+         "meilleure",
+         "aussi"
+        ],
+        "tr": "Dünyanın en güzel şehri.",
+        "why": "la plus + sıfat"
+       },
+       {
+        "s": "Il est ___ grand que son père.",
+        "a": "aussi",
+        "o": [
+         "autant",
+         "si que",
+         "même"
+        ],
+        "tr": "O babası kadar uzun.",
+        "why": "aussi … que"
+       },
+       {
+        "s": "Le bus est ___ rapide que le métro.",
+        "a": "moins",
+        "o": [
+         "moins de",
+         "plus de",
+         "aussi de"
+        ],
+        "tr": "Otobüs metrodan yavaş (daha az hızlı).",
+        "why": "moins … que"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u39",
+   "unit": {
+    "id": "g6",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Dönüşlü fiiller",
+    "subtitle": "se lever, s'appeler, se souvenir · 3 ders",
+    "lessons": [
+     {
+      "id": "g6l1",
+      "kind": "grammar",
+      "title": "Şimdiki zamanda dönüşlü fiiller",
+      "subtitle": "me, te, se, nous, vous, se · Olumsuz: ne + zamir + fiil + pas",
+      "intro": "se + fiil: zamir özneye uyar.",
+      "rules": [
+       {
+        "title": "me, te, se, nous, vous, se",
+        "text": "je me lève, tu te lèves, il se lève, nous nous levons, vous vous levez, ils se lèvent.",
+        "examples": [
+         {
+          "t": "Je me lève à sept heures.",
+          "tr": "Saat yedide kalkarım.",
+          "read": ""
+         },
+         {
+          "t": "Comment tu t'appelles ?",
+          "tr": "Adın ne?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Olumsuz: ne + zamir + fiil + pas",
+        "text": "Je ne me lève pas tôt. Il ne s'habille pas.",
+        "examples": [
+         {
+          "t": "Je ne me souviens pas.",
+          "tr": "Hatırlamıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Elle ne se maquille pas.",
+          "tr": "Makyaj yapmıyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je ___ réveille à six heures.",
+        "a": "me",
+        "o": [
+         "se",
+         "te",
+         "m'"
+        ],
+        "tr": "Saat altıda uyanırım.",
+        "why": "je → me"
+       },
+       {
+        "s": "Nous ___ promenons au parc.",
+        "a": "nous",
+        "o": [
+         "se",
+         "vous",
+         "me"
+        ],
+        "tr": "Parkta geziniyoruz.",
+        "why": "nous → nous"
+       },
+       {
+        "s": "Ils ___ couchent tard.",
+        "a": "se",
+        "o": [
+         "s'",
+         "leur",
+         "nous"
+        ],
+        "tr": "Geç yatıyorlar.",
+        "why": "ils → se"
+       },
+       {
+        "s": "Tu ___ habilles vite ?",
+        "a": "t'",
+        "o": [
+         "te",
+         "s'",
+         "se"
+        ],
+        "tr": "Hızlı giyinir misin?",
+        "why": "ünlüden önce: t'"
+       },
+       {
+        "s": "Vous ___ dépêchez ?",
+        "a": "vous",
+        "o": [
+         "se",
+         "nous",
+         "te"
+        ],
+        "tr": "Acele ediyor musunuz?",
+        "why": "vous → vous"
+       },
+       {
+        "s": "Je ne ___ souviens pas de son nom.",
+        "a": "me",
+        "o": [
+         "m'",
+         "se",
+         "pas me"
+        ],
+        "tr": "Adını hatırlamıyorum.",
+        "why": "ne + me + fiil"
+       }
+      ]
+     },
+     {
+      "id": "g6l2",
+      "kind": "grammar",
+      "title": "Geçmişte dönüşlü fiiller",
+      "subtitle": "se + être + participe · Uyum",
+      "intro": "Dönüşlü fiiller passé composé'de hep être alır.",
+      "rules": [
+       {
+        "title": "se + être + participe",
+        "text": "Je me suis levé. Elle s'est habillée. Nous nous sommes promenés.",
+        "examples": [
+         {
+          "t": "Je me suis réveillé tard.",
+          "tr": "Geç uyandım.",
+          "read": ""
+         },
+         {
+          "t": "Elle s'est maquillée.",
+          "tr": "Makyaj yaptı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Uyum",
+        "text": "Participe özneye uyar: elle s'est assise, ils se sont amusés.",
+        "examples": [
+         {
+          "t": "Les enfants se sont bien amusés.",
+          "tr": "Çocuklar çok eğlendi.",
+          "read": ""
+         },
+         {
+          "t": "Nous nous sommes rencontrés à Paris.",
+          "tr": "Paris'te tanıştık.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Hier, je me ___ levé tard.",
+        "a": "suis",
+        "o": [
+         "ai",
+         "es",
+         "est"
+        ],
+        "tr": "Dün geç kalktım.",
+        "why": "dönüşlü → être"
+       },
+       {
+        "s": "Elle s'est ___ à huit heures.",
+        "a": "réveillée",
+        "o": [
+         "réveillé",
+         "réveiller",
+         "réveillés"
+        ],
+        "tr": "Sekizde uyandı.",
+        "why": "dişil → -e"
+       },
+       {
+        "s": "Nous nous sommes ___ au café.",
+        "a": "rencontrés",
+        "o": [
+         "rencontré",
+         "rencontrer",
+         "rencontrons"
+        ],
+        "tr": "Kafede tanıştık.",
+        "why": "çoğul → -s"
+       },
+       {
+        "s": "Tu ___ es bien amusé ?",
+        "a": "t'",
+        "o": [
+         "te",
+         "s'",
+         "se"
+        ],
+        "tr": "İyi eğlendin mi?",
+        "why": "tu → t'es"
+       },
+       {
+        "s": "Ils se ___ disputés.",
+        "a": "sont",
+        "o": [
+         "ont",
+         "sommes",
+         "est"
+        ],
+        "tr": "Tartıştılar.",
+        "why": "ils → sont"
+       },
+       {
+        "s": "Elle ___ est assise près de moi.",
+        "a": "s'",
+        "o": [
+         "se",
+         "l'",
+         "m'"
+        ],
+        "tr": "Yanıma oturdu.",
+        "why": "elle → s'est"
+       }
+      ]
+     },
+     {
+      "id": "g6l3",
+      "kind": "grammar",
+      "title": "Emir kipinde dönüşlü fiil",
+      "subtitle": "Olumlu: Lève-toi ! · Olumsuz: Ne te lève pas !",
+      "intro": "Olumluda zamir sona, olumsuzda önde.",
+      "rules": [
+       {
+        "title": "Olumlu: Lève-toi !",
+        "text": "Lève-toi, assieds-toi, dépêchons-nous, calmez-vous.",
+        "examples": [
+         {
+          "t": "Dépêche-toi, on est en retard !",
+          "tr": "Acele et, geç kaldık!",
+          "read": ""
+         },
+         {
+          "t": "Asseyez-vous, s'il vous plaît.",
+          "tr": "Oturun lütfen.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Olumsuz: Ne te lève pas !",
+        "text": "Ne t'inquiète pas. Ne vous dérangez pas.",
+        "examples": [
+         {
+          "t": "Ne t'inquiète pas.",
+          "tr": "Endişelenme.",
+          "read": ""
+         },
+         {
+          "t": "Ne vous levez pas, s'il vous plaît.",
+          "tr": "Kalkmayın lütfen.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Lève-___, il est tard !",
+        "a": "toi",
+        "o": [
+         "te",
+         "tu",
+         "se"
+        ],
+        "tr": "Kalk, geç oldu!",
+        "why": "olumlu → -toi"
+       },
+       {
+        "s": "Ne ___ inquiète pas.",
+        "a": "t'",
+        "o": [
+         "toi",
+         "te",
+         "s'"
+        ],
+        "tr": "Endişelenme.",
+        "why": "olumsuz → t'"
+       },
+       {
+        "s": "Asseyez-___, je vous en prie.",
+        "a": "vous",
+        "o": [
+         "toi",
+         "se",
+         "nous"
+        ],
+        "tr": "Oturun, rica ederim.",
+        "why": "vous → -vous"
+       },
+       {
+        "s": "Dépêchons-___ !",
+        "a": "nous",
+        "o": [
+         "vous",
+         "se",
+         "toi"
+        ],
+        "tr": "Acele edelim!",
+        "why": "nous → -nous"
+       },
+       {
+        "s": "Ne ___ fâche pas.",
+        "a": "te",
+        "o": [
+         "toi",
+         "se",
+         "t'"
+        ],
+        "tr": "Kızma.",
+        "why": "olumsuz → te"
+       },
+       {
+        "s": "Calme-___, tout va bien.",
+        "a": "toi",
+        "o": [
+         "te",
+         "tu",
+         "vous-même"
+        ],
+        "tr": "Sakin ol, her şey yolunda.",
+        "why": "olumlu → -toi"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u41",
+   "unit": {
+    "id": "g7",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Olumsuzluk ve soru",
+    "subtitle": "jamais, rien, personne; est-ce que, inversion · 3 ders",
+    "lessons": [
+     {
+      "id": "g7l1",
+      "kind": "grammar",
+      "title": "Olumsuzluğun türleri",
+      "subtitle": "ne … jamais / plus · ne … rien / personne",
+      "intro": "ne … pas dışında başka olumsuz yapılar.",
+      "rules": [
+       {
+        "title": "ne … jamais / plus",
+        "text": "ne … jamais (asla), ne … plus (artık … değil).",
+        "examples": [
+         {
+          "t": "Je ne fume jamais.",
+          "tr": "Asla sigara içmem.",
+          "read": ""
+         },
+         {
+          "t": "Il n'habite plus ici.",
+          "tr": "Artık burada oturmuyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "ne … rien / personne",
+        "text": "ne … rien (hiçbir şey), ne … personne (hiç kimse).",
+        "examples": [
+         {
+          "t": "Je ne vois rien.",
+          "tr": "Hiçbir şey görmüyorum.",
+          "read": ""
+         },
+         {
+          "t": "Il n'y a personne.",
+          "tr": "Kimse yok.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je ne mange ___ de viande.",
+        "a": "jamais",
+        "o": [
+         "rien",
+         "personne",
+         "aucun"
+        ],
+        "tr": "Asla et yemem.",
+        "why": "ne … jamais"
+       },
+       {
+        "s": "Il n'y a ___ dans la rue.",
+        "a": "personne",
+        "o": [
+         "rien",
+         "jamais",
+         "plus"
+        ],
+        "tr": "Sokakta kimse yok.",
+        "why": "ne … personne"
+       },
+       {
+        "s": "Je n'ai ___ compris.",
+        "a": "rien",
+        "o": [
+         "personne",
+         "jamais rien de",
+         "aucune"
+        ],
+        "tr": "Hiçbir şey anlamadım.",
+        "why": "ne … rien"
+       },
+       {
+        "s": "Elle ne travaille ___ ici.",
+        "a": "plus",
+        "o": [
+         "personne",
+         "rien",
+         "aucun"
+        ],
+        "tr": "Artık burada çalışmıyor.",
+        "why": "ne … plus"
+       },
+       {
+        "s": "___ ne m'a appelé.",
+        "a": "Personne",
+        "o": [
+         "Rien",
+         "Jamais",
+         "Plus"
+        ],
+        "tr": "Kimse beni aramadı.",
+        "why": "özne → personne"
+       },
+       {
+        "s": "Je n'ai ___ idée.",
+        "a": "aucune",
+        "o": [
+         "aucun",
+         "rien",
+         "jamais"
+        ],
+        "tr": "Hiçbir fikrim yok.",
+        "why": "dişil → aucune"
+       }
+      ]
+     },
+     {
+      "id": "g7l2",
+      "kind": "grammar",
+      "title": "Soru kurmak",
+      "subtitle": "Tonlama ve est-ce que · Devrik (resmî)",
+      "intro": "Üç yol: tonlama, est-ce que, devrik.",
+      "rules": [
+       {
+        "title": "Tonlama ve est-ce que",
+        "text": "Tu viens ? / Est-ce que tu viens ? — günlük ve nötr.",
+        "examples": [
+         {
+          "t": "Est-ce que tu as faim ?",
+          "tr": "Aç mısın?",
+          "read": ""
+         },
+         {
+          "t": "Où est-ce que tu habites ?",
+          "tr": "Nerede oturuyorsun?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Devrik (resmî)",
+        "text": "Fiil + tire + özne: Parlez-vous français ? A-t-il fini ?",
+        "examples": [
+         {
+          "t": "Parlez-vous anglais ?",
+          "tr": "İngilizce konuşuyor musunuz?",
+          "read": ""
+         },
+         {
+          "t": "Où habitez-vous ?",
+          "tr": "Nerede oturuyorsunuz?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ tu aimes le chocolat ?",
+        "a": "Est-ce que",
+        "o": [
+         "Qu'est-ce que",
+         "Est-ce",
+         "Que"
+        ],
+        "tr": "Çikolata sever misin?",
+        "why": "evet/hayır → est-ce que"
+       },
+       {
+        "s": "___ tu fais ce soir ?",
+        "a": "Qu'est-ce que",
+        "o": [
+         "Est-ce que",
+         "Quoi est-ce",
+         "Qui"
+        ],
+        "tr": "Bu akşam ne yapıyorsun?",
+        "why": "ne → qu'est-ce que"
+       },
+       {
+        "s": "Parlez-___ français ?",
+        "a": "vous",
+        "o": [
+         "tu",
+         "il",
+         "nous"
+        ],
+        "tr": "Fransızca konuşuyor musunuz?",
+        "why": "devrik: parlez-vous"
+       },
+       {
+        "s": "A-___-il fini son travail ?",
+        "a": "t",
+        "o": [
+         "l",
+         "s",
+         "il"
+        ],
+        "tr": "İşini bitirdi mi?",
+        "why": "ünlüler arasında -t-"
+       },
+       {
+        "s": "___ est-ce que tu pars ?",
+        "a": "Quand",
+        "o": [
+         "Qu'est-ce",
+         "Quoi",
+         "Qui que"
+        ],
+        "tr": "Ne zaman gidiyorsun?",
+        "why": "ne zaman → quand"
+       },
+       {
+        "s": "Avec ___ tu vas au cinéma ?",
+        "a": "qui",
+        "o": [
+         "que",
+         "quoi",
+         "quel"
+        ],
+        "tr": "Sinemaya kiminle gidiyorsun?",
+        "why": "kim → qui"
+       }
+      ]
+     },
+     {
+      "id": "g7l3",
+      "kind": "grammar",
+      "title": "Soru sıfatları ve zamirleri",
+      "subtitle": "quel / quelle / quels / quelles · lequel / laquelle",
+      "intro": "quel, lequel, combien.",
+      "rules": [
+       {
+        "title": "quel / quelle / quels / quelles",
+        "text": "Quel livre ? Quelle heure ? İsimle uyumlu.",
+        "examples": [
+         {
+          "t": "Quelle heure est-il ?",
+          "tr": "Saat kaç?",
+          "read": ""
+         },
+         {
+          "t": "Quels films aimes-tu ?",
+          "tr": "Hangi filmleri seversin?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "lequel / laquelle",
+        "text": "\"Hangisi\": Il y a deux robes. Laquelle préfères-tu ?",
+        "examples": [
+         {
+          "t": "Lequel est le tien ?",
+          "tr": "Hangisi senin?",
+          "read": ""
+         },
+         {
+          "t": "Laquelle tu préfères ?",
+          "tr": "Hangisini tercih edersin?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ âge as-tu ?",
+        "a": "Quel",
+        "o": [
+         "Quelle",
+         "Quels",
+         "Lequel"
+        ],
+        "tr": "Kaç yaşındasın?",
+        "why": "âge eril → quel"
+       },
+       {
+        "s": "___ est ta couleur préférée ?",
+        "a": "Quelle",
+        "o": [
+         "Quel",
+         "Quels",
+         "Laquelle de"
+        ],
+        "tr": "En sevdiğin renk ne?",
+        "why": "couleur dişil → quelle"
+       },
+       {
+        "s": "Il y a deux gâteaux. ___ veux-tu ?",
+        "a": "Lequel",
+        "o": [
+         "Laquelle",
+         "Quel",
+         "Quoi"
+        ],
+        "tr": "İki kek var. Hangisini istersin?",
+        "why": "gâteau eril → lequel"
+       },
+       {
+        "s": "___ langues parles-tu ?",
+        "a": "Quelles",
+        "o": [
+         "Quel",
+         "Quels",
+         "Lesquelles"
+        ],
+        "tr": "Hangi dilleri konuşuyorsun?",
+        "why": "langues dişil çoğul"
+       },
+       {
+        "s": "___ coûte ce livre ?",
+        "a": "Combien",
+        "o": [
+         "Quel",
+         "Comment",
+         "Lequel"
+        ],
+        "tr": "Bu kitap ne kadar?",
+        "why": "fiyat → combien"
+       },
+       {
+        "s": "___ chaussures tu préfères ?",
+        "a": "Quelles",
+        "o": [
+         "Quels",
+         "Quelle",
+         "Lesquels"
+        ],
+        "tr": "Hangi ayakkabıları tercih edersin?",
+        "why": "chaussures dişil çoğul"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u43",
+   "unit": {
+    "id": "g8",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "İlgi zamirleri",
+    "subtitle": "qui, que, où, dont · 3 ders",
+    "lessons": [
+     {
+      "id": "g8l1",
+      "kind": "grammar",
+      "title": "qui ve que",
+      "subtitle": "qui: özne · que: nesne",
+      "intro": "qui özne, que nesne yerine geçer.",
+      "rules": [
+       {
+        "title": "qui: özne",
+        "text": "L'homme qui parle est mon père. (konuşan adam)",
+        "examples": [
+         {
+          "t": "La fille qui chante est ma sœur.",
+          "tr": "Şarkı söyleyen kız benim kız kardeşim.",
+          "read": ""
+         },
+         {
+          "t": "C'est un livre qui parle de Paris.",
+          "tr": "Bu Paris'i anlatan bir kitap.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "que: nesne",
+        "text": "Le livre que je lis est intéressant. (okuduğum kitap)",
+        "examples": [
+         {
+          "t": "Le film que j'ai vu était génial.",
+          "tr": "İzlediğim film harikaydı.",
+          "read": ""
+         },
+         {
+          "t": "C'est la ville que je préfère.",
+          "tr": "Bu en sevdiğim şehir.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Le garçon ___ joue au foot est mon frère.",
+        "a": "qui",
+        "o": [
+         "que",
+         "où",
+         "dont"
+        ],
+        "tr": "Futbol oynayan çocuk kardeşim.",
+        "why": "özne → qui"
+       },
+       {
+        "s": "La robe ___ tu portes est jolie.",
+        "a": "que",
+        "o": [
+         "qui",
+         "où",
+         "dont"
+        ],
+        "tr": "Giydiğin elbise güzel.",
+        "why": "nesne → que"
+       },
+       {
+        "s": "C'est un ami ___ habite à Lyon.",
+        "a": "qui",
+        "o": [
+         "que",
+         "où",
+         "dont"
+        ],
+        "tr": "Lyon'da oturan bir arkadaş.",
+        "why": "özne → qui"
+       },
+       {
+        "s": "Le gâteau ___ ma mère fait est délicieux.",
+        "a": "que",
+        "o": [
+         "qui",
+         "dont",
+         "où"
+        ],
+        "tr": "Annemin yaptığı kek çok lezzetli.",
+        "why": "nesne → que"
+       },
+       {
+        "s": "Les gens ___ travaillent ici sont gentils.",
+        "a": "qui",
+        "o": [
+         "que",
+         "dont",
+         "où"
+        ],
+        "tr": "Burada çalışan insanlar nazik.",
+        "why": "özne → qui"
+       },
+       {
+        "s": "C'est la chanson ___ j'adore.",
+        "a": "que",
+        "o": [
+         "qui",
+         "dont",
+         "où"
+        ],
+        "tr": "Bayıldığım şarkı bu.",
+        "why": "nesne → que"
+       }
+      ]
+     },
+     {
+      "id": "g8l2",
+      "kind": "grammar",
+      "title": "où ve dont",
+      "subtitle": "où: yer ve zaman · dont: \"-den, hakkında\"",
+      "intro": "où yer/zaman, dont \"de\" ile kullanılan fiiller için.",
+      "rules": [
+       {
+        "title": "où: yer ve zaman",
+        "text": "La ville où je suis né. Le jour où nous nous sommes rencontrés.",
+        "examples": [
+         {
+          "t": "C'est la maison où j'ai grandi.",
+          "tr": "Bu büyüdüğüm ev.",
+          "read": ""
+         },
+         {
+          "t": "Je me souviens du jour où tu es arrivé.",
+          "tr": "Geldiğin günü hatırlıyorum.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "dont: \"-den, hakkında\"",
+        "text": "parler de, avoir besoin de: Le livre dont je parle. L'outil dont j'ai besoin.",
+        "examples": [
+         {
+          "t": "C'est le livre dont je t'ai parlé.",
+          "tr": "Sana bahsettiğim kitap bu.",
+          "read": ""
+         },
+         {
+          "t": "Voilà l'argent dont tu as besoin.",
+          "tr": "İşte ihtiyacın olan para.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "C'est le restaurant ___ nous avons dîné.",
+        "a": "où",
+        "o": [
+         "que",
+         "qui",
+         "dont"
+        ],
+        "tr": "Akşam yemeği yediğimiz restoran bu.",
+        "why": "yer → où"
+       },
+       {
+        "s": "C'est le film ___ tout le monde parle.",
+        "a": "dont",
+        "o": [
+         "que",
+         "où",
+         "qui"
+        ],
+        "tr": "Herkesin bahsettiği film bu.",
+        "why": "parler de → dont"
+       },
+       {
+        "s": "Le jour ___ il est né, il neigeait.",
+        "a": "où",
+        "o": [
+         "que",
+         "quand que",
+         "dont"
+        ],
+        "tr": "Doğduğu gün kar yağıyordu.",
+        "why": "zaman → où"
+       },
+       {
+        "s": "Voici l'homme ___ je connais la fille.",
+        "a": "dont",
+        "o": [
+         "que",
+         "qui",
+         "où"
+        ],
+        "tr": "İşte kızını tanıdığım adam.",
+        "why": "sahiplik → dont"
+       },
+       {
+        "s": "C'est la ville ___ j'habite.",
+        "a": "où",
+        "o": [
+         "que",
+         "dont",
+         "qui"
+        ],
+        "tr": "Oturduğum şehir bu.",
+        "why": "yer → où"
+       },
+       {
+        "s": "Le stylo ___ j'ai besoin est sur la table.",
+        "a": "dont",
+        "o": [
+         "que",
+         "où",
+         "qui"
+        ],
+        "tr": "İhtiyacım olan kalem masada.",
+        "why": "avoir besoin de → dont"
+       }
+      ]
+     },
+     {
+      "id": "g8l3",
+      "kind": "grammar",
+      "title": "ce qui, ce que",
+      "subtitle": "ce qui: özne · ce que: nesne",
+      "intro": "\"… olan şey\".",
+      "rules": [
+       {
+        "title": "ce qui: özne",
+        "text": "Ce qui m'intéresse, c'est l'histoire. (beni ilgilendiren şey)",
+        "examples": [
+         {
+          "t": "Ce qui est important, c'est la santé.",
+          "tr": "Önemli olan sağlık.",
+          "read": ""
+         },
+         {
+          "t": "Dis-moi ce qui se passe.",
+          "tr": "Bana neler olduğunu söyle.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "ce que: nesne",
+        "text": "Je ne comprends pas ce que tu dis. (söylediğin şeyi)",
+        "examples": [
+         {
+          "t": "Fais ce que tu veux.",
+          "tr": "İstediğini yap.",
+          "read": ""
+         },
+         {
+          "t": "C'est tout ce que j'ai.",
+          "tr": "Bütün sahip olduğum bu.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je ne sais pas ___ il veut.",
+        "a": "ce qu'",
+        "o": [
+         "ce qui",
+         "qu'",
+         "que ce"
+        ],
+        "tr": "Ne istediğini bilmiyorum.",
+        "why": "nesne → ce que"
+       },
+       {
+        "s": "___ me plaît, c'est la mer.",
+        "a": "Ce qui",
+        "o": [
+         "Ce que",
+         "Qui",
+         "Que"
+        ],
+        "tr": "Hoşuma giden deniz.",
+        "why": "özne → ce qui"
+       },
+       {
+        "s": "Raconte-moi ___ s'est passé.",
+        "a": "ce qui",
+        "o": [
+         "ce que",
+         "qu'",
+         "quoi"
+        ],
+        "tr": "Bana ne olduğunu anlat.",
+        "why": "özne → ce qui"
+       },
+       {
+        "s": "Prends ___ tu veux.",
+        "a": "ce que",
+        "o": [
+         "ce qui",
+         "qui",
+         "quoi que"
+        ],
+        "tr": "İstediğini al.",
+        "why": "nesne → ce que"
+       },
+       {
+        "s": "___ je préfère, c'est le chocolat.",
+        "a": "Ce que",
+        "o": [
+         "Ce qui",
+         "Que",
+         "Qui"
+        ],
+        "tr": "En sevdiğim çikolata.",
+        "why": "nesne → ce que"
+       },
+       {
+        "s": "Tout ___ brille n'est pas or.",
+        "a": "ce qui",
+        "o": [
+         "ce que",
+         "qui ce",
+         "que"
+        ],
+        "tr": "Her parlayan altın değildir.",
+        "why": "özne → ce qui"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u45",
+   "unit": {
+    "id": "g9",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Edatlar ve ülkeler",
+    "subtitle": "à, en, au, de; depuis, pendant, il y a · 3 ders",
+    "lessons": [
+     {
+      "id": "g9l1",
+      "kind": "grammar",
+      "title": "Şehir ve ülke edatları",
+      "subtitle": "Şehir: à; dişil ülke: en · Eril ülke: au; çoğul: aux",
+      "intro": "à Paris, en France, au Japon, aux États-Unis.",
+      "rules": [
+       {
+        "title": "Şehir: à; dişil ülke: en",
+        "text": "Je vais à Rome. J'habite en Italie (Italie dişil).",
+        "examples": [
+         {
+          "t": "J'habite à Istanbul, en Turquie.",
+          "tr": "Türkiye'de, İstanbul'da oturuyorum.",
+          "read": ""
+         },
+         {
+          "t": "Il part en Espagne.",
+          "tr": "İspanya'ya gidiyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Eril ülke: au; çoğul: aux",
+        "text": "au Japon, au Canada, aux États-Unis.",
+        "examples": [
+         {
+          "t": "Elle travaille au Canada.",
+          "tr": "Kanada'da çalışıyor.",
+          "read": ""
+         },
+         {
+          "t": "Nous allons aux États-Unis.",
+          "tr": "Amerika'ya gidiyoruz.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je vais ___ Paris demain.",
+        "a": "à",
+        "o": [
+         "en",
+         "au",
+         "dans"
+        ],
+        "tr": "Yarın Paris'e gidiyorum.",
+        "why": "şehir → à"
+       },
+       {
+        "s": "Il habite ___ Allemagne.",
+        "a": "en",
+        "o": [
+         "à",
+         "au",
+         "aux"
+        ],
+        "tr": "Almanya'da oturuyor.",
+        "why": "dişil ülke → en"
+       },
+       {
+        "s": "Nous partons ___ Japon.",
+        "a": "au",
+        "o": [
+         "en",
+         "à",
+         "aux"
+        ],
+        "tr": "Japonya'ya gidiyoruz.",
+        "why": "eril ülke → au"
+       },
+       {
+        "s": "Elle vient ___ Brésil.",
+        "a": "du",
+        "o": [
+         "de",
+         "des",
+         "en"
+        ],
+        "tr": "Brezilya'dan geliyor.",
+        "why": "eril → du"
+       },
+       {
+        "s": "Ils vivent ___ États-Unis.",
+        "a": "aux",
+        "o": [
+         "au",
+         "en",
+         "à les"
+        ],
+        "tr": "Amerika'da yaşıyorlar.",
+        "why": "çoğul → aux"
+       },
+       {
+        "s": "Je reviens ___ France.",
+        "a": "de",
+        "o": [
+         "du",
+         "des",
+         "en"
+        ],
+        "tr": "Fransa'dan dönüyorum.",
+        "why": "dişil → de"
+       }
+      ]
+     },
+     {
+      "id": "g9l2",
+      "kind": "grammar",
+      "title": "Zaman edatları",
+      "subtitle": "depuis / pendant · il y a / dans",
+      "intro": "depuis, pendant, il y a, dans.",
+      "rules": [
+       {
+        "title": "depuis / pendant",
+        "text": "depuis: -den beri (hâlâ sürüyor); pendant: boyunca.",
+        "examples": [
+         {
+          "t": "J'apprends le français depuis deux ans.",
+          "tr": "İki yıldır Fransızca öğreniyorum.",
+          "read": ""
+         },
+         {
+          "t": "J'ai dormi pendant huit heures.",
+          "tr": "Sekiz saat uyudum.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "il y a / dans",
+        "text": "il y a: önce (geçmiş); dans: sonra (gelecek).",
+        "examples": [
+         {
+          "t": "Je suis arrivé il y a une semaine.",
+          "tr": "Bir hafta önce geldim.",
+          "read": ""
+         },
+         {
+          "t": "Le train part dans dix minutes.",
+          "tr": "Tren on dakika sonra kalkıyor.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "J'habite ici ___ cinq ans.",
+        "a": "depuis",
+        "o": [
+         "pendant",
+         "il y a",
+         "dans"
+        ],
+        "tr": "Beş yıldır burada oturuyorum.",
+        "why": "hâlâ sürüyor → depuis"
+       },
+       {
+        "s": "Je suis allé en Italie ___ deux ans.",
+        "a": "il y a",
+        "o": [
+         "depuis",
+         "dans",
+         "pendant"
+        ],
+        "tr": "İki yıl önce İtalya'ya gittim.",
+        "why": "önce → il y a"
+       },
+       {
+        "s": "Le film commence ___ cinq minutes.",
+        "a": "dans",
+        "o": [
+         "il y a",
+         "depuis",
+         "pendant"
+        ],
+        "tr": "Film beş dakika sonra başlıyor.",
+        "why": "sonra → dans"
+       },
+       {
+        "s": "Il a plu ___ toute la journée.",
+        "a": "pendant",
+        "o": [
+         "depuis",
+         "dans",
+         "il y a"
+        ],
+        "tr": "Bütün gün yağmur yağdı.",
+        "why": "boyunca → pendant"
+       },
+       {
+        "s": "___ quand tu travailles ici ?",
+        "a": "Depuis",
+        "o": [
+         "Pendant",
+         "Dans",
+         "Il y a"
+        ],
+        "tr": "Ne zamandan beri burada çalışıyorsun?",
+        "why": "depuis quand"
+       },
+       {
+        "s": "On se revoit ___ une semaine.",
+        "a": "dans",
+        "o": [
+         "depuis",
+         "il y a",
+         "pendant"
+        ],
+        "tr": "Bir hafta sonra tekrar görüşürüz.",
+        "why": "sonra → dans"
+       }
+      ]
+     },
+     {
+      "id": "g9l3",
+      "kind": "grammar",
+      "title": "Fiil + à / de",
+      "subtitle": "Fiil + à + mastar · Fiil + de + mastar",
+      "intro": "Bazı fiiller à, bazıları de ile mastar ister.",
+      "rules": [
+       {
+        "title": "Fiil + à + mastar",
+        "text": "commencer à, aider à, apprendre à, réussir à.",
+        "examples": [
+         {
+          "t": "J'apprends à nager.",
+          "tr": "Yüzmeyi öğreniyorum.",
+          "read": ""
+         },
+         {
+          "t": "Il commence à pleuvoir.",
+          "tr": "Yağmur başlıyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Fiil + de + mastar",
+        "text": "essayer de, oublier de, décider de, arrêter de, finir de.",
+        "examples": [
+         {
+          "t": "J'ai oublié de fermer la porte.",
+          "tr": "Kapıyı kapatmayı unuttum.",
+          "read": ""
+         },
+         {
+          "t": "Il a arrêté de fumer.",
+          "tr": "Sigarayı bıraktı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "J'apprends ___ conduire.",
+        "a": "à",
+        "o": [
+         "de",
+         "pour",
+         "en"
+        ],
+        "tr": "Araba kullanmayı öğreniyorum.",
+        "why": "apprendre à"
+       },
+       {
+        "s": "N'oublie pas ___ appeler ta mère.",
+        "a": "d'",
+        "o": [
+         "à",
+         "pour",
+         "en"
+        ],
+        "tr": "Anneni aramayı unutma.",
+        "why": "oublier de"
+       },
+       {
+        "s": "Il a décidé ___ partir.",
+        "a": "de",
+        "o": [
+         "à",
+         "pour",
+         "en"
+        ],
+        "tr": "Gitmeye karar verdi.",
+        "why": "décider de"
+       },
+       {
+        "s": "Tu m'aides ___ porter la valise ?",
+        "a": "à",
+        "o": [
+         "de",
+         "pour de",
+         "en"
+        ],
+        "tr": "Valizi taşımama yardım eder misin?",
+        "why": "aider à"
+       },
+       {
+        "s": "J'essaie ___ comprendre.",
+        "a": "de",
+        "o": [
+         "à",
+         "pour",
+         "par"
+        ],
+        "tr": "Anlamaya çalışıyorum.",
+        "why": "essayer de"
+       },
+       {
+        "s": "Elle a réussi ___ trouver un travail.",
+        "a": "à",
+        "o": [
+         "de",
+         "pour",
+         "en"
+        ],
+        "tr": "İş bulmayı başardı.",
+        "why": "réussir à"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u52",
+   "unit": {
+    "id": "y5",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Plus-que-parfait ve zaman uyumu",
+    "subtitle": "-mişti, -miş olacak · 3 ders",
+    "lessons": [
+     {
+      "id": "y5l1",
+      "kind": "grammar",
+      "title": "Plus-que-parfait",
+      "subtitle": "avait / était + participe · si + plus-que-parfait: pişmanlık",
+      "intro": "Geçmişteki bir olaydan daha önce olan olay.",
+      "rules": [
+       {
+        "title": "avait / était + participe",
+        "text": "J'avais fini quand il est arrivé. Elle était déjà partie.",
+        "examples": [
+         {
+          "t": "Quand je suis arrivé, le film avait commencé.",
+          "tr": "Vardığımda film başlamıştı.",
+          "read": ""
+         },
+         {
+          "t": "Elle était déjà partie.",
+          "tr": "O çoktan gitmişti.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "si + plus-que-parfait: pişmanlık",
+        "text": "Si j'avais su, je serais venu. (bilseydim gelirdim)",
+        "examples": [
+         {
+          "t": "Si j'avais su, je serais venu.",
+          "tr": "Bilseydim gelirdim.",
+          "read": ""
+         },
+         {
+          "t": "Si tu m'avais appelé, je t'aurais aidé.",
+          "tr": "Arasaydın sana yardım ederdim.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Quand je suis arrivé, il ___ déjà parti.",
+        "a": "était",
+        "o": [
+         "avait",
+         "est",
+         "a"
+        ],
+        "tr": "Vardığımda o çoktan gitmişti.",
+        "why": "partir → était"
+       },
+       {
+        "s": "J'___ fini mes devoirs avant le dîner.",
+        "a": "avais",
+        "o": [
+         "étais",
+         "ai",
+         "aurais"
+        ],
+        "tr": "Akşam yemeğinden önce ödevimi bitirmiştim.",
+        "why": "finir → avais"
+       },
+       {
+        "s": "Si j'avais su, je ___ venu.",
+        "a": "serais",
+        "o": [
+         "suis",
+         "étais",
+         "aurais"
+        ],
+        "tr": "Bilseydim gelirdim.",
+        "why": "si + plus-que-parfait → conditionnel passé"
+       },
+       {
+        "s": "Si tu ___ travaillé, tu aurais réussi.",
+        "a": "avais",
+        "o": [
+         "aurais",
+         "as",
+         "étais"
+        ],
+        "tr": "Çalışsaydın başarırdın.",
+        "why": "si + avais"
+       },
+       {
+        "s": "Elle m'a dit qu'elle ___ vu ce film.",
+        "a": "avait",
+        "o": [
+         "aurait",
+         "a",
+         "était"
+        ],
+        "tr": "Bu filmi gördüğünü söyledi.",
+        "why": "geçmişten önce → avait"
+       },
+       {
+        "s": "Nous ___ arrivés trop tard.",
+        "a": "étions",
+        "o": [
+         "avions",
+         "sommes",
+         "serions"
+        ],
+        "tr": "Çok geç varmıştık.",
+        "why": "arriver → étions"
+       }
+      ]
+     },
+     {
+      "id": "y5l2",
+      "kind": "grammar",
+      "title": "Futur antérieur",
+      "subtitle": "aura / sera + participe · Tahmin",
+      "intro": "Gelecekte bir andan önce bitmiş olacak olay.",
+      "rules": [
+       {
+        "title": "aura / sera + participe",
+        "text": "Quand tu arriveras, j'aurai fini. Demain, il sera parti.",
+        "examples": [
+         {
+          "t": "Quand tu reviendras, j'aurai fini le travail.",
+          "tr": "Sen döndüğünde işi bitirmiş olacağım.",
+          "read": ""
+         },
+         {
+          "t": "À midi, ils seront arrivés.",
+          "tr": "Öğlene kadar varmış olacaklar.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Tahmin",
+        "text": "Il est en retard ; il aura raté le train. (herhalde kaçırmıştır)",
+        "examples": [
+         {
+          "t": "Il n'est pas là ; il aura oublié.",
+          "tr": "Burada değil, herhalde unutmuştur.",
+          "read": ""
+         },
+         {
+          "t": "Elle aura pris le bus.",
+          "tr": "Herhalde otobüse binmiştir.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Quand tu arriveras, j'___ fini.",
+        "a": "aurai",
+        "o": [
+         "avais",
+         "ai",
+         "aurais"
+        ],
+        "tr": "Vardığında bitirmiş olacağım.",
+        "why": "futur antérieur → aurai"
+       },
+       {
+        "s": "Demain à cette heure, nous ___ partis.",
+        "a": "serons",
+        "o": [
+         "aurons",
+         "sommes",
+         "étions"
+        ],
+        "tr": "Yarın bu saatte gitmiş olacağız.",
+        "why": "partir → serons"
+       },
+       {
+        "s": "Dès que tu ___ mangé, on partira.",
+        "a": "auras",
+        "o": [
+         "as",
+         "avais",
+         "aurais"
+        ],
+        "tr": "Yer yemez çıkacağız.",
+        "why": "dès que + futur antérieur"
+       },
+       {
+        "s": "Il est en retard ; il ___ raté le bus.",
+        "a": "aura",
+        "o": [
+         "a eu",
+         "avait",
+         "sera"
+        ],
+        "tr": "Gecikti, herhalde otobüsü kaçırmıştır.",
+        "why": "tahmin → aura"
+       },
+       {
+        "s": "Elle ___ rentrée avant minuit.",
+        "a": "sera",
+        "o": [
+         "aura",
+         "est",
+         "serait"
+        ],
+        "tr": "Gece yarısından önce dönmüş olacak.",
+        "why": "rentrer → sera"
+       },
+       {
+        "s": "Quand vous aurez terminé, vous ___ partir.",
+        "a": "pourrez",
+        "o": [
+         "pouvez",
+         "pourriez",
+         "avez pu"
+        ],
+        "tr": "Bitirdiğinizde gidebilirsiniz.",
+        "why": "sonuç → futur"
+       }
+      ]
+     },
+     {
+      "id": "y5l3",
+      "kind": "grammar",
+      "title": "Koşul cümlelerinin üç türü",
+      "subtitle": "si + présent → futur; si + imparfait → conditionnel · si + plus-que-parfait → conditionnel passé",
+      "intro": "Gerçek, hayal ve pişmanlık.",
+      "rules": [
+       {
+        "title": "si + présent → futur; si + imparfait → conditionnel",
+        "text": "S'il fait beau, on sortira. S'il faisait beau, on sortirait.",
+        "examples": [
+         {
+          "t": "S'il pleut, je resterai à la maison.",
+          "tr": "Yağmur yağarsa evde kalacağım.",
+          "read": ""
+         },
+         {
+          "t": "Si j'étais riche, je voyagerais.",
+          "tr": "Zengin olsaydım seyahat ederdim.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "si + plus-que-parfait → conditionnel passé",
+        "text": "S'il avait fait beau, on serait sortis.",
+        "examples": [
+         {
+          "t": "Si nous étions partis plus tôt, nous n'aurions pas raté l'avion.",
+          "tr": "Daha erken çıksaydık uçağı kaçırmazdık.",
+          "read": ""
+         },
+         {
+          "t": "Si j'avais eu le temps, je serais venu.",
+          "tr": "Vaktim olsaydı gelirdim.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "S'il fait beau demain, nous ___ à la plage.",
+        "a": "irons",
+        "o": [
+         "irions",
+         "serions allés",
+         "allons hier"
+        ],
+        "tr": "Yarın hava güzel olursa plaja gideceğiz.",
+        "why": "si + présent → futur"
+       },
+       {
+        "s": "Si j'___ le temps, je lirais plus.",
+        "a": "avais",
+        "o": [
+         "ai",
+         "aurais",
+         "aurai"
+        ],
+        "tr": "Vaktim olsaydı daha çok okurdum.",
+        "why": "si + imparfait"
+       },
+       {
+        "s": "Si tu étais venu, tu ___ amusé.",
+        "a": "te serais",
+        "o": [
+         "t'amusais",
+         "te seras",
+         "t'es"
+        ],
+        "tr": "Gelseydin eğlenirdin.",
+        "why": "conditionnel passé"
+       },
+       {
+        "s": "Si je ___ toi, j'accepterais.",
+        "a": "étais",
+        "o": [
+         "serais",
+         "suis",
+         "serai"
+        ],
+        "tr": "Yerinde olsam kabul ederdim.",
+        "why": "si + imparfait"
+       },
+       {
+        "s": "Si vous m'aviez prévenu, je ___ venu.",
+        "a": "serais",
+        "o": [
+         "suis",
+         "étais",
+         "serai"
+        ],
+        "tr": "Haber verseydiniz gelirdim.",
+        "why": "si + plus-que-parfait"
+       },
+       {
+        "s": "Si tu continues comme ça, tu ___ malade.",
+        "a": "seras",
+        "o": [
+         "serais",
+         "étais",
+         "aurais été"
+        ],
+        "tr": "Böyle devam edersen hasta olacaksın.",
+        "why": "si + présent → futur"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u55",
+   "unit": {
+    "id": "y6",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Bağlaçlar ve mantıksal bağlantılar",
+    "subtitle": "car, puisque, afin que, bien que · 3 ders",
+    "lessons": [
+     {
+      "id": "y6l1",
+      "kind": "grammar",
+      "title": "Sebep ve sonuç",
+      "subtitle": "Sebep: parce que, car, puisque · Sonuç: donc, c'est pourquoi",
+      "intro": "parce que, car, puisque, comme; donc, c'est pourquoi, si bien que.",
+      "rules": [
+       {
+        "title": "Sebep: parce que, car, puisque",
+        "text": "Je reste ici car il pleut. Puisque tu es là, aide-moi.",
+        "examples": [
+         {
+          "t": "Comme il pleuvait, nous sommes restés.",
+          "tr": "Yağmur yağdığı için kaldık.",
+          "read": ""
+         },
+         {
+          "t": "Puisque tu es libre, viens avec moi.",
+          "tr": "Madem boşsun, benimle gel.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Sonuç: donc, c'est pourquoi",
+        "text": "Il est malade, c'est pourquoi il n'est pas venu.",
+        "examples": [
+         {
+          "t": "Il était fatigué, c'est pourquoi il est parti.",
+          "tr": "Yorgundu, bu yüzden gitti.",
+          "read": ""
+         },
+         {
+          "t": "Je pense, donc je suis.",
+          "tr": "Düşünüyorum, öyleyse varım.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je ne viens pas ___ je suis malade.",
+        "a": "car",
+        "o": [
+         "donc",
+         "mais",
+         "or"
+        ],
+        "tr": "Gelmiyorum çünkü hastayım.",
+        "why": "sebep → car"
+       },
+       {
+        "s": "___ tu es là, aide-moi !",
+        "a": "Puisque",
+        "o": [
+         "Donc",
+         "Pourtant",
+         "Afin que"
+        ],
+        "tr": "Madem buradasın, yardım et!",
+        "why": "bilinen sebep → puisque"
+       },
+       {
+        "s": "Il pleuvait, ___ nous sommes restés.",
+        "a": "donc",
+        "o": [
+         "car",
+         "puisque",
+         "parce que"
+        ],
+        "tr": "Yağmur yağıyordu, bu yüzden kaldık.",
+        "why": "sonuç → donc"
+       },
+       {
+        "s": "___ il faisait froid, on a fermé la fenêtre.",
+        "a": "Comme",
+        "o": [
+         "Donc",
+         "Car",
+         "Mais"
+        ],
+        "tr": "Hava soğuk olduğu için pencereyi kapattık.",
+        "why": "cümle başında sebep → comme"
+       },
+       {
+        "s": "Il a beaucoup travaillé, ___ il a réussi.",
+        "a": "c'est pourquoi",
+        "o": [
+         "parce que",
+         "car",
+         "puisque"
+        ],
+        "tr": "Çok çalıştı, bu yüzden başardı.",
+        "why": "sonuç"
+       },
+       {
+        "s": "Elle est restée ___ elle était fatiguée.",
+        "a": "parce qu'",
+        "o": [
+         "donc",
+         "c'est pourquoi",
+         "pourtant"
+        ],
+        "tr": "Yorgun olduğu için kaldı.",
+        "why": "sebep → parce que"
+       }
+      ]
+     },
+     {
+      "id": "y6l2",
+      "kind": "grammar",
+      "title": "Amaç ve zıtlık",
+      "subtitle": "Amaç: pour / afin de / pour que · Zıtlık: bien que, même si, alors que",
+      "intro": "pour que, afin que (+ subjonctif); bien que, même si, alors que.",
+      "rules": [
+       {
+        "title": "Amaç: pour / afin de / pour que",
+        "text": "Je parle lentement pour que tu comprennes.",
+        "examples": [
+         {
+          "t": "Je travaille pour gagner ma vie.",
+          "tr": "Hayatımı kazanmak için çalışıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Je t'explique afin que tu comprennes.",
+          "tr": "Anlaman için açıklıyorum.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Zıtlık: bien que, même si, alors que",
+        "text": "Bien qu'il soit riche, il n'est pas heureux. Même s'il pleut, je sors.",
+        "examples": [
+         {
+          "t": "Même s'il pleut, je sortirai.",
+          "tr": "Yağmur yağsa bile çıkacağım.",
+          "read": ""
+         },
+         {
+          "t": "Il est sorti alors qu'il était malade.",
+          "tr": "Hasta olmasına rağmen dışarı çıktı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je parle fort ___ tout le monde m'entende.",
+        "a": "pour que",
+        "o": [
+         "pour",
+         "afin de",
+         "parce que"
+        ],
+        "tr": "Herkes duysun diye yüksek sesle konuşuyorum.",
+        "why": "amaç + subjonctif"
+       },
+       {
+        "s": "___ il soit fatigué, il continue.",
+        "a": "Bien qu'",
+        "o": [
+         "Même si",
+         "Parce qu'",
+         "Puisqu'"
+        ],
+        "tr": "Yorgun olmasına rağmen devam ediyor.",
+        "why": "bien que + subjonctif"
+       },
+       {
+        "s": "___ il pleut, on ira au parc.",
+        "a": "Même s'",
+        "o": [
+         "Bien qu'",
+         "Pour qu'",
+         "Car"
+        ],
+        "tr": "Yağmur yağsa bile parka gideceğiz.",
+        "why": "même si + indicatif"
+       },
+       {
+        "s": "J'économise ___ acheter une maison.",
+        "a": "pour",
+        "o": [
+         "pour que",
+         "bien que",
+         "car"
+        ],
+        "tr": "Ev almak için para biriktiriyorum.",
+        "why": "aynı özne → pour + mastar"
+       },
+       {
+        "s": "Il dort ___ moi, je travaille.",
+        "a": "alors que",
+        "o": [
+         "pour que",
+         "afin que",
+         "puisque"
+        ],
+        "tr": "O uyurken ben çalışıyorum.",
+        "why": "karşıtlık → alors que"
+       },
+       {
+        "s": "Viens tôt ___ nous puissions parler.",
+        "a": "afin que",
+        "o": [
+         "afin de",
+         "car",
+         "donc"
+        ],
+        "tr": "Konuşabilmemiz için erken gel.",
+        "why": "afin que + subjonctif"
+       }
+      ]
+     },
+     {
+      "id": "y6l3",
+      "kind": "grammar",
+      "title": "Metin bağlaçları",
+      "subtitle": "Sıralama · Ekleme ve karşıtlık",
+      "intro": "d'abord, ensuite, enfin; en effet, par contre, en revanche.",
+      "rules": [
+       {
+        "title": "Sıralama",
+        "text": "d'abord (önce), ensuite / puis (sonra), enfin (en sonunda).",
+        "examples": [
+         {
+          "t": "D'abord, on visite le musée, ensuite on mange.",
+          "tr": "Önce müzeyi geziyoruz, sonra yemek yiyoruz.",
+          "read": ""
+         },
+         {
+          "t": "Enfin, nous sommes arrivés.",
+          "tr": "Sonunda vardık.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Ekleme ve karşıtlık",
+        "text": "en effet (gerçekten de), de plus (ayrıca), par contre / en revanche (buna karşılık).",
+        "examples": [
+         {
+          "t": "Il est intelligent ; par contre, il est paresseux.",
+          "tr": "Akıllı; buna karşılık tembel.",
+          "read": ""
+         },
+         {
+          "t": "Ce restaurant est cher ; en revanche, il est excellent.",
+          "tr": "Bu restoran pahalı; buna karşılık mükemmel.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___, lavez les légumes ; ensuite, coupez-les.",
+        "a": "D'abord",
+        "o": [
+         "Enfin",
+         "Ensuite",
+         "Donc"
+        ],
+        "tr": "Önce sebzeleri yıkayın, sonra doğrayın.",
+        "why": "ilk adım → d'abord"
+       },
+       {
+        "s": "Le film était long ; ___, il était passionnant.",
+        "a": "en revanche",
+        "o": [
+         "en effet",
+         "d'abord",
+         "donc"
+        ],
+        "tr": "Film uzundu; buna karşılık sürükleyiciydi.",
+        "why": "karşıtlık"
+       },
+       {
+        "s": "Il est très sympa ; ___, tout le monde l'aime.",
+        "a": "en effet",
+        "o": [
+         "par contre",
+         "d'abord",
+         "pourtant"
+        ],
+        "tr": "Çok cana yakın; gerçekten de herkes onu seviyor.",
+        "why": "onay → en effet"
+       },
+       {
+        "s": "Après trois heures de route, nous sommes ___ arrivés.",
+        "a": "enfin",
+        "o": [
+         "d'abord",
+         "ensuite",
+         "donc"
+        ],
+        "tr": "Üç saatlik yolculuktan sonra sonunda vardık.",
+        "why": "sonunda → enfin"
+       },
+       {
+        "s": "L'hôtel est loin ; ___, il est très calme.",
+        "a": "par contre",
+        "o": [
+         "en effet",
+         "de plus",
+         "donc"
+        ],
+        "tr": "Otel uzak; buna karşılık çok sakin.",
+        "why": "karşıtlık"
+       },
+       {
+        "s": "C'est cher. ___, ce n'est pas très bon.",
+        "a": "De plus",
+        "o": [
+         "Par contre",
+         "En revanche",
+         "Pourtant"
+        ],
+        "tr": "Pahalı. Üstelik pek iyi değil.",
+        "why": "ekleme → de plus"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u58",
+   "unit": {
+    "id": "y7",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "İleri yapılar",
+    "subtitle": "faire faire, participe présent, mise en relief · 3 ders",
+    "lessons": [
+     {
+      "id": "y7l1",
+      "kind": "grammar",
+      "title": "faire + mastar",
+      "subtitle": "faire + mastar · se faire + mastar",
+      "intro": "Bir işi başkasına yaptırmak.",
+      "rules": [
+       {
+        "title": "faire + mastar",
+        "text": "Je fais réparer ma voiture. Elle fait construire une maison.",
+        "examples": [
+         {
+          "t": "Je fais réparer mon vélo.",
+          "tr": "Bisikletimi tamir ettiriyorum.",
+          "read": ""
+         },
+         {
+          "t": "Ils ont fait construire une maison.",
+          "tr": "Bir ev yaptırdılar.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "se faire + mastar",
+        "text": "Je me suis fait couper les cheveux. Il s'est fait voler son portefeuille.",
+        "examples": [
+         {
+          "t": "Je me suis fait couper les cheveux.",
+          "tr": "Saçımı kestirdim.",
+          "read": ""
+         },
+         {
+          "t": "Elle s'est fait voler son sac.",
+          "tr": "Çantası çalındı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je ___ réparer ma voiture.",
+        "a": "fais",
+        "o": [
+         "suis",
+         "ai",
+         "me fait"
+        ],
+        "tr": "Arabamı tamir ettiriyorum.",
+        "why": "faire + mastar"
+       },
+       {
+        "s": "Elle s'est fait ___ les cheveux.",
+        "a": "couper",
+        "o": [
+         "coupé",
+         "coupe",
+         "coupée"
+        ],
+        "tr": "Saçını kestirdi.",
+        "why": "faire + mastar"
+       },
+       {
+        "s": "Nous avons ___ construire une maison.",
+        "a": "fait",
+        "o": [
+         "faire",
+         "faits",
+         "faite"
+        ],
+        "tr": "Bir ev yaptırdık.",
+        "why": "avoir + fait"
+       },
+       {
+        "s": "Il ___ fait voler son téléphone.",
+        "a": "s'est",
+        "o": [
+         "a",
+         "est",
+         "s'a"
+        ],
+        "tr": "Telefonu çalındı.",
+        "why": "se faire → s'est"
+       },
+       {
+        "s": "Le professeur ___ lire les élèves.",
+        "a": "fait",
+        "o": [
+         "est",
+         "a",
+         "se fait"
+        ],
+        "tr": "Öğretmen öğrencilere okutuyor.",
+        "why": "faire faire"
+       },
+       {
+        "s": "Tu devrais faire ___ tes yeux.",
+        "a": "vérifier",
+        "o": [
+         "vérifié",
+         "vérifie",
+         "vérifiant"
+        ],
+        "tr": "Gözlerini kontrol ettirmelisin.",
+        "why": "faire + mastar"
+       }
+      ]
+     },
+     {
+      "id": "y7l2",
+      "kind": "grammar",
+      "title": "Participe présent",
+      "subtitle": "-ant: yapan · Sebep bildiren -ant",
+      "intro": "-ant: \"-en, -ince\" (yazı dilinde).",
+      "rules": [
+       {
+        "title": "-ant: yapan",
+        "text": "Les étudiants parlant français… (Fransızca konuşan öğrenciler)",
+        "examples": [
+         {
+          "t": "Je cherche quelqu'un parlant turc.",
+          "tr": "Türkçe konuşan birini arıyorum.",
+          "read": ""
+         },
+         {
+          "t": "Ne sachant pas quoi faire, il est parti.",
+          "tr": "Ne yapacağını bilemeyince gitti.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Sebep bildiren -ant",
+        "text": "Étant malade, il n'est pas venu. (hasta olduğu için)",
+        "examples": [
+         {
+          "t": "Étant fatigué, je suis rentré tôt.",
+          "tr": "Yorgun olduğum için erken döndüm.",
+          "read": ""
+         },
+         {
+          "t": "Ayant fini, elle est sortie.",
+          "tr": "Bitirince dışarı çıktı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Je cherche un appartement ___ deux chambres.",
+        "a": "ayant",
+        "o": [
+         "avant",
+         "eu",
+         "avoir"
+        ],
+        "tr": "İki odalı bir daire arıyorum.",
+        "why": "avoir → ayant"
+       },
+       {
+        "s": "___ malade, il est resté au lit.",
+        "a": "Étant",
+        "o": [
+         "Être",
+         "Été",
+         "Étais"
+        ],
+        "tr": "Hasta olduğu için yatakta kaldı.",
+        "why": "être → étant"
+       },
+       {
+        "s": "Les personnes ___ en retard ne pourront pas entrer.",
+        "a": "arrivant",
+        "o": [
+         "arrivé",
+         "arriver",
+         "arrivent"
+        ],
+        "tr": "Geç gelenler giremeyecek.",
+        "why": "-ant"
+       },
+       {
+        "s": "Ne ___ pas la réponse, il s'est tu.",
+        "a": "sachant",
+        "o": [
+         "savant",
+         "savoir",
+         "su"
+        ],
+        "tr": "Cevabı bilmediği için sustu.",
+        "why": "savoir → sachant"
+       },
+       {
+        "s": "___ fini son travail, elle est partie.",
+        "a": "Ayant",
+        "o": [
+         "Étant",
+         "Avoir",
+         "Eu"
+        ],
+        "tr": "İşini bitirince gitti.",
+        "why": "ayant + participe"
+       },
+       {
+        "s": "C'est un livre ___ beaucoup de lecteurs.",
+        "a": "intéressant",
+        "o": [
+         "intéressé",
+         "intéresse",
+         "intéressants"
+        ],
+        "tr": "Pek çok okuru ilgilendiren bir kitap.",
+        "why": "-ant sıfat"
+       }
+      ]
+     },
+     {
+      "id": "y7l3",
+      "kind": "grammar",
+      "title": "Vurgulama",
+      "subtitle": "C'est … qui / C'est … que · Vurgulu zamirler",
+      "intro": "C'est … qui / que; moi, je …",
+      "rules": [
+       {
+        "title": "C'est … qui / C'est … que",
+        "text": "C'est Marie qui a gagné. C'est à Paris que je l'ai rencontré.",
+        "examples": [
+         {
+          "t": "C'est moi qui ai raison.",
+          "tr": "Haklı olan benim.",
+          "read": ""
+         },
+         {
+          "t": "C'est demain que je pars.",
+          "tr": "Yarın gidiyorum (yarın, başka zaman değil).",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Vurgulu zamirler",
+        "text": "moi, toi, lui, elle, nous, vous, eux: Moi, je préfère le thé.",
+        "examples": [
+         {
+          "t": "Moi, je n'aime pas ça.",
+          "tr": "Ben bunu sevmem.",
+          "read": ""
+         },
+         {
+          "t": "Lui, il est toujours en retard.",
+          "tr": "O hep geç kalır.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "C'est Paul ___ a cassé le vase.",
+        "a": "qui",
+        "o": [
+         "que",
+         "qu'",
+         "dont"
+        ],
+        "tr": "Vazoyu kıran Paul.",
+        "why": "özne vurgusu → qui"
+       },
+       {
+        "s": "C'est ce livre ___ je cherche.",
+        "a": "que",
+        "o": [
+         "qui",
+         "dont",
+         "où"
+        ],
+        "tr": "Aradığım kitap bu.",
+        "why": "nesne vurgusu → que"
+       },
+       {
+        "s": "___, je préfère la montagne.",
+        "a": "Moi",
+        "o": [
+         "Je",
+         "Me",
+         "Mon"
+        ],
+        "tr": "Ben dağı tercih ederim.",
+        "why": "vurgulu → moi"
+       },
+       {
+        "s": "C'est ___ qui as raison.",
+        "a": "toi",
+        "o": [
+         "tu",
+         "te",
+         "ton"
+        ],
+        "tr": "Haklı olan sensin.",
+        "why": "vurgulu → toi"
+       },
+       {
+        "s": "C'est à Lyon ___ ils se sont mariés.",
+        "a": "qu'",
+        "o": [
+         "qui",
+         "où",
+         "dont"
+        ],
+        "tr": "Lyon'da evlendiler.",
+        "why": "c'est … que"
+       },
+       {
+        "s": "___, ils ne viennent jamais.",
+        "a": "Eux",
+        "o": [
+         "Ils",
+         "Leur",
+         "Les"
+        ],
+        "tr": "Onlar hiç gelmez.",
+        "why": "vurgulu çoğul → eux"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u39",
+   "unit": {
+    "id": "t1",
+    "level": "orta",
+    "kind": "text",
+    "title": "Kısa okumalar",
+    "subtitle": "Gündelik hayattan kolay metinler · 3 ders",
+    "lessons": [
+     {
+      "id": "t1l1",
+      "kind": "text",
+      "title": "Ma journée",
+      "subtitle": "Je m'appelle Antoine. Je me lève …",
+      "intro": "Antoine sıradan bir gününü anlatıyor.",
+      "text": {
+       "t": "Je m'appelle Antoine. Je me lève à sept heures, je prends une douche et je bois un café. À huit heures, je prends le bus pour aller au travail. Je travaille dans une banque. Je déjeune à midi avec mes collègues. Le soir, je promène mon chien dans le parc, puis je prépare le dîner. Avant de dormir, je lis un livre. Je me couche à onze heures.",
+       "tr": "Benim adım Antoine. Saat yedide kalkar, duş alır ve bir kahve içerim. Sekizde işe gitmek için otobüse binerim. Bir bankada çalışıyorum. Öğlen iş arkadaşlarımla yemek yerim. Akşamları köpeğimi parkta gezdiririm, sonra akşam yemeği hazırlarım. Uyumadan önce kitap okurum. On birde yatarım.",
+       "gloss": [
+        [
+         "je me lève",
+         "kalkarım"
+        ],
+        [
+         "je prends",
+         "alırım, binerim"
+        ],
+        [
+         "je déjeune",
+         "öğle yemeği yerim"
+        ],
+        [
+         "je promène",
+         "gezdiririm"
+        ],
+        [
+         "puis",
+         "sonra"
+        ],
+        [
+         "avant de dormir",
+         "uyumadan önce"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Où travaille Antoine ?",
+         "a": "Dans une banque",
+         "o": [
+          "Dans une école",
+          "Dans un magasin",
+          "Dans un hôpital"
+         ]
+        },
+        {
+         "q": "Comment va-t-il au travail ?",
+         "a": "En bus",
+         "o": [
+          "En métro",
+          "En voiture",
+          "À pied"
+         ]
+        },
+        {
+         "q": "Que fait-il avant de dormir ?",
+         "a": "Il lit un livre",
+         "o": [
+          "Il regarde la télé",
+          "Il promène son chien",
+          "Il boit un café"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "t1l2",
+      "kind": "text",
+      "title": "Ma famille",
+      "subtitle": "Je m'appelle Marie et j'ai vingt-cinq …",
+      "intro": "Marie ailesini tanıtıyor.",
+      "text": {
+       "t": "Je m'appelle Marie et j'ai vingt-cinq ans. J'ai une grande famille. Mon père est médecin et ma mère est professeure. J'ai un frère aîné et une petite sœur. Mon frère habite à Bordeaux, il est ingénieur. Ma sœur va encore au lycée. Nous avons aussi un chat qui s'appelle Minou. Le dimanche, nous déjeunons tous ensemble chez ma grand-mère.",
+       "tr": "Benim adım Marie, yirmi beş yaşındayım. Kalabalık bir ailem var. Babam doktor, annem öğretmen. Bir ağabeyim ve bir küçük kız kardeşim var. Ağabeyim Bordeaux'da oturuyor, mühendis. Kız kardeşim hâlâ liseye gidiyor. Bir de Minou adında bir kedimiz var. Pazar günleri hep birlikte büyükannemde öğle yemeği yeriz.",
+       "gloss": [
+        [
+         "aîné",
+         "büyük (yaşça)"
+        ],
+        [
+         "petite sœur",
+         "küçük kız kardeş"
+        ],
+        [
+         "encore",
+         "hâlâ"
+        ],
+        [
+         "le lycée",
+         "lise"
+        ],
+        [
+         "ensemble",
+         "birlikte"
+        ],
+        [
+         "chez",
+         "-in evinde"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Quel est le métier de la mère de Marie ?",
+         "a": "Professeure",
+         "o": [
+          "Médecin",
+          "Ingénieure",
+          "Vendeuse"
+         ]
+        },
+        {
+         "q": "Où habite le frère de Marie ?",
+         "a": "À Bordeaux",
+         "o": [
+          "À Paris",
+          "À Lyon",
+          "Chez sa grand-mère"
+         ]
+        },
+        {
+         "q": "Que fait la famille le dimanche ?",
+         "a": "Elle déjeune chez la grand-mère",
+         "o": [
+          "Elle va au cinéma",
+          "Elle travaille",
+          "Elle promène le chat"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "t1l3",
+      "kind": "text",
+      "title": "Un week-end à la campagne",
+      "subtitle": "Vendredi soir, nous sommes partis à …",
+      "intro": "Bir ailenin kırsaldaki hafta sonu.",
+      "text": {
+       "t": "Vendredi soir, nous sommes partis à la campagne. La maison de mes grands-parents se trouve dans un petit village, près d'une rivière. Samedi matin, mon père a travaillé dans le jardin et j'ai cueilli des fraises avec ma mère. L'après-midi, il faisait chaud et nous nous sommes baignés dans la rivière. Le soir, mon grand-père a fait un barbecue et nous sommes restés longtemps dehors. Dimanche, nous sommes rentrés en ville, fatigués mais heureux.",
+       "tr": "Cuma akşamı kırsala gittik. Büyükannemle büyükbabamın evi küçük bir köyde, bir nehrin yakınında. Cumartesi sabahı babam bahçede çalıştı, ben de annemle çilek topladım. Öğleden sonra hava sıcaktı ve nehirde yüzdük. Akşam dedem mangal yaptı ve uzun süre dışarıda kaldık. Pazar günü şehre yorgun ama mutlu döndük.",
+       "gloss": [
+        [
+         "la campagne",
+         "kırsal"
+        ],
+        [
+         "se trouve",
+         "bulunuyor"
+        ],
+        [
+         "cueilli",
+         "topladım (cueillir)"
+        ],
+        [
+         "nous nous sommes baignés",
+         "suya girdik, yüzdük"
+        ],
+        [
+         "longtemps",
+         "uzun süre"
+        ],
+        [
+         "rentrés",
+         "döndük (rentrer)"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Où se trouve la maison ?",
+         "a": "Dans un village près d'une rivière",
+         "o": [
+          "En ville",
+          "Au bord de la mer",
+          "À la montagne"
+         ]
+        },
+        {
+         "q": "Qu'ont fait la narratrice et sa mère samedi matin ?",
+         "a": "Elles ont cueilli des fraises",
+         "o": [
+          "Elles se sont baignées",
+          "Elles ont fait un barbecue",
+          "Elles ont dormi"
+         ]
+        },
+        {
+         "q": "Comment sont-ils rentrés en ville ?",
+         "a": "Fatigués mais heureux",
+         "o": [
+          "Tristes",
+          "Malades",
+          "En colère"
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u41",
+   "unit": {
+    "id": "d2",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük durumlar",
+    "subtitle": "Eczane, otel, randevu, pazar · 4 ders",
+    "lessons": [
+     {
+      "id": "d2l1",
+      "kind": "dialog",
+      "title": "À la pharmacie",
+      "subtitle": "Bonjour. Vous avez quelque chose contre le mal de tête ?",
+      "intro": "Lucas eczaneden ilaç alıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Bonjour. Vous avez quelque chose contre le mal de tête ?",
+         "tr": "Merhaba. Baş ağrısına bir şeyiniz var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, ces comprimés. Prenez-en un après le repas.",
+         "tr": "Evet, bu haplar. Yemekten sonra bir tane alın."
+        },
+        {
+         "p": 1,
+         "t": "Et pour la toux, vous avez quelque chose ?",
+         "tr": "Öksürük için de bir şeyiniz var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Il y a ce sirop. Il est sans ordonnance.",
+         "tr": "Bu şurup var. Reçetesiz."
+        },
+        {
+         "p": 1,
+         "t": "Très bien, je prends les deux.",
+         "tr": "Çok iyi, ikisini de alıyorum."
+        },
+        {
+         "p": 0,
+         "t": "Ça fait douze euros.",
+         "tr": "On iki euro tutuyor."
+        },
+        {
+         "p": 1,
+         "t": "Je peux payer par carte ?",
+         "tr": "Kartla ödeyebilir miyim?"
+        },
+        {
+         "p": 0,
+         "t": "Bien sûr. Bon rétablissement !",
+         "tr": "Tabii. Geçmiş olsun!"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l2",
+      "kind": "dialog",
+      "title": "À l'hôtel",
+      "subtitle": "Bonsoir ! Je peux vous aider ?",
+      "intro": "Lucas otele giriş yapıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Bonsoir ! Je peux vous aider ?",
+         "tr": "İyi akşamlar! Yardımcı olabilir miyim?"
+        },
+        {
+         "p": 1,
+         "t": "Bonsoir. J'ai une réservation au nom de Lucas Martin.",
+         "tr": "İyi akşamlar. Lucas Martin adına rezervasyonum var."
+        },
+        {
+         "p": 0,
+         "t": "Oui, une chambre simple pour trois nuits. Votre pièce d'identité, s'il vous plaît.",
+         "tr": "Evet, üç gecelik tek kişilik oda. Kimliğiniz lütfen."
+        },
+        {
+         "p": 1,
+         "t": "Voilà. Le petit-déjeuner est compris ?",
+         "tr": "Buyurun. Kahvaltı dahil mi?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, il est servi de sept heures à dix heures au rez-de-chaussée.",
+         "tr": "Evet, yediden ona kadar zemin katta servis ediliyor."
+        },
+        {
+         "p": 1,
+         "t": "Il y a le wifi dans la chambre ?",
+         "tr": "Odada kablosuz internet var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Bien sûr, le code est sur la carte. Votre chambre est au cinquième étage.",
+         "tr": "Tabii, şifre kartın üstünde. Odanız beşinci katta."
+        },
+        {
+         "p": 1,
+         "t": "Merci beaucoup !",
+         "tr": "Çok teşekkürler!"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l3",
+      "kind": "dialog",
+      "title": "Prendre rendez-vous",
+      "subtitle": "Cabinet médical, bonjour.",
+      "intro": "Lucas telefonla doktordan randevu alıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Cabinet médical, bonjour.",
+         "tr": "Muayenehane, merhaba."
+        },
+        {
+         "p": 1,
+         "t": "Bonjour, je voudrais prendre rendez-vous avec le docteur Dubois.",
+         "tr": "Merhaba, Doktor Dubois'dan randevu almak istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Pour quel jour ?",
+         "tr": "Hangi gün için?"
+        },
+        {
+         "p": 1,
+         "t": "Si possible, pour demain.",
+         "tr": "Mümkünse yarına."
+        },
+        {
+         "p": 0,
+         "t": "Demain, il reste un créneau à dix heures et demie.",
+         "tr": "Yarın on buçukta bir boşluk kaldı."
+        },
+        {
+         "p": 1,
+         "t": "Parfait, ça me convient.",
+         "tr": "Mükemmel, bana uyar."
+        },
+        {
+         "p": 0,
+         "t": "Votre nom et votre date de naissance ?",
+         "tr": "Adınız ve doğum tarihiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Martin, le douze mars mil neuf cent quatre-vingt-douze.",
+         "tr": "Martin, on iki mart bin dokuz yüz doksan iki."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l4",
+      "kind": "dialog",
+      "title": "Au marché",
+      "subtitle": "Bonjour, elles sont à combien, les pommes ?",
+      "intro": "Lucas pazarda meyve alıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Bonjour, elles sont à combien, les pommes ?",
+         "tr": "Merhaba, elmalar kaça?"
+        },
+        {
+         "p": 0,
+         "t": "Deux euros le kilo. Elles sont très sucrées !",
+         "tr": "Kilosu iki euro. Çok tatlılar!"
+        },
+        {
+         "p": 1,
+         "t": "Mettez-m'en deux kilos, s'il vous plaît.",
+         "tr": "Bana iki kilo verin lütfen."
+        },
+        {
+         "p": 0,
+         "t": "Et avec ceci ? Les fraises sont très fraîches aujourd'hui.",
+         "tr": "Başka? Çilekler bugün çok taze."
+        },
+        {
+         "p": 1,
+         "t": "Elles coûtent combien, les fraises ?",
+         "tr": "Çilekler ne kadar?"
+        },
+        {
+         "p": 0,
+         "t": "Quatre euros la barquette. Pour vous, trois cinquante.",
+         "tr": "Kasesi dört euro. Size üç elli."
+        },
+        {
+         "p": 1,
+         "t": "D'accord, alors une barquette de fraises aussi.",
+         "tr": "Tamam, o zaman bir kase çilek de."
+        },
+        {
+         "p": 0,
+         "t": "Voilà. Bonne journée et à bientôt !",
+         "tr": "Buyurun. İyi günler, yine bekleriz!"
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u43",
+   "unit": {
+    "id": "d3",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük durumlar 2",
+    "subtitle": "Taksi, postane, komşu, banka · 4 ders",
+    "lessons": [
+     {
+      "id": "d3l1",
+      "kind": "dialog",
+      "title": "En taxi",
+      "subtitle": "Bonjour, à l'aéroport, s'il vous plaît.",
+      "intro": "Lucas taksiyle havalimanına gidiyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Bonjour, à l'aéroport, s'il vous plaît.",
+         "tr": "Merhaba, havalimanına lütfen."
+        },
+        {
+         "p": 0,
+         "t": "Quel terminal ?",
+         "tr": "Hangi terminal?"
+        },
+        {
+         "p": 1,
+         "t": "Terminal 2. Il faut combien de temps ?",
+         "tr": "2. terminal. Ne kadar sürer?"
+        },
+        {
+         "p": 0,
+         "t": "S'il n'y a pas d'embouteillages, environ quarante minutes.",
+         "tr": "Trafik yoksa yaklaşık kırk dakika."
+        },
+        {
+         "p": 1,
+         "t": "Mon vol est dans deux heures. On aura le temps ?",
+         "tr": "Uçuşum iki saat sonra. Yetişir miyiz?"
+        },
+        {
+         "p": 0,
+         "t": "Ne vous inquiétez pas, on y sera à temps.",
+         "tr": "Merak etmeyin, zamanında orada oluruz."
+        },
+        {
+         "p": 1,
+         "t": "Je peux payer par carte ?",
+         "tr": "Kartla ödeyebilir miyim?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, bien sûr. Attachez votre ceinture, s'il vous plaît.",
+         "tr": "Evet, tabii. Kemerinizi takın lütfen."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l2",
+      "kind": "dialog",
+      "title": "À la poste",
+      "subtitle": "Bonjour, je voudrais envoyer un colis en Turquie.",
+      "intro": "Lucas Türkiye'ye paket gönderiyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Bonjour, je voudrais envoyer un colis en Turquie.",
+         "tr": "Merhaba, Türkiye'ye bir paket göndermek istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Qu'est-ce qu'il y a dans le colis ?",
+         "tr": "Pakette ne var?"
+        },
+        {
+         "p": 1,
+         "t": "Des livres et des souvenirs.",
+         "tr": "Kitaplar ve hediyelik eşyalar."
+        },
+        {
+         "p": 0,
+         "t": "Posez-le sur la balance, s'il vous plaît. Deux kilos.",
+         "tr": "Teraziye koyun lütfen. İki kilo."
+        },
+        {
+         "p": 1,
+         "t": "Ça coûte combien ?",
+         "tr": "Ne kadar tutuyor?"
+        },
+        {
+         "p": 0,
+         "t": "Vingt-huit euros. Remplissez ce formulaire.",
+         "tr": "Yirmi sekiz euro. Bu formu doldurun."
+        },
+        {
+         "p": 1,
+         "t": "Et le colis arrivera quand ?",
+         "tr": "Paket ne zaman ulaşır?"
+        },
+        {
+         "p": 0,
+         "t": "Dans deux semaines environ.",
+         "tr": "Yaklaşık iki hafta içinde."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l3",
+      "kind": "dialog",
+      "title": "Le nouveau voisin",
+      "subtitle": "Bonjour ! Vous êtes notre nouveau voisin ?",
+      "intro": "Chloé yeni komşusu Lucas ile tanışıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Bonjour ! Vous êtes notre nouveau voisin ?",
+         "tr": "Merhaba! Yeni komşumuz siz misiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Oui, j'ai emménagé hier au troisième étage. Je m'appelle Lucas.",
+         "tr": "Evet, dün üçüncü kata taşındım. Adım Lucas."
+        },
+        {
+         "p": 0,
+         "t": "Enchantée, moi c'est Chloé. Si vous avez besoin de quelque chose, n'hésitez pas.",
+         "tr": "Memnun oldum, ben Chloé. Bir şeye ihtiyacınız olursa çekinmeyin."
+        },
+        {
+         "p": 1,
+         "t": "Merci ! Vous savez où est le supermarché le plus proche ?",
+         "tr": "Teşekkürler! En yakın süpermarket nerede biliyor musunuz?"
+        },
+        {
+         "p": 0,
+         "t": "Il y en a un au coin de la rue, ouvert jusqu'à vingt-deux heures.",
+         "tr": "Sokağın köşesinde bir tane var, saat yirmi ikiye kadar açık."
+        },
+        {
+         "p": 1,
+         "t": "Super. Et les poubelles, elles sont où ?",
+         "tr": "Süper. Peki çöpler nerede?"
+        },
+        {
+         "p": 0,
+         "t": "Dans la cour, à droite de l'entrée.",
+         "tr": "Avluda, girişin sağında."
+        },
+        {
+         "p": 1,
+         "t": "Merci beaucoup ! Passez prendre un café un de ces jours.",
+         "tr": "Çok teşekkürler! Bir gün kahveye uğrayın."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l4",
+      "kind": "dialog",
+      "title": "À la banque",
+      "subtitle": "Bonjour. Je voudrais ouvrir un compte.",
+      "intro": "Lucas banka hesabı açıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Bonjour. Je voudrais ouvrir un compte.",
+         "tr": "Merhaba. Bir hesap açmak istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Vous êtes de nationalité française ?",
+         "tr": "Fransız vatandaşı mısınız?"
+        },
+        {
+         "p": 1,
+         "t": "Non, je suis étranger, mais j'ai un titre de séjour.",
+         "tr": "Hayır, yabancıyım ama oturma iznim var."
+        },
+        {
+         "p": 0,
+         "t": "Très bien. Il me faut votre passeport, votre titre de séjour et un justificatif de domicile.",
+         "tr": "Çok iyi. Pasaportunuz, oturma izniniz ve bir ikametgâh belgesi lazım."
+        },
+        {
+         "p": 1,
+         "t": "Voilà. Je peux avoir la carte tout de suite ?",
+         "tr": "Buyurun. Kartı hemen alabilir miyim?"
+        },
+        {
+         "p": 0,
+         "t": "Vous la recevrez par la poste dans une semaine.",
+         "tr": "Bir hafta içinde posta ile gelir."
+        },
+        {
+         "p": 1,
+         "t": "D'accord. Vous avez une application ?",
+         "tr": "Tamam. Uygulamanız var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, téléchargez-la et vous pourrez faire des virements en ligne.",
+         "tr": "Evet, indirin, internetten havale yapabilirsiniz."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u57",
+   "unit": {
+    "id": "y8",
+    "level": "yuksek",
+    "kind": "dialog",
+    "title": "Konuşma pratiği",
+    "subtitle": "Şikâyet, kira, tartışma, plan · 4 ders",
+    "lessons": [
+     {
+      "id": "y8l1",
+      "kind": "dialog",
+      "title": "Une réclamation au restaurant",
+      "subtitle": "Excusez-moi, vous auriez une minute ?",
+      "intro": "Lucas restoranda bir sorunu kibarca anlatıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Excusez-moi, vous auriez une minute ?",
+         "tr": "Affedersiniz, bir dakikanız var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, bien sûr. Il y a un problème ?",
+         "tr": "Evet, tabii. Bir sorun mu var?"
+        },
+        {
+         "p": 1,
+         "t": "J'avais commandé une entrecôte à point, mais elle est presque crue.",
+         "tr": "Orta pişmiş antrikot istemiştim ama neredeyse çiğ."
+        },
+        {
+         "p": 0,
+         "t": "Oh, je suis vraiment désolée. Je la rapporte tout de suite en cuisine.",
+         "tr": "Ah, gerçekten çok üzgünüm. Hemen mutfağa götürüyorum."
+        },
+        {
+         "p": 1,
+         "t": "Et puis, nous attendons nos boissons depuis vingt minutes.",
+         "tr": "Bir de, içeceklerimizi yirmi dakikadır bekliyoruz."
+        },
+        {
+         "p": 0,
+         "t": "Je suis navrée. Les boissons vous sont offertes.",
+         "tr": "Çok üzgünüm. İçecekler bizden."
+        },
+        {
+         "p": 1,
+         "t": "Merci, c'est très aimable de votre part.",
+         "tr": "Teşekkürler, çok naziksiniz."
+        },
+        {
+         "p": 0,
+         "t": "Encore toutes nos excuses pour ce désagrément.",
+         "tr": "Bu rahatsızlık için tekrar özür dileriz."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l2",
+      "kind": "dialog",
+      "title": "Louer un appartement",
+      "subtitle": "Voici l'appartement : deux pièces, une cuisine et un balcon.",
+      "intro": "Lucas ev sahibiyle kiralık daireyi konuşuyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Voici l'appartement : deux pièces, une cuisine et un balcon.",
+         "tr": "İşte daire: iki oda, mutfak ve balkon."
+        },
+        {
+         "p": 1,
+         "t": "Il est lumineux et agréable. Le loyer est de combien par mois ?",
+         "tr": "Aydınlık ve hoş. Aylık kira ne kadar?"
+        },
+        {
+         "p": 0,
+         "t": "Neuf cents euros, charges comprises.",
+         "tr": "Dokuz yüz euro, aidat dahil."
+        },
+        {
+         "p": 1,
+         "t": "Il faut verser une caution ?",
+         "tr": "Depozito vermek gerekiyor mu?"
+        },
+        {
+         "p": 0,
+         "t": "Oui, un mois de loyer. Le bail est d'un an minimum.",
+         "tr": "Evet, bir aylık kira. Sözleşme en az bir yıllık."
+        },
+        {
+         "p": 1,
+         "t": "Est-ce que les animaux sont acceptés ? J'ai un chat.",
+         "tr": "Hayvan kabul ediliyor mu? Bir kedim var."
+        },
+        {
+         "p": 0,
+         "t": "Si le chat est calme, ça ne me dérange pas.",
+         "tr": "Kedi sakinse benim için sorun yok."
+        },
+        {
+         "p": 1,
+         "t": "Parfait. Je réfléchis et je vous rappelle demain.",
+         "tr": "Mükemmel. Düşünüp yarın sizi ararım."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l3",
+      "kind": "dialog",
+      "title": "Débat sur la technologie",
+      "subtitle": "J'ai l'impression qu'on passe trop de temps sur nos téléphones.",
+      "intro": "Chloé ve Lucas telefonların hayatımıza etkisini tartışıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "J'ai l'impression qu'on passe trop de temps sur nos téléphones.",
+         "tr": "Telefonlarımızda çok fazla vakit geçirdiğimizi düşünüyorum."
+        },
+        {
+         "p": 1,
+         "t": "D'un côté, oui. Mais d'un autre côté, le téléphone nous aide à apprendre et à travailler.",
+         "tr": "Bir yandan evet. Ama öte yandan telefon öğrenmemize ve çalışmamıza yardım ediyor."
+        },
+        {
+         "p": 0,
+         "t": "Mais les gens ne se parlent presque plus.",
+         "tr": "Ama insanlar birbiriyle neredeyse hiç konuşmuyor."
+        },
+        {
+         "p": 1,
+         "t": "Je ne suis pas tout à fait d'accord. Je parle avec ma famille en vidéo tous les jours.",
+         "tr": "Pek katılmıyorum. Her gün ailemle görüntülü konuşuyorum."
+        },
+        {
+         "p": 0,
+         "t": "C'est vrai, pour la famille, c'est pratique.",
+         "tr": "Doğru, aile için pratik."
+        },
+        {
+         "p": 1,
+         "t": "L'essentiel, c'est de savoir s'arrêter. Par exemple, pas de téléphone à table.",
+         "tr": "Önemli olan durmayı bilmek. Mesela sofrada telefon yok."
+        },
+        {
+         "p": 0,
+         "t": "Là, je suis entièrement d'accord !",
+         "tr": "İşte buna tamamen katılıyorum!"
+        },
+        {
+         "p": 1,
+         "t": "Alors c'est décidé : au dîner, pas de téléphones.",
+         "tr": "O zaman karar verildi: akşam yemeğinde telefon yok."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l4",
+      "kind": "dialog",
+      "title": "Préparer un voyage",
+      "subtitle": "Et si on partait en Provence cet été ?",
+      "intro": "Chloé ve Lucas Provence gezisini planlıyor.",
+      "dialog": {
+       "who": [
+        "Chloé",
+        "Lucas"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Et si on partait en Provence cet été ?",
+         "tr": "Bu yaz Provence'a gitsek mi?"
+        },
+        {
+         "p": 1,
+         "t": "Excellente idée ! On y va en train ou en voiture ?",
+         "tr": "Harika fikir! Trenle mi gidelim arabayla mı?"
+        },
+        {
+         "p": 0,
+         "t": "En voiture, on pourrait visiter les petits villages.",
+         "tr": "Arabayla küçük köyleri gezebiliriz."
+        },
+        {
+         "p": 1,
+         "t": "J'ai seulement deux semaines de vacances, il faut bien s'organiser.",
+         "tr": "Sadece iki haftalık tatilim var, iyi planlamak lazım."
+        },
+        {
+         "p": 0,
+         "t": "D'accord. Où est-ce qu'on dormira ?",
+         "tr": "Tamam. Nerede kalacağız?"
+        },
+        {
+         "p": 1,
+         "t": "On pourrait louer une petite maison au milieu des champs de lavande.",
+         "tr": "Lavanta tarlalarının ortasında küçük bir ev kiralayabiliriz."
+        },
+        {
+         "p": 0,
+         "t": "Ça a l'air magnifique. Il faut réserver à l'avance.",
+         "tr": "Muhteşem görünüyor. Önceden ayırtmak lazım."
+        },
+        {
+         "p": 1,
+         "t": "Je regarde les logements dès ce soir.",
+         "tr": "Konaklamaya bu akşamdan bakıyorum."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u60",
+   "unit": {
+    "id": "y9",
+    "level": "yuksek",
+    "kind": "text",
+    "title": "Okuma: Fransa'yı tanı",
+    "subtitle": "Victor Hugo, Mont-Saint-Michel, Tour de France · 3 ders",
+    "lessons": [
+     {
+      "id": "y9l1",
+      "kind": "text",
+      "title": "Victor Hugo",
+      "subtitle": "Victor Hugo est né à Besançon …",
+      "intro": "Fransızların en ünlü yazarlarından biri.",
+      "text": {
+       "t": "Victor Hugo est né à Besançon en 1802. Poète, romancier et dramaturge, il est l'un des écrivains les plus importants de la littérature française. Ses romans les plus célèbres sont « Notre-Dame de Paris » et « Les Misérables », qui racontent la vie des pauvres et l'injustice de la société. Hugo s'est aussi engagé en politique et a vécu près de vingt ans en exil. À sa mort, en 1885, plus d'un million de personnes ont suivi ses funérailles à Paris.",
+       "tr": "Victor Hugo 1802'de Besançon'da doğdu. Şair, romancı ve oyun yazarı olarak Fransız edebiyatının en önemli yazarlarından biridir. En ünlü romanları, yoksulların hayatını ve toplumun adaletsizliğini anlatan \"Notre-Dame'ın Kamburu\" ve \"Sefiller\"dir. Hugo siyasete de atıldı ve yaklaşık yirmi yıl sürgünde yaşadı. 1885'te öldüğünde Paris'te bir milyondan fazla insan cenazesine katıldı.",
+       "gloss": [
+        [
+         "romancier",
+         "romancı"
+        ],
+        [
+         "dramaturge",
+         "oyun yazarı"
+        ],
+        [
+         "l'injustice",
+         "adaletsizlik"
+        ],
+        [
+         "s'est engagé",
+         "atıldı, katıldı"
+        ],
+        [
+         "l'exil",
+         "sürgün"
+        ],
+        [
+         "les funérailles",
+         "cenaze töreni"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Où est né Victor Hugo ?",
+         "a": "À Besançon",
+         "o": [
+          "À Paris",
+          "À Lyon",
+          "À Marseille"
+         ]
+        },
+        {
+         "q": "De quoi parlent « Les Misérables » ?",
+         "a": "De la vie des pauvres",
+         "o": [
+          "De la guerre",
+          "D'un voyage en mer",
+          "De la cuisine"
+         ]
+        },
+        {
+         "q": "Combien de temps a-t-il vécu en exil ?",
+         "a": "Près de vingt ans",
+         "o": [
+          "Deux ans",
+          "Cinquante ans",
+          "Un an"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y9l2",
+      "kind": "text",
+      "title": "Le Mont-Saint-Michel",
+      "subtitle": "Le Mont-Saint-Michel est une petite île …",
+      "intro": "Denizin ortasındaki manastır.",
+      "text": {
+       "t": "Le Mont-Saint-Michel est une petite île rocheuse située en Normandie, au nord-ouest de la France. Au sommet se trouve une magnifique abbaye construite au Moyen Âge. Ce lieu est célèbre pour ses marées : deux fois par jour, la mer monte très vite et entoure complètement l'île. Chaque année, plus de deux millions de touristes viennent le visiter. Il est inscrit au patrimoine mondial de l'UNESCO depuis 1979.",
+       "tr": "Mont-Saint-Michel, Fransa'nın kuzeybatısında, Normandiya'da bulunan küçük ve kayalık bir adadır. Tepesinde Orta Çağ'da inşa edilmiş muhteşem bir manastır bulunur. Bu yer gelgitleriyle ünlüdür: günde iki kez deniz çok hızlı yükselir ve adayı tamamen çevreler. Her yıl iki milyondan fazla turist onu ziyarete gelir. 1979'dan beri UNESCO Dünya Mirası listesindedir.",
+       "gloss": [
+        [
+         "rocheuse",
+         "kayalık"
+        ],
+        [
+         "le sommet",
+         "tepe, zirve"
+        ],
+        [
+         "l'abbaye",
+         "manastır"
+        ],
+        [
+         "le Moyen Âge",
+         "Orta Çağ"
+        ],
+        [
+         "les marées",
+         "gelgitler"
+        ],
+        [
+         "entoure",
+         "çevreler"
+        ],
+        [
+         "le patrimoine",
+         "miras"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Où se trouve le Mont-Saint-Michel ?",
+         "a": "En Normandie",
+         "o": [
+          "En Provence",
+          "En Bretagne",
+          "Dans les Alpes"
+         ]
+        },
+        {
+         "q": "Qu'y a-t-il au sommet ?",
+         "a": "Une abbaye",
+         "o": [
+          "Un château moderne",
+          "Un phare",
+          "Un hôtel"
+         ]
+        },
+        {
+         "q": "Pourquoi ce lieu est-il célèbre ?",
+         "a": "Pour ses marées",
+         "o": [
+          "Pour ses vins",
+          "Pour sa plage de sable chaud",
+          "Pour ses montagnes"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y9l3",
+      "kind": "text",
+      "title": "Le Tour de France",
+      "subtitle": "Le Tour de France est la …",
+      "intro": "Dünyanın en ünlü bisiklet yarışı.",
+      "text": {
+       "t": "Le Tour de France est la course cycliste la plus célèbre du monde. Créé en 1903, il a lieu chaque année en juillet et dure environ trois semaines. Les coureurs parcourent plus de trois mille kilomètres, à travers les plaines, les Alpes et les Pyrénées. Le leader du classement porte un maillot jaune. La dernière étape se termine toujours sur les Champs-Élysées, à Paris. Des millions de spectateurs regardent la course au bord des routes ou à la télévision.",
+       "tr": "Fransa Bisiklet Turu dünyanın en ünlü bisiklet yarışıdır. 1903'te başlatıldı, her yıl temmuzda yapılır ve yaklaşık üç hafta sürer. Yarışçılar ovaları, Alpleri ve Pireneleri geçerek üç bin kilometreden fazla yol katederler. Sıralamanın lideri sarı bir mayo giyer. Son etap her zaman Paris'te, Champs-Élysées'de biter. Milyonlarca seyirci yarışı yol kenarlarında ya da televizyonda izler.",
+       "gloss": [
+        [
+         "la course cycliste",
+         "bisiklet yarışı"
+        ],
+        [
+         "a lieu",
+         "yapılır"
+        ],
+        [
+         "les coureurs",
+         "yarışçılar"
+        ],
+        [
+         "parcourent",
+         "katederler"
+        ],
+        [
+         "le classement",
+         "sıralama"
+        ],
+        [
+         "le maillot jaune",
+         "sarı mayo"
+        ],
+        [
+         "l'étape",
+         "etap"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Quand a lieu le Tour de France ?",
+         "a": "En juillet",
+         "o": [
+          "En janvier",
+          "En mai",
+          "En octobre"
+         ]
+        },
+        {
+         "q": "Que porte le leader du classement ?",
+         "a": "Un maillot jaune",
+         "o": [
+          "Un maillot vert",
+          "Un casque rouge",
+          "Une veste bleue"
+         ]
+        },
+        {
+         "q": "Où se termine la dernière étape ?",
+         "a": "Sur les Champs-Élysées",
+         "o": [
+          "À Marseille",
+          "Dans les Alpes",
+          "À Lyon"
+         ]
         }
        ]
       }

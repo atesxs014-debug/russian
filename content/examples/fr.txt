@@ -1,0 +1,2153 @@
+# kelime|örnek cümle|Türkçesi
+# u1
+café|Je bois un café le matin.|Sabahları bir kahve içerim.
+été|L'été est chaud ici.|Burada yaz sıcaktır.
+mère|Ma mère est professeur.|Annem öğretmen.
+fête|Ce soir, il y a une fête chez Paul.|Bu akşam Paul'de parti var.
+porte|Ferme la porte, s'il te plaît.|Kapıyı kapat lütfen.
+belle|Quelle belle journée !|Ne güzel bir gün!
+français|Je parle un peu français.|Biraz Fransızca konuşuyorum.
+garçon|Le garçon joue au foot.|Erkek çocuk futbol oynuyor.
+vous|Vous êtes d'où ?|Nerelisiniz?
+rouge|J'ai une voiture rouge.|Kırmızı bir arabam var.
+tu|Tu viens avec moi ?|Benimle geliyor musun?
+rue|J'habite dans cette rue.|Bu sokakta oturuyorum.
+moi|C'est moi, ouvre !|Benim, aç!
+trois|J'ai trois enfants.|Üç çocuğum var.
+eau|Un verre d'eau, s'il vous plaît.|Bir bardak su lütfen.
+beau|Il fait beau aujourd'hui.|Bugün hava güzel.
+lait|Le bébé boit du lait.|Bebek süt içiyor.
+maison|Notre maison est petite.|Evimiz küçük.
+enfant|L'enfant dort.|Çocuk uyuyor.
+France|J'aime beaucoup la France.|Fransa'yı çok severim.
+bonjour|Bonjour, madame !|Merhaba hanımefendi!
+non|Non, merci.|Hayır, teşekkürler.
+vin|Un verre de vin rouge ?|Bir kadeh kırmızı şarap?
+pain|J'achète du pain.|Ekmek alıyorum.
+un|J'ai un frère.|Bir erkek kardeşim var.
+lundi|Lundi, je travaille.|Pazartesi çalışıyorum.
+chat|Le chat dort sur le canapé.|Kedi kanepede uyuyor.
+chocolat|J'adore le chocolat.|Çikolataya bayılırım.
+je|Je suis turc.|Türk'üm.
+montagne|Nous allons à la montagne.|Dağa gidiyoruz.
+champagne|On boit du champagne pour la fête.|Kutlamada şampanya içiyoruz.
+qui|Qui est-ce ?|Bu kim?
+quatre|Il est quatre heures.|Saat dört.
+Paris|Paris est très belle.|Paris çok güzel.
+rire|Les enfants aiment rire.|Çocuklar gülmeyi sever.
+homme|Cet homme est mon voisin.|Bu adam benim komşum.
+hôtel|Notre hôtel est près de la gare.|Otelimiz garın yakınında.
+petit|J'ai un petit chien.|Küçük bir köpeğim var.
+les amis|Les amis arrivent ce soir.|Arkadaşlar bu akşam geliyor.
+parler|J'aime parler avec toi.|Seninle konuşmayı severim.
+nez|J'ai le nez qui coule.|Burnum akıyor.
+famille|Ma famille est grande.|Ailem kalabalık.
+fille|Leur fille a dix ans.|Kızları on yaşında.
+merci|Merci pour le cadeau !|Hediye için teşekkürler!
+beaucoup|Je t'aime beaucoup.|Seni çok seviyorum.
+vous avez|Vous avez une chambre libre ?|Boş bir odanız var mı?
+grand|Mon frère est très grand.|Erkek kardeşim çok uzun.
+# u2
+salut|Salut ! Ça va ?|Selam! Nasılsın?
+bonsoir|Bonsoir, monsieur.|İyi akşamlar efendim.
+bonne nuit|Bonne nuit, fais de beaux rêves !|İyi geceler, güzel rüyalar!
+au revoir|Au revoir et à demain !|Hoşça kal, yarın görüşürüz!
+à bientôt|Merci, à bientôt !|Teşekkürler, yakında görüşürüz!
+bonne journée|Merci, bonne journée !|Teşekkürler, iyi günler!
+s'il vous plaît|Un café, s'il vous plaît.|Bir kahve lütfen.
+merci beaucoup|Merci beaucoup pour votre aide.|Yardımınız için çok teşekkürler.
+de rien|Merci ! — De rien.|Teşekkürler! — Rica ederim.
+pardon|Pardon, je suis en retard.|Pardon, geciktim.
+excusez-moi|Excusez-moi, où est la gare ?|Affedersiniz, gar nerede?
+bien sûr|Bien sûr, je t'aide.|Tabii ki, sana yardım ederim.
+je m'appelle …|Je m'appelle Burak.|Benim adım Burak.
+comment tu t'appelles ?|Salut ! Comment tu t'appelles ?|Selam! Adın ne?
+enchanté|Enchanté, je suis Marc.|Memnun oldum, ben Marc.
+ça va ?|Salut Julie, ça va ?|Selam Julie, nasılsın?
+ça va bien|Ça va bien, merci.|İyiyim, teşekkürler.
+tu viens d'où ?|Tu viens d'où ? D'Espagne ?|Nerelisin? İspanya'dan mı?
+je viens de Turquie|Je viens de Turquie, d'Istanbul.|Türkiye'denim, İstanbul'dan.
+quoi|Tu fais quoi ce soir ?|Bu akşam ne yapıyorsun?
+où|Où est mon téléphone ?|Telefonum nerede?
+quand|Quand est-ce que tu arrives ?|Ne zaman geliyorsun?
+pourquoi|Pourquoi tu es triste ?|Neden üzgünsün?
+comment|Comment ça marche ?|Bu nasıl çalışıyor?
+combien|Combien de frères as-tu ?|Kaç erkek kardeşin var?
+il|Il est très sympa.|O (erkek) çok cana yakın.
+elle|Elle travaille à Lyon.|O (kadın) Lyon'da çalışıyor.
+nous|Nous sommes turcs.|Biz Türk'üz.
+on|On va au cinéma ?|Sinemaya gidelim mi?
+# u3
+deux|Deux cafés, s'il vous plaît.|İki kahve lütfen.
+cinq|Le cours commence à cinq heures.|Ders saat beşte başlıyor.
+six|Nous sommes six à table.|Masada altı kişiyiz.
+sept|Il y a sept jours dans une semaine.|Haftada yedi gün vardır.
+huit|Je me lève à huit heures.|Saat sekizde kalkarım.
+neuf|Le magasin ouvre à neuf heures.|Mağaza saat dokuzda açılıyor.
+dix|Attends dix minutes.|On dakika bekle.
+zéro|Il fait zéro degré.|Hava sıfır derece.
+onze|Mon fils a onze ans.|Oğlum on bir yaşında.
+cinquante|Ça coûte cinquante euros.|Elli euro tutuyor.
+cent|Il y a cent personnes dans la salle.|Salonda yüz kişi var.
+mille|Mille mercis !|Bin teşekkürler!
+mardi|Mardi, j'ai un rendez-vous.|Salı günü bir randevum var.
+mercredi|Le mercredi, les enfants n'ont pas école.|Çarşamba günleri çocuklar okula gitmez.
+jeudi|On se voit jeudi ?|Perşembe görüşelim mi?
+vendredi|Vendredi soir, on sort.|Cuma akşamı dışarı çıkıyoruz.
+samedi|Samedi, je fais le marché.|Cumartesi pazara giderim.
+dimanche|Le dimanche, je me repose.|Pazar günleri dinlenirim.
+aujourd'hui|Aujourd'hui, il pleut.|Bugün yağmur yağıyor.
+hier|Hier, j'étais malade.|Dün hastaydım.
+demain|Demain, je pars en vacances.|Yarın tatile çıkıyorum.
+maintenant|Je suis occupé maintenant.|Şimdi meşgulüm.
+plus tard|On en parle plus tard.|Bunu sonra konuşuruz.
+toujours|Il est toujours en retard.|O hep geç kalır.
+jamais|Je ne bois jamais d'alcool.|Asla alkol içmem.
+la minute|Attends une minute, s'il te plaît.|Bir dakika bekle lütfen.
+la semaine|La semaine prochaine, je suis à Paris.|Gelecek hafta Paris'teyim.
+le mois|Le mois de mai est agréable.|Mayıs ayı hoştur.
+l'hiver|L'hiver est froid à Moscou.|Moskova'da kış soğuktur.
+le printemps|Au printemps, tout fleurit.|İlkbaharda her şey çiçek açar.
+l'été|L'été, nous allons à la mer.|Yazın denize gideriz.
+l'automne|En automne, les feuilles tombent.|Sonbaharda yapraklar düşer.
+# u4
+la famille|La famille est réunie pour Noël.|Aile Noel için toplandı.
+la mère|La mère prépare le dîner.|Anne akşam yemeğini hazırlıyor.
+le père|Le père lit le journal.|Baba gazete okuyor.
+le frère|Mon frère habite à Marseille.|Erkek kardeşim Marsilya'da oturuyor.
+la sœur|Ma sœur est étudiante.|Kız kardeşim öğrenci.
+la grand-mère|Ma grand-mère fait de bons gâteaux.|Büyükannem güzel kekler yapar.
+le grand-père|Le grand-père raconte une histoire.|Büyükbaba bir hikâye anlatıyor.
+l'homme|L'homme au chapeau est mon oncle.|Şapkalı adam amcam.
+la femme|Cette femme est médecin.|Bu kadın doktor.
+l'enfant|L'enfant joue dans le jardin.|Çocuk bahçede oynuyor.
+l'ami|C'est l'ami de mon frère.|Bu kardeşimin arkadaşı.
+le voisin|Le voisin est très gentil.|Komşu çok nazik.
+les gens|Les gens sont sympas ici.|Burada insanlar cana yakın.
+le bébé|Le bébé pleure.|Bebek ağlıyor.
+le médecin|Je dois aller chez le médecin.|Doktora gitmem lazım.
+le professeur|Le professeur explique la leçon.|Öğretmen dersi anlatıyor.
+l'étudiant|L'étudiant prépare son examen.|Öğrenci sınavına hazırlanıyor.
+l'ingénieur|L'ingénieur travaille sur un pont.|Mühendis bir köprü üzerinde çalışıyor.
+le chauffeur|Le chauffeur attend devant l'hôtel.|Şoför otelin önünde bekliyor.
+le cuisinier|Le cuisinier prépare une soupe.|Aşçı çorba hazırlıyor.
+l'infirmière|L'infirmière prend la température.|Hemşire ateşi ölçüyor.
+la tête|J'ai mal à la tête.|Başım ağrıyor.
+l'œil|J'ai quelque chose dans l'œil.|Gözüme bir şey kaçtı.
+l'oreille|L'enfant a mal à l'oreille.|Çocuğun kulağı ağrıyor.
+la main|Lave-toi les mains.|Ellerini yıka.
+le pied|Je me suis fait mal au pied.|Ayağımı incittim.
+le cœur|Elle a bon cœur.|Onun iyi bir kalbi var.
+les cheveux|Elle a les cheveux longs.|Onun saçları uzun.
+bon|C'est un bon restaurant.|Bu iyi bir restoran.
+mauvais|Il fait mauvais aujourd'hui.|Bugün hava kötü.
+nouveau|J'ai un nouveau téléphone.|Yeni bir telefonum var.
+vieux|C'est un vieux quartier.|Bu eski bir semt.
+# u5
+l'eau|L'eau est froide.|Su soğuk.
+le café|Le café est trop chaud.|Kahve çok sıcak.
+le thé|Je préfère le thé.|Çayı tercih ederim.
+le lait|Le lait est dans le frigo.|Süt buzdolabında.
+le jus|Le jus d'orange est frais.|Portakal suyu taze.
+la bière|Une bière bien fraîche, s'il vous plaît.|Soğuk bir bira lütfen.
+le vin|Le vin français est célèbre.|Fransız şarabı ünlüdür.
+le pain|Le pain est encore chaud.|Ekmek hâlâ sıcak.
+le fromage|La France a beaucoup de fromages.|Fransa'da çok peynir çeşidi var.
+la viande|Je ne mange pas de viande.|Et yemem.
+le poisson|Le poisson est frais.|Balık taze.
+le poulet|Le poulet rôti est délicieux.|Fırında tavuk çok lezzetli.
+l'œuf|Je mange un œuf au petit-déjeuner.|Kahvaltıda bir yumurta yerim.
+le riz|Le riz est prêt.|Pilav hazır.
+la pomme|Cette pomme est sucrée.|Bu elma tatlı.
+la banane|Le singe mange une banane.|Maymun muz yiyor.
+l'orange|Tu veux une orange ?|Bir portakal ister misin?
+la pomme de terre|J'épluche les pommes de terre.|Patatesleri soyuyorum.
+la tomate|La tomate est bien rouge.|Domates kıpkırmızı.
+l'oignon|Coupe l'oignon, s'il te plaît.|Soğanı doğra lütfen.
+le citron|Un thé au citron.|Limonlu bir çay.
+la carte|Je peux voir la carte ?|Menüye bakabilir miyim?
+l'addition, s'il vous plaît|Nous avons fini. L'addition, s'il vous plaît.|Bitirdik. Hesap lütfen.
+je voudrais …|Je voudrais un croissant.|Bir kruvasan istiyorum.
+délicieux|Ce gâteau est délicieux !|Bu kek çok lezzetli!
+le petit-déjeuner|Le petit-déjeuner est à huit heures.|Kahvaltı saat sekizde.
+le déjeuner|Le déjeuner est prêt !|Öğle yemeği hazır!
+le dîner|On prépare le dîner ensemble.|Akşam yemeğini birlikte hazırlıyoruz.
+bleu|Le ciel est bleu.|Gökyüzü mavi.
+vert|J'aime le thé vert.|Yeşil çayı severim.
+jaune|Le soleil est jaune.|Güneş sarıdır.
+blanc|La neige est blanche.|Kar beyazdır.
+noir|Il porte un pull noir.|Siyah bir kazak giyiyor.
+gris|Le ciel est gris aujourd'hui.|Bugün gökyüzü gri.
+# u6
+le magasin|Le magasin est fermé le dimanche.|Mağaza pazar günü kapalı.
+la pharmacie|Où est la pharmacie la plus proche ?|En yakın eczane nerede?
+l'hôpital|L'hôpital est en face du parc.|Hastane parkın karşısında.
+l'hôtel|L'hôtel a une piscine.|Otelin havuzu var.
+la gare|Le train part de la gare de Lyon.|Tren Lyon garından kalkıyor.
+le restaurant|On mange au restaurant ce soir ?|Bu akşam restoranda mı yiyoruz?
+le musée|Le musée du Louvre est immense.|Louvre müzesi kocaman.
+le métro|Je prends le métro tous les jours.|Her gün metroya binerim.
+le bus|Le bus arrive dans cinq minutes.|Otobüs beş dakikaya geliyor.
+le taxi|Appelle un taxi, s'il te plaît.|Bir taksi çağır lütfen.
+la voiture|Ma voiture est en panne.|Arabam arızalı.
+le train|Le train est en retard.|Tren gecikiyor.
+l'avion|L'avion décolle à midi.|Uçak öğlen kalkıyor.
+le billet|J'ai acheté le billet en ligne.|Bileti internetten aldım.
+à droite|Tournez à droite.|Sağa dönün.
+à gauche|La banque est à gauche.|Banka solda.
+tout droit|Allez tout droit.|Dümdüz gidin.
+ici|J'habite ici depuis deux ans.|İki yıldır burada oturuyorum.
+là-bas|La gare est là-bas.|Gar orada.
+loin|C'est loin d'ici ?|Buradan uzak mı?
+où sont les toilettes ?|Excusez-moi, où sont les toilettes ?|Affedersiniz, tuvalet nerede?
+c'est combien ?|Ce sac, c'est combien ?|Bu çanta ne kadar?
+l'argent|Je n'ai pas d'argent sur moi.|Üzerimde para yok.
+pas cher|Ce restaurant est bon et pas cher.|Bu restoran iyi ve ucuz.
+cher|C'est trop cher pour moi.|Bu bana çok pahalı.
+la carte bancaire|Je peux payer par carte bancaire ?|Banka kartıyla ödeyebilir miyim?
+en espèces|Je paie en espèces.|Nakit ödüyorum.
+la caisse|Payez à la caisse, s'il vous plaît.|Lütfen kasada ödeyin.
+la maison|La maison a un grand jardin.|Evin büyük bir bahçesi var.
+la chambre|Ma chambre est au premier étage.|Odam birinci katta.
+la cuisine|Maman est dans la cuisine.|Annem mutfakta.
+la porte|La porte est ouverte.|Kapı açık.
+le lit|Le lit est très confortable.|Yatak çok rahat.
+la chaise|Prends une chaise.|Bir sandalye al.
+la table|Le dîner est sur la table.|Akşam yemeği masada.
+# u7
+manger|On va manger au restaurant.|Restoranda yemeğe gidiyoruz.
+boire|Il faut boire beaucoup d'eau.|Bol su içmek gerekir.
+dormir|Je n'arrive pas à dormir.|Uyuyamıyorum.
+habiter|J'habite à Istanbul.|İstanbul'da oturuyorum.
+travailler|Je travaille dans un bureau.|Bir ofiste çalışıyorum.
+se reposer|Le dimanche, je me repose.|Pazar günleri dinlenirim.
+se promener|On se promène au bord de la mer.|Deniz kenarında geziniyoruz.
+aller|Je vais au travail en bus.|İşe otobüsle giderim.
+venir|Tu viens à la fête ?|Partiye geliyor musun?
+courir|Je cours tous les matins.|Her sabah koşarım.
+s'asseoir|Asseyez-vous, s'il vous plaît.|Oturun lütfen.
+partir|Le train part à huit heures.|Tren saat sekizde kalkıyor.
+voler|Les oiseaux volent haut.|Kuşlar yüksekten uçar.
+nager|J'aime nager dans la mer.|Denizde yüzmeyi severim.
+comprendre|Je comprends un peu.|Biraz anlıyorum.
+savoir|Je sais nager.|Yüzmeyi biliyorum.
+lire|J'aime lire le soir.|Akşamları okumayı severim.
+écrire|J'écris une lettre à ma mère.|Anneme bir mektup yazıyorum.
+écouter|J'écoute de la musique.|Müzik dinliyorum.
+apprendre|J'apprends le français.|Fransızca öğreniyorum.
+vouloir|Je veux un café.|Bir kahve istiyorum.
+aimer|J'aime le cinéma.|Sinemayı severim.
+pouvoir|Je peux t'aider ?|Sana yardım edebilir miyim?
+acheter|Je vais acheter du pain.|Ekmek almaya gidiyorum.
+voir|Je vois la mer de ma fenêtre.|Penceremden denizi görüyorum.
+faire|Qu'est-ce que tu fais ?|Ne yapıyorsun?
+aider|Tu peux m'aider ?|Bana yardım edebilir misin?
+je ne comprends pas|Désolé, je ne comprends pas.|Üzgünüm, anlamıyorum.
+vous pouvez répéter ?|Pardon, vous pouvez répéter ?|Pardon, tekrar edebilir misiniz?
+parlez lentement, s'il vous plaît|Je suis étranger, parlez lentement, s'il vous plaît.|Yabancıyım, yavaş konuşun lütfen.
+je ne sais pas|Je ne sais pas où il est.|Nerede olduğunu bilmiyorum.
+je parle un peu français|Je parle un peu français, mais je comprends bien.|Biraz Fransızca konuşuyorum ama iyi anlıyorum.
+au secours !|Au secours ! Il y a un accident !|İmdat! Kaza var!
+je t'aime|Je t'aime de tout mon cœur.|Seni bütün kalbimle seviyorum.
+# u8
+la chemise|Il porte une chemise blanche.|Beyaz bir gömlek giyiyor.
+le pantalon|Ce pantalon est trop long.|Bu pantolon çok uzun.
+la robe|Quelle jolie robe !|Ne güzel bir elbise!
+la veste|Prends ta veste, il fait frais.|Ceketini al, hava serin.
+la jupe|Elle porte une jupe bleue.|Mavi bir etek giyiyor.
+le t-shirt|En été, je porte un t-shirt.|Yazın tişört giyerim.
+le pull|Mets un pull, il fait froid.|Kazak giy, hava soğuk.
+les chaussures|Enlève tes chaussures.|Ayakkabılarını çıkar.
+les baskets|Je cours avec mes baskets.|Spor ayakkabılarımla koşarım.
+le chapeau|Il porte un chapeau de paille.|Hasır şapka takıyor.
+le sac|Où est mon sac ?|Çantam nerede?
+les lunettes|Je ne vois rien sans mes lunettes.|Gözlüğüm olmadan hiçbir şey göremiyorum.
+la montre|Ma montre est arrêtée.|Saatim durmuş.
+les chaussettes|J'ai acheté des chaussettes chaudes.|Sıcak çoraplar aldım.
+le temps|Quel temps fait-il ?|Hava nasıl?
+le soleil|Le soleil brille.|Güneş parlıyor.
+la pluie|J'aime le bruit de la pluie.|Yağmurun sesini severim.
+la neige|Les enfants jouent dans la neige.|Çocuklar karda oynuyor.
+le vent|Le vent est très fort.|Rüzgâr çok kuvvetli.
+il fait chaud|Il fait chaud, allons à la plage.|Hava sıcak, plaja gidelim.
+il fait froid|Il fait froid, mets ton manteau.|Hava soğuk, paltonu giy.
+la mer|La mer est calme.|Deniz sakin.
+la montagne|La montagne est couverte de neige.|Dağ karla kaplı.
+la forêt|On se promène dans la forêt.|Ormanda geziniyoruz.
+la rivière|La rivière traverse le village.|Nehir köyün içinden geçiyor.
+l'arbre|Le chat est dans l'arbre.|Kedi ağaçta.
+la fleur|Cette fleur sent bon.|Bu çiçek güzel kokuyor.
+le ciel|Le ciel est plein d'étoiles.|Gökyüzü yıldızlarla dolu.
+le chat|Le chat boit du lait.|Kedi süt içiyor.
+le chien|Le chien aboie.|Köpek havlıyor.
+l'oiseau|L'oiseau chante le matin.|Kuş sabahları öter.
+le cheval|Le cheval court vite.|At hızlı koşar.
+la vache|La vache mange de l'herbe.|İnek ot yiyor.
+l'ours|L'ours dort en hiver.|Ayı kışın uyur.
+le loup|Le loup vit dans la forêt.|Kurt ormanda yaşar.
+# u9
+l'aéroport|On part à l'aéroport à six heures.|Havalimanına altıda çıkıyoruz.
+le passeport|Votre passeport, s'il vous plaît.|Pasaportunuz lütfen.
+les bagages|Mes bagages sont perdus.|Bagajım kayboldu.
+le vol|Le vol est annulé.|Uçuş iptal edildi.
+la sortie|La sortie est à droite.|Çıkış sağda.
+l'entrée|L'entrée est gratuite.|Giriş ücretsiz.
+la douane|On passe la douane.|Gümrükten geçiyoruz.
+la réservation|J'ai une réservation au nom de Burak.|Burak adına rezervasyonum var.
+la clé|Voici la clé de votre chambre.|İşte odanızın anahtarı.
+l'ascenseur|L'ascenseur ne marche pas.|Asansör çalışmıyor.
+l'étage|Ma chambre est au troisième étage.|Odam üçüncü katta.
+la douche|La douche est froide.|Duş soğuk.
+la serviette|Il manque une serviette.|Bir havlu eksik.
+le petit-déjeuner compris|La chambre est à cent euros, petit-déjeuner compris.|Oda kahvaltı dahil yüz euro.
+le plan|Vous avez un plan de la ville ?|Şehir haritanız var mı?
+la visite guidée|La visite guidée commence à dix heures.|Rehberli tur saat onda başlıyor.
+la place|Le café est sur la place.|Kafe meydanda.
+l'église|L'église est très ancienne.|Kilise çok eski.
+le pont|On traverse le pont.|Köprüden geçiyoruz.
+le château|Le château date du XVIe siècle.|Şato 16. yüzyıldan kalma.
+le souvenir|J'achète un souvenir pour ma mère.|Annem için hediyelik eşya alıyorum.
+la police|Appelez la police !|Polisi arayın!
+l'ambulance|L'ambulance arrive.|Ambulans geliyor.
+le feu|Attention au feu !|Ateşe dikkat!
+dangereux|Il est dangereux de nager ici.|Burada yüzmek tehlikeli.
+je me sens mal|Je me sens mal, j'ai besoin d'air.|Kendimi kötü hissediyorum, havaya ihtiyacım var.
+je suis perdu|Excusez-moi, je suis perdu.|Affedersiniz, kayboldum.
+appelez un médecin !|Il est tombé, appelez un médecin !|Düştü, doktor çağırın!
+les vacances|Bonnes vacances !|İyi tatiller!
+la plage|On passe la journée à la plage.|Günü plajda geçiriyoruz.
+la valise|Ma valise est trop lourde.|Valizim çok ağır.
+le voyage|Bon voyage !|İyi yolculuklar!
+prendre une photo|Tu peux prendre une photo de nous ?|Bizim bir fotoğrafımızı çekebilir misin?
+le visa|J'ai besoin d'un visa ?|Vizeye ihtiyacım var mı?
+les lunettes de soleil|N'oublie pas tes lunettes de soleil.|Güneş gözlüğünü unutma.
+# u10
+heureux|Je suis très heureux aujourd'hui.|Bugün çok mutluyum.
+triste|Pourquoi es-tu triste ?|Neden üzgünsün?
+fatigué|Je suis fatigué après le travail.|İşten sonra yorgunum.
+en colère|Mon père est en colère.|Babam kızgın.
+calme|La mer est calme ce matin.|Bu sabah deniz sakin.
+je m'ennuie|Je m'ennuie, on sort ?|Sıkılıyorum, dışarı çıkalım mı?
+content|Je suis content de te voir.|Seni gördüğüme memnun oldum.
+j'ai mal|J'ai mal au dos.|Sırtım ağrıyor.
+le médicament|Prends ton médicament.|İlacını al.
+la fièvre|L'enfant a de la fièvre.|Çocuğun ateşi var.
+le rhume|J'ai un gros rhume.|Kötü bir soğuk algınlığım var.
+j'ai mal aux dents|J'ai mal aux dents, je dois voir un dentiste.|Dişim ağrıyor, dişçiye görünmem lazım.
+malade|Je suis malade aujourd'hui.|Bugün hastayım.
+en bonne santé|Mes grands-parents sont en bonne santé.|Büyükannemle büyükbabam sağlıklı.
+le sport|Je fais du sport le week-end.|Hafta sonu spor yaparım.
+le football|Le football est très populaire.|Futbol çok popülerdir.
+la course|La course commence à neuf heures.|Koşu saat dokuzda başlıyor.
+la natation|La natation est bonne pour le dos.|Yüzme sırt için iyidir.
+l'entraînement|J'ai entraînement ce soir.|Bu akşam antrenmanım var.
+jouer|Les enfants jouent dehors.|Çocuklar dışarıda oynuyor.
+l'équipe|Notre équipe a gagné !|Takımımız kazandı!
+la musique|J'écoute de la musique classique.|Klasik müzik dinliyorum.
+le livre|Ce livre est passionnant.|Bu kitap çok sürükleyici.
+le film|Ce film est très drôle.|Bu film çok komik.
+dessiner|Ma fille aime dessiner.|Kızım resim çizmeyi sever.
+chanter|Elle chante très bien.|Çok güzel şarkı söylüyor.
+danser|On va danser ce soir ?|Bu akşam dansa gidelim mi?
+voyager|J'adore voyager.|Seyahat etmeye bayılırım.
+gentil|Ton frère est très gentil.|Erkek kardeşin çok nazik.
+intelligent|C'est un garçon intelligent.|O akıllı bir çocuk.
+drôle|Il raconte des histoires drôles.|Komik hikâyeler anlatır.
+sérieux|C'est un problème sérieux.|Bu ciddi bir sorun.
+sympa|Ta copine est très sympa.|Kız arkadaşın çok cana yakın.
+paresseux|Mon chat est paresseux.|Kedim tembel.
+timide|Elle est un peu timide.|O biraz utangaç.
+# u11
+l'école|Les enfants vont à l'école à pied.|Çocuklar okula yürüyerek gidiyor.
+le cours|Le cours de français commence à neuf heures.|Fransızca dersi dokuzda başlıyor.
+l'examen|Demain, j'ai un examen.|Yarın sınavım var.
+le cahier|Ouvrez votre cahier.|Defterinizi açın.
+le stylo|Tu as un stylo ?|Kalemin var mı?
+la question|J'ai une question.|Bir sorum var.
+la réponse|Je connais la réponse.|Cevabı biliyorum.
+le travail|Le travail commence à neuf heures.|İş dokuzda başlıyor.
+le bureau|Mon bureau est au centre-ville.|Ofisim şehir merkezinde.
+le patron|Le patron est en réunion.|Patron toplantıda.
+le collègue|C'est mon collègue Thomas.|Bu iş arkadaşım Thomas.
+la réunion|La réunion est à quinze heures.|Toplantı saat on beşte.
+le salaire|Le salaire arrive à la fin du mois.|Maaş ay sonunda yatıyor.
+le document|Signez ce document, s'il vous plaît.|Bu belgeyi imzalayın lütfen.
+le téléphone|Mon téléphone ne marche plus.|Telefonum artık çalışmıyor.
+l'ordinateur|J'ai un nouvel ordinateur.|Yeni bir bilgisayarım var.
+internet|Il y a internet ici ?|Burada internet var mı?
+le message|J'ai reçu ton message.|Mesajını aldım.
+le mot de passe|Quel est le mot de passe du wifi ?|Kablosuz ağın şifresi ne?
+le chargeur|Tu as un chargeur ?|Şarj aletin var mı?
+l'appli|Télécharge cette appli.|Bu uygulamayı indir.
+rapide|C'est un train rapide.|Bu hızlı bir tren.
+lent|Internet est lent aujourd'hui.|İnternet bugün yavaş.
+facile|L'examen était facile.|Sınav kolaydı.
+difficile|Le français est difficile, mais beau.|Fransızca zor ama güzel.
+intéressant|C'est un livre intéressant.|Bu ilginç bir kitap.
+très|Je suis très fatigué.|Çok yorgunum.
+un peu|Attends un peu.|Biraz bekle.
+bien|Tu as bien dormi ?|İyi uyudun mu?
+mal|J'ai mal dormi.|Kötü uyudum.
+souvent|Je vais souvent au cinéma.|Sık sık sinemaya giderim.
+rarement|On se voit rarement.|Nadiren görüşüyoruz.
+déjà|J'ai déjà mangé.|Zaten yemek yedim.
+# u12
+se réveiller|Je me réveille à sept heures.|Saat yedide uyanırım.
+se lever|Il est temps de se lever !|Kalkma vakti!
+se laver le visage|Je me lave le visage à l'eau froide.|Yüzümü soğuk suyla yıkarım.
+s'habiller|Habille-toi vite, on est en retard.|Çabuk giyin, geç kaldık.
+prendre le petit-déjeuner|On prend le petit-déjeuner ensemble.|Birlikte kahvaltı ediyoruz.
+se brosser les dents|N'oublie pas de te brosser les dents.|Dişlerini fırçalamayı unutma.
+se dépêcher|Dépêche-toi, le bus arrive !|Acele et, otobüs geliyor!
+ranger|Je range ma chambre le samedi.|Cumartesi günleri odamı toplarım.
+cuisiner|Mon père cuisine très bien.|Babam çok iyi yemek yapar.
+faire la lessive|Je fais la lessive le dimanche.|Pazar günleri çamaşır yıkarım.
+faire la vaisselle|Ce soir, c'est toi qui fais la vaisselle.|Bu akşam bulaşıkları sen yıkıyorsun.
+repasser|Je dois repasser ma chemise.|Gömleğimi ütülemem lazım.
+l'aspirateur|Passe l'aspirateur, s'il te plaît.|Elektrik süpürgesini çalıştır lütfen.
+les poubelles|Tu peux sortir les poubelles ?|Çöpleri çıkarabilir misin?
+l'assiette|Mets la soupe dans l'assiette.|Çorbayı tabağa koy.
+la cuillère|Il me faut une cuillère.|Bir kaşığa ihtiyacım var.
+la fourchette|Où est la fourchette ?|Çatal nerede?
+le couteau|Ce couteau coupe bien.|Bu bıçak iyi kesiyor.
+la casserole|La soupe est dans la casserole.|Çorba tencerede.
+le frigo|Le lait est dans le frigo.|Süt buzdolabında.
+la cuisinière|La casserole est sur la cuisinière.|Tencere ocağın üstünde.
+la salle de bain|La salle de bain est occupée.|Banyo dolu.
+le savon|Lave-toi les mains avec du savon.|Ellerini sabunla yıka.
+la brosse à dents|J'ai acheté une nouvelle brosse à dents.|Yeni bir diş fırçası aldım.
+le miroir|Elle se regarde dans le miroir.|Aynada kendine bakıyor.
+le shampooing|Il n'y a plus de shampooing.|Şampuan kalmadı.
+les toilettes|Les toilettes sont au fond du couloir.|Tuvalet koridorun sonunda.
+le peigne|Où est mon peigne ?|Tarağım nerede?
+le soir|Le soir, je lis un livre.|Akşamları kitap okurum.
+la télé|Éteins la télé, s'il te plaît.|Televizyonu kapat lütfen.
+dîner|On dîne à huit heures.|Saat sekizde akşam yemeği yeriz.
+se détendre|Le week-end, j'aime me détendre.|Hafta sonu dinlenmeyi severim.
+aller au lit|Les enfants vont au lit à neuf heures.|Çocuklar dokuzda yatar.
+le rêve|J'ai fait un rêve étrange.|Garip bir rüya gördüm.
+# u13
+et|Paul et Marie sont amis.|Paul ve Marie arkadaş.
+mais|Je suis fatigué, mais content.|Yorgunum ama memnunum.
+ou|Thé ou café ?|Çay mı kahve mi?
+parce que|Je reste à la maison parce que je suis malade.|Evde kalıyorum çünkü hastayım.
+si|S'il pleut, on reste ici.|Yağmur yağarsa burada kalırız.
+pour|J'apprends le français pour travailler à Paris.|Paris'te çalışmak için Fransızca öğreniyorum.
+donc|Il pleut, donc on prend le bus.|Yağmur yağıyor, bu yüzden otobüse biniyoruz.
+dans|Le chat est dans la boîte.|Kedi kutunun içinde.
+sur|Les clés sont sur la table.|Anahtarlar masanın üstünde.
+sous|Le chien dort sous la table.|Köpek masanın altında uyuyor.
+derrière|Le jardin est derrière la maison.|Bahçe evin arkasında.
+devant|Je t'attends devant le cinéma.|Seni sinemanın önünde bekliyorum.
+à côté de|La pharmacie est à côté de la banque.|Eczane bankanın yanında.
+entre|Le café est entre la poste et la gare.|Kafe postaneyle garın arasında.
+peu|Il mange peu.|Az yer.
+tout le monde|Tout le monde est là ?|Herkes burada mı?
+rien|Je ne vois rien.|Hiçbir şey görmüyorum.
+chaque|Je cours chaque matin.|Her sabah koşarım.
+la moitié|Je te donne la moitié du gâteau.|Kekin yarısını sana veriyorum.
+assez|Merci, j'en ai assez.|Teşekkürler, bu kadarı yeterli.
+je pense|Je pense que c'est une bonne idée.|Bence bu iyi bir fikir.
+à mon avis|À mon avis, il a raison.|Bana göre o haklı.
+je suis d'accord|Oui, je suis d'accord avec toi.|Evet, sana katılıyorum.
+je ne suis pas d'accord|Désolé, je ne suis pas d'accord.|Üzgünüm, katılmıyorum.
+c'est vrai|C'est vrai, tu as raison.|Doğru, haklısın.
+bien sûr que non|Bien sûr que non, je n'ai pas oublié !|Tabii ki hayır, unutmadım!
+peut-être|Peut-être qu'il viendra demain.|Belki yarın gelir.
+tout va bien|Ne t'inquiète pas, tout va bien.|Endişelenme, her şey yolunda.
+pas de problème|Pas de problème, je t'aide.|Sorun yok, sana yardım ederim.
+allez !|Allez, on y va !|Hadi, gidelim!
+euh…|Euh… je ne sais pas.|Eee… bilmiyorum.
+voilà|Voilà ton café.|İşte kahven.
+c'est vrai ?|Tu pars au Japon ? C'est vrai ?|Japonya'ya mı gidiyorsun? Gerçekten mi?
+chut !|Chut ! Le bébé dort.|Şşş! Bebek uyuyor.
+# u14
+allô ?|Allô ? C'est Marie ?|Alo? Marie mi?
+qui est-ce ?|On sonne. Qui est-ce ?|Zil çalıyor. Kim o?
+rappelez-moi|Rappelez-moi dans une heure, s'il vous plaît.|Bir saat sonra beni geri arayın lütfen.
+je ne vous entends pas|Allô ? Je ne vous entends pas !|Alo? Sizi duyamıyorum!
+un instant|Un instant, je cherche le dossier.|Bir dakika, dosyayı arıyorum.
+le numéro de téléphone|Tu me donnes ton numéro de téléphone ?|Telefon numaranı verir misin?
+écris-moi|Écris-moi quand tu arrives.|Vardığında bana yaz.
+à quelle heure ?|À quelle heure commence le film ?|Film saat kaçta başlıyor?
+quand ça t'arrange ?|On se voit cette semaine ? Quand ça t'arrange ?|Bu hafta görüşelim mi? Ne zaman uygun?
+on se voit|On se voit devant la gare.|Garın önünde buluşalım.
+à trois heures|Le rendez-vous est à trois heures.|Randevu saat üçte.
+je suis en retard|Désolé, je suis en retard de dix minutes.|Kusura bakma, on dakika geç kalıyorum.
+je suis déjà là|Je suis déjà là, à l'entrée.|Zaten buradayım, girişteyim.
+d'accord|D'accord, à demain !|Anlaştık, yarın görüşürüz!
+venez chez nous|Venez chez nous samedi soir !|Cumartesi akşamı bize gelin!
+avec plaisir|Avec plaisir, j'arrive !|Memnuniyetle, geliyorum!
+malheureusement|Malheureusement, je suis occupé.|Maalesef meşgulüm.
+je ne peux pas|Je ne peux pas ce soir, peut-être demain ?|Bu akşam gelemem, belki yarın?
+entre donc|Entre donc, il fait froid dehors !|İçeri gel, dışarısı soğuk!
+fais comme chez toi|Assieds-toi, fais comme chez toi.|Otur, kendi evindeymiş gibi rahat ol.
+servez-vous|Servez-vous, c'est un gâteau maison.|Buyurun, ev yapımı bir kek.
+félicitations !|Félicitations pour ton nouveau travail !|Yeni işin için tebrikler!
+joyeux anniversaire !|Joyeux anniversaire, maman !|Doğum günün kutlu olsun anne!
+bonne année !|Bonne année et bonne santé !|Mutlu yıllar, sağlıklı bir yıl!
+bonne chance !|Bonne chance pour ton examen !|Sınavında bol şans!
+à tes souhaits !|Atchoum ! — À tes souhaits !|Hapşu! — Çok yaşa!
+santé !|À notre amitié, santé !|Dostluğumuza, şerefe!
+le cadeau|C'est un cadeau pour toi.|Bu senin için bir hediye.
+à plus|Bon, j'y vais. À plus !|Peki, ben gidiyorum. Görüşürüz!
+à demain|Bonne nuit et à demain !|İyi geceler, yarın görüşürüz!
+bonne continuation|Merci pour tout et bonne continuation !|Her şey için teşekkürler, her şey gönlünce olsun!
+prends soin de toi|Au revoir, prends soin de toi.|Hoşça kal, kendine iyi bak.
+bon voyage|Bon voyage et à bientôt !|İyi yolculuklar, yakında görüşürüz!
+tu vas me manquer|Tu vas me manquer pendant les vacances.|Tatilde seni özleyeceğim.
+donne des nouvelles !|Quand tu arrives, donne des nouvelles !|Vardığında haber ver!
+# u15
+Quelle heure est-il ?|Excusez-moi, quelle heure est-il ?|Affedersiniz, saat kaç?
+l'heure|Le film dure une heure et demie.|Film bir buçuk saat sürüyor.
+et demie|Il est trois heures et demie.|Saat üç buçuk.
+le quart|Il est huit heures et quart.|Saat sekizi çeyrek geçiyor.
+le matin|Le matin, je bois un café.|Sabahları bir kahve içerim.
+midi|On déjeune à midi.|Öğlen yemek yeriz.
+la nuit|La nuit, il fait froid.|Gece hava soğuk.
+janvier|En janvier, il neige souvent.|Ocakta sık sık kar yağar.
+février|Février est le mois le plus court.|Şubat en kısa aydır.
+mars|Le printemps commence en mars.|İlkbahar martta başlar.
+avril|En avril, il pleut beaucoup.|Nisanda çok yağmur yağar.
+mai|Le premier mai est un jour férié.|Bir mayıs resmî tatildir.
+juin|L'école finit en juin.|Okul haziranda biter.
+l'année|Bonne année !|Mutlu yıllar!
+juillet|Le 14 juillet est la fête nationale.|14 Temmuz ulusal bayramdır.
+août|En août, beaucoup de Français sont en vacances.|Ağustosta pek çok Fransız tatildedir.
+septembre|La rentrée est en septembre.|Okullar eylülde açılır.
+octobre|En octobre, les arbres changent de couleur.|Ekimde ağaçların rengi değişir.
+novembre|En novembre, il fait gris.|Kasımda hava gri olur.
+décembre|En décembre, on prépare Noël.|Aralıkta Noel'e hazırlanırız.
+la date|Quelle est la date aujourd'hui ?|Bugün tarih ne?
+tous les jours|Je marche tous les jours.|Her gün yürürüm.
+parfois|Parfois, je travaille le samedi.|Bazen cumartesi çalışırım.
+d'habitude|D'habitude, je me lève tôt.|Genellikle erken kalkarım.
+le week-end|Qu'est-ce que tu fais ce week-end ?|Bu hafta sonu ne yapıyorsun?
+la semaine dernière|La semaine dernière, j'étais à Lyon.|Geçen hafta Lyon'daydım.
+la semaine prochaine|J'ai un examen la semaine prochaine.|Gelecek hafta sınavım var.
+tôt|Je me lève tôt.|Erken kalkarım.
+tard|Il est tard, je rentre.|Geç oldu, eve dönüyorum.
+bientôt|Les vacances arrivent bientôt.|Tatil yakında geliyor.
+tout de suite|Viens ici tout de suite !|Hemen buraya gel!
+pas encore|Tu as fini ? — Pas encore.|Bitirdin mi? — Henüz değil.
+toute la journée|Il a plu toute la journée.|Bütün gün yağmur yağdı.
+l'après-midi|L'après-midi, je fais une sieste.|Öğleden sonra şekerleme yaparım.
+minuit|La fête finit à minuit.|Parti gece yarısı bitiyor.
+# u16
+la Turquie|J'habite en Turquie.|Türkiye'de yaşıyorum.
+la Russie|La Russie est un très grand pays.|Rusya çok büyük bir ülke.
+l'Allemagne|Mon frère travaille en Allemagne.|Erkek kardeşim Almanya'da çalışıyor.
+la France|La France est célèbre pour sa cuisine.|Fransa mutfağıyla ünlüdür.
+l'Italie|Cet été, on va en Italie.|Bu yaz İtalya'ya gidiyoruz.
+l'Angleterre|Elle fait ses études en Angleterre.|İngiltere'de okuyor.
+l'Amérique|Mon cousin vit en Amérique.|Kuzenim Amerika'da yaşıyor.
+la langue|Le français est une belle langue.|Fransızca güzel bir dil.
+le turc|Le turc n'est pas très difficile.|Türkçe çok zor değil.
+le russe|J'apprends aussi le russe.|Rusça da öğreniyorum.
+l'anglais|Tu parles anglais ?|İngilizce konuşuyor musun?
+l'allemand|L'allemand est ma deuxième langue.|Almanca benim ikinci dilim.
+le français|Le français est la langue de Molière.|Fransızca Molière'in dilidir.
+l'italien|L'italien est très musical.|İtalyanca çok müzikaldir.
+le monde|Je veux faire le tour du monde.|Dünyayı dolaşmak istiyorum.
+le pays|Quel beau pays !|Ne güzel bir ülke!
+la ville|J'aime cette ville.|Bu şehri seviyorum.
+le village|Ma grand-mère vit dans un petit village.|Büyükannem küçük bir köyde yaşıyor.
+la capitale|Paris est la capitale de la France.|Paris Fransa'nın başkentidir.
+l'étranger|Je suis étranger, parlez lentement.|Yabancıyım, yavaş konuşun.
+la frontière|On a passé la frontière.|Sınırı geçtik.
+le nord|Lille est dans le nord.|Lille kuzeyde.
+le sud|Il fait chaud dans le sud.|Güneyde hava sıcak.
+l'est|Strasbourg est à l'est.|Strazburg doğuda.
+l'ouest|La Bretagne est à l'ouest.|Bretanya batıda.
+le centre|L'hôtel est dans le centre.|Otel merkezde.
+le coin|Le café est au coin de la rue.|Kafe sokağın köşesinde.
+en face|La banque est en face.|Banka karşıda.
+Quelles langues parles-tu ?|Quelles langues parles-tu ? — Turc et anglais.|Hangi dilleri konuşuyorsun? — Türkçe ve İngilizce.
+Vous parlez turc ?|Pardon, vous parlez turc ?|Pardon, Türkçe konuşuyor musunuz?
+Qu'est-ce que ça veut dire ?|« Bisou », qu'est-ce que ça veut dire ?|"Bisou" ne demek?
+Comment on dit … ?|Comment on dit « kedi » en français ?|"Kedi" Fransızca nasıl denir?
+Vous pouvez l'écrire ?|Je ne comprends pas votre nom. Vous pouvez l'écrire ?|Adınızı anlamadım. Yazar mısınız?
+Je vois|Ah, je vois, merci.|Ha, anladım, teşekkürler.
+J'apprends une langue|J'apprends une langue chaque année.|Her yıl bir dil öğreniyorum.
+# u17
+le supermarché|Le supermarché ferme à vingt heures.|Süpermarket saat yirmide kapanıyor.
+le panier|Prends un panier.|Bir sepet al.
+le sachet|Je n'ai pas besoin de sachet.|Poşete ihtiyacım yok.
+le prix|Quel est le prix de ce fromage ?|Bu peynirin fiyatı ne?
+la réduction|Il y a une réduction sur les fruits.|Meyvelerde indirim var.
+la queue|Il y a beaucoup de queue à la caisse.|Kasada uzun bir sıra var.
+le rayon|Le lait est au rayon frais.|Süt soğuk ürünler rafında.
+le beurre|Du pain avec du beurre.|Tereyağlı ekmek.
+le miel|Un thé au miel, s'il vous plaît.|Ballı bir çay lütfen.
+la confiture|J'aime la confiture de fraises.|Çilek reçelini severim.
+les olives|On mange des olives à l'apéritif.|Aperatifte zeytin yeriz.
+le sucre|Je prends mon café sans sucre.|Kahvemi şekersiz içerim.
+le sel|Il manque du sel.|Tuz eksik.
+le yaourt|Je mange un yaourt au dessert.|Tatlı olarak yoğurt yerim.
+le kilo|Un kilo de pommes, s'il vous plaît.|Bir kilo elma lütfen.
+le gramme|Deux cents grammes de fromage.|İki yüz gram peynir.
+le litre|Un litre de lait coûte un euro.|Bir litre süt bir euro.
+la bouteille|Une bouteille d'eau, s'il vous plaît.|Bir şişe su lütfen.
+le paquet|Un paquet de café.|Bir paket kahve.
+la boîte|Une boîte de chocolats pour maman.|Anneme bir kutu çikolata.
+le morceau|Tu veux un morceau de gâteau ?|Bir parça kek ister misin?
+le raisin|Le raisin est très sucré.|Üzüm çok tatlı.
+la pastèque|En été, on mange de la pastèque.|Yazın karpuz yeriz.
+la cerise|La tarte aux cerises est délicieuse.|Kirazlı turta çok lezzetli.
+la poire|Cette poire est bien mûre.|Bu armut iyice olgun.
+la fraise|Des fraises avec de la crème.|Kremalı çilek.
+la carotte|Les carottes sont bonnes pour les yeux.|Havuç gözlere iyi gelir.
+le poivron|Le poivron rouge est sucré.|Kırmızı biber tatlıdır.
+Un kilo, s'il vous plaît|Des tomates ? Un kilo, s'il vous plaît.|Domates mi? Bir kilo lütfen.
+Et avec ceci ?|Le pain et le lait. Et avec ceci ?|Ekmek ve süt. Başka bir şey?
+C'est tout|Non merci, c'est tout.|Hayır teşekkürler, hepsi bu kadar.
+Vous voulez un sac ?|Vous voulez un sac ? — Oui, merci.|Poşet ister misiniz? — Evet, teşekkürler.
+la monnaie|Voici votre monnaie.|İşte para üstünüz.
+Je prends ça|Je prends ça et ça.|Bunu ve bunu alıyorum.
+Je peux l'essayer ?|Cette veste me plaît. Je peux l'essayer ?|Bu ceketi beğendim. Deneyebilir miyim?
+# u18
+Il est grand|Mon frère ? Il est grand et blond.|Kardeşim mi? Uzun boylu ve sarışın.
+Elle est petite|Elle est petite mais très forte.|Kısa boylu ama çok güçlü.
+jeune|Notre professeur est jeune.|Öğretmenimiz genç.
+mince|Elle est grande et mince.|Uzun boylu ve zayıf.
+gros|Le chat est un peu gros.|Kedi biraz şişman.
+barbu|L'homme barbu, c'est mon père.|Sakallı adam babam.
+avec des lunettes|La fille avec des lunettes est ma sœur.|Gözlüklü kız benim kız kardeşim.
+l'âge|Quel est ton âge ?|Kaç yaşındasın?
+l'adresse|Quelle est votre adresse ?|Adresiniz ne?
+l'anniversaire|Mon anniversaire est en juin.|Doğum günüm haziranda.
+marié|Il est marié depuis dix ans.|On yıldır evli.
+célibataire|Mon ami est encore célibataire.|Arkadaşım hâlâ bekâr.
+l'e-mail|Envoyez-moi un e-mail.|Bana bir e-posta gönderin.
+le nom de famille|Quel est votre nom de famille ?|Soyadınız ne?
+l'oncle|Mon oncle habite à la campagne.|Amcam kırsalda oturuyor.
+la tante|Ma tante vient nous voir.|Teyzem bizi ziyarete geliyor.
+le cousin|Mon cousin est médecin.|Kuzenim doktor.
+le petit-enfant|La grand-mère joue avec son petit-enfant.|Büyükanne torunuyla oynuyor.
+l'épouse|Je vous présente mon épouse.|Size eşimi tanıştırayım.
+le mari|Son mari est cuisinier.|Kocası aşçı.
+les proches|Les proches sont venus pour Noël.|Akrabalar Noel için geldi.
+l'amour|L'amour est plus fort que tout.|Aşk her şeyden güçlüdür.
+le copain / la copine|Elle a un copain, et lui a une copine.|Kızın sevgilisi var, erkeğin de sevgilisi var.
+le mariage|Le mariage est en juillet.|Düğün temmuzda.
+la mariée / le marié|La mariée et le marié dansent.|Gelin ve damat dans ediyor.
+l'amitié|Notre amitié est très forte.|Arkadaşlığımız çok güçlü.
+faire un câlin|Viens, je vais te faire un câlin.|Gel, sana sarılayım.
+le bisou|Fais un bisou à mamie !|Büyükanneni öp!
+Tu as quel âge ?|Tu as quel âge ? — J'ai trente ans.|Kaç yaşındasın? — Otuz.
+J'ai … ans|J'ai vingt-cinq ans.|Yirmi beş yaşındayım.
+Tu es marié ?|Tu es marié ? — Non, pas encore.|Evli misin? — Hayır, henüz değil.
+Tu as des enfants ?|Tu as des enfants ? — Oui, un fils.|Çocuğun var mı? — Evet, bir oğlum.
+Où travailles-tu ?|Où travailles-tu ? — Dans une banque.|Nerede çalışıyorsun? — Bir bankada.
+Où habites-tu ?|Où habites-tu ? — Près du centre.|Nerede yaşıyorsun? — Merkezin yakınında.
+Quels sont tes loisirs ?|Quels sont tes loisirs ? — La lecture et la danse.|Hobilerin neler? — Okumak ve dans.
+# u19
+le lion|Le lion est le roi des animaux.|Aslan hayvanların kralıdır.
+le tigre|Le tigre est très fort.|Kaplan çok güçlüdür.
+l'éléphant|L'éléphant a une longue trompe.|Filin uzun bir hortumu var.
+le singe|Le singe mange une banane.|Maymun muz yiyor.
+le renard|Le renard court dans la forêt.|Tilki ormanda koşuyor.
+le lapin|Le lapin mange une carotte.|Tavşan havuç yiyor.
+le serpent|Attention, un serpent !|Dikkat, yılan!
+le mouton|Le mouton mange de l'herbe.|Koyun ot yiyor.
+la chèvre|On fait du fromage avec le lait de chèvre.|Keçi sütünden peynir yapılır.
+le cochon|Il y a un cochon à la ferme.|Çiftlikte bir domuz var.
+le coq|Le coq chante le matin.|Horoz sabah öter.
+le canard|Le canard nage sur le lac.|Ördek gölde yüzüyor.
+l'âne|L'âne porte des sacs.|Eşek çuval taşıyor.
+la ferme|Mon oncle a une ferme.|Amcamın bir çiftliği var.
+l'abeille|L'abeille fait du miel.|Arı bal yapar.
+la mouche|Il y a une mouche dans la cuisine.|Mutfakta bir sinek var.
+le moustique|Un moustique m'a piqué.|Beni bir sivrisinek soktu.
+le papillon|Un joli papillon vole dans le jardin.|Bahçede güzel bir kelebek uçuyor.
+la fourmi|La fourmi est très travailleuse.|Karınca çok çalışkandır.
+l'araignée|J'ai peur des araignées.|Örümceklerden korkarım.
+la coccinelle|Une coccinelle est sur la feuille.|Yaprağın üstünde bir uğur böceği var.
+la baleine|La baleine est le plus grand animal.|Balina en büyük hayvandır.
+le dauphin|Les dauphins sont très intelligents.|Yunuslar çok akıllıdır.
+le requin|Il n'y a pas de requins ici.|Burada köpekbalığı yok.
+la pieuvre|La pieuvre a huit bras.|Ahtapotun sekiz kolu var.
+le crabe|Le crabe marche de côté.|Yengeç yan yürür.
+la tortue|La tortue marche lentement.|Kaplumbağa yavaş yürür.
+le phoque|Le phoque dort sur la glace.|Fok buzun üstünde uyuyor.
+l'aigle|L'aigle vole très haut.|Kartal çok yüksekten uçar.
+le pigeon|Il y a beaucoup de pigeons sur la place.|Meydanda çok güvercin var.
+le perroquet|Notre perroquet dit « bonjour ».|Papağanımız "bonjour" diyor.
+le hibou|Le hibou ne dort pas la nuit.|Baykuş gece uyumaz.
+le pingouin|Le pingouin vit dans le froid.|Penguen soğukta yaşar.
+le cygne|Un cygne blanc nage sur le lac.|Gölde beyaz bir kuğu yüzüyor.
+le nid|Il y a un nid dans l'arbre.|Ağaçta bir yuva var.
+# u20
+le nuage|Il y a un gros nuage noir.|Büyük, kara bir bulut var.
+la tempête|La tempête a cassé des arbres.|Fırtına ağaçları kırdı.
+le brouillard|Ce matin, il y a du brouillard.|Bu sabah sis var.
+l'éclair|Un éclair illumine le ciel.|Bir şimşek gökyüzünü aydınlatıyor.
+le tonnerre|L'enfant a peur du tonnerre.|Çocuk gök gürültüsünden korkuyor.
+l'arc-en-ciel|Regarde, un arc-en-ciel !|Bak, gökkuşağı!
+la grêle|La grêle a abîmé la voiture.|Dolu arabaya zarar verdi.
+le lac|On se baigne dans le lac.|Gölde yüzüyoruz.
+l'île|Nous passons nos vacances sur une île.|Tatilimizi bir adada geçiriyoruz.
+la vallée|Le village est dans une vallée.|Köy bir vadide.
+le désert|Il fait très chaud dans le désert.|Çölde hava çok sıcak.
+la cascade|Quelle belle cascade !|Ne güzel bir şelale!
+la côte|On roule le long de la côte.|Kıyı boyunca gidiyoruz.
+la colline|La maison est sur la colline.|Ev tepenin üstünde.
+la plante|Cette plante aime le soleil.|Bu bitki güneşi sever.
+la feuille|Les feuilles tombent en automne.|Yapraklar sonbaharda düşer.
+l'herbe|Les enfants jouent dans l'herbe.|Çocuklar çimenlerde oynuyor.
+la rose|Il m'a offert une rose rouge.|Bana kırmızı bir gül verdi.
+la branche|L'oiseau est sur la branche.|Kuş dalın üstünde.
+la racine|Les racines de l'arbre sont profondes.|Ağacın kökleri derin.
+la graine|Je plante une graine dans le pot.|Saksıya bir tohum ekiyorum.
+l'étoile|Il y a beaucoup d'étoiles ce soir.|Bu gece çok yıldız var.
+la lune|La lune est pleine ce soir.|Bu akşam dolunay var.
+la planète|La Terre est notre planète.|Dünya bizim gezegenimiz.
+l'espace|Je rêve d'aller dans l'espace.|Uzaya gitmeyi hayal ediyorum.
+le lever du soleil|On se lève tôt pour voir le lever du soleil.|Gün doğumunu görmek için erken kalkıyoruz.
+le coucher du soleil|Le coucher du soleil sur la mer est magnifique.|Denizde gün batımı muhteşem.
+l'ombre|Asseyons-nous à l'ombre.|Gölgeye oturalım.
+la pierre|Il jette une pierre dans l'eau.|Suya bir taş atıyor.
+le bois|Cette table est en bois.|Bu masa tahtadan.
+le métal|La clé est en métal.|Anahtar metalden.
+l'or|Cette bague est en or.|Bu yüzük altından.
+l'argent métal|Ce bracelet est en argent.|Bu bilezik gümüş.
+le verre|Attention, c'est du verre !|Dikkat, bu cam!
+le papier|Donne-moi une feuille de papier.|Bana bir sayfa kâğıt ver.
+# u21
+le bâtiment|C'est le plus haut bâtiment de la ville.|Bu şehrin en yüksek binası.
+la tour|La tour Eiffel est à Paris.|Eyfel Kulesi Paris'te.
+la poste|Je vais à la poste envoyer un colis.|Paket göndermek için postaneye gidiyorum.
+la bibliothèque|J'étudie à la bibliothèque.|Kütüphanede ders çalışıyorum.
+l'université|Ma sœur est à l'université.|Kız kardeşim üniversitede.
+l'usine|Mon père travaille à l'usine.|Babam fabrikada çalışıyor.
+le stade|Le match est au stade ce soir.|Maç bu akşam stadyumda.
+le trottoir|Marche sur le trottoir.|Kaldırımdan yürü.
+le carrefour|Au carrefour, tournez à gauche.|Kavşakta sola dönün.
+le feu rouge|Arrêtez-vous au feu rouge.|Kırmızı ışıkta durun.
+la fontaine|Les enfants jouent près de la fontaine.|Çocuklar çeşmenin yanında oynuyor.
+le parking|Le parking est derrière l'hôtel.|Otopark otelin arkasında.
+l'arrêt de bus|Où est l'arrêt de bus ?|Otobüs durağı nerede?
+le passage piéton|Traverse au passage piéton.|Yaya geçidinden karşıya geç.
+la circulation|Il y a beaucoup de circulation le matin.|Sabahları trafik çok yoğun.
+l'accident|Il y a eu un accident sur l'autoroute.|Otoyolda kaza oldu.
+l'embouteillage|Je suis coincé dans un embouteillage.|Trafikte sıkıştım.
+l'essence|Le prix de l'essence a augmenté.|Benzinin fiyatı arttı.
+le permis de conduire|Tu as ton permis de conduire ?|Ehliyetin var mı?
+conduire|J'apprends à conduire.|Araba kullanmayı öğreniyorum.
+se garer|On ne peut pas se garer ici.|Buraya park edilmez.
+le commissariat|Le commissariat est à côté de la mairie.|Karakol belediyenin yanında.
+les pompiers|Appelez les pompiers !|İtfaiyeyi arayın!
+le pharmacien|Le pharmacien m'a donné un sirop.|Eczacı bana şurup verdi.
+le coiffeur|Je vais chez le coiffeur samedi.|Cumartesi kuaföre gidiyorum.
+la boulangerie|J'achète des croissants à la boulangerie.|Fırından kruvasan alıyorum.
+la boucherie|La boucherie est fermée le lundi.|Kasap pazartesi kapalı.
+le fleuriste|J'ai acheté des roses chez le fleuriste.|Gülleri çiçekçiden aldım.
+le cinéma|On va au cinéma ce soir ?|Bu akşam sinemaya gidelim mi?
+le théâtre|Nous allons au théâtre samedi.|Cumartesi tiyatroya gidiyoruz.
+le concert|Le concert commence à vingt heures.|Konser saat yirmide başlıyor.
+le bistrot|On prend un café au bistrot ?|Kafede bir kahve içelim mi?
+le bar|Le bar est ouvert jusqu'à deux heures.|Bar saat ikiye kadar açık.
+le zoo|Les enfants veulent aller au zoo.|Çocuklar hayvanat bahçesine gitmek istiyor.
+le parc d'attractions|Il y a du monde au parc d'attractions.|Lunaparkta çok kalabalık var.
+# u22
+le mur|Il y a un tableau sur le mur.|Duvarda bir tablo var.
+le toit|Le chat est sur le toit.|Kedi çatıda.
+le sol|Ne t'assieds pas sur le sol.|Yere oturma.
+le plafond|Le plafond est très haut.|Tavan çok yüksek.
+l'escalier|L'ascenseur est en panne, prends l'escalier.|Asansör bozuk, merdivenden çık.
+le balcon|On prend le café sur le balcon.|Kahveyi balkonda içiyoruz.
+le couloir|Les chaussures sont dans le couloir.|Ayakkabılar koridorda.
+l'armoire|Les vêtements sont dans l'armoire.|Giysiler dolapta.
+le fauteuil|Papa lit dans son fauteuil.|Babam koltuğunda okuyor.
+le tapis|Il y a un beau tapis dans le salon.|Salonda güzel bir halı var.
+le rideau|Ferme les rideaux.|Perdeleri kapat.
+l'oreiller|Cet oreiller est très doux.|Bu yastık çok yumuşak.
+la couverture|J'ai froid, donne-moi une couverture.|Üşüyorum, bana bir battaniye ver.
+le tiroir|Les cuillères sont dans le tiroir.|Kaşıklar çekmecede.
+la machine à laver|La machine à laver est en panne.|Çamaşır makinesi bozuk.
+le micro-ondes|Réchauffe la soupe au micro-ondes.|Çorbayı mikrodalgada ısıt.
+le four|Le gâteau est dans le four.|Kek fırında.
+la bouilloire|La bouilloire est chaude.|Su ısıtıcısı sıcak.
+le vase|Mets les fleurs dans le vase.|Çiçekleri vazoya koy.
+le tableau|C'est un tableau de mon grand-père.|Bu büyükbabamın tablosu.
+la bougie|Une bougie brûle sur la table.|Masada bir mum yanıyor.
+le marteau|Passe-moi le marteau.|Bana çekici uzat.
+les ciseaux|Où sont les ciseaux ?|Makas nerede?
+le clou|Plante un clou dans le mur.|Duvara bir çivi çak.
+la corde|Le linge sèche sur la corde.|Çamaşırlar ipte kuruyor.
+la pile|La télécommande n'a plus de pile.|Kumandanın pili bitti.
+l'ampoule|Il faut changer l'ampoule.|Ampulü değiştirmek lazım.
+le seau|Apporte un seau d'eau.|Bir kova su getir.
+le jardin|On mange dans le jardin.|Bahçede yemek yiyoruz.
+la clôture|Le chien est derrière la clôture.|Köpek çitin arkasında.
+le pot de fleurs|Le pot de fleurs est sur la fenêtre.|Saksı pencerede.
+le tuyau|Arrose le jardin avec le tuyau.|Bahçeyi hortumla sula.
+la pelle|Prends la pelle, on va creuser.|Küreği al, kazacağız.
+arroser|J'arrose les fleurs tous les jours.|Çiçekleri her gün sularım.
+tondre la pelouse|Le samedi, papa tond la pelouse.|Cumartesi günleri babam çim biçer.
+# u23
+le chou|La soupe au chou est bonne en hiver.|Lahana çorbası kışın iyi gelir.
+l'aubergine|J'aime l'aubergine grillée.|Közlenmiş patlıcanı severim.
+le champignon|On a trouvé un champignon dans la forêt.|Ormanda bir mantar bulduk.
+l'ail|Ajoute un peu d'ail.|Biraz sarımsak ekle.
+le maïs|En été, on mange du maïs.|Yazın mısır yeriz.
+les petits pois|Les enfants n'aiment pas les petits pois.|Çocuklar bezelyeyi sevmez.
+les épinards|Les épinards sont bons pour la santé.|Ispanak sağlığa iyidir.
+la pêche|Cette pêche est très juteuse.|Bu şeftali çok sulu.
+l'abricot|C'est de la confiture d'abricot.|Bu kayısı reçeli.
+l'ananas|L'ananas vient d'Afrique.|Ananas Afrika'dan geliyor.
+la prune|La prune est encore verte.|Erik hâlâ ham.
+la figue|Les figues poussent dans le sud.|İncir güneyde yetişir.
+la grenade|Le jus de grenade est très sain.|Nar suyu çok sağlıklı.
+le melon|Le melon sent bon.|Kavun güzel kokuyor.
+le bœuf|J'ai acheté un kilo de bœuf.|Bir kilo sığır eti aldım.
+l'agneau|L'agneau aux herbes est délicieux.|Otlu kuzu eti çok lezzetli.
+la saucisse|Des saucisses avec des frites.|Patates kızartmasıyla sosis.
+la crevette|Une salade aux crevettes.|Karidesli bir salata.
+le saumon|Le saumon grillé est délicieux.|Izgara somon çok lezzetli.
+le thon|Une salade au thon, s'il vous plaît.|Ton balıklı bir salata lütfen.
+la boulette|Maman prépare des boulettes.|Annem köfte yapıyor.
+le gâteau|C'est le gâteau d'anniversaire.|Bu doğum günü pastası.
+la glace|Tu veux une glace ?|Dondurma ister misin?
+le chocolat|Un chocolat chaud, s'il vous plaît.|Bir sıcak çikolata lütfen.
+le biscuit|Un thé avec des biscuits.|Kurabiyeli bir çay.
+le bonbon|Ne mange pas trop de bonbons.|Çok fazla şekerleme yeme.
+le dessert|Qu'est-ce qu'il y a comme dessert ?|Tatlı olarak ne var?
+les crêpes|En Bretagne, on mange des crêpes.|Bretanya'da krep yenir.
+faire frire|Je fais frire les pommes de terre.|Patatesleri kızartıyorum.
+faire bouillir|Fais bouillir l'eau pour les pâtes.|Makarna için suyu kaynat.
+cuire au four|On fait cuire le poulet au four.|Tavuğu fırında pişiriyoruz.
+couper|Coupe le pain, s'il te plaît.|Ekmeği kes lütfen.
+mélanger|Mélange bien la pâte.|Hamuru iyice karıştır.
+goûter|Goûte cette sauce !|Bu sosun tadına bak!
+la recette|Tu me donnes la recette ?|Tarifi bana verir misin?
+# u24
+sucré|Ce thé est trop sucré.|Bu çay fazla tatlı.
+acide|Le citron est acide.|Limon ekşidir.
+épicé|La cuisine indienne est épicée.|Hint mutfağı baharatlıdır.
+amer|Le café sans sucre est amer.|Şekersiz kahve acıdır.
+salé|La soupe est trop salée.|Çorba fazla tuzlu.
+frais|Le pain est frais ?|Ekmek taze mi?
+affamé|Je suis affamé !|Çok acıktım!
+l'eau gazeuse|Une bouteille d'eau gazeuse, s'il vous plaît.|Bir şişe maden suyu lütfen.
+la limonade|Les enfants boivent de la limonade.|Çocuklar limonata içiyor.
+le chocolat chaud|L'hiver, je bois un chocolat chaud.|Kışın sıcak çikolata içerim.
+le cocktail|Quel cocktail tu veux ?|Hangi kokteyli istersin?
+le glaçon|Avec des glaçons, s'il vous plaît.|Buzlu olsun lütfen.
+j'ai soif|J'ai soif, tu as de l'eau ?|Susadım, suyun var mı?
+la tasse|C'est ma tasse préférée.|Bu en sevdiğim kupa.
+le gobelet|Un gobelet d'eau, s'il vous plaît.|Bir bardak su lütfen.
+la serviette de table|Vous pouvez me donner une serviette de table ?|Bana bir peçete verebilir misiniz?
+la nappe|Il y a une nappe blanche sur la table.|Masada beyaz bir örtü var.
+le bol|Le chat a un bol vide.|Kedinin kasesi boş.
+la poêle|La poêle est très chaude.|Tava çok sıcak.
+le plateau|Le serveur porte un plateau.|Garson tepsi taşıyor.
+le décapsuleur|Tu as un décapsuleur ?|Şişe açacağın var mı?
+le serveur|Le serveur apporte la carte.|Garson menüyü getiriyor.
+le pourboire|On laisse un pourboire ?|Bahşiş bırakalım mı?
+réserver une table|Je voudrais réserver une table pour deux.|İki kişilik bir masa ayırtmak istiyorum.
+commander|Vous avez choisi ? On peut commander ?|Seçtiniz mi? Sipariş verebilir miyiz?
+le plat principal|Comme plat principal, je prends le poisson.|Ana yemek olarak balık alıyorum.
+le hors-d'œuvre|Quels hors-d'œuvre avez-vous ?|Mezeleriniz neler?
+le végétarien|Mon frère est végétarien.|Erkek kardeşim vejetaryen.
+cru|Ne mange pas la viande crue.|Çiğ et yeme.
+frit|Je voudrais du poisson frit.|Kızarmış balık istiyorum.
+bouilli|Des œufs bouillis au petit-déjeuner.|Kahvaltıda haşlanmış yumurta.
+grillé|Du poulet grillé, s'il vous plaît.|Izgara tavuk lütfen.
+fait maison|C'est un gâteau fait maison.|Bu ev yapımı bir kek.
+fade|La soupe est un peu fade.|Çorba biraz tatsız.
+je n'ai plus faim|Merci, je n'ai plus faim.|Teşekkürler, doydum.
+# u25
+le manteau|En hiver, je porte un manteau.|Kışın palto giyerim.
+le short|En été, je mets un short.|Yazın şort giyerim.
+le pyjama|L'enfant est déjà en pyjama.|Çocuk pijamasını giydi bile.
+les sous-vêtements|Les sous-vêtements sont dans le tiroir.|İç çamaşırları çekmecede.
+le maillot de bain|J'ai oublié mon maillot de bain.|Mayomu unuttum.
+le costume|Il va au travail en costume.|İşe takım elbiseyle gidiyor.
+le chemisier|C'est un chemisier en soie.|Bu ipek bir bluz.
+le coton|Ce t-shirt est en coton.|Bu tişört pamuklu.
+la laine|Un pull en laine est très chaud.|Yün kazak çok sıcak tutar.
+le cuir|Un sac en cuir.|Deri bir çanta.
+la soie|Une écharpe en soie.|İpek bir atkı.
+rayé|J'aime cette chemise rayée.|Bu çizgili gömleği beğendim.
+à carreaux|Il porte une chemise à carreaux.|Kareli bir gömlek giyiyor.
+uni|Je préfère une robe unie.|Düz renk bir elbiseyi tercih ederim.
+la ceinture|Cette ceinture est trop grande.|Bu kemer çok büyük.
+la cravate|Quelle cravate je mets ?|Hangi kravatı takayım?
+le portefeuille|J'ai perdu mon portefeuille.|Cüzdanımı kaybettim.
+les gants|Sans gants, j'ai froid aux mains.|Eldivensiz ellerim üşüyor.
+l'écharpe|Mets ton écharpe.|Atkını tak.
+le parapluie|Prends un parapluie, il va pleuvoir.|Şemsiye al, yağmur yağacak.
+la bague|Quelle belle bague !|Ne güzel bir yüzük!
+la taille|Quelle est votre taille ?|Bedeniniz ne?
+serré|Ce jean est trop serré.|Bu kot çok dar.
+large|J'aime les pulls larges.|Bol kazakları severim.
+ça te va bien|Cette robe, ça te va bien !|Bu elbise sana çok yakışıyor!
+la mode|Elle suit toujours la mode.|O hep modayı takip eder.
+la cabine d'essayage|Où est la cabine d'essayage ?|Deneme kabini nerede?
+la fermeture éclair|La fermeture éclair est cassée.|Fermuar bozuk.
+payer|Je vais payer par carte.|Kartla ödeyeceğim.
+essayer|Je peux essayer cette veste ?|Bu ceketi deneyebilir miyim?
+échanger|Je voudrais échanger cette taille.|Bu bedeni değiştirmek istiyorum.
+rendre|Je voudrais rendre ces chaussures.|Bu ayakkabıları iade etmek istiyorum.
+en solde|J'ai acheté ce manteau en solde.|Bu paltoyu indirimde aldım.
+dépenser|Ne dépense pas tout ton argent !|Bütün paranı harcama!
+économiser|J'économise pour une voiture.|Araba için para biriktiriyorum.
+# u26
+le visage|Elle a un joli visage.|Onun güzel bir yüzü var.
+le nez|Il a un grand nez.|Onun büyük bir burnu var.
+la bouche|Ouvrez la bouche, s'il vous plaît.|Ağzınızı açın lütfen.
+le cou|J'ai mal au cou.|Boynum ağrıyor.
+l'épaule|Il a posé la main sur mon épaule.|Elini omzuma koydu.
+le doigt|Je me suis coupé le doigt.|Parmağımı kestim.
+le genou|Il s'est fait mal au genou.|Dizini incitti.
+le bras|Il s'est cassé le bras.|Kolunu kırdı.
+le ventre|J'ai mal au ventre.|Karnım ağrıyor.
+la poitrine|Respirez, vous avez mal à la poitrine ?|Nefes alın, göğsünüz ağrıyor mu?
+la peau|Elle a la peau très sensible.|Cildi çok hassas.
+l'os|Le chien mange un os.|Köpek kemik yiyor.
+le sang|Tu as du sang sur la main.|Elinde kan var.
+la langue (organe)|Le médecin regarde la langue.|Doktor dile bakıyor.
+la grippe|J'ai la grippe.|Grip oldum.
+la toux|J'ai une toux depuis une semaine.|Bir haftadır öksürüğüm var.
+le mal de tête|J'ai un terrible mal de tête.|Berbat bir baş ağrım var.
+la nausée|J'ai la nausée après le repas.|Yemekten sonra midem bulanıyor.
+l'allergie|J'ai une allergie aux chats.|Kedilere alerjim var.
+la blessure|La blessure ne fait plus mal.|Yara artık acımıyor.
+la fracture|Il a une fracture du bras.|Kolunda kırık var.
+l'ordonnance|Ce médicament est sur ordonnance.|Bu ilaç reçeteyle satılıyor.
+le comprimé|Prenez un comprimé après le repas.|Yemekten sonra bir hap alın.
+la piqûre|L'enfant a peur des piqûres.|Çocuk iğneden korkuyor.
+le vaccin|Le bébé a eu son vaccin.|Bebek aşısını oldu.
+le pansement|Mets un pansement sur ta blessure.|Yarana yara bandı yapıştır.
+il faut vous reposer|Vous êtes fatigué, il faut vous reposer.|Yorgunsunuz, dinlenmeniz gerek.
+guérir|Guéris vite !|Çabuk iyileş!
+le patient|Le patient attend le médecin.|Hasta doktoru bekliyor.
+les urgences|On l'a emmené aux urgences.|Onu acile götürdüler.
+l'opération|L'opération s'est bien passée.|Ameliyat iyi geçti.
+le dentiste|J'ai rendez-vous chez le dentiste.|Diş hekiminde randevum var.
+le rendez-vous|J'ai un rendez-vous à dix heures.|Saat onda randevum var.
+l'assurance|Vous avez une assurance ?|Sigortanız var mı?
+le pouls|Le médecin prend le pouls.|Doktor nabzı ölçüyor.
+# u27
+effrayé|L'enfant a l'air effrayé.|Çocuk korkmuş görünüyor.
+surpris|Je suis surpris de te voir ici.|Seni burada gördüğüme şaşırdım.
+jaloux|Son copain est très jaloux.|Sevgilisi çok kıskanç.
+nerveux|Avant l'examen, je suis nerveux.|Sınavdan önce gerginim.
+gêné|Il était gêné et ne disait rien.|Utanmıştı ve hiçbir şey demiyordu.
+fier|Je suis fier de toi.|Seninle gurur duyuyorum.
+seul|Il vit seul.|Yalnız yaşıyor.
+courageux|Le pompier est très courageux.|İtfaiyeci çok cesur.
+honnête|C'est un homme honnête.|O dürüst bir adam.
+poli|Le vendeur était très poli.|Satıcı çok kibardı.
+patient|Un professeur doit être patient.|Bir öğretmen sabırlı olmalı.
+travailleur|C'est un étudiant travailleur.|O çalışkan bir öğrenci.
+impoli|Ne sois pas impoli avec ta mère.|Annene kaba davranma.
+égoïste|C'est un comportement égoïste.|Bu bencilce bir davranış.
+pleurer|Ne pleure pas, tout va bien.|Ağlama, her şey yolunda.
+sourire|Souris pour la photo !|Fotoğraf için gülümse!
+s'inquiéter|Ne t'inquiète pas, j'arrive.|Endişelenme, geliyorum.
+avoir peur|J'ai peur du noir.|Karanlıktan korkuyorum.
+se fâcher|Ne te fâche pas !|Sinirlenme!
+se calmer|Calme-toi, tout va bien.|Sakin ol, her şey yolunda.
+faire connaissance|On a fait connaissance au travail.|İşte tanıştık.
+faire confiance|Je te fais confiance.|Sana güveniyorum.
+manquer|Ma famille me manque.|Ailemi özlüyorum.
+pardonner|Pardonne-moi, s'il te plaît.|Beni affet lütfen.
+se disputer|Ils se disputent souvent.|Sık sık tartışırlar.
+se marier|Ils se marient en juin.|Haziranda evleniyorlar.
+se séparer|Ils se sont séparés l'année dernière.|Geçen yıl ayrıldılar.
+génial !|Tu as réussi ? Génial !|Başardın mı? Harika!
+dommage !|Tu ne viens pas ? Dommage !|Gelmiyor musun? Ne yazık!
+c'est pas possible !|Il a gagné ? C'est pas possible !|O mu kazandı? Olamaz!
+attention !|Attention ! Une voiture !|Dikkat! Araba!
+bravo !|Tout est juste, bravo !|Hepsi doğru, aferin!
+bon rétablissement|Bon rétablissement, mon ami !|Geçmiş olsun dostum!
+bon appétit|Bon appétit à tous !|Herkese afiyet olsun!
+# u28
+l'avocat|J'ai besoin d'un bon avocat.|İyi bir avukata ihtiyacım var.
+le policier|Le policier nous a montré le chemin.|Polis memuru bize yolu gösterdi.
+l'architecte|Un architecte célèbre a construit ce musée.|Bu müzeyi ünlü bir mimar yaptı.
+le journaliste|Le journaliste écrit un article.|Gazeteci bir makale yazıyor.
+le vendeur|Le vendeur m'a conseillé.|Satış elemanı bana tavsiye verdi.
+l'agriculteur|L'agriculteur travaille dans les champs.|Çiftçi tarlada çalışıyor.
+le pilote|Le pilote parle aux passagers.|Pilot yolcularla konuşuyor.
+l'artiste|C'est un artiste très connu.|O çok tanınmış bir sanatçı.
+le musicien|Mon voisin est musicien.|Komşum müzisyen.
+le soldat|Le soldat garde l'entrée.|Asker girişi koruyor.
+l'agent d'entretien|L'agent d'entretien nettoie le bureau.|Temizlikçi ofisi temizliyor.
+l'électricien|Appelle l'électricien, il n'y a plus de lumière.|Elektrikçiyi ara, elektrik yok.
+le mécanicien|Le mécanicien répare la voiture.|Tamirci arabayı tamir ediyor.
+le retraité|Mon grand-père est retraité.|Büyükbabam emekli.
+le bureau (meuble)|Les livres sont sur le bureau.|Kitaplar yazı masasının üstünde.
+l'imprimante|L'imprimante ne marche pas.|Yazıcı çalışmıyor.
+le dossier|Les documents sont dans le dossier bleu.|Belgeler mavi dosyada.
+l'enveloppe|Mets la lettre dans l'enveloppe.|Mektubu zarfa koy.
+le crayon|Écris au crayon.|Kurşun kalemle yaz.
+la gomme|Tu as une gomme ?|Silgin var mı?
+le calendrier|Regarde le calendrier.|Takvime bak.
+postuler|Je veux postuler pour ce poste.|Bu pozisyona başvurmak istiyorum.
+embaucher|L'entreprise embauche des ingénieurs.|Şirket mühendis alıyor.
+licencier|Ils ont licencié vingt personnes.|Yirmi kişiyi işten çıkardılar.
+gagner|Combien tu gagnes par mois ?|Ayda ne kadar kazanıyorsun?
+diriger|Elle dirige une grande équipe.|Büyük bir ekibi yönetiyor.
+signer|Signez ici, s'il vous plaît.|Buraya imza atın lütfen.
+prendre sa retraite|Mon père prend sa retraite cette année.|Babam bu yıl emekli oluyor.
+l'entreprise|Je travaille dans une grande entreprise.|Büyük bir şirkette çalışıyorum.
+le client|Le client est roi.|Müşteri kraldır.
+le produit|C'est notre nouveau produit.|Bu bizim yeni ürünümüz.
+le contrat|Nous avons signé le contrat.|Sözleşmeyi imzaladık.
+le projet|Le projet doit être fini vendredi.|Proje cuma bitmeli.
+la facture|Envoyez-moi la facture, s'il vous plaît.|Faturayı bana gönderin lütfen.
+l'entretien d'embauche|Demain, j'ai un entretien d'embauche.|Yarın iş görüşmem var.
+# u29
+le cartable|Le cartable est plein de livres.|Okul çantası kitaplarla dolu.
+la règle|Trace une ligne avec la règle.|Cetvelle bir çizgi çiz.
+le tableau noir|Le professeur écrit au tableau noir.|Öğretmen tahtaya yazıyor.
+la classe|Il y a vingt élèves dans la classe.|Sınıfta yirmi öğrenci var.
+le dictionnaire|Cherche le mot dans le dictionnaire.|Kelimeye sözlükten bak.
+le manuel|Ouvrez le manuel à la page dix.|Ders kitabını onuncu sayfada açın.
+les devoirs|J'ai fini mes devoirs.|Ödevimi bitirdim.
+les maths|Les maths, c'est ma matière préférée.|Matematik en sevdiğim ders.
+l'histoire|J'adore l'histoire de France.|Fransa tarihine bayılırım.
+la géographie|En géographie, on étudie les cartes.|Coğrafyada haritaları inceliyoruz.
+la physique|La physique est difficile.|Fizik zor.
+la chimie|On a un cours de chimie au labo.|Laboratuvarda kimya dersimiz var.
+la biologie|La biologie étudie les êtres vivants.|Biyoloji canlıları inceler.
+la littérature|La littérature française est très riche.|Fransız edebiyatı çok zengin.
+la faculté|Elle étudie à la faculté de droit.|Hukuk fakültesinde okuyor.
+le professeur d'université|Le professeur d'université donne un cours.|Profesör ders veriyor.
+la bourse|J'ai obtenu une bourse.|Burs aldım.
+le diplôme|J'ai reçu mon diplôme en juin.|Diplomamı haziranda aldım.
+la résidence universitaire|Les étudiants habitent à la résidence universitaire.|Öğrenciler yurtta kalıyor.
+le semestre|Le semestre commence en février.|Dönem şubatta başlıyor.
+le cours magistral|Le cours magistral était passionnant.|Ders çok ilgi çekiciydi.
+répéter|Répétez après moi.|Benden sonra tekrarlayın.
+apprendre par cœur|J'apprends un poème par cœur.|Bir şiir ezberliyorum.
+expliquer|Tu peux m'expliquer encore une fois ?|Bana bir kez daha açıklayabilir misin?
+traduire|Je traduis le texte en turc.|Metni Türkçeye çeviriyorum.
+faire une erreur|Tout le monde peut faire une erreur.|Herkes hata yapabilir.
+corriger|Le professeur corrige les copies.|Öğretmen kâğıtları düzeltiyor.
+s'entraîner|Il faut s'entraîner tous les jours.|Her gün pratik yapmak gerekir.
+la note|J'ai eu une bonne note.|İyi bir not aldım.
+réussir un examen|J'ai réussi mon examen !|Sınavımı geçtim!
+rater un examen|Il a raté son examen de physique.|Fizik sınavından kaldı.
+le test|Aujourd'hui, on a un test.|Bugün testimiz var.
+se préparer|Je me prépare pour l'examen.|Sınava hazırlanıyorum.
+le résultat|Le résultat sera là demain.|Sonuç yarın belli olacak.
+tricher|Il est interdit de tricher.|Kopya çekmek yasak.
+# u30
+la tablette|L'enfant joue sur la tablette.|Çocuk tablette oynuyor.
+le casque|J'écoute de la musique avec mon casque.|Kulaklıkla müzik dinliyorum.
+l'appareil photo|J'ai un nouvel appareil photo.|Yeni bir fotoğraf makinem var.
+le clavier|Le clavier ne marche pas.|Klavye çalışmıyor.
+la souris|Ma souris est cassée.|Farem bozuk.
+l'écran|L'écran de mon téléphone est cassé.|Telefonumun ekranı kırık.
+l'enceinte|Mets la musique sur l'enceinte.|Müziği hoparlörden aç.
+le site web|Regardez notre site web.|Web sitemize bakın.
+le lien|Envoie-moi le lien.|Bana bağlantıyı gönder.
+télécharger|Je télécharge un film.|Bir film indiriyorum.
+mettre en ligne|Je mets les photos en ligne.|Fotoğrafları internete yüklüyorum.
+le moteur de recherche|Cherche sur un moteur de recherche.|Bir arama motorunda ara.
+le wifi|Le wifi est gratuit ici.|Burada kablosuz ağ ücretsiz.
+le compte|J'ai créé un nouveau compte.|Yeni bir hesap açtım.
+les réseaux sociaux|Elle passe trop de temps sur les réseaux sociaux.|Sosyal medyada çok fazla vakit geçiriyor.
+partager|Partage la photo avec moi !|Fotoğrafı benimle paylaş!
+liker|Elle like toutes mes photos.|Bütün fotoğraflarımı beğeniyor.
+suivre|Suivez-nous sur Instagram !|Bizi Instagram'da takip edin!
+le commentaire|Laisse un commentaire.|Bir yorum bırak.
+la photo|Envoie-moi la photo.|Fotoğrafı bana gönder.
+la vidéo|Regarde cette vidéo drôle.|Bu komik videoyu izle.
+allumer|Allume la lumière, s'il te plaît.|Işığı aç lütfen.
+éteindre|Éteins l'ordinateur le soir.|Akşam bilgisayarı kapat.
+enregistrer|N'oublie pas d'enregistrer le fichier.|Dosyayı kaydetmeyi unutma.
+supprimer|J'ai supprimé les vieilles photos.|Eski fotoğrafları sildim.
+taper|Je tape vite.|Hızlı yazarım.
+recharger|Je dois recharger mon téléphone.|Telefonumu şarj etmem lazım.
+cliquer|Cliquez sur ce bouton.|Bu düğmeye tıklayın.
+cassé|Mon téléphone est cassé.|Telefonum bozuk.
+ça ne marche pas|Internet, ça ne marche pas !|İnternet çalışmıyor!
+la batterie est vide|Je ne peux pas t'appeler, la batterie est vide.|Seni arayamıyorum, şarj bitti.
+la mise à jour|Installe la mise à jour.|Güncellemeyi yükle.
+le virus|L'ordinateur a un virus.|Bilgisayarda virüs var.
+pas de réseau|À la montagne, il n'y a pas de réseau.|Dağda şebeke yok.
+redémarrer|Essaie de redémarrer le téléphone.|Telefonu yeniden başlatmayı dene.
+# u31
+le bateau|Le bateau part à dix heures.|Gemi saat onda kalkıyor.
+la moto|Mon frère a une nouvelle moto.|Erkek kardeşimin yeni bir motosikleti var.
+le tramway|Je vais au travail en tramway.|İşe tramvayla gidiyorum.
+le camion|Le camion transporte des meubles.|Kamyon mobilya taşıyor.
+le ferry|On prend le ferry pour la Corse.|Korsika'ya feribotla gidiyoruz.
+l'hélicoptère|Un hélicoptère survole la ville.|Şehrin üstünde bir helikopter uçuyor.
+le passager|Les passagers attendent le train.|Yolcular treni bekliyor.
+le départ|Le départ est à neuf heures.|Kalkış saat dokuzda.
+l'arrivée|L'arrivée à Paris est prévue à midi.|Paris'e varış öğlen bekleniyor.
+le retard|Le train a une heure de retard.|Trenin bir saat rötarı var.
+la carte d'embarquement|Votre carte d'embarquement, s'il vous plaît.|Biniş kartınız lütfen.
+le bagage à main|C'est mon bagage à main.|Bu benim el bagajım.
+la place côté fenêtre|Je voudrais une place côté fenêtre.|Pencere kenarı bir koltuk istiyorum.
+la correspondance|J'ai une correspondance à Lyon.|Lyon'da aktarmam var.
+la réception|Les clés sont à la réception.|Anahtarlar resepsiyonda.
+la chambre simple|Une chambre simple pour deux nuits.|İki gecelik tek kişilik bir oda.
+la chambre double|Vous avez une chambre double ?|Çift kişilik odanız var mı?
+le service en chambre|Je vais commander le service en chambre.|Oda servisi sipariş edeceğim.
+s'enregistrer|On peut s'enregistrer à partir de quatorze heures.|Saat on dörtten itibaren giriş yapılabiliyor.
+la vue|La chambre a une vue sur la mer.|Odanın deniz manzarası var.
+petit-déjeuner inclus|C'est quatre-vingts euros, petit-déjeuner inclus.|Kahvaltı dahil seksen euro.
+le camping|Cet été, on fait du camping.|Bu yaz kamp yapıyoruz.
+la tente|On dort sous la tente.|Çadırda uyuyoruz.
+la maison d'hôtes|Nous avons dormi dans une maison d'hôtes.|Bir pansiyonda kaldık.
+le port|Le bateau arrive au port.|Gemi limana varıyor.
+le monument|C'est un monument historique.|Bu tarihî bir anıt.
+la vieille ville|On se promène dans la vieille ville.|Eski şehirde geziniyoruz.
+la crème solaire|N'oublie pas la crème solaire.|Güneş kremini unutma.
+réserver|J'ai réservé un hôtel en ligne.|İnternetten otel ayırttım.
+rater le bus|Dépêche-toi, on va rater le bus !|Acele et, otobüsü kaçıracağız!
+faire sa valise|Ce soir, je fais ma valise.|Bu akşam bavulumu hazırlıyorum.
+visiter|Nous visitons le château.|Şatoyu geziyoruz.
+se perdre|J'ai peur de me perdre dans la ville.|Şehirde kaybolmaktan korkuyorum.
+revenir|Quand est-ce que tu reviens ?|Ne zaman dönüyorsun?
+faire du tourisme|Demain, on fait du tourisme à Rome.|Yarın Roma'yı geziyoruz.
+# u32
+le basket|Il joue très bien au basket.|Çok iyi basketbol oynuyor.
+le tennis|Le samedi, je joue au tennis.|Cumartesi günleri tenis oynarım.
+le volley|On joue au volley sur la plage.|Plajda voleybol oynuyoruz.
+le vélo|Je vais au travail à vélo.|İşe bisikletle giderim.
+le ski|En hiver, on fait du ski.|Kışın kayak yaparız.
+la boxe|Mon frère fait de la boxe.|Kardeşim boks yapıyor.
+le yoga|Le yoga m'aide à me détendre.|Yoga rahatlamama yardımcı oluyor.
+le ballon|Lance-moi le ballon !|Topu bana at!
+la raquette|Où est ma raquette de tennis ?|Tenis raketim nerede?
+le but|Il a marqué un but !|Gol attı!
+la salle de sport|Je vais à la salle de sport trois fois par semaine.|Haftada üç kez spor salonuna giderim.
+la piscine|L'hôtel a une piscine.|Otelin havuzu var.
+le terrain|Les joueurs entrent sur le terrain.|Oyuncular sahaya çıkıyor.
+le joueur|C'est le meilleur joueur de l'équipe.|Takımın en iyi oyuncusu o.
+les échecs|Mon grand-père m'apprend à jouer aux échecs.|Büyükbabam bana satranç öğretiyor.
+les cartes|Le soir, on joue aux cartes.|Akşamları iskambil oynarız.
+le casse-tête|Ce casse-tête est très difficile.|Bu bulmaca çok zor.
+le jouet|C'est le jouet de mon fils.|Bu oğlumun oyuncağı.
+le jeu vidéo|Il joue aux jeux vidéo toute la journée.|Bütün gün video oyunu oynuyor.
+gagner une partie|J'ai gagné une partie d'échecs.|Bir satranç oyunu kazandım.
+perdre|Je n'aime pas perdre.|Kaybetmeyi sevmem.
+l'art|Je m'intéresse à l'art moderne.|Modern sanata ilgi duyuyorum.
+la sculpture|Il y a une sculpture dans le parc.|Parkta bir heykel var.
+l'exposition|On va voir une exposition ?|Bir sergiye gidelim mi?
+le roman|Je lis un roman de Victor Hugo.|Victor Hugo'nun bir romanını okuyorum.
+le poème|Elle écrit de beaux poèmes.|Güzel şiirler yazıyor.
+l'écrivain|Camus est mon écrivain préféré.|Camus en sevdiğim yazar.
+la photographie|Sa passion, c'est la photographie.|Tutkusu fotoğrafçılık.
+la guitare|J'ai une nouvelle guitare.|Yeni bir gitarım var.
+le piano|Ma fille apprend le piano.|Kızım piyano öğreniyor.
+le violon|Elle joue du violon.|Keman çalıyor.
+le tambour|Le garçon joue du tambour.|Çocuk davul çalıyor.
+la flûte|Le son de la flûte est doux.|Flütün sesi yumuşak.
+la chanson|C'est ma chanson préférée.|Bu en sevdiğim şarkı.
+jouer de la guitare|J'apprends à jouer de la guitare.|Gitar çalmayı öğreniyorum.
+# u33
+douze|Il est midi, douze heures.|Saat öğlen on iki.
+treize|Mon fils a treize ans.|Oğlum on üç yaşında.
+quatorze|Le cours est à la page quatorze.|Ders on dördüncü sayfada.
+quinze|Attends quinze minutes.|On beş dakika bekle.
+seize|Il y a seize étudiants dans le groupe.|Grupta on altı öğrenci var.
+dix-sept|Elle a dix-sept ans.|On yedi yaşında.
+dix-huit|À dix-huit ans, on peut voter.|On sekiz yaşında oy verilebilir.
+trente|Un mois a trente jours.|Bir ay otuz gündür.
+quarante|J'ai quarante ans.|Kırk yaşındayım.
+soixante|Il y a soixante minutes dans une heure.|Bir saatte altmış dakika vardır.
+soixante-dix|Mon grand-père a soixante-dix ans.|Büyükbabam yetmiş yaşında.
+quatre-vingts|La vitesse est limitée à quatre-vingts.|Hız sınırı seksen.
+quatre-vingt-dix|Ma grand-mère a quatre-vingt-dix ans.|Büyükannem doksan yaşında.
+un million|La ville a un million d'habitants.|Şehrin bir milyon sakini var.
+premier|C'est mon premier cours de français.|Bu benim ilk Fransızca dersim.
+deuxième|J'habite au deuxième étage.|İkinci katta oturuyorum.
+troisième|C'est ma troisième visite à Paris.|Bu Paris'e üçüncü ziyaretim.
+quatrième|Il est arrivé quatrième.|Dördüncü geldi.
+cinquième|C'est le cinquième jour des vacances.|Tatilin beşinci günü.
+dixième|Il habite au dixième étage.|Onuncu katta oturuyor.
+dernier|C'est le dernier bus.|Bu son otobüs.
+additionner|Additionne deux et trois.|İki ile üçü topla.
+soustraire|Soustrais trois de dix.|Ondan üç çıkar.
+multiplier|Multiplie cinq par quatre.|Beşi dörtle çarp.
+diviser|Divise le gâteau en six parts.|Keki altı parçaya böl.
+égale|Deux plus trois égale cinq.|İki artı üç eşittir beş.
+le pourcentage|Quel est le pourcentage de réduction ?|İndirim yüzde kaç?
+le nombre|Choisis un nombre entre un et dix.|Bir ile on arasında bir sayı seç.
+le siècle|Ce château date du XVIIe siècle.|Bu şato 17. yüzyıldan kalma.
+la décennie|La ville a beaucoup changé en une décennie.|Şehir on yılda çok değişti.
+la seconde|Attends une seconde !|Bir saniye bekle!
+le moment|C'était un moment important.|Önemli bir andı.
+le passé|N'y pense plus, c'est le passé.|Artık düşünme, o geçmişte kaldı.
+l'avenir|L'avenir dépend de nous.|Gelecek bize bağlı.
+l'époque|À cette époque, il n'y avait pas d'internet.|O dönemde internet yoktu.
+# u34
+tomber|Attention, ne tombe pas !|Dikkat et, düşme!
+sauter|Les enfants sautent dans la piscine.|Çocuklar havuza atlıyor.
+grimper|Le garçon aime grimper aux arbres.|Çocuk ağaçlara tırmanmayı sever.
+tourner|Au feu, tournez à droite.|Işıkta sağa dönün.
+entrer|Entrez, s'il vous plaît.|Girin lütfen.
+sortir|Je sors à l'arrêt suivant.|Bir sonraki durakta iniyorum.
+traverser|Traverse la rue avec prudence.|Caddeden dikkatle karşıya geç.
+tenir|Tiens ma main.|Elimi tut.
+lancer|Lance le ballon !|Topu at!
+attraper|Attrape la balle !|Topu yakala!
+tirer|Ne tire pas la queue du chat.|Kedinin kuyruğunu çekme.
+pousser|Poussez la porte.|Kapıyı itin.
+porter|Je porte un sac lourd.|Ağır bir çanta taşıyorum.
+lâcher|Ne lâche pas ma main.|Elimi bırakma.
+sentir une odeur|Je sens une odeur de café.|Kahve kokusu alıyorum.
+toucher|Ne touche pas, c'est chaud !|Dokunma, sıcak!
+remarquer|Tu remarques la différence ?|Farkı fark ediyor musun?
+regarder|Nous regardons la télé.|Televizyon izliyoruz.
+observer|Elle observe les oiseaux.|Kuşları gözlemliyor.
+ressentir|Je ressens beaucoup de joie.|Büyük bir sevinç hissediyorum.
+reconnaître|Je ne t'ai pas reconnu !|Seni tanıyamadım!
+se souvenir|Je me souviens de ce jour.|O günü hatırlıyorum.
+oublier|N'oublie pas d'appeler ta mère.|Anneni aramayı unutma.
+décider|C'est toi qui décides.|Karar veren sensin.
+croire|Je te crois.|Sana inanıyorum.
+rêver|Je rêve de voir la mer.|Denizi görmeyi hayal ediyorum.
+se demander|Je me demande où il est.|Nerede olduğunu merak ediyorum.
+deviner|Devine qui est là !|Tahmin et kim geldi!
+demander|Demande au professeur.|Öğretmene sor.
+répondre|Réponds à la question.|Soruya cevap ver.
+dire|Qu'est-ce que tu as dit ?|Ne dedin?
+raconter|Raconte-moi ton voyage.|Bana seyahatini anlat.
+crier|Ne crie pas, j'entends.|Bağırma, duyuyorum.
+chuchoter|Elle chuchote à mon oreille.|Kulağıma fısıldıyor.
+appeler|Je t'appelle ce soir.|Seni bu akşam ararım.
+# u35
+commencer|Le film commence à vingt heures.|Film saat yirmide başlıyor.
+finir|Je finis le travail à six heures.|İşi altıda bitiririm.
+continuer|Continue, je t'écoute.|Devam et, seni dinliyorum.
+s'arrêter|Le bus s'arrête ici ?|Otobüs burada duruyor mu?
+attendre|Je t'attends devant la gare.|Seni garın önünde bekliyorum.
+tenter|Je vais tenter ma chance.|Şansımı deneyeceğim.
+réussir|Elle réussit toujours ce qu'elle fait.|Yaptığı her şeyde başarılı olur.
+donner|Donne-moi ton numéro.|Bana numaranı ver.
+prendre|Je prends le métro.|Metroya biniyorum.
+apporter|Le serveur apporte la carte.|Garson menüyü getiriyor.
+envoyer|J'envoie une lettre à ma grand-mère.|Büyükanneme bir mektup gönderiyorum.
+trouver|Je ne trouve pas mes clés.|Anahtarlarımı bulamıyorum.
+garder|Gardez la monnaie.|Para üstü kalsın.
+emprunter|Je peux emprunter ton stylo ?|Kalemini ödünç alabilir miyim?
+changer|La ville change vite.|Şehir hızla değişiyor.
+grandir|Les enfants grandissent vite.|Çocuklar çabuk büyüyor.
+augmenter|Les prix augmentent chaque année.|Fiyatlar her yıl artıyor.
+diminuer|Le chômage diminue.|İşsizlik azalıyor.
+casser|Attention, tu vas casser le verre !|Dikkat, bardağı kıracaksın!
+réparer|Mon père répare le vélo.|Babam bisikleti tamir ediyor.
+ouvrir|Ouvre la fenêtre, il fait chaud.|Pencereyi aç, hava sıcak.
+fermer|Ferme la porte, s'il te plaît.|Kapıyı kapat lütfen.
+laver|Je lave la voiture.|Arabayı yıkıyorum.
+nettoyer|Je nettoie la cuisine.|Mutfağı temizliyorum.
+mettre|Mets les clés sur la table.|Anahtarları masaya koy.
+ramasser|Ramasse tes jouets !|Oyuncaklarını topla!
+accrocher|Accroche ta veste ici.|Ceketini buraya as.
+cacher|Le chat se cache sous le lit.|Kedi yatağın altına saklanıyor.
+inviter|Je t'invite à dîner.|Seni akşam yemeğine davet ediyorum.
+participer|Je participe à un concours.|Bir yarışmaya katılıyorum.
+remercier|Je vous remercie pour votre aide.|Yardımınız için size teşekkür ederim.
+s'excuser|Il s'excuse pour son retard.|Gecikmesi için özür diliyor.
+promettre|Je te promets, je viendrai.|Söz veriyorum, geleceğim.
+permettre|Mes parents ne me permettent pas de sortir tard.|Ailem geç saatte çıkmama izin vermiyor.
+interdire|Le médecin m'interdit le sucre.|Doktor bana şekeri yasaklıyor.
+# u36
+spacieux|L'appartement est spacieux.|Daire geniş.
+énorme|Ils ont une maison énorme.|Kocaman bir evleri var.
+minuscule|Le chaton a un nez minuscule.|Yavru kedinin küçücük bir burnu var.
+plat|La région est très plate.|Bölge çok düz.
+rond|La table est ronde.|Masa yuvarlak.
+carré|C'est une pièce carrée.|Bu kare bir oda.
+profond|Le lac est très profond.|Göl çok derin.
+orange|Il porte un t-shirt orange.|Turuncu bir tişört giyiyor.
+violet|Elle a une robe violette.|Mor bir elbisesi var.
+rose|La petite fille adore le rose.|Küçük kız pembeye bayılıyor.
+marron|Il a les yeux marron.|Gözleri kahverengi.
+clair|C'est une pièce très claire.|Bu çok aydınlık bir oda.
+foncé|Je préfère le bleu foncé.|Koyu maviyi tercih ederim.
+coloré|Les enfants dessinent avec des crayons colorés.|Çocuklar renkli kalemlerle resim yapıyor.
+plein|Le verre est plein.|Bardak dolu.
+vide|Le frigo est vide.|Buzdolabı boş.
+sale|Tes mains sont sales.|Ellerin kirli.
+mouillé|Je suis tout mouillé à cause de la pluie.|Yağmur yüzünden sırılsıklam oldum.
+sec|Le linge est déjà sec.|Çamaşırlar kurumuş bile.
+silencieux|C'est un quartier silencieux.|Burası sessiz bir semt.
+bruyant|La ville est très bruyante.|Şehir çok gürültülü.
+tiède|L'eau est tiède.|Su ılık.
+frais (temps)|Le soir, il fait frais.|Akşamları hava serin.
+doux|Le pain est doux et frais.|Ekmek yumuşak ve taze.
+dur|Ce fromage est très dur.|Bu peynir çok sert.
+lisse|La pierre est lisse.|Taş pürüzsüz.
+rugueux|Le mur est rugueux.|Duvar pürüzlü.
+lourd|Cette valise est lourde.|Bu valiz ağır.
+excellent|C'est une excellente idée !|Bu harika bir fikir!
+terrible|Le temps est terrible.|Hava berbat.
+important|J'ai un rendez-vous important.|Önemli bir randevum var.
+nécessaire|L'eau est nécessaire à la vie.|Su yaşam için gereklidir.
+possible|C'est possible demain ?|Yarın mümkün mü?
+impossible|Rien n'est impossible.|Hiçbir şey imkânsız değildir.
+naturel|C'est un produit naturel.|Bu doğal bir ürün.
+# u37
+ancien|Le musée a des meubles anciens.|Müzede antika mobilyalar var.
+moderne|C'est un bâtiment moderne.|Bu modern bir bina.
+quotidien|C'est mon trajet quotidien.|Bu benim günlük güzergâhım.
+hebdomadaire|Nous avons une réunion hebdomadaire.|Haftalık bir toplantımız var.
+annuel|Le festival annuel a lieu en été.|Yıllık festival yazın yapılır.
+temporaire|C'est un travail temporaire.|Bu geçici bir iş.
+permanent|Il cherche un poste permanent.|Kalıcı bir iş arıyor.
+prêt|Le dîner est prêt !|Akşam yemeği hazır!
+occupé|Je suis très occupé aujourd'hui.|Bugün çok meşgulüm.
+libre|Cette place est libre ?|Bu yer boş mu?
+sûr|Ce quartier est sûr.|Bu semt güvenli.
+confortable|Ce canapé est très confortable.|Bu kanepe çok rahat.
+riche|C'est un homme très riche.|O çok zengin bir adam.
+pauvre|Pauvre chaton, il a faim.|Zavallı yavru kedi, aç.
+célèbre|C'est un acteur célèbre.|Bu ünlü bir aktör.
+bizarre|Quel bruit bizarre !|Ne garip bir ses!
+normal|C'est normal, ne t'inquiète pas.|Bu normal, endişelenme.
+secret|C'est la recette secrète de ma grand-mère.|Bu büyükannemin gizli tarifi.
+simple|C'est une question simple.|Bu basit bir soru.
+compliqué|Le problème est compliqué.|Sorun karmaşık.
+populaire|C'est une chanson très populaire.|Bu çok popüler bir şarkı.
+doué|Elle est douée pour le dessin.|Resimde yetenekli.
+respectueux|Il est toujours respectueux.|O her zaman saygılı.
+généreux|Mon grand-père est très généreux.|Büyükbabam çok cömert.
+avare|Ne sois pas avare, partage !|Cimri olma, paylaş!
+déterminé|C'est une femme déterminée.|O kararlı bir kadın.
+curieux|Le chat est très curieux.|Kedi çok meraklı.
+responsable|C'est un employé responsable.|O sorumluluk sahibi bir çalışan.
+plus|Ce livre est plus intéressant.|Bu kitap daha ilginç.
+le plus|C'est le plus haut bâtiment de la ville.|Bu şehrin en yüksek binası.
+aussi … que|Il est aussi grand que son frère.|O da kardeşi kadar uzun.
+semblable|Nos idées sont semblables.|Fikirlerimiz benzer.
+différent|Nous avons des goûts différents.|Zevklerimiz farklı.
+pareil|Ces deux robes sont pareilles.|Bu iki elbise aynı.
+comme|Elle chante comme un oiseau.|Kuş gibi şarkı söylüyor.
+# u38
+dedans|Il fait chaud dedans.|İçerisi sıcak.
+dehors|Il fait froid dehors.|Dışarısı soğuk.
+en haut|La chambre est en haut.|Yatak odası yukarıda.
+en bas|La cuisine est en bas.|Mutfak aşağıda.
+partout|Il y a de la neige partout.|Her yerde kar var.
+nulle part|Je ne trouve mes lunettes nulle part.|Gözlüğümü hiçbir yerde bulamıyorum.
+quelque part|Mes clés sont quelque part ici.|Anahtarlarım buralarda bir yerde.
+avant|Avant, j'habitais à Ankara.|Eskiden Ankara'da oturuyordum.
+alors|Alors, on y va ?|O zaman gidiyor muyuz?
+enfin|Enfin, tu es là !|Sonunda geldin!
+soudain|Soudain, il a commencé à pleuvoir.|Aniden yağmur başladı.
+toujours (encore)|Tu dors toujours ?|Hâlâ uyuyor musun?
+une fois|Je suis allé à Paris une fois.|Paris'e bir kez gittim.
+de nouveau|Il pleut de nouveau.|Yine yağmur yağıyor.
+ensemble|On y va ensemble ?|Birlikte gidelim mi?
+tout seul|Il voyage tout seul.|Tek başına seyahat ediyor.
+prudemment|Conduis prudemment.|Dikkatli sür.
+doucement|Parle doucement, le bébé dort.|Sessiz konuş, bebek uyuyor.
+fort|Ne parle pas si fort.|Bu kadar yüksek sesle konuşma.
+correctement|Tu as tout fait correctement.|Her şeyi doğru yaptın.
+par hasard|J'ai cassé le verre par hasard.|Bardağı yanlışlıkla kırdım.
+cependant|Il faisait froid, cependant nous sommes sortis.|Hava soğuktu, ancak dışarı çıktık.
+au fait|Au fait, tu as vu Paul ?|Bu arada, Paul'ü gördün mü?
+par exemple|J'aime les fruits, par exemple les pommes.|Meyveleri severim, örneğin elmayı.
+de plus|De plus, je n'ai pas le temps.|Ayrıca vaktim yok.
+malgré|Malgré la pluie, nous sommes sortis.|Yağmura rağmen dışarı çıktık.
+ainsi|Ainsi, le projet est terminé.|Böylece proje bitti.
+sinon|Dépêche-toi, sinon on va être en retard.|Acele et, yoksa geç kalacağız.
+lequel|Il y a deux sacs. Lequel est à toi ?|İki çanta var. Hangisi senin?
+à qui|À qui est ce téléphone ?|Bu telefon kimin?
+combien de temps|Combien de temps dure le film ?|Film ne kadar sürüyor?
+à quelle fréquence|À quelle fréquence tu fais du sport ?|Ne sıklıkla spor yapıyorsun?
+pourquoi pas|On va au cinéma ? — Pourquoi pas !|Sinemaya gidelim mi? — Neden olmasın!
+quel genre de|Quel genre de musique tu aimes ?|Ne tür müzik seversin?
+combien de|Combien de frères as-tu ?|Kaç erkek kardeşin var?
+# u39
+l'État|L'État aide les familles.|Devlet ailelere yardım ediyor.
+le gouvernement|Le gouvernement a annoncé une réforme.|Hükümet bir reform açıkladı.
+le président|Le président parle à la télévision.|Cumhurbaşkanı televizyonda konuşuyor.
+les élections|Les élections ont lieu en mai.|Seçimler mayısta yapılıyor.
+voter|Je vais voter dimanche.|Pazar günü oy vereceğim.
+la loi|Tout le monde doit respecter la loi.|Herkes yasaya uymalı.
+le citoyen|Chaque citoyen a des droits.|Her vatandaşın hakları vardır.
+le tribunal|L'affaire est au tribunal.|Dava mahkemede.
+le juge|Le juge a pris sa décision.|Hâkim kararını verdi.
+le crime|C'est un crime grave.|Bu ağır bir suç.
+le voleur|La police a arrêté le voleur.|Polis hırsızı yakaladı.
+l'amende|J'ai eu une amende pour stationnement.|Park cezası aldım.
+la règle du jeu|Explique-moi la règle du jeu.|Bana oyunun kuralını anlat.
+le droit|Tout le monde a le droit à l'éducation.|Herkesin eğitim hakkı var.
+les informations|Tu as regardé les informations ?|Haberleri izledin mi?
+le journal|Papa lit le journal au petit-déjeuner.|Babam kahvaltıda gazete okur.
+la radio|J'écoute la radio dans la voiture.|Arabada radyo dinlerim.
+la publicité|Il y a trop de publicité à la télé.|Televizyonda çok fazla reklam var.
+l'article|J'ai lu un article intéressant.|İlginç bir makale okudum.
+l'interview|L'acteur a donné une interview.|Aktör bir röportaj verdi.
+l'émission|C'est mon émission préférée.|Bu en sevdiğim program.
+la société|La société change vite.|Toplum hızla değişiyor.
+la population|La population de la ville augmente.|Şehrin nüfusu artıyor.
+la culture|Je m'intéresse à la culture française.|Fransız kültürüne ilgi duyuyorum.
+la tradition|C'est une vieille tradition familiale.|Bu eski bir aile geleneği.
+la religion|Ici, on respecte toutes les religions.|Burada bütün dinlere saygı duyulur.
+la guerre|La guerre est toujours une tragédie.|Savaş her zaman bir trajedidir.
+la paix|Tout le monde veut la paix.|Herkes barış ister.
+l'événement|C'était un événement important.|Önemli bir olaydı.
+le problème|Nous avons un problème.|Bir sorunumuz var.
+la solution|Nous avons trouvé une solution.|Bir çözüm bulduk.
+la crise|La crise économique est finie.|Ekonomik kriz bitti.
+le développement|Le développement de la technologie est rapide.|Teknolojinin gelişimi hızlı.
+le succès|Je te souhaite beaucoup de succès !|Sana bol başarılar dilerim!
+le débat|Après le film, il y a eu un débat.|Filmden sonra bir tartışma oldu.
+# u40
+l'agence bancaire|L'agence bancaire ferme à dix-sept heures.|Banka şubesi saat on yedide kapanıyor.
+le distributeur|Où est le distributeur le plus proche ?|En yakın ATM nerede?
+les intérêts|Les intérêts du prêt sont élevés.|Kredinin faizi yüksek.
+le prêt|Nous avons un prêt pour la maison.|Ev için kredimiz var.
+la dette|Je n'ai pas de dettes.|Hiç borcum yok.
+le virement|J'ai fait un virement à mon ami.|Arkadaşıma havale yaptım.
+la devise|Quelle est la devise du Japon ?|Japonya'nın para birimi ne?
+la pièce|Je n'ai pas de pièces pour le parking.|Otopark için bozuk param yok.
+le billet de banque|C'est un billet de cinquante euros.|Bu elli euroluk bir banknot.
+l'euro|L'euro est la monnaie de la France.|Euro Fransa'nın para birimidir.
+le dollar|J'ai changé des dollars en euros.|Doları euroya çevirdim.
+la livre turque|La livre turque est la monnaie de la Turquie.|Türk lirası Türkiye'nin para birimidir.
+le budget|Nous avons un petit budget.|Bütçemiz küçük.
+le coût|Quel est le coût du voyage ?|Yolculuğun maliyeti ne?
+retirer de l'argent|Je retire de l'argent au distributeur.|ATM'den para çekiyorum.
+déposer|Je dépose de l'argent sur mon compte.|Hesabıma para yatırıyorum.
+changer de l'argent|Où est-ce que je peux changer de l'argent ?|Nerede döviz bozdurabilirim?
+prêter|Tu peux me prêter dix euros ?|Bana on euro borç verebilir misin?
+investir|Il veut investir dans l'immobilier.|Gayrimenkule yatırım yapmak istiyor.
+vendre|Nous vendons notre voiture.|Arabamızı satıyoruz.
+louer|Je loue un appartement en centre-ville.|Şehir merkezinde bir daire kiralıyorum.
+le loyer|Le loyer est très cher à Paris.|Paris'te kira çok pahalı.
+le propriétaire|Le propriétaire passe demain.|Ev sahibi yarın uğrayacak.
+le locataire|Le nouveau locataire est très calme.|Yeni kiracı çok sakin.
+la caution|La caution est d'un mois de loyer.|Depozito bir aylık kira.
+l'électricité|Il n'y a pas d'électricité au village.|Köyde elektrik yok.
+le chauffage|Le chauffage ne marche pas.|Isıtma çalışmıyor.
+déménager|Nous déménageons le mois prochain.|Gelecek ay taşınıyoruz.
+l'économie|L'économie du pays va mieux.|Ülke ekonomisi daha iyi gidiyor.
+l'inflation|L'inflation est élevée cette année.|Bu yıl enflasyon yüksek.
+l'impôt|Tout le monde paie des impôts.|Herkes vergi öder.
+le chômage|Le chômage touche les jeunes.|İşsizlik gençleri etkiliyor.
+l'exportation|L'exportation de vin est importante.|Şarap ihracatı önemli.
+l'importation|L'importation de fruits a augmenté.|Meyve ithalatı arttı.
+le marché|On achète des légumes au marché.|Pazardan sebze alıyoruz.
+# u41
+l'environnement|Il faut protéger l'environnement.|Çevreyi korumak gerekir.
+la pollution|La pollution de l'air est un problème.|Hava kirliliği bir sorun.
+le recyclage|Le recyclage du plastique est important.|Plastiğin geri dönüşümü önemli.
+le climat|Le climat change.|İklim değişiyor.
+l'énergie|Il faut économiser l'énergie.|Enerji tasarrufu yapmak gerekir.
+l'énergie solaire|La maison fonctionne à l'énergie solaire.|Ev güneş enerjisiyle çalışıyor.
+protéger|Nous devons protéger la nature.|Doğayı korumalıyız.
+le continent|L'Afrique est un grand continent.|Afrika büyük bir kıtadır.
+l'océan|L'océan Pacifique est le plus grand.|Pasifik Okyanusu en büyüğüdür.
+la péninsule|La Bretagne est une péninsule.|Bretanya bir yarımadadır.
+le volcan|Le volcan est encore actif.|Yanardağ hâlâ aktif.
+la grotte|Nous avons visité une grotte.|Bir mağarayı gezdik.
+le glacier|Le glacier fond lentement.|Buzul yavaşça eriyor.
+le sable|Les enfants jouent dans le sable.|Çocuklar kumda oynuyor.
+le tremblement de terre|Il y a eu un tremblement de terre hier.|Dün deprem oldu.
+l'inondation|Après les pluies, il y a eu une inondation.|Yağmurlardan sonra sel oldu.
+la sécheresse|La sécheresse a détruit la récolte.|Kuraklık hasadı mahvetti.
+l'ouragan|L'ouragan a cassé des arbres.|Kasırga ağaçları kırdı.
+le tsunami|Le tsunami est arrivé après le séisme.|Depremden sonra tsunami geldi.
+le glissement de terrain|Un glissement de terrain a bloqué la route.|Bir heyelan yolu kapattı.
+l'avalanche|En montagne, attention aux avalanches.|Dağda çığa dikkat.
+le champ|Le tracteur travaille dans le champ.|Traktör tarlada çalışıyor.
+la grange|Les vaches sont dans la grange.|İnekler ahırda.
+le tracteur|Mon grand-père conduit un tracteur.|Büyükbabam traktör kullanıyor.
+la récolte|La récolte est bonne cette année.|Bu yıl hasat iyi.
+semer|Au printemps, les agriculteurs sèment le blé.|İlkbaharda çiftçiler buğday eker.
+la terre|La terre est humide après la pluie.|Yağmurdan sonra toprak nemli.
+le puits|Il y a un vieux puits dans le village.|Köyde eski bir kuyu var.
+le degré|Il fait vingt degrés aujourd'hui.|Bugün hava yirmi derece.
+l'humidité|L'humidité est forte en été.|Yazın nem yüksek.
+la météo|La météo annonce de la pluie.|Hava tahmini yağmur bekliyor.
+ensoleillé|C'est une journée ensoleillée.|Güneşli bir gün.
+nuageux|Demain, le ciel sera nuageux.|Yarın hava bulutlu olacak.
+pluvieux|L'automne a été pluvieux.|Sonbahar yağmurluydu.
+venteux|C'est une journée venteuse.|Rüzgârlı bir gün.
+# u42
+naître|Je suis né à Istanbul.|İstanbul'da doğdum.
+la petite enfance|Personne ne se souvient de sa petite enfance.|Kimse bebekliğini hatırlamaz.
+l'enfance|J'ai passé mon enfance à la campagne.|Çocukluğumu kırsalda geçirdim.
+la jeunesse|Dans sa jeunesse, il jouait au foot.|Gençliğinde futbol oynardı.
+l'adulte|Tu es un adulte maintenant.|Artık sen bir yetişkinsin.
+la vieillesse|Il vit sa vieillesse tranquillement.|Yaşlılığını huzur içinde geçiriyor.
+mourir|Son grand-père est mort l'année dernière.|Büyükbabası geçen yıl öldü.
+la naissance|Félicitations pour la naissance de votre fils !|Oğlunuzun doğumu kutlu olsun!
+les fiançailles|Les fiançailles ont eu lieu en mai.|Nişan mayısta yapıldı.
+la remise des diplômes|Elle a mis une belle robe pour la remise des diplômes.|Mezuniyete güzel bir elbise giydi.
+l'enterrement|L'enterrement a lieu demain.|Cenaze yarın.
+l'anniversaire de mariage|C'est notre anniversaire de mariage.|Bugün evlilik yıl dönümümüz.
+la retraite|Il profite de sa retraite.|Emekliliğinin tadını çıkarıyor.
+la fête|Noël est ma fête préférée.|Noel en sevdiğim bayram.
+la poussette|La maman se promène avec la poussette.|Anne bebek arabasıyla geziyor.
+la couche|Il faut changer la couche.|Bezi değiştirmek lazım.
+l'aire de jeux|Les enfants sont à l'aire de jeux.|Çocuklar oyun parkında.
+la maternelle|Mon fils va à la maternelle.|Oğlum anaokuluna gidiyor.
+le berceau|Le bébé dort dans son berceau.|Bebek beşiğinde uyuyor.
+la tétine|Le bébé a perdu sa tétine.|Bebek emziğini kaybetti.
+le conte de fées|Grand-mère raconte un conte de fées.|Büyükanne bir masal anlatıyor.
+l'invité|Nous avons des invités ce soir.|Bu akşam misafirimiz var.
+la liste de courses|N'oublie pas la liste de courses.|Alışveriş listesini unutma.
+le lave-vaisselle|Mets les assiettes dans le lave-vaisselle.|Tabakları bulaşık makinesine koy.
+le fer à repasser|Attention, le fer à repasser est chaud.|Dikkat, ütü sıcak.
+le cintre|Mets ta chemise sur un cintre.|Gömleğini askıya as.
+la sonnette|La sonnette ne marche pas.|Kapı zili çalışmıyor.
+la boîte aux lettres|Il y a une lettre dans la boîte aux lettres.|Posta kutusunda bir mektup var.
+l'animal de compagnie|Tu as un animal de compagnie ?|Evcil hayvanın var mı?
+la nourriture pour animaux|J'achète de la nourriture pour animaux.|Hayvan maması alıyorum.
+la laisse|Mets la laisse au chien.|Köpeğe tasmayı tak.
+le vétérinaire|On va chez le vétérinaire.|Veterinere gidiyoruz.
+l'aquarium|Il y a trois poissons dans l'aquarium.|Akvaryumda üç balık var.
+la cage|Le perroquet est dans sa cage.|Papağan kafesinde.
+le chiot|Nous avons un nouveau chiot.|Yeni bir yavru köpeğimiz var.
+# u43
+l'idée|J'ai une idée !|Bir fikrim var!
+la pensée|C'est une belle pensée.|Bu güzel bir düşünce.
+le sens|Quel est le sens de ce mot ?|Bu kelimenin anlamı ne?
+la raison|Quelle est la raison de ton retard ?|Gecikmenin sebebi ne?
+l'objectif|Mon objectif est de parler français.|Amacım Fransızca konuşmak.
+l'exemple|Donnez-moi un exemple.|Bana bir örnek verin.
+la vérité|Dis-moi la vérité.|Bana gerçeği söyle.
+le bonheur|Le bonheur est dans les petites choses.|Mutluluk küçük şeylerdedir.
+la tristesse|Il y a de la tristesse dans ses yeux.|Gözlerinde hüzün var.
+la peur|La peur m'empêche de dormir.|Korku uyumamı engelliyor.
+l'espoir|Il ne faut jamais perdre l'espoir.|Umudu asla kaybetmemek gerekir.
+la colère|Il n'arrive pas à contrôler sa colère.|Öfkesini kontrol edemiyor.
+la joie|Quelle joie de te voir !|Seni görmek ne büyük sevinç!
+la sérénité|J'ai besoin de sérénité.|Huzura ihtiyacım var.
+la beauté|La beauté de Paris est célèbre.|Paris'in güzelliği ünlüdür.
+la force|L'union fait la force.|Birlikten kuvvet doğar.
+la santé|La santé est plus importante que l'argent.|Sağlık paradan önemlidir.
+la liberté|La liberté est très précieuse.|Özgürlük çok değerlidir.
+la connaissance|La connaissance des langues aide au travail.|Dil bilgisi işte yardımcı olur.
+l'expérience|Il a beaucoup d'expérience.|Çok deneyimi var.
+la capacité|Elle a une grande capacité de travail.|Büyük bir çalışma kapasitesi var.
+la conversation|Nous avons eu une longue conversation.|Uzun bir konuşma yaptık.
+la discussion|Une discussion agréable autour d'un café.|Kahve eşliğinde hoş bir sohbet.
+le conseil|Donne-moi un conseil.|Bana bir tavsiye ver.
+la demande|J'ai une demande à te faire.|Senden bir ricam var.
+la dispute|La dispute s'est bien terminée.|Kavga iyi bitti.
+la promesse|Il a tenu sa promesse.|Sözünü tuttu.
+les excuses|Acceptez mes excuses.|Özürlerimi kabul edin.
+l'ordre|Ma chambre est en ordre.|Odam derli toplu.
+le changement|Il y a un changement dans le programme.|Programda bir değişiklik var.
+l'habitude|C'est une mauvaise habitude.|Bu kötü bir alışkanlık.
+l'occasion|C'est une belle occasion.|Bu güzel bir fırsat.
+la chance|Tu as de la chance !|Şanslısın!
+le risque|C'est un grand risque.|Bu büyük bir risk.
+# u44
+la crème|C'est une crème pour les mains.|Bu bir el kremi.
+le parfum|C'est mon parfum préféré.|Bu en sevdiğim parfüm.
+le maquillage|Elle ne porte pas de maquillage.|Makyaj yapmaz.
+se raser|Il se rase tous les matins.|Her sabah tıraş olur.
+le déodorant|J'ai acheté un nouveau déodorant.|Yeni bir deodorant aldım.
+le dentifrice|Il n'y a plus de dentifrice.|Diş macunu bitti.
+le sèche-cheveux|Où est le sèche-cheveux ?|Saç kurutma makinesi nerede?
+prendre une douche|Je prends une douche le matin.|Sabahları duş alırım.
+prendre un bain|Le soir, j'aime prendre un bain.|Akşamları banyo yapmayı severim.
+se faire couper les cheveux|Je me fais couper les cheveux une fois par mois.|Ayda bir saç kestiririm.
+l'ongle|Je me suis cassé un ongle.|Tırnağımı kırdım.
+la barbe|Mon grand-père a une barbe blanche.|Büyükbabamın beyaz sakalı var.
+le papier toilette|Achète du papier toilette.|Tuvalet kâğıdı al.
+le mouchoir|Tu as un mouchoir ?|Mendilin var mı?
+le régime|Je suis au régime.|Diyetteyim.
+maigrir|Je veux maigrir avant l'été.|Yazdan önce kilo vermek istiyorum.
+grossir|En hiver, je grossis toujours.|Kışın hep kilo alırım.
+la vitamine|En hiver, il faut prendre des vitamines.|Kışın vitamin almak gerekir.
+l'alimentation saine|L'alimentation saine est importante.|Sağlıklı beslenme önemlidir.
+l'exercice|Fais cet exercice tous les jours.|Bu egzersizi her gün yap.
+le jogging|Le jogging le matin, c'est bon pour la santé.|Sabah hafif koşusu sağlığa iyidir.
+somnolent|Tu as l'air somnolent.|Uykulu görünüyorsun.
+ronfler|Mon mari ronfle.|Kocam horluyor.
+le cauchemar|J'ai fait un cauchemar.|Kâbus gördüm.
+le réveil|Le réveil sonne à sept heures.|Çalar saat yedide çalıyor.
+la sieste|Après le déjeuner, je fais la sieste.|Öğle yemeğinden sonra şekerleme yaparım.
+l'insomnie|Je souffre d'insomnie.|Uykusuzluk çekiyorum.
+faire un rêve|J'ai fait un beau rêve.|Güzel bir rüya gördüm.
+le bouton|Un bouton est tombé.|Bir düğme düştü.
+la poche|Le téléphone est dans ma poche.|Telefon cebimde.
+le col|Le col de la chemise est sale.|Gömleğin yakası kirli.
+la manche|Les manches sont trop longues.|Kollar çok uzun.
+les lacets|Attache tes lacets.|Ayakkabı bağlarını bağla.
+les chaussons|À la maison, je porte des chaussons.|Evde terlik giyerim.
+les bottes|En hiver, je porte des bottes.|Kışın çizme giyerim.
+# u45
+je pense aussi|C'est un bon film. — Je pense aussi.|Bu iyi bir film. — Bence de.
+peu importe|Peu importe, on va où tu veux.|Fark etmez, nereye istersen gideriz.
+laisse tomber|Laisse tomber, ce n'est pas grave.|Boş ver, önemli değil.
+comme c'est beau !|Regarde la mer, comme c'est beau !|Denize bak, ne güzel!
+exactement|C'est exactement ce que je voulais dire.|Tam olarak söylemek istediğim buydu.
+je plaisante|Ne te fâche pas, je plaisante.|Kızma, şaka yapıyorum.
+tu es sérieux ?|Tu quittes ton travail ? Tu es sérieux ?|İşinden mi ayrılıyorsun? Ciddi misin?
+je peux vous aider ?|Vous êtes perdu ? Je peux vous aider ?|Kayboldunuz mu? Yardım edebilir miyim?
+tu veux … ?|Tu veux un café ?|Kahve ister misin?
+pourriez-vous … ?|Pourriez-vous fermer la fenêtre ?|Pencereyi kapatabilir misiniz?
+vous avez une minute ?|Excusez-moi, vous avez une minute ?|Affedersiniz, bir dakikanız var mı?
+si ça ne vous dérange pas|Si ça ne vous dérange pas, j'ouvre la fenêtre.|Sakıncası yoksa pencereyi açıyorum.
+désolé de vous déranger|Désolé de vous déranger, où est la poste ?|Rahatsız ettiğim için kusura bakmayın, postane nerede?
+merci pour votre aide|Merci beaucoup pour votre aide !|Yardımınız için çok teşekkürler!
+je suis très heureux|Je suis très heureux de vous rencontrer.|Sizinle tanıştığıma çok mutluyum.
+je suis épuisé|Après cette journée, je suis épuisé.|Bu günden sonra bitkinim.
+je n'ai pas le moral|Je n'ai pas le moral aujourd'hui.|Bugün moralim bozuk.
+j'ai hâte|Demain, c'est les vacances, j'ai hâte !|Yarın tatil, sabırsızlanıyorum!
+je suis inquiet|Je suis inquiet pour ma mère.|Annem için endişeliyim.
+je suis surpris|Je suis surpris que tu sois là.|Burada olmana şaşırdım.
+je suis soulagé|L'examen est fini, je suis soulagé.|Sınav bitti, rahatladım.
+où est le … le plus proche ?|Où est le distributeur le plus proche ?|En yakın ATM nerede?
+c'est loin ?|Le musée, c'est loin ?|Müze uzak mı?
+combien de temps à pied ?|Jusqu'à la gare, combien de temps à pied ?|Gara yürüyerek ne kadar sürer?
+ce bus va à … ?|Ce bus va à la gare ?|Bu otobüs gara gider mi?
+vous pouvez me montrer sur la carte ?|Je suis perdu. Vous pouvez me montrer sur la carte ?|Kayboldum. Haritada gösterebilir misiniz?
+je suis sur le bon chemin ?|Je cherche le musée. Je suis sur le bon chemin ?|Müzeyi arıyorum. Doğru yolda mıyım?
+la deuxième rue à droite|Allez tout droit, puis la deuxième rue à droite.|Düz gidin, sonra ikinci sokaktan sağa.
+la carte, s'il vous plaît|Bonsoir ! La carte, s'il vous plaît.|İyi akşamlar! Menü lütfen.
+qu'est-ce que vous me conseillez ?|Comme dessert, qu'est-ce que vous me conseillez ?|Tatlı olarak ne önerirsiniz?
+on partage l'addition|On partage l'addition, c'est plus juste.|Hesabı bölelim, böylesi daha adil.
+je peux payer par carte ?|Je peux payer par carte ou seulement en espèces ?|Kartla ödeyebilir miyim, yoksa sadece nakit mi?
+ce n'est pas ce que j'ai commandé|Excusez-moi, ce n'est pas ce que j'ai commandé.|Pardon, bunu sipariş etmedim.
+une carafe d'eau, s'il vous plaît|Une carafe d'eau, s'il vous plaît.|Bir sürahi su lütfen.
+c'était délicieux|Merci, c'était délicieux !|Teşekkürler, çok lezzetliydi!
+# B2 — siyaset
+le parlement|Le parlement a voté une nouvelle loi.|Meclis yeni bir yasa oyladı.
+le ministère|Le ministère de l'Éducation a annoncé une réforme.|Eğitim Bakanlığı bir reform açıkladı.
+le ministre|Le ministre a répondu aux journalistes.|Bakan gazetecilerin sorularını yanıtladı.
+le maire|Le maire a inauguré un nouveau parc.|Belediye başkanı yeni bir park açtı.
+la mairie|On peut obtenir ce document à la mairie.|Bu belge belediyeden alınabilir.
+les autorités|Les autorités ont fermé la route.|Yetkililer yolu kapattı.
+la constitution|La constitution protège les libertés.|Anayasa özgürlükleri korur.
+le parti politique|Il est membre d'un parti politique.|Bir siyasi partinin üyesi.
+l'opposition|L'opposition critique le gouvernement.|Muhalefet hükümeti eleştiriyor.
+le candidat|Le candidat a parlé sur la place.|Aday meydanda konuştu.
+l'électeur|Chaque électeur a une voix.|Her seçmenin bir oyu vardır.
+la voix|Chaque voix compte.|Her oy önemlidir.
+la campagne électorale|La campagne électorale a commencé.|Seçim kampanyası başladı.
+la majorité|La majorité a voté pour.|Çoğunluk lehte oy verdi.
+la réforme|La réforme prendra plusieurs années.|Reform birkaç yıl sürecek.
+la politique|Je ne m'intéresse pas beaucoup à la politique.|Siyasete pek ilgi duymuyorum.
+le décret|Le président a signé le décret.|Cumhurbaşkanı kararnameyi imzaladı.
+l'administration|L'administration est très lente.|Bürokrasi çok yavaş.
+la corruption|La lutte contre la corruption continue.|Yolsuzlukla mücadele sürüyor.
+la transparence|Les citoyens demandent plus de transparence.|Vatandaşlar daha fazla şeffaflık istiyor.
+la responsabilité|C'est une grande responsabilité.|Bu büyük bir sorumluluk.
+la diplomatie|Le conflit a été réglé par la diplomatie.|Çatışma diplomasiyle çözüldü.
+l'ambassade|L'ambassade délivre les visas.|Büyükelçilik vize veriyor.
+l'ambassadeur|L'ambassadeur a rencontré le ministre.|Büyükelçi bakanla görüştü.
+le traité|Les deux pays ont signé un traité de paix.|İki ülke bir barış antlaşması imzaladı.
+les négociations|Les négociations ont duré toute la nuit.|Müzakereler bütün gece sürdü.
+les sanctions|Les sanctions touchent l'économie.|Yaptırımlar ekonomiyi etkiliyor.
+international|C'est une conférence internationale.|Bu uluslararası bir konferans.
+élire|Les Français élisent leur président tous les cinq ans.|Fransızlar cumhurbaşkanını beş yılda bir seçer.
+gouverner|Il est difficile de gouverner un pays.|Bir ülkeyi yönetmek zordur.
+soutenir|Nous soutenons ce projet.|Bu projeyi destekliyoruz.
+s'opposer à|Les habitants s'opposent à la construction.|Sakinler inşaata karşı çıkıyor.
+adopter une loi|Le parlement va adopter une loi sur le climat.|Meclis iklimle ilgili bir yasa kabul edecek.
+critiquer|Il ne faut pas tout critiquer.|Her şeyi eleştirmemek gerekir.
+démissionner|Le ministre a décidé de démissionner.|Bakan istifa etmeye karar verdi.
+# B2 — hukuk
+le procès|Le procès a duré deux ans.|Dava iki yıl sürdü.
+l'accusé|L'accusé a nié les faits.|Sanık olayları inkâr etti.
+le témoin|Le témoin a tout vu.|Tanık her şeyi gördü.
+le procureur|Le procureur a demandé cinq ans de prison.|Savcı beş yıl hapis istedi.
+le jury|Le jury a rendu sa décision.|Jüri kararını verdi.
+le verdict|Le verdict est tombé ce matin.|Karar bu sabah açıklandı.
+l'appel|L'avocat a fait appel.|Avukat temyize başvurdu.
+la preuve|La police n'a aucune preuve.|Polisin hiçbir kanıtı yok.
+l'enquête|L'enquête est toujours en cours.|Soruşturma hâlâ sürüyor.
+la prison|Le voleur est allé en prison.|Hırsız hapse girdi.
+arrêter|La police a arrêté le suspect.|Polis şüpheliyi tutukladı.
+l'escroquerie|C'est une escroquerie sur internet.|Bu bir internet dolandırıcılığı.
+la contrebande|On a trouvé de la contrebande à la frontière.|Sınırda kaçak mal bulundu.
+la violence|La violence n'est jamais une solution.|Şiddet asla bir çözüm değildir.
+la justice|Les gens veulent la justice.|İnsanlar adalet istiyor.
+l'égalité|L'égalité entre les hommes et les femmes est importante.|Kadın erkek eşitliği önemlidir.
+la discrimination|La discrimination est interdite par la loi.|Ayrımcılık yasayla yasaktır.
+les droits de l'homme|Il faut défendre les droits de l'homme.|İnsan haklarını savunmak gerekir.
+la liberté d'expression|La liberté d'expression est essentielle.|İfade özgürlüğü vazgeçilmezdir.
+la vie privée|Respectez ma vie privée.|Özel hayatıma saygı gösterin.
+la sécurité|La sécurité des passagers est une priorité.|Yolcuların güvenliği önceliklidir.
+la clause|Lisez bien cette clause du contrat.|Sözleşmenin bu maddesini iyi okuyun.
+le notaire|Il faut signer chez le notaire.|Noterde imzalamak gerekiyor.
+la procuration|J'ai donné une procuration à mon frère.|Kardeşime vekâlet verdim.
+la demande officielle|Il faut faire une demande officielle.|Resmî bir başvuru yapmak gerekiyor.
+le permis|Vous avez un permis de travail ?|Çalışma izniniz var mı?
+la notification|J'ai reçu une notification de la banque.|Bankadan bir bildirim aldım.
+le tampon|Il manque le tampon sur le document.|Belgede kaşe eksik.
+accuser|On l'accuse de vol.|Onu hırsızlıkla suçluyorlar.
+prouver|Pouvez-vous prouver ce que vous dites ?|Söylediğinizi kanıtlayabilir misiniz?
+enfreindre|Il ne faut pas enfreindre le code de la route.|Trafik kurallarını çiğnememek gerekir.
+défendre au tribunal|Un avocat va défendre au tribunal mon frère.|Bir avukat mahkemede kardeşimi savunacak.
+porter plainte|Je vais porter plainte contre lui.|Onu şikâyet edeceğim (dava açacağım).
+punir|Il ne faut pas punir trop sévèrement les enfants.|Çocukları çok sert cezalandırmamak gerekir.
+acquitter|Le tribunal l'a acquitté.|Mahkeme onu beraat ettirdi.
+# B2 — ekonomi
+l'actionnaire|Les actionnaires se sont réunis hier.|Hissedarlar dün toplandı.
+l'action|Les actions de l'entreprise ont augmenté.|Şirketin hisseleri yükseldi.
+le conseil d'administration|Le conseil d'administration a approuvé le plan.|Yönetim kurulu planı onayladı.
+la succursale|La banque a ouvert une nouvelle succursale.|Banka yeni bir şube açtı.
+l'entrepreneur|C'est un jeune entrepreneur.|O genç bir girişimci.
+la société commerciale|Il travaille pour une grande société commerciale.|Büyük bir ticari şirkette çalışıyor.
+la faillite|L'entreprise a fait faillite.|Şirket iflas etti.
+le revenu|Son revenu a augmenté.|Geliri arttı.
+les dépenses|Il faut réduire les dépenses.|Giderleri azaltmak gerekir.
+le bénéfice|Cette année, le bénéfice est plus élevé.|Bu yıl kâr daha yüksek.
+la perte|Le magasin a subi une perte.|Mağaza zarar etti.
+le chiffre d'affaires|Le chiffre d'affaires a doublé.|Ciro ikiye katlandı.
+le capital|Pour créer une entreprise, il faut du capital.|Şirket kurmak için sermaye gerekir.
+les investissements|Les investissements dans l'éducation sont rentables.|Eğitime yatırım kârlıdır.
+la demande du marché|La demande du marché augmente.|Piyasadaki talep artıyor.
+l'offre|L'offre est supérieure à la demande.|Arz talepten fazla.
+la concurrence|La concurrence est forte sur ce marché.|Bu piyasada rekabet sert.
+le concurrent|Notre concurrent a baissé ses prix.|Rakibimiz fiyatlarını düşürdü.
+le monopole|Cette entreprise a le monopole.|Bu şirketin tekeli var.
+le consommateur|Le consommateur choisit la qualité.|Tüketici kaliteyi seçer.
+la hausse des prix|La hausse des prix inquiète tout le monde.|Fiyat artışı herkesi endişelendiriyor.
+le fournisseur|Le fournisseur a livré en retard.|Tedarikçi geç teslim etti.
+la livraison|La livraison est gratuite.|Teslimat ücretsiz.
+l'appel d'offres|Nous avons gagné l'appel d'offres.|İhaleyi kazandık.
+négocier|Le directeur sait bien négocier.|Müdür iyi pazarlık yapmayı bilir.
+l'accord commercial|Les deux pays ont signé un accord commercial.|İki ülke ticari bir anlaşma imzaladı.
+l'associé|Mon associé s'occupe des finances.|İş ortağım finansla ilgileniyor.
+la marque|C'est une marque célèbre.|Bu ünlü bir marka.
+fonder une entreprise|Elle veut fonder une entreprise.|Bir şirket kurmak istiyor.
+se développer|Notre entreprise se développe vite.|Şirketimiz hızla büyüyor.
+faire des bénéfices|L'entreprise commence à faire des bénéfices.|Şirket kâr etmeye başlıyor.
+attirer des investisseurs|La ville veut attirer des investisseurs.|Şehir yatırımcı çekmek istiyor.
+exporter|La France exporte du vin.|Fransa şarap ihraç ediyor.
+marchander|Au marché, on peut marchander.|Pazarda pazarlık yapılabilir.
+faire faillite|Le restaurant a fait faillite en un an.|Restoran bir yılda iflas etti.
+# B2 — bilim
+la recherche|Elle travaille dans la recherche médicale.|Tıbbi araştırmada çalışıyor.
+l'expérience scientifique|L'expérience scientifique a réussi.|Bilimsel deney başarılı oldu.
+l'hypothèse|Les chercheurs testent leur hypothèse.|Araştırmacılar hipotezlerini test ediyor.
+la théorie|La théorie d'Einstein a changé la physique.|Einstein'ın teorisi fiziği değiştirdi.
+la découverte|C'est une découverte importante.|Bu önemli bir keşif.
+la méthode|C'est une nouvelle méthode de travail.|Bu yeni bir çalışma yöntemi.
+les données|Les données montrent une hausse.|Veriler bir artış gösteriyor.
+le scientifique|Mon père est scientifique.|Babam bilim insanı.
+le chercheur|Les chercheurs étudient le climat.|Araştırmacılar iklimi inceliyor.
+l'expert|Nous avons besoin de l'avis d'un expert.|Bir uzmanın görüşüne ihtiyacımız var.
+l'inventeur|L'inventeur a créé une nouvelle machine.|Mucit yeni bir makine yaptı.
+l'académie|Il est membre de l'Académie des sciences.|Bilimler Akademisi üyesi.
+le laboratoire|Elle fait des expériences au laboratoire.|Laboratuvarda deney yapıyor.
+la revue scientifique|L'article est paru dans une revue scientifique.|Makale bilimsel bir dergide çıktı.
+la cellule|Chaque cellule contient de l'ADN.|Her hücre DNA içerir.
+le gène|Ce gène détermine la couleur des yeux.|Bu gen göz rengini belirler.
+la molécule|La molécule d'eau est très petite.|Su molekülü çok küçüktür.
+l'évolution|Darwin a écrit sur l'évolution.|Darwin evrim hakkında yazdı.
+la gravité|La gravité attire les objets vers le sol.|Yer çekimi nesneleri yere çeker.
+la vitesse de la lumière|Rien ne dépasse la vitesse de la lumière.|Hiçbir şey ışık hızını aşamaz.
+la matière|La matière est faite d'atomes.|Madde atomlardan oluşur.
+la mesure|La mesure de la température est précise.|Sıcaklık ölçümü kesin.
+le calcul|Le calcul est faux.|Hesap yanlış.
+le modèle|Les scientifiques ont créé un modèle du climat.|Bilim insanları bir iklim modeli oluşturdu.
+l'analyse|L'analyse des données a pris une semaine.|Veri analizi bir hafta sürdü.
+les statistiques|Les statistiques disent le contraire.|İstatistikler aksini söylüyor.
+la formule|Retiens cette formule.|Bu formülü aklında tut.
+l'équation|Résous cette équation.|Bu denklemi çöz.
+faire des recherches|Je fais des recherches sur l'histoire de Paris.|Paris tarihi hakkında araştırma yapıyorum.
+découvrir|Les chercheurs ont découvert une nouvelle espèce.|Araştırmacılar yeni bir tür keşfetti.
+inventer|Qui a inventé le téléphone ?|Telefonu kim icat etti?
+examiner|Le médecin examine les résultats.|Doktor sonuçları inceliyor.
+mesurer|Mesure la longueur de la table.|Masanın uzunluğunu ölç.
+analyser|Nous analysons les résultats.|Sonuçları analiz ediyoruz.
+publier|La revue publie des articles scientifiques.|Dergi bilimsel makaleler yayımlıyor.
+# B2 — teknoloji
+le logiciel|Il faut mettre à jour le logiciel.|Yazılımı güncellemek gerekiyor.
+le programme|Ce programme est très pratique.|Bu program çok pratik.
+le code|Il écrit du code en Python.|Python'da kod yazıyor.
+le développeur|Mon frère est développeur de jeux.|Kardeşim oyun geliştiricisi.
+le bug|Il y a un bug dans l'application.|Uygulamada bir hata var.
+la version|La nouvelle version est sortie.|Yeni sürüm çıktı.
+l'algorithme|L'algorithme choisit les vidéos pour toi.|Algoritma videoları senin için seçiyor.
+l'intelligence artificielle|L'intelligence artificielle progresse vite.|Yapay zekâ hızla ilerliyor.
+le robot|Un robot nettoie la maison.|Bir robot evi temizliyor.
+le serveur informatique|Le serveur informatique ne répond pas.|Sunucu yanıt vermiyor.
+le cloud|Mes photos sont dans le cloud.|Fotoğraflarım bulutta.
+la base de données|Les clients sont dans la base de données.|Müşteriler veritabanında.
+le réseau|L'ordinateur ne trouve pas le réseau.|Bilgisayar ağı bulamıyor.
+numérique|Nous vivons à l'ère numérique.|Dijital çağda yaşıyoruz.
+le chiffrement|Le chiffrement protège les messages.|Şifreleme mesajları korur.
+la cyberattaque|La banque a subi une cyberattaque.|Banka bir siber saldırıya uğradı.
+le pirate informatique|Un pirate informatique a piraté le site.|Bir hacker siteye sızdı.
+les données personnelles|Protégez vos données personnelles.|Kişisel verilerinizi koruyun.
+le pare-feu|Le pare-feu bloque ce site.|Güvenlik duvarı bu siteyi engelliyor.
+la sauvegarde|Fais une sauvegarde de tes fichiers.|Dosyalarının yedeğini al.
+l'authentification|Il faut une double authentification.|İki aşamalı doğrulama gerekiyor.
+le processeur|Cet ordinateur a un processeur rapide.|Bu bilgisayarın hızlı bir işlemcisi var.
+la mémoire|La mémoire du téléphone est pleine.|Telefonun belleği dolu.
+le capteur|Le capteur mesure la température.|Sensör sıcaklığı ölçüyor.
+la montre connectée|Ma montre connectée compte mes pas.|Akıllı saatim adımlarımı sayıyor.
+le câble|J'ai besoin d'un câble USB.|Bir USB kablosuna ihtiyacım var.
+l'autonomie|Ce téléphone a une bonne autonomie.|Bu telefonun pil ömrü iyi.
+la résolution|L'écran a une haute résolution.|Ekranın çözünürlüğü yüksek.
+programmer|J'apprends à programmer.|Programlamayı öğreniyorum.
+mettre à jour|N'oublie pas de mettre à jour ton téléphone.|Telefonunu güncellemeyi unutma.
+installer|J'installe une nouvelle application.|Yeni bir uygulama kuruyorum.
+sauvegarder|Sauvegarde ton travail régulièrement.|İşini düzenli olarak yedekle.
+chiffrer|L'application chiffre les messages.|Uygulama mesajları şifreliyor.
+automatiser|Nous voulons automatiser cette tâche.|Bu görevi otomatikleştirmek istiyoruz.
+pirater|Pirater un compte est un délit.|Bir hesabı hacklemek suçtur.
+# B2 — sağlık
+le symptôme|Quels sont vos symptômes ?|Belirtileriniz neler?
+le diagnostic|Le médecin a posé un diagnostic.|Doktor teşhis koydu.
+l'examen médical|L'examen médical a duré dix minutes.|Tıbbi muayene on dakika sürdü.
+la prise de sang|Demain matin, j'ai une prise de sang.|Yarın sabah kan tahlilim var.
+la radiographie|On m'a fait une radiographie du bras.|Kolumun röntgenini çektiler.
+la tension artérielle|Ma grand-mère a de la tension artérielle.|Büyükannemin tansiyonu var.
+chronique|Il a une toux chronique.|Kronik öksürüğü var.
+le traitement|Le traitement dure un mois.|Tedavi bir ay sürüyor.
+la thérapie|La thérapie l'aide beaucoup.|Terapi ona çok yardımcı oluyor.
+la guérison|Je te souhaite une prompte guérison.|Sana acil şifalar dilerim.
+l'immunité|Les vitamines renforcent l'immunité.|Vitaminler bağışıklığı güçlendirir.
+l'effet secondaire|Ce médicament a un effet secondaire.|Bu ilacın bir yan etkisi var.
+la dose|Ne dépassez pas la dose.|Dozu aşmayın.
+la prévention|La prévention vaut mieux que la guérison.|Önlemek tedaviden iyidir.
+le chirurgien|Le chirurgien a opéré le patient.|Cerrah hastayı ameliyat etti.
+le cardiologue|Je dois voir un cardiologue.|Kardiyoloğa görünmem lazım.
+le pédiatre|Le pédiatre a examiné l'enfant.|Çocuk doktoru çocuğu muayene etti.
+le psychologue|Le psychologue m'a aidé à gérer le stress.|Psikolog stresle başa çıkmama yardım etti.
+l'ophtalmologue|L'ophtalmologue vérifie ma vue.|Göz doktoru görmemi kontrol ediyor.
+la clinique|C'est une clinique privée.|Bu özel bir klinik.
+le personnel soignant|Le personnel soignant travaille la nuit.|Sağlık personeli gece çalışıyor.
+l'infection|C'est une infection virale.|Bu viral bir enfeksiyon.
+l'inflammation|Il a une inflammation de l'oreille.|Kulağında iltihap var.
+le diabète|Mon grand-père a du diabète.|Büyükbabamda diyabet var.
+le cancer|Le cancer se soigne mieux s'il est détecté tôt.|Kanser erken teşhis edilirse daha iyi tedavi edilir.
+la crise cardiaque|Le voisin a eu une crise cardiaque.|Komşu kalp krizi geçirdi.
+l'épidémie|L'épidémie de grippe est terminée.|Grip salgını bitti.
+la dépression|La dépression est une vraie maladie.|Depresyon gerçek bir hastalıktır.
+soigner|Ce médecin soigne bien ses patients.|Bu doktor hastalarını iyi tedavi eder.
+ausculter|Le médecin ausculte le patient.|Doktor hastayı dinliyor (muayene ediyor).
+diagnostiquer|Il est difficile de diagnostiquer cette maladie.|Bu hastalığı teşhis etmek zor.
+prescrire|Le médecin m'a prescrit un antibiotique.|Doktor bana antibiyotik yazdı.
+tomber malade|Je suis tombé malade pendant les vacances.|Tatilde hastalandım.
+attraper un virus|J'ai attrapé un virus à l'école.|Okulda bir virüs kaptım.
+se rétablir|Ma grand-mère se rétablit vite.|Büyükannem hızla toparlanıyor.
+# B2 — psikoloji
+le caractère|Elle a un caractère fort.|Güçlü bir karakteri var.
+la personnalité|C'est une personnalité intéressante.|İlginç bir kişilik.
+la confiance en soi|Il manque de confiance en soi.|Özgüveni eksik.
+le tempérament|Les enfants ont des tempéraments différents.|Çocukların mizaçları farklı.
+le comportement|Son comportement m'a surpris.|Davranışı beni şaşırttı.
+la mauvaise habitude|Fumer est une mauvaise habitude.|Sigara içmek kötü bir alışkanlık.
+l'arrogance|Son arrogance est agaçante.|Kibri sinir bozucu.
+modeste|C'est une personne très modeste.|Çok alçakgönüllü biri.
+franc|Je vais être franc avec toi.|Sana karşı açık sözlü olacağım.
+soigneux|Elle est très soigneuse avec ses affaires.|Eşyalarına karşı çok özenli.
+optimiste|Il est toujours optimiste.|Hep iyimser.
+fidèle|Le chien est un ami fidèle.|Köpek sadık bir dosttur.
+serviable|Mon voisin est très serviable.|Komşum çok yardımsever.
+persévérant|Une personne persévérante atteint ses objectifs.|Azimli biri hedeflerine ulaşır.
+pessimiste|Ne sois pas si pessimiste.|Bu kadar kötümser olma.
+têtu|Mon fils est très têtu.|Oğlum çok inatçı.
+capricieux|L'enfant capricieux pleure.|Kaprisli çocuk ağlıyor.
+réservé|Elle est un peu réservée.|Biraz çekingen.
+distrait|Le professeur est souvent distrait.|Profesör sık sık dalgındır.
+rusé|Le renard est un animal rusé.|Tilki kurnaz bir hayvandır.
+irritable|Après le travail, il est irritable.|İşten sonra çabuk sinirleniyor.
+la conscience|Il a perdu conscience.|Bilincini kaybetti.
+l'inconscient|Les rêves viennent de l'inconscient.|Rüyalar bilinçaltından gelir.
+l'intuition|Fais confiance à ton intuition.|Sezgine güven.
+l'imagination|Les enfants ont beaucoup d'imagination.|Çocukların hayal gücü çok geniş.
+l'attention|Merci pour votre attention.|Dinlediğiniz için teşekkürler.
+la motivation|Je manque de motivation.|Motivasyonum eksik.
+le stress|Il y a beaucoup de stress au travail.|İşte çok stres var.
+regretter|Je regrette mes paroles.|Sözlerimden pişmanım.
+envier|J'envie ta patience.|Sabrını kıskanıyorum.
+avoir honte|J'ai honte de mon erreur.|Hatamdan utanıyorum.
+être fier de|Les parents sont fiers de leur fils.|Ebeveynler oğullarıyla gurur duyuyor.
+soupçonner|La police soupçonne le voisin.|Polis komşudan şüpheleniyor.
+être déçu|J'ai été déçu par ce film.|Bu filmden hayal kırıklığına uğradım.
+s'habituer|Je m'habitue à ma nouvelle vie.|Yeni hayatıma alışıyorum.
+# B2 — medya
+le gros titre|Le gros titre parle des élections.|Manşet seçimlerden bahsediyor.
+le reporter|Le reporter est sur place.|Muhabir olay yerinde.
+le rédacteur|Le rédacteur a corrigé l'article.|Editör makaleyi düzeltti.
+la maison d'édition|Une grande maison d'édition publie son livre.|Büyük bir yayınevi kitabını yayımlıyor.
+le tirage|Le journal a un tirage de cent mille exemplaires.|Gazetenin tirajı yüz bin.
+la censure|La censure est interdite.|Sansür yasaktır.
+la conférence de presse|Le ministre a donné une conférence de presse.|Bakan bir basın toplantısı yaptı.
+la chaîne|Le match est sur quelle chaîne ?|Maç hangi kanalda?
+la série|Je regarde une nouvelle série.|Yeni bir dizi izliyorum.
+le direct|Le concert est diffusé en direct.|Konser canlı yayınlanıyor.
+le téléspectateur|Les téléspectateurs ont adoré l'émission.|İzleyiciler programa bayıldı.
+l'auditeur|La radio remercie ses auditeurs.|Radyo dinleyicilerine teşekkür ediyor.
+le podcast|J'écoute un podcast sur l'histoire.|Tarih hakkında bir podcast dinliyorum.
+l'influenceur|Cet influenceur parle de voyages.|Bu içerik üreticisi seyahat hakkında konuşuyor.
+la source|Citez vos sources.|Kaynaklarınızı belirtin.
+la fausse information|Cette nouvelle est une fausse information.|Bu haber sahte.
+la rumeur|Ce n'est qu'une rumeur.|Bu sadece bir söylenti.
+le fait|C'est un fait scientifique.|Bu bilimsel bir gerçek.
+l'opinion|J'ai une autre opinion.|Benim farklı bir görüşüm var.
+le commentaire d'expert|Écoutons le commentaire d'expert.|Uzman yorumunu dinleyelim.
+l'opinion publique|L'opinion publique a changé.|Kamuoyu değişti.
+la correspondance écrite|Nous entretenons une correspondance écrite depuis des années.|Yıllardır yazışıyoruz.
+la persuasion|Il a un grand pouvoir de persuasion.|Büyük bir ikna gücü var.
+le désaccord|Nous avons un petit désaccord.|Aramızda küçük bir anlaşmazlık var.
+le compromis|Nous avons trouvé un compromis.|Bir uzlaşma bulduk.
+l'allusion|J'ai compris ton allusion.|Ne demek istediğini anladım.
+le dialogue|Il est important de garder le dialogue.|Diyaloğu sürdürmek önemli.
+le discours|Le président a fait un discours.|Cumhurbaşkanı bir konuşma yaptı.
+informer|La météo informe de l'arrivée de la neige.|Hava durumu karın gelişini bildiriyor.
+déclarer|L'entreprise a déclaré de nouveaux projets.|Şirket yeni projeler açıkladı.
+convaincre|Il sait convaincre les gens.|İnsanları ikna etmeyi bilir.
+objecter|Si personne n'a rien à objecter, commençons.|Kimsenin itirazı yoksa başlayalım.
+démentir|Le ministre dément les rumeurs.|Bakan söylentileri yalanlıyor.
+exagérer|Tu exagères toujours !|Hep abartıyorsun!
+souligner|Le professeur souligne les mots importants.|Öğretmen önemli kelimelerin altını çiziyor.
+# B2 — sanat
+la scène|Les acteurs entrent en scène.|Oyuncular sahneye çıkıyor.
+l'acteur|C'est un acteur de théâtre célèbre.|Ünlü bir tiyatro oyuncusu.
+le metteur en scène|Le metteur en scène prépare une nouvelle pièce.|Yönetmen yeni bir oyun hazırlıyor.
+la pièce de théâtre|La pièce de théâtre commence à vingt heures.|Oyun saat yirmide başlıyor.
+le ballet|Nous sommes allés voir le ballet « Le Lac des cygnes ».|"Kuğu Gölü" balesini izlemeye gittik.
+l'opéra|J'écoute un opéra pour la première fois.|İlk kez bir opera dinliyorum.
+les applaudissements|La salle a éclaté en applaudissements.|Salon alkışlarla inledi.
+le peintre|Monet est un grand peintre français.|Monet büyük bir Fransız ressamıdır.
+la toile|Le peintre travaille sur une grande toile.|Ressam büyük bir tuval üzerinde çalışıyor.
+le pinceau|Prends un pinceau fin.|İnce bir fırça al.
+le portrait|C'est le portrait de ma grand-mère.|Bu büyükannemin portresi.
+le paysage|J'aime les paysages d'hiver.|Kış manzaralarını severim.
+le chef-d'œuvre|Ce tableau est un chef-d'œuvre.|Bu tablo bir şaheser.
+la galerie|La galerie expose de jeunes artistes.|Galeri genç sanatçıları sergiliyor.
+l'œuvre|C'est la plus belle œuvre de l'écrivain.|Bu yazarın en güzel eseri.
+le héros|Le héros du roman est un étudiant.|Romanın kahramanı bir öğrenci.
+l'intrigue|Le film a une intrigue passionnante.|Filmin sürükleyici bir olay örgüsü var.
+le poète|Baudelaire est un poète célèbre.|Baudelaire ünlü bir şairdir.
+la nouvelle|Maupassant a écrit de nombreuses nouvelles.|Maupassant pek çok öykü yazdı.
+le lecteur|Les lecteurs attendent le nouveau livre.|Okurlar yeni kitabı bekliyor.
+la traduction|La traduction en turc est sortie en mai.|Türkçe çevirisi mayısta çıktı.
+l'héritage|C'est l'héritage culturel du pays.|Bu ülkenin kültürel mirası.
+le folklore|Le folklore breton est très riche.|Breton folkloru çok zengin.
+l'artisanat|L'artisanat local attire les touristes.|Yerel el sanatları turistleri çekiyor.
+le festival|Le festival de Cannes a lieu en mai.|Cannes Film Festivali mayısta yapılır.
+la collection|Il a une grande collection de timbres.|Büyük bir pul koleksiyonu var.
+le style|J'aime ton style.|Tarzını seviyorum.
+la créativité|La créativité est importante dans ce métier.|Bu meslekte yaratıcılık önemlidir.
+créer|L'artiste crée de nouvelles œuvres.|Sanatçı yeni eserler yaratıyor.
+mettre en scène|Elle va mettre en scène une pièce de Molière.|Molière'den bir oyun sahneleyecek.
+exposer|Le musée expose des œuvres modernes.|Müze modern eserler sergiliyor.
+inspirer|La nature inspire les poètes.|Doğa şairlere ilham verir.
+écrire une critique|Le journaliste va écrire une critique du film.|Gazeteci film hakkında eleştiri yazacak.
+jouer un rôle|Elle joue le rôle principal.|Başrolü oynuyor.
+composer|Il compose de la musique de film.|Film müziği besteliyor.
+# B2 — eğitim ve kariyer
+la licence|J'ai une licence d'économie.|Ekonomi lisansım var.
+le master|Elle fait un master en droit.|Hukukta yüksek lisans yapıyor.
+le doctorat|Il prépare un doctorat en physique.|Fizikte doktora yapıyor.
+la thèse|Il écrit sa thèse.|Tezini yazıyor.
+le directeur de thèse|Mon directeur de thèse est très exigeant.|Tez danışmanım çok titiz.
+l'inscription|L'inscription à l'université est en juillet.|Üniversite kaydı temmuzda.
+le diplômé|C'est un diplômé de la Sorbonne.|O Sorbonne mezunu.
+le stage|Cet été, je fais un stage dans une banque.|Bu yaz bir bankada staj yapıyorum.
+la promotion|Elle a obtenu une promotion.|Terfi aldı.
+le CV|Envoyez-nous votre CV.|Özgeçmişinizi bize gönderin.
+la compétence|C'est une compétence très utile.|Bu çok faydalı bir beceri.
+le poste|Quel poste occupez-vous ?|Hangi pozisyondasınız?
+l'expérience professionnelle|J'ai cinq ans d'expérience professionnelle.|Beş yıllık iş deneyimim var.
+la carrière|Il a fait une belle carrière.|Güzel bir kariyer yaptı.
+la journée de travail|La journée de travail commence à neuf heures.|İş günü dokuzda başlıyor.
+les heures supplémentaires|Les heures supplémentaires sont payées.|Fazla mesai ücretli.
+les congés payés|En France, on a cinq semaines de congés payés.|Fransa'da beş haftalık ücretli izin var.
+l'équipe de travail|Notre équipe de travail est très soudée.|Ekibimiz çok bağlı.
+la charge de travail|La charge de travail est lourde.|İş yükü ağır.
+le télétravail|Le télétravail fait gagner du temps.|Uzaktan çalışma zaman kazandırır.
+la date limite|La date limite est vendredi.|Son tarih cuma.
+le leadership|Le leadership est une qualité importante.|Liderlik önemli bir özelliktir.
+l'efficacité|Il faut améliorer l'efficacité.|Verimliliği artırmak gerekir.
+la flexibilité|La flexibilité est nécessaire dans ce travail.|Bu işte esneklik gerekli.
+l'initiative|Le patron apprécie l'initiative.|Patron girişkenliğe değer verir.
+la gestion du temps|La gestion du temps aide à tout faire.|Zaman yönetimi her şeye yetişmeye yardım eder.
+le travail d'équipe|Ce projet est un travail d'équipe.|Bu proje bir ekip çalışması.
+le savoir-faire|Cette entreprise a un grand savoir-faire.|Bu şirketin büyük bir uzmanlığı var.
+être promu|J'espère être promu cette année.|Bu yıl terfi almayı umuyorum.
+quitter son emploi|Il a décidé de quitter son emploi.|İşinden ayrılmaya karar verdi.
+faire un stage|Les étudiants doivent faire un stage.|Öğrencilerin staj yapması gerekiyor.
+progresser|Je veux progresser dans mon métier.|Mesleğimde ilerlemek istiyorum.
+se spécialiser|Elle se spécialise en droit international.|Uluslararası hukukta uzmanlaşıyor.
+confier une tâche|Le directeur m'a confié une tâche importante.|Müdür bana önemli bir görev verdi.
+superviser|Le chef supervise le travail.|Şef işi denetliyor.
+# B2 — çevre
+le réchauffement climatique|Le réchauffement climatique est une menace.|Küresel ısınma bir tehdit.
+le changement climatique|Le changement climatique touche tout le monde.|İklim değişikliği herkesi etkiliyor.
+les émissions|Les usines réduisent leurs émissions.|Fabrikalar emisyonlarını azaltıyor.
+l'effet de serre|L'effet de serre réchauffe la planète.|Sera etkisi gezegeni ısıtıyor.
+le dioxyde de carbone|Les arbres absorbent le dioxyde de carbone.|Ağaçlar karbondioksiti emer.
+la couche d'ozone|La couche d'ozone protège la Terre.|Ozon tabakası Dünya'yı korur.
+la fonte des glaciers|La fonte des glaciers fait monter la mer.|Buzulların erimesi denizi yükseltiyor.
+l'énergie renouvelable|L'avenir est à l'énergie renouvelable.|Gelecek yenilenebilir enerjide.
+l'éolienne|Il y a une éolienne sur la colline.|Tepede bir rüzgâr türbini var.
+le panneau solaire|Nous avons un panneau solaire sur le toit.|Çatımızda bir güneş paneli var.
+la centrale nucléaire|La France a beaucoup de centrales nucléaires.|Fransa'nın çok nükleer santrali var.
+le pétrole|Le prix du pétrole a baissé.|Petrol fiyatı düştü.
+le gaz naturel|La maison est chauffée au gaz naturel.|Ev doğal gazla ısıtılıyor.
+le charbon|Le charbon pollue l'air.|Kömür havayı kirletir.
+les ressources naturelles|Ce pays est riche en ressources naturelles.|Bu ülke doğal kaynaklar açısından zengin.
+la réserve naturelle|Des animaux rares vivent dans la réserve naturelle.|Koruma alanında nadir hayvanlar yaşıyor.
+menacé d'extinction|L'ours polaire est menacé d'extinction.|Kutup ayısının nesli tükenmek üzere.
+la déforestation|La déforestation est un grave problème.|Ormansızlaşma ciddi bir sorun.
+la biodiversité|Il faut protéger la biodiversité.|Biyoçeşitliliği korumak gerekir.
+l'écosystème|Le lac est un écosystème fragile.|Göl hassas bir ekosistemdir.
+le bénévole|Des bénévoles nettoient la plage.|Gönüllüler plajı temizliyor.
+les déchets|Il faut trier les déchets.|Atıkları ayrıştırmak gerekir.
+le plastique|Il y a trop de plastique dans la mer.|Denizde çok fazla plastik var.
+le tri sélectif|Le tri sélectif commence à la maison.|Çöp ayrıştırma evde başlar.
+l'emballage|Cet emballage est en carton.|Bu ambalaj kartondan.
+la décharge|Il y a une grande décharge près de la ville.|Şehrin yakınında büyük bir çöplük var.
+les égouts|Les égouts de la ville sont anciens.|Şehrin kanalizasyonu eski.
+le traitement de l'eau|Le traitement de l'eau coûte cher.|Su arıtma pahalıdır.
+polluer|Les voitures polluent l'air.|Arabalar havayı kirletiyor.
+recycler|Cette usine recycle le plastique.|Bu fabrika plastiği geri dönüştürüyor.
+détruire|Les incendies détruisent les forêts.|Yangınlar ormanları yok ediyor.
+réduire|Nous réduisons notre consommation d'énergie.|Enerji tüketimimizi azaltıyoruz.
+réutiliser|On peut réutiliser ces sacs.|Bu poşetler yeniden kullanılabilir.
+planter des arbres|Au printemps, les élèves plantent des arbres.|İlkbaharda öğrenciler ağaç diker.
+préserver les ressources|Il est important de préserver les ressources.|Kaynakları korumak önemlidir.
+# B2 — toplum
+la pauvreté|La pauvreté est un problème mondial.|Yoksulluk küresel bir sorundur.
+le sans-abri|Des bénévoles aident les sans-abri.|Gönüllüler evsizlere yardım ediyor.
+l'inégalité|L'inégalité des revenus augmente.|Gelir eşitsizliği artıyor.
+la dépendance|C'est une dépendance au téléphone.|Bu bir telefon bağımlılığı.
+la criminalité|La criminalité a baissé dans la ville.|Şehirde suç oranı düştü.
+la solitude|Les personnes âgées souffrent souvent de solitude.|Yaşlılar sık sık yalnızlık çeker.
+l'aide sociale|La famille reçoit une aide sociale.|Aile sosyal yardım alıyor.
+l'immigration|L'immigration change les villes.|Göç şehirleri değiştiriyor.
+l'immigré|Beaucoup d'immigrés travaillent dans le bâtiment.|Pek çok göçmen inşaatta çalışıyor.
+le réfugié|Les réfugiés ont trouvé un nouveau foyer.|Mülteciler yeni bir yuva buldu.
+l'intégration|L'intégration dans un nouveau pays prend du temps.|Yeni bir ülkeye uyum zaman alır.
+la nationalité|Il a obtenu la nationalité française.|Fransız vatandaşlığı aldı.
+le titre de séjour|J'ai renouvelé mon titre de séjour.|Oturma iznimi yeniledim.
+le mal du pays|J'ai le mal du pays.|Memleketimi özlüyorum.
+la génération|Notre génération a grandi avec internet.|Bizim neslimiz internetle büyüdü.
+les jeunes|Les jeunes aiment la musique.|Gençler müziği sever.
+les personnes âgées|Les personnes âgées ont besoin d'attention.|Yaşlıların ilgiye ihtiyacı var.
+l'éducation des enfants|L'éducation des enfants demande de la patience.|Çocuk eğitimi sabır ister.
+la natalité|La natalité baisse dans le pays.|Ülkede doğum oranı düşüyor.
+l'espérance de vie|L'espérance de vie a augmenté.|Ortalama ömür uzadı.
+la pension de retraite|Ma grand-mère touche une pension de retraite.|Büyükannem emekli maaşı alıyor.
+la communauté|C'est une communauté de lecteurs.|Bu bir okur topluluğu.
+la charité|Elle fait beaucoup de charité.|Çok hayır işi yapıyor.
+le bénévolat|Le bénévolat donne de l'expérience.|Gönüllülük deneyim kazandırır.
+la tolérance|La tolérance est importante dans la société.|Toplumda hoşgörü önemlidir.
+la solidarité|Les gens ont montré de la solidarité.|İnsanlar dayanışma gösterdi.
+la manifestation|Une manifestation a eu lieu sur la place.|Meydanda bir gösteri yapıldı.
+la grève|Les cheminots sont en grève.|Demiryolu çalışanları grevde.
+émigrer|Sa famille a émigré au Canada.|Ailesi Kanada'ya göç etti.
+s'adapter|Les enfants s'adaptent vite.|Çocuklar çabuk uyum sağlar.
+faire un don|J'ai fait un don à une association.|Bir derneğe bağış yaptım.
+manifester|Les étudiants manifestent contre la réforme.|Öğrenciler reforma karşı gösteri yapıyor.
+exclure|On ne peut pas exclure cette possibilité.|Bu ihtimali dışlayamayız.
+unir|Le sport unit les gens.|Spor insanları birleştirir.
+résoudre un problème|Nous allons résoudre ce problème ensemble.|Bu sorunu birlikte çözeceğiz.
+# B2 — ileri fiiller
+influencer|Le temps influence l'humeur.|Hava ruh hâlini etkiler.
+provoquer|Le stress peut provoquer des maux de tête.|Stres baş ağrısına neden olabilir.
+dépendre de|Tout dépend de toi.|Her şey sana bağlı.
+entraîner|La paresse entraîne des problèmes.|Tembellik sorunlara yol açar.
+empêcher|Le bruit m'empêche de dormir.|Gürültü uyumamı engelliyor.
+faciliter|La technologie facilite la vie.|Teknoloji hayatı kolaylaştırır.
+compliquer|Ne complique pas la situation.|Durumu zorlaştırma.
+supposer|Je suppose qu'il va être en retard.|Geç kalacağını varsayıyorum.
+conclure|On peut conclure que le projet est un succès.|Projenin başarılı olduğu sonucuna varılabilir.
+évaluer|Le professeur évalue les travaux.|Öğretmen ödevleri değerlendiriyor.
+tenir compte de|Il faut tenir compte de tous les risques.|Bütün riskleri dikkate almak gerekir.
+comparer|Ne te compare pas aux autres.|Kendini başkalarıyla karşılaştırma.
+se rendre compte|Il se rend compte de son erreur.|Hatasının farkına varıyor.
+hésiter|N'hésitez pas à me contacter.|Benimle iletişime geçmekten çekinmeyin.
+fournir|L'entreprise fournit les outils.|Şirket aletleri sağlıyor.
+atteindre|Elle a atteint son objectif.|Hedefine ulaştı.
+réaliser|Nous réalisons notre rêve.|Hayalimizi gerçekleştiriyoruz.
+profiter de|Profite de tes vacances !|Tatilinin tadını çıkar!
+appliquer|Appliquez la règle dans cet exercice.|Bu alıştırmada kuralı uygulayın.
+maintenir|Il faut maintenir le contact.|İletişimi sürdürmek gerekir.
+reporter|La réunion est reportée à lundi.|Toplantı pazartesiye ertelendi.
+éviter|J'évite les conflits.|Çatışmalardan kaçınırım.
+refuser|Il refuse notre aide.|Yardımımızı reddediyor.
+renoncer|Il ne faut jamais renoncer à ses rêves.|Hayallerinden asla vazgeçmemelisin.
+dissimuler|Il dissimule ses sentiments.|Duygularını gizliyor.
+négliger|Ne néglige pas ta santé.|Sağlığını ihmal etme.
+résister|Il a résisté jusqu'au bout.|Sonuna kadar direndi.
+tenir bon|C'est difficile, mais il faut tenir bon.|Zor ama pes etmemek gerek.
+se transformer|La chenille se transforme en papillon.|Tırtıl kelebeğe dönüşür.
+évoluer|La langue évolue avec le temps.|Dil zamanla gelişir.
+adapter|Le livre a été adapté au cinéma.|Kitap sinemaya uyarlandı.
+améliorer|Nous voulons améliorer notre service.|Hizmetimizi iyileştirmek istiyoruz.
+empirer|La situation empire.|Durum kötüleşiyor.
+rénover|Nous rénovons la cuisine.|Mutfağı yeniliyoruz.
+conserver|Conservez ce produit au frais.|Bu ürünü serin yerde muhafaza edin.
+# B2 — tartışma
+il me semble que|Il me semble que tu as raison.|Bana öyle geliyor ki haklısın.
+selon moi|Selon moi, c'est une erreur.|Bence bu bir hata.
+sans aucun doute|C'est sans aucun doute la meilleure solution.|Bu kuşkusuz en iyi çözüm.
+probablement|Il viendra probablement demain.|Muhtemelen yarın gelir.
+apparemment|Apparemment, le train est en retard.|Görünüşe göre tren gecikiyor.
+franchement|Franchement, je n'ai pas aimé.|Açıkçası beğenmedim.
+à ma connaissance|À ma connaissance, le musée est fermé.|Bildiğim kadarıyla müze kapalı.
+par conséquent|Il est malade ; par conséquent, il ne viendra pas.|Hasta; bu nedenle gelmeyecek.
+d'autre part|D'autre part, c'est très cher.|Öte yandan çok pahalı.
+en outre|En outre, il savait tout.|Üstelik her şeyi biliyordu.
+c'est-à-dire|Dans une semaine, c'est-à-dire vendredi.|Bir hafta sonra, yani cuma.
+néanmoins|C'était difficile ; néanmoins, nous avons réussi.|Zordu; buna rağmen başardık.
+bref|Bref, tout s'est bien passé.|Özetle, her şey iyi geçti.
+premièrement|Premièrement, c'est trop cher.|Birincisi, çok pahalı.
+l'approche|Il faut une nouvelle approche.|Yeni bir yaklaşım gerekiyor.
+le point de vue|Je comprends ton point de vue.|Bakış açını anlıyorum.
+l'argument|C'est un argument solide.|Bu sağlam bir argüman.
+la conclusion|Quelle est la conclusion de l'étude ?|Çalışmanın sonucu ne?
+la particularité|C'est une particularité du français.|Bu Fransızcanın bir özelliği.
+la tendance|C'est la nouvelle tendance de la mode.|Bu modanın yeni eğilimi.
+le facteur|Le temps est un facteur important.|Hava önemli bir etken.
+je suis tout à fait d'accord|Je suis tout à fait d'accord avec vous.|Size tamamen katılıyorum.
+tu as en partie raison|Tu as en partie raison, mais pas complètement.|Kısmen haklısın ama tamamen değil.
+le problème, c'est que|Le problème, c'est que je n'ai pas le temps.|Mesele şu ki vaktim yok.
+à titre d'exemple|À titre d'exemple, prenons Paris.|Örnek olarak Paris'i ele alalım.
+d'une part|D'une part, c'est pratique.|Bir yandan pratik.
+en fin de compte|En fin de compte, nous sommes restés à la maison.|Sonuç olarak evde kaldık.
+autrement dit|Autrement dit, tu ne viens pas ?|Başka bir deyişle gelmiyor musun?
+fondamental|C'est une question fondamentale.|Bu temel bir soru.
+réaliste|C'est un plan réaliste.|Bu gerçekçi bir plan.
+controversé|C'est un sujet controversé.|Bu tartışmalı bir konu.
+incertain|L'avenir est incertain.|Gelecek belirsiz.
+efficace|C'est une méthode efficace.|Bu etkili bir yöntem.
+valable|Ce billet est valable un an.|Bu bilet bir yıl geçerli.
+insuffisant|Les résultats sont insuffisants.|Sonuçlar yetersiz.
+# B2 — ilişkiler
+la tendresse|La mère regarde son enfant avec tendresse.|Anne çocuğuna şefkatle bakıyor.
+l'admiration|J'ai beaucoup d'admiration pour elle.|Ona büyük hayranlık duyuyorum.
+la haine|La haine ne résout rien.|Nefret hiçbir şeyi çözmez.
+la jalousie|La jalousie détruit les relations.|Kıskançlık ilişkileri yıkar.
+la déception|Le film a été une grande déception.|Film büyük bir hayal kırıklığıydı.
+la gratitude|Je vous exprime ma gratitude.|Size minnettarlığımı ifade ederim.
+la honte|Il a rougi de honte.|Utançtan kızardı.
+la confiance|La confiance se mérite.|Güven hak edilir.
+le respect|Il mérite notre respect.|Saygımızı hak ediyor.
+la trahison|C'est une véritable trahison.|Bu gerçek bir ihanet.
+la fidélité|La fidélité est importante dans un couple.|Bir çiftte sadakat önemlidir.
+le soutien|Merci pour ton soutien.|Desteğin için teşekkürler.
+la compréhension|Merci de votre compréhension.|Anlayışınız için teşekkürler.
+le conflit|Le conflit a été résolu.|Çatışma çözüldü.
+la connaissance (personne)|C'est une vieille connaissance.|Bu eski bir tanıdık.
+la personne du même âge|Il préfère jouer avec des personnes du même âge.|Yaşıtlarıyla oynamayı tercih ediyor.
+le mentor|J'ai eu un excellent mentor.|Harika bir akıl hocam vardı.
+l'ennemi|Il n'a pas d'ennemis.|Hiç düşmanı yok.
+l'inconnu|Ne parle pas aux inconnus.|Yabancılarla konuşma.
+le colocataire|Mon colocataire vient du Brésil.|Ev arkadaşım Brezilya'dan.
+le confident|Il est mon confident depuis l'enfance.|Çocukluktan beri sırdaşım.
+se réconcilier|Ils se sont réconciliés.|Barıştılar.
+se vexer|Ne te vexe pas, je plaisantais.|Gücenme, şaka yapıyordum.
+perdre confiance|Il est facile de perdre confiance.|Güveni kaybetmek kolaydır.
+trahir|Un vrai ami ne trahit jamais.|Gerçek bir dost asla ihanet etmez.
+remonter le moral|Ton message m'a remonté le moral.|Mesajın moralimi düzeltti.
+bien s'entendre|Je m'entends bien avec mes collègues.|İş arkadaşlarımla iyi geçinirim.
+se quitter|Ils se sont quittés en bons termes.|İyi şekilde ayrıldılar.
+je te comprends très bien|Ne t'inquiète pas, je te comprends très bien.|Endişelenme, seni çok iyi anlıyorum.
+tu ne méritais pas ça|Je suis désolé, tu ne méritais pas ça.|Üzgünüm, bunu hak etmedin.
+tout va s'arranger|Ne sois pas triste, tout va s'arranger.|Üzülme, her şey yoluna girecek.
+garde le moral|Garde le moral, ça ira mieux demain !|Moralini bozma, yarın daha iyi olacak!
+dis-moi ce que tu en penses|Lis mon texte et dis-moi ce que tu en penses.|Metnimi oku ve ne düşündüğünü söyle.
+je suis fier de toi|Tu as réussi ! Je suis fier de toi.|Başardın! Seninle gurur duyuyorum.
+je suis là pour toi|Si tu as besoin, je suis là pour toi.|İhtiyacın olursa yanındayım.

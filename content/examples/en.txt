@@ -1,0 +1,2138 @@
+# kelime|örnek cümle|Türkçesi
+# u1
+cat|The cat is sleeping on the sofa.|Kedi kanepede uyuyor.
+apple|I eat an apple every day.|Her gün bir elma yerim.
+see|I can see the sea from my window.|Penceremden denizi görebiliyorum.
+tea|Would you like a cup of tea?|Bir fincan çay ister misin?
+sit|Please sit here.|Lütfen buraya oturun.
+big|They live in a big house.|Büyük bir evde yaşıyorlar.
+food|The food here is very good.|Buradaki yemek çok iyi.
+moon|The moon is beautiful tonight.|Ay bu gece çok güzel.
+cup|This cup is very hot.|Bu fincan çok sıcak.
+sun|The sun is shining today.|Bugün güneş parlıyor.
+think|I think it's a good idea.|Bence bu iyi bir fikir.
+three|I have three brothers.|Üç erkek kardeşim var.
+this|This is my brother.|Bu benim erkek kardeşim.
+mother|My mother is a teacher.|Annem öğretmen.
+water|Can I have some water?|Biraz su alabilir miyim?
+window|Please open the window.|Lütfen pencereyi aç.
+very|It's very cold today.|Bugün hava çok soğuk.
+have|I have a new phone.|Yeni bir telefonum var.
+red|She has a red car.|Kırmızı bir arabası var.
+run|I run in the park every morning.|Her sabah parkta koşarım.
+day|Have a nice day!|İyi günler!
+rain|I love the sound of rain.|Yağmurun sesini severim.
+time|I don't have time now.|Şimdi vaktim yok.
+night|Good night, sleep well.|İyi geceler, iyi uykular.
+home|I'm going home now.|Şimdi eve gidiyorum.
+boat|We went to the island by boat.|Adaya tekneyle gittik.
+now|I'm busy now.|Şu an meşgulüm.
+house|Their house is near the sea.|Evleri denize yakın.
+boy|The boy is playing football.|Çocuk futbol oynuyor.
+coin|I found a coin in my pocket.|Cebimde bir madeni para buldum.
+she|She is my best friend.|O benim en iyi arkadaşım.
+fish|We had fish for dinner.|Akşam yemeğinde balık yedik.
+chair|This chair is very comfortable.|Bu sandalye çok rahat.
+watch|My watch is five minutes fast.|Saatim beş dakika ileri.
+job|She has a new job.|Yeni bir işi var.
+orange|I'd like an orange juice.|Bir portakal suyu istiyorum.
+sing|She sings very well.|Çok güzel şarkı söylüyor.
+long|It was a long day.|Uzun bir gündü.
+phone|Where is my phone?|Telefonum nerede?
+photo|Can you take a photo of us?|Bizim bir fotoğrafımızı çeker misin?
+make|I make breakfast every morning.|Her sabah kahvaltı hazırlarım.
+knife|Be careful, the knife is sharp.|Dikkat et, bıçak keskin.
+write|I write in my diary every night.|Her gece günlüğüme yazarım.
+listen|Listen to me, please.|Lütfen beni dinle.
+worked|I worked late yesterday.|Dün geç saate kadar çalıştım.
+played|We played cards last night.|Dün gece kâğıt oynadık.
+wanted|She wanted to go to the cinema.|Sinemaya gitmek istedi.
+about|This book is about love.|Bu kitap aşk hakkında.
+hour|The film is two hours long.|Film iki saat sürüyor.
+banana|The monkey is eating a banana.|Maymun muz yiyor.
+# u2
+hello|Hello, how can I help you?|Merhaba, size nasıl yardım edebilirim?
+hi|Hi, Tom! How are you?|Selam Tom! Nasılsın?
+good morning|Good morning! Did you sleep well?|Günaydın! İyi uyudun mu?
+good afternoon|Good afternoon, ladies and gentlemen.|Tünaydın, hanımefendiler ve beyefendiler.
+good evening|Good evening, welcome to the show.|İyi akşamlar, programa hoş geldiniz.
+goodbye|Goodbye, see you next week.|Hoşça kal, haftaya görüşürüz.
+good night|Good night, Mum.|İyi geceler anne.
+please|A coffee, please.|Bir kahve lütfen.
+thank you|Thank you for the flowers.|Çiçekler için teşekkür ederim.
+you're welcome|"Thanks!" – "You're welcome."|"Teşekkürler!" – "Rica ederim."
+sorry|Sorry, I'm late.|Özür dilerim, geç kaldım.
+excuse me|Excuse me, where is the station?|Affedersiniz, istasyon nerede?
+no problem|"Can you help me?" – "No problem."|"Yardım edebilir misin?" – "Sorun değil."
+of course|Of course you can come.|Tabii ki gelebilirsin.
+my name is…|Hello, my name is Anna.|Merhaba, benim adım Anna.
+what's your name?|Hi, what's your name?|Selam, adın ne?
+nice to meet you|Nice to meet you, Mr Brown.|Tanıştığıma memnun oldum, Bay Brown.
+how are you?|Hi Kate, how are you?|Selam Kate, nasılsın?
+I'm fine|I'm fine, thanks. And you?|İyiyim, teşekkürler. Ya sen?
+where are you from?|Where are you from? Spain?|Nerelisin? İspanya mı?
+I'm from Turkey|I'm from Turkey, from Izmir.|Türkiye'denim, İzmir'den.
+what|What is this?|Bu ne?
+where|Where do you live?|Nerede yaşıyorsun?
+when|When does the film start?|Film ne zaman başlıyor?
+why|Why are you sad?|Neden üzgünsün?
+who|Who is that man?|O adam kim?
+how|How do you go to work?|İşe nasıl gidiyorsun?
+how much|How much is this bag?|Bu çanta ne kadar?
+I|I am a student.|Ben öğrenciyim.
+you|You are very kind.|Çok naziksin.
+he|He works in a bank.|O bir bankada çalışıyor.
+it|It is a nice day.|Güzel bir gün.
+we|We live in London.|Londra'da yaşıyoruz.
+they|They are my parents.|Onlar benim ailem (anne-babam).
+# u3
+one|I have one sister.|Bir kız kardeşim var.
+two|Two coffees, please.|İki kahve lütfen.
+four|There are four people in my family.|Ailemde dört kişi var.
+five|The shop opens at five.|Dükkân beşte açılıyor.
+six|I get up at six o'clock.|Saat altıda kalkarım.
+seven|There are seven days in a week.|Bir haftada yedi gün vardır.
+eight|The lesson starts at eight.|Ders sekizde başlıyor.
+nine|My son is nine years old.|Oğlum dokuz yaşında.
+ten|I'll be there in ten minutes.|On dakika içinde orada olurum.
+zero|It's zero degrees outside.|Dışarıda sıfır derece.
+twenty|It costs twenty pounds.|Yirmi pound tutuyor.
+fifty|My father is fifty.|Babam elli yaşında.
+hundred|There were a hundred people at the party.|Partide yüz kişi vardı.
+thousand|The city is a thousand years old.|Şehir bin yıllık.
+Monday|I start work on Monday.|Pazartesi işe başlıyorum.
+Tuesday|We have English on Tuesday.|Salı günü İngilizce dersimiz var.
+Wednesday|The museum is closed on Wednesday.|Müze çarşamba günü kapalı.
+Thursday|See you on Thursday!|Perşembe görüşürüz!
+Friday|On Friday we go out.|Cuma günü dışarı çıkarız.
+Saturday|On Saturday I sleep late.|Cumartesi geç saate kadar uyurum.
+Sunday|On Sunday we visit my grandmother.|Pazar günü büyükannemi ziyaret ederiz.
+today|Today is my birthday.|Bugün benim doğum günüm.
+yesterday|Yesterday it rained all day.|Dün bütün gün yağmur yağdı.
+tomorrow|Tomorrow I have an exam.|Yarın sınavım var.
+later|I'll call you later.|Seni sonra ararım.
+always|She always drinks tea in the morning.|Sabahları hep çay içer.
+never|I never eat meat.|Asla et yemem.
+minute|Wait a minute, please.|Bir dakika bekleyin lütfen.
+week|I go to the gym three times a week.|Haftada üç kez spor salonuna giderim.
+month|I'm going on holiday next month.|Gelecek ay tatile gidiyorum.
+winter|In winter it snows a lot here.|Kışın burada çok kar yağar.
+spring|In spring the flowers come out.|İlkbaharda çiçekler açar.
+summer|We go to the sea every summer.|Her yaz denize gideriz.
+autumn|The leaves fall in autumn.|Sonbaharda yapraklar düşer.
+# u4
+family|I have a big family.|Büyük bir ailem var.
+father|My father is a doctor.|Babam doktor.
+brother|My brother lives in Berlin.|Erkek kardeşim Berlin'de yaşıyor.
+sister|My sister is younger than me.|Kız kardeşim benden küçük.
+grandmother|My grandmother makes great cakes.|Büyükannem harika kekler yapar.
+grandfather|My grandfather was a farmer.|Büyükbabam çiftçiydi.
+man|A man is waiting at the door.|Kapıda bir adam bekliyor.
+woman|That woman is my teacher.|O kadın benim öğretmenim.
+child|The child is playing in the garden.|Çocuk bahçede oynuyor.
+friend|He is my old friend.|O benim eski arkadaşım.
+neighbour|Our neighbour has a big dog.|Komşumuzun büyük bir köpeği var.
+people|Many people live in this city.|Bu şehirde çok insan yaşıyor.
+baby|The baby is sleeping.|Bebek uyuyor.
+doctor|You should see a doctor.|Bir doktora görünmelisin.
+teacher|Our teacher is very kind.|Öğretmenimiz çok nazik.
+student|I'm a student at the university.|Üniversitede öğrenciyim.
+engineer|My uncle is an engineer.|Amcam mühendis.
+driver|The bus driver is very friendly.|Otobüs şoförü çok cana yakın.
+cook|He is a cook in a restaurant.|Bir restoranda aşçı.
+nurse|The nurse gave me some medicine.|Hemşire bana ilaç verdi.
+head|My head hurts.|Başım ağrıyor.
+eye|She has blue eyes.|Mavi gözleri var.
+ear|The music hurts my ears.|Müzik kulaklarımı acıtıyor.
+hand|Wash your hands before dinner.|Yemekten önce ellerini yıka.
+foot|I hurt my foot.|Ayağımı incittim.
+heart|She has a kind heart.|İyi kalpli biri.
+hair|She has long hair.|Uzun saçları var.
+small|We have a small flat.|Küçük bir dairemiz var.
+good|This is a good book.|Bu iyi bir kitap.
+bad|The weather is bad today.|Bugün hava kötü.
+new|I need new shoes.|Yeni ayakkabılara ihtiyacım var.
+old|This is an old church.|Bu eski bir kilise.
+beautiful|What a beautiful day!|Ne güzel bir gün!
+# u5
+coffee|I drink coffee without sugar.|Kahveyi şekersiz içerim.
+milk|Do you take milk in your tea?|Çayına süt koyar mısın?
+juice|An orange juice, please.|Bir portakal suyu lütfen.
+beer|He ordered a cold beer.|Soğuk bir bira söyledi.
+wine|Would you like red or white wine?|Kırmızı mı beyaz şarap mı istersiniz?
+bread|I buy fresh bread every morning.|Her sabah taze ekmek alırım.
+cheese|I love French cheese.|Fransız peynirine bayılırım.
+meat|I don't eat meat.|Et yemem.
+chicken|We had chicken and rice.|Tavuk ve pilav yedik.
+egg|I have two eggs for breakfast.|Kahvaltıda iki yumurta yerim.
+rice|Rice is cooking on the stove.|Ocakta pirinç pişiyor.
+lemon|Tea with lemon, please.|Limonlu çay lütfen.
+strawberry|This strawberry is very sweet.|Bu çilek çok tatlı.
+potato|I'd like chips, not potatoes.|Haşlanmış patates değil, kızartma istiyorum.
+tomato|Cut the tomato into small pieces.|Domatesi küçük parçalara doğra.
+onion|The onion makes me cry.|Soğan beni ağlatıyor.
+menu|Can we see the menu, please?|Menüyü görebilir miyiz lütfen?
+the bill, please|Excuse me, the bill, please.|Affedersiniz, hesap lütfen.
+I'd like…|I'd like a glass of water.|Bir bardak su istiyorum.
+delicious|This soup is delicious.|Bu çorba çok lezzetli.
+breakfast|What do you have for breakfast?|Kahvaltıda ne yersin?
+lunch|Let's have lunch together.|Birlikte öğle yemeği yiyelim.
+dinner|Dinner is ready!|Akşam yemeği hazır!
+blue|The sky is blue.|Gökyüzü mavi.
+green|She has green eyes.|Yeşil gözleri var.
+yellow|I bought yellow flowers.|Sarı çiçekler aldım.
+white|He is wearing a white shirt.|Beyaz bir gömlek giyiyor.
+black|I like my coffee black.|Kahvemi sütsüz severim.
+grey|The sky is grey today.|Bugün gökyüzü gri.
+# u6
+shop|The shop closes at seven.|Dükkân yedide kapanıyor.
+pharmacy|Is there a pharmacy near here?|Buralarda eczane var mı?
+hospital|My aunt is in hospital.|Teyzem hastanede.
+hotel|Our hotel is near the beach.|Otelimiz plaja yakın.
+station|The station is five minutes away.|İstasyon beş dakika uzaklıkta.
+restaurant|Let's go to a Turkish restaurant.|Bir Türk restoranına gidelim.
+museum|The museum is free on Sundays.|Müze pazar günleri ücretsiz.
+bus|I go to school by bus.|Okula otobüsle giderim.
+train|The train leaves at nine.|Tren dokuzda kalkıyor.
+taxi|Let's take a taxi.|Taksiye binelim.
+car|My car is in the garage.|Arabam garajda.
+plane|The plane lands at noon.|Uçak öğlen iniyor.
+bike|I ride my bike to work.|İşe bisikletle giderim.
+ticket|I bought two tickets for the concert.|Konser için iki bilet aldım.
+right|Turn right at the bank.|Bankadan sağa dönün.
+left|The toilet is on the left.|Tuvalet solda.
+straight on|Go straight on for two hundred metres.|İki yüz metre dümdüz gidin.
+here|Come here, please.|Buraya gel lütfen.
+there|Put the box over there.|Kutuyu oraya koy.
+far|Is it far from here?|Buradan uzak mı?
+where is the toilet?|Excuse me, where is the toilet?|Affedersiniz, tuvalet nerede?
+how much is it?|I like this hat. How much is it?|Bu şapkayı beğendim. Ne kadar?
+money|I don't have much money.|Çok param yok.
+cheap|This shirt is very cheap.|Bu gömlek çok ucuz.
+expensive|London is very expensive.|Londra çok pahalı.
+card|Can I pay by card?|Kartla ödeyebilir miyim?
+cash|Do you have any cash?|Hiç nakit paran var mı?
+receipt|Can I have a receipt, please?|Fiş alabilir miyim lütfen?
+room|My room is on the second floor.|Odam ikinci katta.
+kitchen|Mum is in the kitchen.|Annem mutfakta.
+door|Close the door, please.|Kapıyı kapat lütfen.
+bed|I go to bed at eleven.|On birde yatarım.
+table|The keys are on the table.|Anahtarlar masanın üstünde.
+# u7
+eat|We eat dinner at seven.|Akşam yemeğini yedide yeriz.
+drink|You should drink more water.|Daha çok su içmelisin.
+sleep|I sleep eight hours a night.|Gecede sekiz saat uyurum.
+live|I live in a small town.|Küçük bir kasabada yaşıyorum.
+work|My father works in a hospital.|Babam bir hastanede çalışıyor.
+rest|You look tired. You need to rest.|Yorgun görünüyorsun. Dinlenmen lazım.
+walk|I walk to work every day.|Her gün işe yürüyerek giderim.
+go|Where are you going?|Nereye gidiyorsun?
+come|Can you come to my party?|Partime gelebilir misin?
+stand|Don't stand there, come in!|Orada durma, içeri gel!
+fly|Birds fly south in winter.|Kuşlar kışın güneye uçar.
+swim|I can't swim.|Yüzme bilmiyorum.
+speak|Do you speak English?|İngilizce konuşuyor musun?
+understand|I don't understand this word.|Bu kelimeyi anlamıyorum.
+know|Do you know his number?|Onun numarasını biliyor musun?
+read|I read the news every morning.|Her sabah haberleri okurum.
+learn|I'm learning to drive.|Araba kullanmayı öğreniyorum.
+want|I want to go home.|Eve gitmek istiyorum.
+love|I love my family.|Ailemi seviyorum.
+can|Can you help me?|Bana yardım edebilir misin?
+buy|I want to buy a new phone.|Yeni bir telefon almak istiyorum.
+do|What do you do at the weekend?|Hafta sonu ne yaparsın?
+help|Can I help you?|Yardım edebilir miyim?
+I don't understand|Sorry, I don't understand.|Pardon, anlamıyorum.
+could you repeat that?|Sorry, could you repeat that?|Pardon, tekrar eder misiniz?
+please speak slowly|Please speak slowly, I'm still learning.|Lütfen yavaş konuşun, hâlâ öğreniyorum.
+I don't know|I don't know where he is.|Nerede olduğunu bilmiyorum.
+I speak a little English|I speak a little English, but not well.|Biraz İngilizce konuşuyorum ama iyi değil.
+help!|Help! Call the police!|İmdat! Polisi arayın!
+I love you|I love you, Mum.|Seni seviyorum anne.
+# u8
+shirt|He is ironing his shirt.|Gömleğini ütülüyor.
+trousers|These trousers are too long.|Bu pantolon çok uzun.
+dress|She bought a red dress.|Kırmızı bir elbise aldı.
+jacket|Take a jacket, it's cold.|Ceket al, hava soğuk.
+skirt|She is wearing a short skirt.|Kısa bir etek giyiyor.
+T-shirt|I always wear a T-shirt in summer.|Yazın hep tişört giyerim.
+sweater|My grandmother knitted this sweater.|Bu kazağı büyükannem ördü.
+shoes|Take your shoes off, please.|Ayakkabılarını çıkar lütfen.
+trainers|I need new trainers for running.|Koşu için yeni spor ayakkabılara ihtiyacım var.
+hat|It's sunny, wear a hat.|Güneşli, şapka tak.
+bag|My bag is very heavy.|Çantam çok ağır.
+glasses|I can't read without my glasses.|Gözlüğüm olmadan okuyamam.
+socks|I can't find my socks.|Çoraplarımı bulamıyorum.
+weather|What's the weather like today?|Bugün hava nasıl?
+snow|The children are playing in the snow.|Çocuklar karda oynuyor.
+wind|The wind is very strong today.|Bugün rüzgâr çok sert.
+hot|It's very hot in July.|Temmuzda hava çok sıcak.
+cold|Close the window, I'm cold.|Pencereyi kapat, üşüyorum.
+sea|The sea is warm today.|Deniz bugün ılık.
+mountain|We climbed the mountain.|Dağa tırmandık.
+forest|We went for a walk in the forest.|Ormanda yürüyüşe çıktık.
+river|The river is very deep here.|Nehir burada çok derin.
+tree|There is a big tree in our garden.|Bahçemizde büyük bir ağaç var.
+flower|What a beautiful flower!|Ne güzel bir çiçek!
+sky|There isn't a cloud in the sky.|Gökyüzünde tek bir bulut yok.
+dog|My dog loves the park.|Köpeğim parka bayılır.
+bird|A bird is singing outside.|Dışarıda bir kuş ötüyor.
+horse|She rides a horse every weekend.|Her hafta sonu ata biner.
+cow|The cow is eating grass.|İnek ot yiyor.
+bear|There are bears in this forest.|Bu ormanda ayılar var.
+wolf|We heard a wolf at night.|Gece bir kurt duyduk.
+# u9
+airport|I'll take you to the airport.|Seni havalimanına götürürüm.
+passport|Don't forget your passport!|Pasaportunu unutma!
+luggage|My luggage didn't arrive.|Bagajım gelmedi.
+flight|Our flight is delayed.|Uçuşumuz rötarlı.
+gate|The flight leaves from gate twelve.|Uçuş on iki numaralı kapıdan kalkıyor.
+exit|Where is the exit?|Çıkış nerede?
+customs|We waited an hour at customs.|Gümrükte bir saat bekledik.
+reservation|I have a reservation for two nights.|İki gecelik rezervasyonum var.
+key|I lost the key to my room.|Odamın anahtarını kaybettim.
+lift|The lift is out of order.|Asansör bozuk.
+floor|Our room is on the fifth floor.|Odamız beşinci katta.
+shower|There is no hot water in the shower.|Duşta sıcak su yok.
+towel|Can I have another towel?|Bir havlu daha alabilir miyim?
+check out|What time do we have to check out?|Otelden saat kaçta çıkmamız gerekiyor?
+map|Can you show me on the map?|Haritada gösterebilir misiniz?
+tour|We took a tour of the city.|Şehir turuna katıldık.
+guide|Our guide speaks three languages.|Rehberimiz üç dil konuşuyor.
+square|The café is on the main square.|Kafe ana meydanda.
+church|This church is very old.|Bu kilise çok eski.
+bridge|Let's walk across the bridge.|Köprünün üstünden yürüyelim.
+souvenir|I bought a souvenir for my mother.|Annem için bir hediyelik eşya aldım.
+police|Call the police!|Polisi arayın!
+ambulance|Somebody call an ambulance!|Biri ambulans çağırsın!
+fire|There was a fire in the building.|Binada yangın çıktı.
+dangerous|Swimming here is dangerous.|Burada yüzmek tehlikeli.
+I feel sick|I feel sick, I need to sit down.|Kendimi kötü hissediyorum, oturmam lazım.
+I'm lost|Excuse me, I'm lost. Where is the station?|Affedersiniz, kayboldum. İstasyon nerede?
+call a doctor!|He fell down, call a doctor!|Düştü, doktor çağırın!
+holiday|We are on holiday in Spain.|İspanya'da tatildeyiz.
+beach|Let's go to the beach.|Plaja gidelim.
+suitcase|My suitcase is too heavy.|Valizim çok ağır.
+trip|How was your trip?|Gezin nasıldı?
+take a photo|Can I take a photo here?|Burada fotoğraf çekebilir miyim?
+visa|Do I need a visa for Canada?|Kanada için vizeye ihtiyacım var mı?
+sunglasses|I forgot my sunglasses.|Güneş gözlüğümü unuttum.
+# u10
+happy|I'm very happy to see you.|Seni gördüğüme çok mutluyum.
+sad|Why do you look so sad?|Neden bu kadar üzgün görünüyorsun?
+tired|I'm too tired to cook.|Yemek yapamayacak kadar yorgunum.
+angry|My boss is angry with me.|Patronum bana kızgın.
+calm|Stay calm, everything is OK.|Sakin ol, her şey yolunda.
+bored|The children are bored.|Çocuklar sıkıldı.
+excited|I'm so excited about the trip!|Gezi için çok heyecanlıyım!
+it hurts|My back… it hurts here.|Sırtım… burası acıyor.
+medicine|Take this medicine twice a day.|Bu ilacı günde iki kez al.
+fever|The child has a high fever.|Çocuğun ateşi yüksek.
+a cold|I've got a cold.|Soğuk algınlığım var.
+toothache|I have a terrible toothache.|Berbat bir diş ağrım var.
+ill|She is ill and can't come.|Hasta, gelemiyor.
+healthy|Vegetables are healthy.|Sebzeler sağlıklıdır.
+sport|What sport do you like?|Hangi sporu seversin?
+football|We play football on Saturdays.|Cumartesileri futbol oynarız.
+running|Running is good for your heart.|Koşu kalp için iyidir.
+swimming|Swimming is my favourite sport.|Yüzme en sevdiğim spor.
+training|I have training on Tuesday.|Salı günü antrenmanım var.
+play|The children play in the park.|Çocuklar parkta oynuyor.
+team|Which team do you support?|Hangi takımı tutuyorsun?
+music|What kind of music do you like?|Ne tür müzik seversin?
+book|I'm reading a very good book.|Çok iyi bir kitap okuyorum.
+film|Let's watch a film tonight.|Bu akşam bir film izleyelim.
+draw|My son loves to draw.|Oğlum resim çizmeye bayılıyor.
+dance|Do you want to dance?|Dans etmek ister misin?
+travel|I love to travel.|Seyahat etmeyi severim.
+kind|She is very kind to everyone.|Herkese karşı çok nazik.
+clever|He is a very clever boy.|Çok akıllı bir çocuk.
+funny|My uncle is very funny.|Amcam çok komik.
+serious|Why are you so serious today?|Bugün neden bu kadar ciddisin?
+friendly|The people here are very friendly.|Buradaki insanlar çok cana yakın.
+lazy|Don't be lazy, get up!|Tembellik etme, kalk!
+shy|My daughter is a bit shy.|Kızım biraz utangaç.
+# u11
+school|My children walk to school.|Çocuklarım okula yürüyerek gidiyor.
+lesson|The lesson starts at nine.|Ders dokuzda başlıyor.
+exam|I have an exam tomorrow.|Yarın sınavım var.
+notebook|Write the words in your notebook.|Kelimeleri defterine yaz.
+pen|Can I borrow your pen?|Kalemini ödünç alabilir miyim?
+question|Can I ask a question?|Bir soru sorabilir miyim?
+answer|I don't know the answer.|Cevabı bilmiyorum.
+office|Our office is in the city centre.|Ofisimiz şehir merkezinde.
+boss|My boss is on holiday.|Patronum tatilde.
+colleague|My colleague is from Ireland.|İş arkadaşım İrlandalı.
+meeting|I have a meeting at ten.|Saat onda toplantım var.
+salary|He has a good salary.|İyi bir maaşı var.
+document|Please sign this document.|Lütfen bu belgeyi imzalayın.
+computer|My computer is very slow.|Bilgisayarım çok yavaş.
+internet|The internet isn't working.|İnternet çalışmıyor.
+message|I sent you a message.|Sana bir mesaj gönderdim.
+password|I forgot my password.|Şifremi unuttum.
+charger|Do you have a phone charger?|Telefon şarj aletin var mı?
+app|This app is very useful.|Bu uygulama çok faydalı.
+fast|This train is very fast.|Bu tren çok hızlı.
+slow|The service here is slow.|Buradaki servis yavaş.
+easy|The test was easy.|Test kolaydı.
+difficult|English grammar isn't difficult.|İngilizce dilbilgisi zor değil.
+interesting|This is an interesting article.|Bu ilginç bir makale.
+a little|I speak a little French.|Biraz Fransızca konuşuyorum.
+well|She speaks English very well.|Çok iyi İngilizce konuşuyor.
+badly|I slept badly last night.|Dün gece kötü uyudum.
+often|I often go to the cinema.|Sık sık sinemaya giderim.
+rarely|We rarely eat out.|Nadiren dışarıda yeriz.
+already|I've already eaten.|Zaten yedim.
+# u12
+wake up|I wake up at seven every day.|Her gün yedide uyanırım.
+get up|I get up early on weekdays.|Hafta içi erken kalkarım.
+wash your face|Wash your face with cold water.|Yüzünü soğuk suyla yıka.
+get dressed|Get dressed, we're late!|Giyin, geç kaldık!
+have breakfast|We have breakfast at eight.|Sekizde kahvaltı ederiz.
+brush your teeth|Brush your teeth before bed.|Yatmadan önce dişlerini fırçala.
+hurry|Hurry, the bus is coming!|Acele et, otobüs geliyor!
+tidy up|Tidy up your room, please.|Odanı topla lütfen.
+cook dinner|Tonight I'll cook dinner.|Bu akşam yemeği ben yapacağım.
+do the laundry|I do the laundry on Sundays.|Pazar günleri çamaşır yıkarım.
+wash the dishes|Who's going to wash the dishes?|Bulaşıkları kim yıkayacak?
+iron|I have to iron my shirt.|Gömleğimi ütülemem lazım.
+vacuum cleaner|The vacuum cleaner is very loud.|Elektrik süpürgesi çok gürültülü.
+rubbish|Can you take out the rubbish?|Çöpü dışarı çıkarır mısın?
+plate|Put the plates on the table.|Tabakları masaya koy.
+spoon|I need a spoon for my soup.|Çorbam için kaşığa ihtiyacım var.
+fork|Can I have a fork, please?|Bir çatal alabilir miyim lütfen?
+pot|The soup is in the big pot.|Çorba büyük tencerede.
+fridge|The milk is in the fridge.|Süt buzdolabında.
+cooker|Turn off the cooker, please.|Ocağı kapat lütfen.
+bathroom|The bathroom is upstairs.|Banyo yukarıda.
+soap|There's no soap in the bathroom.|Banyoda sabun yok.
+toothbrush|I need a new toothbrush.|Yeni bir diş fırçasına ihtiyacım var.
+mirror|She is looking in the mirror.|Aynaya bakıyor.
+shampoo|This shampoo smells nice.|Bu şampuan güzel kokuyor.
+toilet|The toilet is next to the kitchen.|Tuvalet mutfağın yanında.
+comb|I can't find my comb.|Tarağımı bulamıyorum.
+evening|What are you doing this evening?|Bu akşam ne yapıyorsun?
+television|We watch television after dinner.|Akşam yemeğinden sonra televizyon izleriz.
+have dinner|Let's have dinner together.|Birlikte akşam yemeği yiyelim.
+relax|At the weekend I just relax.|Hafta sonu sadece dinlenirim.
+go to bed|It's late, go to bed.|Geç oldu, yat artık.
+dream|I had a strange dream.|Garip bir rüya gördüm.
+# u13
+and|I have a cat and a dog.|Bir kedim ve bir köpeğim var.
+but|I like tea, but I don't like coffee.|Çayı severim ama kahveyi sevmem.
+or|Tea or coffee?|Çay mı kahve mi?
+because|I'm tired because I worked a lot.|Çok çalıştığım için yorgunum.
+if|If it rains, we'll stay at home.|Yağmur yağarsa evde kalırız.
+in order to|I'm saving money in order to buy a car.|Araba almak için para biriktiriyorum.
+so|It was late, so I took a taxi.|Geç olmuştu, bu yüzden taksiye bindim.
+in|The milk is in the fridge.|Süt buzdolabında.
+on|Your book is on the table.|Kitabın masanın üstünde.
+under|The cat is under the bed.|Kedi yatağın altında.
+behind|The garden is behind the house.|Bahçe evin arkasında.
+in front of|I'll wait in front of the cinema.|Sinemanın önünde beklerim.
+next to|The bank is next to the post office.|Banka postanenin yanında.
+between|The café is between the bank and the shop.|Kafe bankayla dükkânın arasında.
+a lot|He works a lot.|Çok çalışıyor.
+few|Few people know this.|Bunu az kişi biliyor.
+everyone|Everyone is here.|Herkes burada.
+nothing|There's nothing in the fridge.|Buzdolabında hiçbir şey yok.
+every|I call my mother every day.|Annemi her gün ararım.
+half|I waited half an hour.|Yarım saat bekledim.
+enough|Do we have enough time?|Yeterince vaktimiz var mı?
+I think|I think he's right.|Bence o haklı.
+in my opinion|In my opinion, the film was too long.|Bana göre film çok uzundu.
+I agree|I agree with you.|Sana katılıyorum.
+I disagree|Sorry, I disagree.|Kusura bakma, katılmıyorum.
+true|Is it true that you're moving?|Taşındığın doğru mu?
+of course not|"Are you angry?" – "Of course not!"|"Kızgın mısın?" – "Tabii ki hayır!"
+maybe|Maybe I'll come tomorrow.|Belki yarın gelirim.
+everything's fine|Don't worry, everything's fine.|Merak etme, her şey yolunda.
+no worries|"Sorry I'm late." – "No worries."|"Geç kaldığım için özür dilerim." – "Sorun yok."
+come on|Come on, let's go!|Hadi, gidelim!
+um…|Um… I don't remember his name.|Eee… adını hatırlamıyorum.
+there you go|There you go, your coffee.|İşte kahveniz.
+really?|"I'm getting married." – "Really?"|"Evleniyorum." – "Gerçekten mi?"
+be quiet!|Be quiet! The baby is sleeping.|Sessiz ol! Bebek uyuyor.
+# u14
+hello?|Hello? Who's speaking?|Alo? Kiminle görüşüyorum?
+who is it?|Someone's at the door. Who is it?|Kapıda biri var. Kim o?
+call me back|I'm busy, please call me back later.|Meşgulüm, lütfen sonra geri arayın.
+I can't hear you|Sorry, I can't hear you. It's very noisy.|Pardon, sizi duyamıyorum. Çok gürültülü.
+just a minute|Just a minute, I'm coming.|Bir dakika, geliyorum.
+phone number|Can I have your phone number?|Telefon numaranı alabilir miyim?
+text me|Text me when you get home.|Eve varınca bana yaz.
+what time?|What time does the shop open?|Dükkân saat kaçta açılıyor?
+when suits you?|Let's meet. When suits you?|Buluşalım. Ne zaman uygun?
+let's meet|Let's meet at the café.|Kafede buluşalım.
+at three o'clock|The meeting is at three o'clock.|Toplantı saat üçte.
+I'm running late|Sorry, I'm running late. Ten more minutes.|Kusura bakma, geç kalıyorum. On dakika daha.
+I'm already here|Where are you? I'm already here.|Neredesin? Ben zaten buradayım.
+deal|"Saturday at six?" – "Deal!"|"Cumartesi altıda mı?" – "Anlaştık!"
+come over|Come over on Sunday!|Pazar günü bize gelin!
+with pleasure|"Can you help me?" – "With pleasure."|"Yardım eder misin?" – "Memnuniyetle."
+unfortunately|Unfortunately, I can't come.|Maalesef gelemiyorum.
+I can't|I'm sorry, I can't tonight.|Üzgünüm, bu akşam yapamam.
+come in|Come in and sit down.|İçeri gel ve otur.
+make yourself at home|Come in, make yourself at home.|Gelin, evinizdeymiş gibi rahat olun.
+help yourself|There's cake on the table, help yourself.|Masada pasta var, buyurun.
+congratulations!|You passed the exam? Congratulations!|Sınavı geçtin mi? Tebrikler!
+happy birthday!|Happy birthday, Sarah!|Doğum günün kutlu olsun Sarah!
+happy New Year!|Happy New Year, everyone!|Herkese mutlu yıllar!
+good luck!|Good luck with your exam!|Sınavında bol şans!
+bless you!|"Atchoo!" – "Bless you!"|"Hapşu!" – "Çok yaşa!"
+cheers!|Cheers! To our friendship!|Şerefe! Dostluğumuza!
+present|This present is for you.|Bu hediye senin için.
+see you|See you on Monday!|Pazartesi görüşmek üzere!
+see you tomorrow|Bye, see you tomorrow!|Hoşça kal, yarın görüşürüz!
+all the best|All the best in your new job!|Yeni işinde her şey gönlünce olsun!
+take care|Bye, take care!|Hoşça kal, kendine iyi bak!
+have a good trip|Have a good trip to Rome!|Roma'ya iyi yolculuklar!
+I'll miss you|I'll miss you so much.|Seni çok özleyeceğim.
+write to me!|Write to me when you arrive!|Varınca bana yaz!
+# u15
+What time is it?|Excuse me, what time is it?|Affedersiniz, saat kaç?
+half past|It's half past six.|Saat altı buçuk.
+quarter|It's a quarter to nine.|Saat dokuza çeyrek var.
+morning|I drink coffee every morning.|Her sabah kahve içerim.
+noon|We'll have lunch at noon.|Öğlen yemek yiyeceğiz.
+January|It's very cold in January.|Ocakta hava çok soğuk.
+February|February is the shortest month.|Şubat en kısa ay.
+March|My birthday is in March.|Doğum günüm martta.
+April|It often rains in April.|Nisanda sık sık yağmur yağar.
+May|The flowers come out in May.|Çiçekler mayısta açar.
+June|School finishes in June.|Okul haziranda bitiyor.
+year|I've lived here for a year.|Bir yıldır burada yaşıyorum.
+July|We go on holiday in July.|Temmuzda tatile gideriz.
+August|August is the hottest month.|Ağustos en sıcak ay.
+September|School starts in September.|Okul eylülde başlıyor.
+October|The leaves turn yellow in October.|Ekimde yapraklar sararır.
+November|It's often foggy in November.|Kasımda sık sık sis olur.
+December|Christmas is in December.|Noel aralıkta.
+date|What's the date today?|Bugün ayın kaçı?
+every day|I go for a walk every day.|Her gün yürüyüşe çıkarım.
+sometimes|Sometimes I work from home.|Bazen evden çalışırım.
+usually|I usually get up at seven.|Genellikle yedide kalkarım.
+weekend|What are you doing this weekend?|Bu hafta sonu ne yapıyorsun?
+last week|I saw him last week.|Onu geçen hafta gördüm.
+next week|I'm on holiday next week.|Gelecek hafta tatildeyim.
+early|I get up early.|Erken kalkarım.
+late|Sorry, I'm late.|Özür dilerim, geç kaldım.
+soon|See you soon!|Yakında görüşürüz!
+right away|I'll do it right away.|Hemen yapacağım.
+not yet|"Have you finished?" – "Not yet."|"Bitirdin mi?" – "Henüz değil."
+all day|It rained all day.|Bütün gün yağmur yağdı.
+afternoon|I'm free in the afternoon.|Öğleden sonra boşum.
+midnight|The party ended at midnight.|Parti gece yarısı bitti.
+# u16
+Turkey|Turkey is a beautiful country.|Türkiye güzel bir ülke.
+Russia|Russia is very big.|Rusya çok büyük.
+Germany|My cousin lives in Germany.|Kuzenim Almanya'da yaşıyor.
+France|We spent a week in France.|Fransa'da bir hafta geçirdik.
+Italy|Italy is famous for its food.|İtalya yemekleriyle ünlüdür.
+England|London is the capital of England.|Londra İngiltere'nin başkentidir.
+America|My uncle moved to America.|Amcam Amerika'ya taşındı.
+language|How many languages do you speak?|Kaç dil konuşuyorsun?
+Turkish|Turkish is my first language.|Türkçe ana dilim.
+Russian|She's learning Russian.|Rusça öğreniyor.
+English|English is spoken all over the world.|İngilizce dünyanın her yerinde konuşulur.
+German|German grammar is difficult.|Almanca dilbilgisi zor.
+French|He speaks French very well.|Çok iyi Fransızca konuşuyor.
+Italian|I love Italian music.|İtalyan müziğine bayılırım.
+world|I want to travel around the world.|Dünyayı dolaşmak istiyorum.
+country|Which country are you from?|Hangi ülkedensin?
+city|Istanbul is a huge city.|İstanbul kocaman bir şehir.
+village|My grandparents live in a village.|Büyükannemle büyükbabam bir köyde yaşıyor.
+capital|Ankara is the capital of Turkey.|Ankara Türkiye'nin başkentidir.
+foreigner|Many foreigners visit this city.|Bu şehri birçok yabancı ziyaret ediyor.
+border|We crossed the border at night.|Sınırı gece geçtik.
+north|Scotland is in the north.|İskoçya kuzeyde.
+south|In the south it's warmer.|Güneyde hava daha sıcak.
+east|The sun rises in the east.|Güneş doğudan doğar.
+west|The sun sets in the west.|Güneş batıdan batar.
+centre|Our hotel is in the centre.|Otelimiz merkezde.
+corner|There's a shop on the corner.|Köşede bir dükkân var.
+opposite|The bank is opposite the station.|Banka istasyonun karşısında.
+What languages do you speak?|What languages do you speak, besides English?|İngilizce dışında hangi dilleri konuşuyorsun?
+Do you speak Turkish?|Excuse me, do you speak Turkish?|Affedersiniz, Türkçe konuşuyor musunuz?
+What does this mean?|What does this mean in English?|Bu İngilizcede ne demek?
+How do you say …?|How do you say "kitap" in English?|"Kitap" İngilizcede nasıl denir?
+Could you write it down?|I don't understand. Could you write it down?|Anlamıyorum. Yazar mısınız lütfen?
+I see|"It's closed on Mondays." – "I see."|"Pazartesileri kapalı." – "Anladım."
+I'm learning a language|I'm learning a language for my new job.|Yeni işim için dil öğreniyorum.
+# u17
+supermarket|I go to the supermarket on Saturdays.|Cumartesileri süpermarkete giderim.
+basket|Take a basket, please.|Bir sepet alın lütfen.
+carrier bag|Can I have a carrier bag?|Bir poşet alabilir miyim?
+price|The price is too high.|Fiyat çok yüksek.
+discount|Is there a discount for students?|Öğrencilere indirim var mı?
+queue|There's a long queue at the checkout.|Kasada uzun bir kuyruk var.
+shelf|The bread is on the top shelf.|Ekmek en üst rafta.
+butter|I put butter on my toast.|Kızarmış ekmeğime tereyağı sürerim.
+honey|I like tea with honey.|Ballı çayı severim.
+jam|Strawberry jam is my favourite.|En sevdiğim çilek reçeli.
+olives|We always have olives for breakfast.|Kahvaltıda hep zeytin yeriz.
+sugar|No sugar, thanks.|Şeker olmasın, teşekkürler.
+salt|Can you pass the salt?|Tuzu uzatır mısın?
+yoghurt|I eat yoghurt every day.|Her gün yoğurt yerim.
+kilo|A kilo of apples, please.|Bir kilo elma lütfen.
+gram|Two hundred grams of cheese, please.|İki yüz gram peynir lütfen.
+litre|Buy a litre of milk.|Bir litre süt al.
+bottle|A bottle of water, please.|Bir şişe su lütfen.
+packet|I bought a packet of biscuits.|Bir paket bisküvi aldım.
+box|Put the books in the box.|Kitapları kutuya koy.
+piece|Can I have a piece of cake?|Bir parça pasta alabilir miyim?
+grapes|These grapes are very sweet.|Bu üzümler çok tatlı.
+watermelon|Watermelon is perfect in summer.|Karpuz yazın harikadır.
+cherry|There's a cherry on the cake.|Pastanın üstünde bir kiraz var.
+pear|This pear isn't ripe yet.|Bu armut henüz olgun değil.
+carrot|Rabbits love carrots.|Tavşanlar havuca bayılır.
+pepper|Add some salt and pepper.|Biraz tuz ve biber ekle.
+A kilo, please|"How many tomatoes?" – "A kilo, please."|"Kaç domates?" – "Bir kilo lütfen."
+Anything else?|Here's your bread. Anything else?|Ekmeğiniz. Başka bir şey?
+That's all|No, thank you. That's all.|Hayır, teşekkürler. Hepsi bu kadar.
+Do you need a bag?|That's six pounds. Do you need a bag?|Altı pound. Poşet ister misiniz?
+change|Here's your change.|Buyurun para üstünüz.
+I'll take this|I like it. I'll take this.|Beğendim. Bunu alıyorum.
+Can I try it on?|This jacket is nice. Can I try it on?|Bu ceket güzel. Deneyebilir miyim?
+# u18
+tall|My brother is very tall.|Erkek kardeşim çok uzun boylu.
+short|She is short and has dark hair.|Kısa boylu ve koyu saçlı.
+young|My parents are still young.|Annemle babam hâlâ genç.
+thin|He is tall and thin.|Uzun boylu ve zayıf.
+overweight|The doctor said I'm a bit overweight.|Doktor biraz kilolu olduğumu söyledi.
+bearded|A bearded man opened the door.|Kapıyı sakallı bir adam açtı.
+with glasses|The woman with glasses is my aunt.|Gözlüklü kadın benim teyzem.
+age|At your age, I was already working.|Senin yaşında ben zaten çalışıyordum.
+address|What's your address?|Adresin ne?
+birthday|When is your birthday?|Doğum günün ne zaman?
+married|They have been married for ten years.|On yıldır evliler.
+single|Is he married or single?|Evli mi bekâr mı?
+email|I'll send you an email.|Sana bir e-posta göndereceğim.
+surname|What's your surname?|Soyadınız ne?
+uncle|My uncle lives in Scotland.|Amcam İskoçya'da yaşıyor.
+aunt|My aunt has three children.|Teyzemin üç çocuğu var.
+cousin|My cousin is the same age as me.|Kuzenim benimle aynı yaşta.
+grandchild|She has five grandchildren.|Beş torunu var.
+wife|His wife is a doctor.|Karısı doktor.
+husband|Her husband works in a bank.|Kocası bir bankada çalışıyor.
+relatives|All our relatives came to the wedding.|Bütün akrabalarımız düğüne geldi.
+romance|It was a summer romance.|Bir yaz aşkıydı.
+boyfriend / girlfriend|Do you have a boyfriend?|Sevgilin var mı?
+wedding|Their wedding is in June.|Düğünleri haziranda.
+bride / groom|The bride and groom are dancing.|Gelin ve damat dans ediyor.
+friendship|Our friendship is very important to me.|Arkadaşlığımız benim için çok önemli.
+hug|Come here, let me hug you.|Gel buraya, sana sarılayım.
+kiss|She gave her son a kiss.|Oğluna bir öpücük verdi.
+How old are you?|How old are you, little boy?|Kaç yaşındasın küçük?
+I'm … years old|I'm thirty years old.|Otuz yaşındayım.
+Are you married?|Are you married or single?|Evli misin bekâr mı?
+Do you have children?|Do you have children? – Yes, two.|Çocuğun var mı? – Evet, iki.
+Where do you work?|Where do you work? – In a hotel.|Nerede çalışıyorsun? – Bir otelde.
+Where do you live?|Where do you live? – Near the park.|Nerede yaşıyorsun? – Parkın yakınında.
+What are your hobbies?|What are your hobbies? – Reading and cooking.|Hobilerin neler? – Okumak ve yemek yapmak.
+# u19
+lion|The lion is the king of animals.|Aslan hayvanların kralıdır.
+tiger|We saw a tiger at the zoo.|Hayvanat bahçesinde bir kaplan gördük.
+elephant|Elephants have big ears.|Fillerin büyük kulakları vardır.
+monkey|The monkey is climbing the tree.|Maymun ağaca tırmanıyor.
+fox|A fox came into our garden.|Bahçemize bir tilki girdi.
+rabbit|My daughter has a white rabbit.|Kızımın beyaz bir tavşanı var.
+snake|I'm afraid of snakes.|Yılanlardan korkarım.
+sheep|There are a lot of sheep on the hill.|Tepede çok koyun var.
+goat|The goat is eating the flowers!|Keçi çiçekleri yiyor!
+pig|The pig is in the mud.|Domuz çamurda.
+rooster|The rooster wakes us up every morning.|Horoz bizi her sabah uyandırıyor.
+duck|The children are feeding the ducks.|Çocuklar ördekleri besliyor.
+donkey|The donkey is carrying the bags.|Eşek çantaları taşıyor.
+farm|My uncle has a farm.|Amcamın bir çiftliği var.
+bee|A bee stung me.|Beni bir arı soktu.
+housefly|There's a housefly in my soup!|Çorbamda karasinek var!
+mosquito|The mosquitoes bit me all night.|Sivrisinekler bütün gece beni ısırdı.
+butterfly|A butterfly landed on the flower.|Bir kelebek çiçeğe kondu.
+ant|Ants are very hard-working.|Karıncalar çok çalışkandır.
+spider|There's a spider in the bath!|Küvette bir örümcek var!
+ladybird|A ladybird is on your arm.|Kolunda bir uğur böceği var.
+whale|The whale is the biggest animal.|Balina en büyük hayvandır.
+dolphin|We swam with dolphins.|Yunuslarla yüzdük.
+shark|Are there sharks here?|Burada köpekbalığı var mı?
+octopus|An octopus has eight arms.|Ahtapotun sekiz kolu vardır.
+crab|A small crab is walking on the sand.|Kumda küçük bir yengeç yürüyor.
+turtle|Turtles live a very long time.|Kaplumbağalar çok uzun yaşar.
+seal|The seal is lying on the rocks.|Fok kayaların üstünde yatıyor.
+eagle|An eagle is flying over the mountain.|Dağın üstünde bir kartal uçuyor.
+pigeon|There are lots of pigeons in the square.|Meydanda çok güvercin var.
+parrot|Our parrot can say "hello".|Papağanımız "merhaba" diyebiliyor.
+owl|The owl sleeps during the day.|Baykuş gündüz uyur.
+penguin|Penguins can't fly.|Penguenler uçamaz.
+swan|A white swan is swimming on the lake.|Gölde beyaz bir kuğu yüzüyor.
+nest|There's a bird's nest in the tree.|Ağaçta bir kuş yuvası var.
+# u20
+cloud|There's a big black cloud over there.|Orada büyük kara bir bulut var.
+storm|There was a storm last night.|Dün gece fırtına vardı.
+fog|The plane couldn't land because of the fog.|Uçak sis yüzünden inemedi.
+lightning|The tree was hit by lightning.|Ağaca yıldırım düştü.
+thunder|The dog is scared of thunder.|Köpek gök gürültüsünden korkuyor.
+rainbow|Look, a rainbow!|Bak, gökkuşağı!
+hail|The hail damaged the car.|Dolu arabaya zarar verdi.
+lake|We swam in the lake.|Gölde yüzdük.
+island|We spent a week on a Greek island.|Bir Yunan adasında bir hafta geçirdik.
+valley|The village is in a green valley.|Köy yeşil bir vadide.
+desert|It rarely rains in the desert.|Çölde nadiren yağmur yağar.
+waterfall|The waterfall is very high.|Şelale çok yüksek.
+coast|We drove along the coast.|Kıyı boyunca araba sürdük.
+hill|Our house is on a hill.|Evimiz bir tepede.
+plant|Don't forget to water the plant.|Bitkiyi sulamayı unutma.
+leaf|A leaf fell on my head.|Başıma bir yaprak düştü.
+grass|Don't walk on the grass.|Çimlere basmayın.
+rose|He gave her a red rose.|Ona kırmızı bir gül verdi.
+branch|A bird is sitting on the branch.|Dalda bir kuş oturuyor.
+root|This tree has deep roots.|Bu ağacın derin kökleri var.
+seed|Plant the seeds in spring.|Tohumları ilkbaharda ek.
+star|You can see a lot of stars tonight.|Bu gece çok yıldız görünüyor.
+the moon|The moon is full tonight.|Bu gece dolunay var.
+planet|Mars is a red planet.|Mars kırmızı bir gezegendir.
+space|I'd love to travel into space.|Uzaya gitmeyi çok isterdim.
+sunrise|We got up early to see the sunrise.|Gün doğumunu görmek için erken kalktık.
+sunset|The sunset over the sea was amazing.|Denizde gün batımı muhteşemdi.
+shadow|Let's sit in the shadow of the tree.|Ağacın gölgesine oturalım.
+stone|The house is made of stone.|Ev taştan yapılmış.
+wood|The table is made of wood.|Masa tahtadan yapılmış.
+metal|This chair is made of metal.|Bu sandalye metalden.
+gold|She has a gold ring.|Altın bir yüzüğü var.
+silver|He won a silver medal.|Gümüş madalya kazandı.
+glass|The bottle is made of glass.|Şişe camdan yapılmış.
+paper|Can I have a piece of paper?|Bir kâğıt alabilir miyim?
+# u21
+building|That building is very old.|O bina çok eski.
+tower|You can see the whole city from the tower.|Kuleden bütün şehri görebilirsin.
+post office|I need to go to the post office.|Postaneye gitmem lazım.
+library|I study in the library.|Kütüphanede ders çalışırım.
+university|My sister goes to university.|Kız kardeşim üniversiteye gidiyor.
+factory|My father works in a factory.|Babam bir fabrikada çalışıyor.
+stadium|The stadium was full.|Stadyum doluydu.
+pavement|Walk on the pavement, not the road.|Yolda değil kaldırımda yürü.
+crossroads|Turn left at the crossroads.|Kavşaktan sola dönün.
+traffic lights|Stop at the traffic lights.|Trafik ışığında durun.
+fountain|Children are playing near the fountain.|Çocuklar çeşmenin yanında oynuyor.
+car park|The car park is full.|Otopark dolu.
+bus stop|I'm waiting at the bus stop.|Durakta bekliyorum.
+zebra crossing|Cross the road at the zebra crossing.|Yolu yaya geçidinden geçin.
+traffic|There's a lot of traffic today.|Bugün çok trafik var.
+accident|There was an accident on the motorway.|Otoyolda bir kaza oldu.
+traffic jam|We were stuck in a traffic jam.|Trafik sıkışıklığına takıldık.
+petrol|We need to buy petrol.|Benzin almamız lazım.
+driving licence|Can I see your driving licence?|Ehliyetinizi görebilir miyim?
+drive|Can you drive?|Araba kullanabiliyor musun?
+park the car|Where can I park the car?|Arabayı nereye park edebilirim?
+police station|Where is the police station?|Polis karakolu nerede?
+fire brigade|Call the fire brigade!|İtfaiyeyi arayın!
+pharmacist|Ask the pharmacist.|Eczacıya sor.
+hairdresser's|I'm going to the hairdresser's.|Kuaföre gidiyorum.
+bakery|There's a good bakery near my house.|Evimin yakınında iyi bir fırın var.
+butcher's|I bought some meat at the butcher's.|Kasaptan biraz et aldım.
+florist's|I bought roses at the florist's.|Çiçekçiden gül aldım.
+cinema|Let's go to the cinema tonight.|Bu akşam sinemaya gidelim.
+theatre|We have tickets for the theatre.|Tiyatro biletlerimiz var.
+concert|The concert starts at eight.|Konser sekizde başlıyor.
+café|Let's meet at the café.|Kafede buluşalım.
+pub|We went to the pub after work.|İşten sonra bara gittik.
+zoo|The children love the zoo.|Çocuklar hayvanat bahçesine bayılıyor.
+amusement park|We spent the day at the amusement park.|Günü lunaparkta geçirdik.
+# u22
+wall|There's a picture on the wall.|Duvarda bir tablo var.
+roof|The roof needs repairing.|Çatının tamir edilmesi gerekiyor.
+ground|The ground is wet.|Zemin ıslak.
+ceiling|The ceiling is very high.|Tavan çok yüksek.
+stairs|Be careful on the stairs.|Merdivenlerde dikkatli ol.
+balcony|We have breakfast on the balcony.|Balkonda kahvaltı yaparız.
+hallway|Leave your shoes in the hallway.|Ayakkabılarını koridorda bırak.
+wardrobe|Hang your coat in the wardrobe.|Paltonu dolaba as.
+armchair|Grandpa is sleeping in his armchair.|Dedem koltuğunda uyuyor.
+carpet|This carpet is from Turkey.|Bu halı Türkiye'den.
+curtain|Close the curtains, please.|Perdeleri kapat lütfen.
+pillow|I need a soft pillow.|Yumuşak bir yastığa ihtiyacım var.
+blanket|Can I have another blanket?|Bir battaniye daha alabilir miyim?
+drawer|The knives are in the top drawer.|Bıçaklar üst çekmecede.
+washing machine|The washing machine is broken.|Çamaşır makinesi bozuk.
+microwave|Heat the milk in the microwave.|Sütü mikrodalgada ısıt.
+oven|The cake is in the oven.|Pasta fırında.
+kettle|Put the kettle on, please.|Su ısıtıcısını çalıştır lütfen.
+vase|Put the flowers in a vase.|Çiçekleri vazoya koy.
+picture|What a beautiful picture!|Ne güzel bir tablo!
+candle|She lit a candle.|Bir mum yaktı.
+hammer|I need a hammer and some nails.|Bir çekiç ve birkaç çiviye ihtiyacım var.
+scissors|Where are the scissors?|Makas nerede?
+nail|Hit the nail with the hammer.|Çiviye çekiçle vur.
+rope|Hold the rope tightly.|İpi sıkıca tut.
+battery|The remote needs a new battery.|Kumandaya yeni pil lazım.
+light bulb|The light bulb has gone.|Ampul yandı (bozuldu).
+bucket|Fill the bucket with water.|Kovayı suyla doldur.
+garden|We have a small garden.|Küçük bir bahçemiz var.
+fence|The dog jumped over the fence.|Köpek çitin üstünden atladı.
+flowerpot|I put the plant in a bigger flowerpot.|Bitkiyi daha büyük bir saksıya koydum.
+hose|Use the hose to wash the car.|Arabayı yıkamak için hortumu kullan.
+spade|He's digging with a spade.|Kürekle kazıyor.
+water the plants|Can you water the plants while I'm away?|Ben yokken bitkileri sular mısın?
+mow the lawn|I mow the lawn every Saturday.|Her cumartesi çimleri biçerim.
+# u23
+cabbage|My grandmother makes cabbage soup.|Büyükannem lahana çorbası yapar.
+aubergine|Aubergine is very popular in Turkey.|Patlıcan Türkiye'de çok sevilir.
+mushroom|I'd like a mushroom pizza.|Mantarlı pizza istiyorum.
+garlic|Add two cloves of garlic.|İki diş sarımsak ekle.
+corn|We had grilled corn on the beach.|Plajda közlenmiş mısır yedik.
+peas|The children don't like peas.|Çocuklar bezelye sevmiyor.
+spinach|Spinach is full of vitamins.|Ispanak vitamin doludur.
+peach|This peach is very juicy.|Bu şeftali çok sulu.
+apricot|Malatya is famous for apricots.|Malatya kayısısıyla ünlüdür.
+pineapple|Do you like pineapple on pizza?|Pizzada ananas sever misin?
+plum|There's a plum tree in the garden.|Bahçede bir erik ağacı var.
+fig|Fresh figs are delicious.|Taze incir çok lezzetli.
+pomegranate|I'd like a pomegranate juice.|Bir nar suyu istiyorum.
+melon|This melon is very sweet.|Bu kavun çok tatlı.
+beef|I don't eat beef.|Sığır eti yemem.
+lamb|We had lamb with rice.|Pilavla kuzu eti yedik.
+sausage|The kids want sausages and chips.|Çocuklar sosis ve patates kızartması istiyor.
+prawn|I'm allergic to prawns.|Karidese alerjim var.
+salmon|Grilled salmon, please.|Izgara somon lütfen.
+tuna|I made a tuna salad.|Ton balıklı salata yaptım.
+meatball|These meatballs are delicious.|Bu köfteler çok lezzetli.
+cake|I made a chocolate cake.|Çikolatalı pasta yaptım.
+ice cream|Let's get an ice cream.|Dondurma alalım.
+chocolate|I can't stop eating chocolate.|Çikolata yemeyi bırakamıyorum.
+biscuit|Would you like a biscuit with your tea?|Çayının yanında kurabiye ister misin?
+candy|Don't give the children too much candy.|Çocuklara çok fazla şekerleme verme.
+dessert|What's for dessert?|Tatlı olarak ne var?
+pancakes|We have pancakes on Sunday mornings.|Pazar sabahları krep yeriz.
+fry|Fry the onions in a little oil.|Soğanları biraz yağda kızart.
+boil|Boil the eggs for ten minutes.|Yumurtaları on dakika haşla.
+bake|I'm going to bake some bread.|Biraz ekmek pişireceğim.
+cut|Cut the bread, please.|Ekmeği kes lütfen.
+stir|Stir the soup slowly.|Çorbayı yavaşça karıştır.
+taste|Taste this. Is it too salty?|Şunun tadına bak. Çok mu tuzlu?
+recipe|Can you give me the recipe?|Bana tarifi verebilir misin?
+# u24
+sweet|This tea is too sweet.|Bu çay çok tatlı.
+sour|These lemons are very sour.|Bu limonlar çok ekşi.
+spicy|I love spicy food.|Acılı yemeklere bayılırım.
+bitter|This coffee is bitter.|Bu kahve acı.
+salty|The soup is too salty.|Çorba çok tuzlu.
+fresh|The fish is very fresh.|Balık çok taze.
+hungry|I'm hungry. Let's eat.|Acıktım. Yemek yiyelim.
+sparkling water|A bottle of sparkling water, please.|Bir şişe maden suyu lütfen.
+lemonade|Homemade lemonade is the best.|En iyisi ev yapımı limonata.
+hot chocolate|A hot chocolate with cream, please.|Kremalı bir sıcak çikolata lütfen.
+cocktail|We had a cocktail on the beach.|Plajda kokteyl içtik.
+ice cube|Can I have some ice cubes?|Biraz buz küpü alabilir miyim?
+I'm thirsty|I'm thirsty. Is there any water?|Susadım. Hiç su var mı?
+mug|I drink tea from a big mug.|Çayı büyük bir kupadan içerim.
+drinking glass|Be careful, that drinking glass is broken.|Dikkat et, o su bardağı kırık.
+napkin|Can I have a napkin?|Bir peçete alabilir miyim?
+tablecloth|Put a clean tablecloth on the table.|Masaya temiz bir örtü ser.
+bowl|A bowl of soup, please.|Bir kase çorba lütfen.
+frying pan|Heat some oil in the frying pan.|Tavada biraz yağ ısıt.
+tray|The waiter brought the drinks on a tray.|Garson içecekleri tepside getirdi.
+bottle opener|Have you got a bottle opener?|Şişe açacağın var mı?
+waiter|The waiter is very polite.|Garson çok kibar.
+tip|We left a tip for the waiter.|Garsona bahşiş bıraktık.
+book a table|I'd like to book a table for four.|Dört kişilik bir masa ayırtmak istiyorum.
+order|Are you ready to order?|Sipariş vermeye hazır mısınız?
+main course|For the main course, I'll have the fish.|Ana yemek olarak balık alacağım.
+starter|Would you like a starter?|Başlangıç ister misiniz?
+vegetarian|Do you have vegetarian dishes?|Vejetaryen yemekleriniz var mı?
+raw|I don't eat raw fish.|Çiğ balık yemem.
+fried|I'd like fried eggs.|Sahanda yumurta istiyorum.
+boiled|Boiled potatoes, please.|Haşlanmış patates lütfen.
+grilled|I'll have the grilled chicken.|Izgara tavuk alacağım.
+homemade|This bread is homemade.|Bu ekmek ev yapımı.
+tasteless|The soup is a bit tasteless.|Çorba biraz lezzetsiz.
+I'm full|No more, thanks. I'm full.|Daha fazla değil, teşekkürler. Doydum.
+# u25
+coat|Put on your coat, it's cold.|Paltonu giy, hava soğuk.
+shorts|In summer I wear shorts.|Yazın şort giyerim.
+pyjamas|The children are already in their pyjamas.|Çocuklar zaten pijamalarını giydi.
+underwear|Pack enough underwear for a week.|Bir haftaya yetecek iç çamaşırı koy.
+swimsuit|Don't forget your swimsuit.|Mayonu unutma.
+suit|He wore a suit to the wedding.|Düğüne takım elbise giydi.
+blouse|She is wearing a white blouse.|Beyaz bir bluz giyiyor.
+cotton|This shirt is made of cotton.|Bu gömlek pamuktan.
+wool|This sweater is made of wool.|Bu kazak yünden.
+leather|I bought a leather jacket.|Deri bir ceket aldım.
+silk|She has a silk scarf.|İpek bir eşarbı var.
+striped|He's wearing a striped T-shirt.|Çizgili bir tişört giyiyor.
+checked|I like checked shirts.|Kareli gömlekleri severim.
+plain|I prefer plain colours.|Düz renkleri tercih ederim.
+belt|These trousers need a belt.|Bu pantolona kemer lazım.
+tie|He always wears a tie to work.|İşe hep kravat takar.
+wallet|I lost my wallet.|Cüzdanımı kaybettim.
+gloves|Wear your gloves, it's freezing.|Eldivenlerini tak, hava buz gibi.
+scarf|My grandmother knitted me a scarf.|Büyükannem bana bir atkı ördü.
+umbrella|Take an umbrella, it might rain.|Şemsiye al, yağmur yağabilir.
+ring|He bought her a diamond ring.|Ona pırlanta bir yüzük aldı.
+size|What size are you?|Kaç beden giyiyorsunuz?
+tight|These jeans are too tight.|Bu kot çok dar.
+loose|This shirt is a bit loose.|Bu gömlek biraz bol.
+it suits you|That colour really suits you.|O renk sana gerçekten yakışıyor.
+fashion|She works in fashion.|Moda sektöründe çalışıyor.
+fitting room|Where is the fitting room?|Deneme kabini nerede?
+zip|The zip on my jacket is broken.|Ceketimin fermuarı bozuk.
+pay|Where do I pay?|Nerede ödüyorum?
+try on|Can I try on these shoes?|Bu ayakkabıları deneyebilir miyim?
+exchange|Can I exchange this for a bigger size?|Bunu daha büyük bir bedenle değiştirebilir miyim?
+return|I want to return this jacket.|Bu ceketi iade etmek istiyorum.
+on sale|These shoes are on sale.|Bu ayakkabılar indirimde.
+spend|I spent too much money.|Çok fazla para harcadım.
+save money|I'm trying to save money.|Para biriktirmeye çalışıyorum.
+# u26
+face|Wash your face.|Yüzünü yıka.
+nose|My nose is red from the cold.|Soğuktan burnum kızardı.
+mouth|Don't talk with your mouth full.|Ağzın doluyken konuşma.
+neck|My neck hurts.|Boynum ağrıyor.
+shoulder|He put his hand on my shoulder.|Elini omzuma koydu.
+finger|I cut my finger.|Parmağımı kestim.
+knee|I fell and hurt my knee.|Düştüm ve dizimi incittim.
+arm|She broke her arm.|Kolunu kırdı.
+stomach|My stomach hurts.|Karnım ağrıyor.
+chest|I have a pain in my chest.|Göğsümde bir ağrı var.
+skin|She has very soft skin.|Cildi çok yumuşak.
+bone|The dog is eating a bone.|Köpek kemik yiyor.
+blood|They took some blood for a test.|Tahlil için biraz kan aldılar.
+tongue|I burnt my tongue on the tea.|Çayla dilimi yaktım.
+flu|I've got the flu.|Grip oldum.
+cough|I have a bad cough.|Kötü bir öksürüğüm var.
+headache|I have a headache.|Başım ağrıyor.
+nausea|The medicine can cause nausea.|İlaç mide bulantısı yapabilir.
+allergy|I have an allergy to cats.|Kedilere alerjim var.
+wound|Clean the wound with water.|Yarayı suyla temizle.
+fracture|The X-ray shows a small fracture.|Röntgende küçük bir kırık görünüyor.
+prescription|You need a prescription for this.|Bunun için reçete lazım.
+pill|Take one pill after meals.|Yemeklerden sonra bir hap al.
+injection|The nurse gave me an injection.|Hemşire bana iğne yaptı.
+vaccine|Did you get the flu vaccine?|Grip aşısı oldun mu?
+plaster|Have you got a plaster?|Yara bandın var mı?
+you need rest|You've got a fever. You need rest.|Ateşin var. Dinlenmen gerek.
+get better|I hope you get better soon.|Umarım çabuk iyileşirsin.
+patient|The patient is sleeping now.|Hasta şimdi uyuyor.
+emergency room|We took him to the emergency room.|Onu acil servise götürdük.
+operation|The operation went well.|Ameliyat iyi geçti.
+dentist|I have to go to the dentist.|Diş hekimine gitmem lazım.
+appointment|I have an appointment at four.|Saat dörtte randevum var.
+insurance|Do you have health insurance?|Sağlık sigortanız var mı?
+pulse|The nurse checked my pulse.|Hemşire nabzımı kontrol etti.
+# u27
+scared|The little boy is scared of the dark.|Küçük çocuk karanlıktan korkuyor.
+surprised|I was surprised to see her.|Onu gördüğüme şaşırdım.
+jealous|He's jealous of his brother.|Erkek kardeşini kıskanıyor.
+nervous|I'm nervous before exams.|Sınavlardan önce gerginim.
+embarrassed|I was so embarrassed!|Çok utandım!
+proud|I'm proud of you.|Seninle gurur duyuyorum.
+lonely|She feels lonely in the big city.|Büyük şehirde kendini yalnız hissediyor.
+brave|The firefighter was very brave.|İtfaiyeci çok cesurdu.
+honest|Be honest with me.|Bana karşı dürüst ol.
+polite|Always be polite to customers.|Müşterilere karşı her zaman kibar ol.
+hard-working|She is a hard-working student.|Çalışkan bir öğrenci.
+rude|Don't be rude to your sister.|Kız kardeşine kaba davranma.
+selfish|He's very selfish.|Çok bencil.
+laugh|His jokes always make me laugh.|Şakaları beni hep güldürür.
+cry|Why is the baby crying?|Bebek neden ağlıyor?
+smile|Smile for the photo!|Fotoğraf için gülümse!
+worry|Don't worry, it'll be OK.|Endişelenme, her şey yoluna girecek.
+be afraid|Don't be afraid, the dog is friendly.|Korkma, köpek uysal.
+get angry|Please don't get angry.|Lütfen sinirlenme.
+calm down|Calm down and tell me what happened.|Sakinleş ve ne olduğunu anlat.
+meet|Where did you meet your wife?|Karınla nerede tanıştın?
+trust|I trust you.|Sana güveniyorum.
+miss|I miss my family.|Ailemi özlüyorum.
+forgive|Please forgive me.|Lütfen beni affet.
+argue|My parents never argue.|Annemle babam hiç tartışmaz.
+get married|They're getting married in May.|Mayısta evleniyorlar.
+break up|They broke up last month.|Geçen ay ayrıldılar.
+great!|"I got the job!" – "Great!"|"İşi aldım!" – "Harika!"
+what a pity!|You can't come? What a pity!|Gelemiyor musun? Ne yazık!
+no way!|No way! I don't believe it!|Olamaz! İnanmıyorum!
+careful!|Careful! The floor is wet.|Dikkat! Yer ıslak.
+well done!|You passed! Well done!|Geçtin! Aferin!
+get well soon|I heard you're ill. Get well soon!|Hasta olduğunu duydum. Geçmiş olsun!
+enjoy your meal|Here's your pizza. Enjoy your meal!|Pizzanız. Afiyet olsun!
+# u28
+lawyer|You should talk to a lawyer.|Bir avukatla konuşmalısın.
+police officer|A police officer helped us.|Bir polis memuru bize yardım etti.
+architect|The architect designed a modern house.|Mimar modern bir ev tasarladı.
+journalist|She works as a journalist.|Gazeteci olarak çalışıyor.
+salesperson|The salesperson was very helpful.|Satış elemanı çok yardımcı oldu.
+farmer|The farmer gets up at five.|Çiftçi beşte kalkar.
+pilot|The pilot spoke to the passengers.|Pilot yolcularla konuştu.
+artist|She's a very talented artist.|Çok yetenekli bir sanatçı.
+musician|He's a street musician.|Sokak müzisyeni.
+soldier|My grandfather was a soldier.|Dedem askerdi.
+cleaner|The cleaner comes on Fridays.|Temizlikçi cuma günleri geliyor.
+electrician|We need an electrician.|Bir elektrikçiye ihtiyacımız var.
+mechanic|The mechanic repaired my car.|Tamirci arabamı tamir etti.
+pensioner|My father is a pensioner now.|Babam artık emekli.
+desk|My desk is by the window.|Yazı masam pencerenin yanında.
+printer|The printer isn't working.|Yazıcı çalışmıyor.
+folder|Put the documents in this folder.|Belgeleri bu dosyaya koy.
+envelope|Put the letter in the envelope.|Mektubu zarfa koy.
+pencil|Write your name in pencil.|Adını kurşun kalemle yaz.
+rubber|Can I borrow your rubber?|Silgini ödünç alabilir miyim?
+calendar|I wrote it on the calendar.|Takvime yazdım.
+apply|I want to apply for this job.|Bu işe başvurmak istiyorum.
+hire|The company is hiring new staff.|Şirket yeni eleman alıyor.
+earn|He earns a lot of money.|Çok para kazanıyor.
+manage|She manages a big hotel.|Büyük bir oteli yönetiyor.
+sign|Sign here, please.|Buraya imzalayın lütfen.
+retire|My mother wants to retire next year.|Annem gelecek yıl emekli olmak istiyor.
+company|I work for a small company.|Küçük bir şirkette çalışıyorum.
+customer|The customer is always right.|Müşteri her zaman haklıdır.
+product|This is our new product.|Bu bizim yeni ürünümüz.
+contract|Read the contract before you sign.|İmzalamadan önce sözleşmeyi oku.
+project|We're working on a new project.|Yeni bir proje üzerinde çalışıyoruz.
+invoice|I'll send you the invoice.|Size faturayı göndereceğim.
+job interview|I have a job interview tomorrow.|Yarın iş görüşmem var.
+# u29
+schoolbag|His schoolbag is very heavy.|Okul çantası çok ağır.
+ruler|Draw a line with a ruler.|Cetvelle bir çizgi çiz.
+board|The teacher wrote on the board.|Öğretmen tahtaya yazdı.
+classroom|There are thirty students in the classroom.|Sınıfta otuz öğrenci var.
+dictionary|Look it up in the dictionary.|Sözlüğe bak.
+textbook|Open your textbooks at page ten.|Ders kitaplarınızı onuncu sayfada açın.
+homework|I haven't done my homework.|Ödevimi yapmadım.
+maths|Maths is my favourite subject.|Matematik en sevdiğim ders.
+history|I love history.|Tarihe bayılırım.
+geography|We're studying Africa in geography.|Coğrafyada Afrika'yı işliyoruz.
+physics|Physics is difficult for me.|Fizik benim için zor.
+chemistry|We did an experiment in chemistry.|Kimyada bir deney yaptık.
+biology|She wants to study biology.|Biyoloji okumak istiyor.
+literature|He teaches English literature.|İngiliz edebiyatı öğretiyor.
+faculty|The faculty of medicine is over there.|Tıp fakültesi orada.
+professor|The professor is giving a lecture.|Profesör ders veriyor.
+scholarship|She got a scholarship to Oxford.|Oxford'a burs kazandı.
+diploma|I got my diploma last year.|Diplomamı geçen yıl aldım.
+dormitory|I live in a student dormitory.|Öğrenci yurdunda kalıyorum.
+semester|The semester starts in September.|Dönem eylülde başlıyor.
+lecture|The lecture was very interesting.|Ders çok ilginçti.
+repeat|Repeat after me.|Benden sonra tekrarla.
+learn by heart|We had to learn the poem by heart.|Şiiri ezberlemek zorundaydık.
+explain|Can you explain this rule?|Bu kuralı açıklayabilir misin?
+translate|Can you translate this letter?|Bu mektubu çevirebilir misin?
+make a mistake|Everyone makes a mistake sometimes.|Herkes bazen hata yapar.
+correct|The teacher corrected my essay.|Öğretmen kompozisyonumu düzeltti.
+practise|You need to practise every day.|Her gün pratik yapman gerek.
+mark|I got a good mark in maths.|Matematikten iyi not aldım.
+pass an exam|I hope I pass the exam.|Umarım sınavı geçerim.
+fail an exam|He failed the exam again.|Sınavdan yine kaldı.
+test|We have a test on Friday.|Cuma günü testimiz var.
+prepare|I'm preparing for my exams.|Sınavlarıma hazırlanıyorum.
+result|When will we get the results?|Sonuçları ne zaman alacağız?
+cheat|Don't cheat in the exam!|Sınavda kopya çekme!
+# u30
+tablet|My son plays games on his tablet.|Oğlum tabletinde oyun oynuyor.
+headphones|I always listen to music with headphones.|Müziği hep kulaklıkla dinlerim.
+camera|I bought a new camera for my trip.|Gezim için yeni bir kamera aldım.
+keyboard|This keyboard is very quiet.|Bu klavye çok sessiz.
+mouse|My mouse isn't working.|Farem çalışmıyor.
+screen|The screen is too small.|Ekran çok küçük.
+speaker|Turn up the speaker.|Hoparlörün sesini aç.
+website|Visit our website for more information.|Daha fazla bilgi için web sitemizi ziyaret edin.
+link|I'll send you the link.|Sana bağlantıyı göndereceğim.
+download|Download the app for free.|Uygulamayı ücretsiz indir.
+upload|I uploaded the photos.|Fotoğrafları yükledim.
+search engine|Type it into the search engine.|Arama motoruna yaz.
+wi-fi|What's the wi-fi password?|Kablosuz ağ şifresi ne?
+account|I created a new account.|Yeni bir hesap açtım.
+social media|She spends hours on social media.|Sosyal medyada saatler geçiriyor.
+share|Share the photo with your friends.|Fotoğrafı arkadaşlarınla paylaş.
+like|Don't forget to like the video!|Videoyu beğenmeyi unutma!
+follow|I follow him on Instagram.|Onu Instagram'da takip ediyorum.
+comment|She left a nice comment.|Güzel bir yorum bıraktı.
+pic|Send me a pic!|Bana bir fotoğraf gönder!
+video|I watched a funny video.|Komik bir video izledim.
+switch on|Switch on the light, please.|Işığı aç lütfen.
+switch off|Switch off your phone in the cinema.|Sinemada telefonunu kapat.
+save|Don't forget to save the file.|Dosyayı kaydetmeyi unutma.
+delete|I deleted the photo by mistake.|Fotoğrafı yanlışlıkla sildim.
+type|He types very fast.|Çok hızlı yazıyor.
+charge|I need to charge my phone.|Telefonumu şarj etmem lazım.
+click|Click here to continue.|Devam etmek için buraya tıklayın.
+broken|My phone is broken.|Telefonum bozuk.
+it doesn't work|I pressed the button, but it doesn't work.|Düğmeye bastım ama çalışmıyor.
+the battery is dead|I can't call you, the battery is dead.|Seni arayamam, şarj bitti.
+update|There's a new update for the app.|Uygulama için yeni bir güncelleme var.
+virus|My computer has a virus.|Bilgisayarıma virüs bulaştı.
+no signal|There's no signal in the mountains.|Dağlarda bağlantı yok.
+restart|Try to restart the computer.|Bilgisayarı yeniden başlatmayı dene.
+# u31
+ship|The ship left the port.|Gemi limandan ayrıldı.
+motorbike|He goes to work by motorbike.|İşe motosikletle gidiyor.
+tram|Take the tram to the centre.|Merkeze tramvayla git.
+lorry|A big lorry is blocking the road.|Büyük bir kamyon yolu kapatıyor.
+ferry|We took the ferry to the island.|Adaya feribotla gittik.
+helicopter|The helicopter took him to hospital.|Helikopter onu hastaneye götürdü.
+passenger|The passengers are waiting.|Yolcular bekliyor.
+departure|The departure time is 10:30.|Kalkış saati 10:30.
+arrival|What's the arrival time?|Varış saati ne?
+delay|There's a two-hour delay.|İki saatlik rötar var.
+boarding pass|Show your boarding pass, please.|Biniş kartınızı gösterin lütfen.
+hand luggage|You can take one piece of hand luggage.|Bir parça el bagajı alabilirsiniz.
+window seat|I'd like a window seat.|Pencere kenarı istiyorum.
+connection|I missed my connection in Frankfurt.|Frankfurt'taki aktarmamı kaçırdım.
+reception|Leave your key at reception.|Anahtarını resepsiyona bırak.
+single room|I'd like a single room for two nights.|İki gece için tek kişilik oda istiyorum.
+double room|We booked a double room.|Çift kişilik oda ayırttık.
+room service|Let's order room service.|Oda servisi isteyelim.
+check in|You can check in after two.|İkiden sonra giriş yapabilirsiniz.
+view|The room has a beautiful view.|Odanın güzel bir manzarası var.
+breakfast included|Is breakfast included?|Kahvaltı dahil mi?
+campsite|We stayed at a campsite by the lake.|Gölün yanındaki bir kampta kaldık.
+tent|Let's put up the tent here.|Çadırı buraya kuralım.
+guesthouse|We stayed in a small guesthouse.|Küçük bir pansiyonda kaldık.
+port|The ship is in the port.|Gemi limanda.
+monument|This monument is two hundred years old.|Bu anıt iki yüz yıllık.
+old town|Let's walk around the old town.|Eski şehirde dolaşalım.
+sun cream|Put on some sun cream.|Biraz güneş kremi sür.
+miss the bus|Hurry, or we'll miss the bus!|Acele et, yoksa otobüsü kaçıracağız!
+pack|I haven't packed yet.|Henüz bavulumu hazırlamadım.
+visit|We visited the castle.|Kaleyi ziyaret ettik.
+get lost|We got lost in the old town.|Eski şehirde kaybolduk.
+come back|When are you coming back?|Ne zaman dönüyorsun?
+go sightseeing|Tomorrow we'll go sightseeing.|Yarın gezmeye gideceğiz.
+# u32
+basketball|He plays basketball at school.|Okulda basketbol oynuyor.
+tennis|Do you want to play tennis?|Tenis oynamak ister misin?
+volleyball|We played volleyball on the beach.|Plajda voleybol oynadık.
+cycling|Cycling is good exercise.|Bisiklet sürmek iyi bir egzersizdir.
+skiing|We go skiing every winter.|Her kış kayağa gideriz.
+boxing|He watches boxing on TV.|Televizyonda boks izliyor.
+yoga|I do yoga in the morning.|Sabahları yoga yaparım.
+ball|Throw me the ball!|Topu bana at!
+racket|I need a new tennis racket.|Yeni bir tenis raketine ihtiyacım var.
+goal|What a great goal!|Ne harika bir gol!
+gym|I go to the gym after work.|İşten sonra spor salonuna giderim.
+swimming pool|The hotel has a swimming pool.|Otelin havuzu var.
+pitch|The players are on the pitch.|Oyuncular sahada.
+player|He's the best player in the team.|Takımın en iyi oyuncusu.
+chess|My grandfather taught me chess.|Dedem bana satranç öğretti.
+cards|Let's play cards.|Kâğıt oynayalım.
+puzzle|The children are doing a puzzle.|Çocuklar yapboz yapıyor.
+toy|He has a lot of toys.|Çok oyuncağı var.
+video game|My brother plays video games all day.|Kardeşim bütün gün video oyunu oynuyor.
+win|Our team won the match.|Takımımız maçı kazandı.
+lose|I don't like to lose.|Kaybetmeyi sevmem.
+art|She studies art in Florence.|Floransa'da sanat okuyor.
+sculpture|There's a sculpture in the garden.|Bahçede bir heykel var.
+exhibition|Have you seen the new exhibition?|Yeni sergiyi gördün mü?
+novel|I'm reading a novel by Dickens.|Dickens'ın bir romanını okuyorum.
+poem|He wrote a poem for her.|Onun için bir şiir yazdı.
+writer|My favourite writer is Orhan Pamuk.|En sevdiğim yazar Orhan Pamuk.
+photography|Photography is my hobby.|Fotoğrafçılık benim hobim.
+guitar|He plays the guitar very well.|Gitarı çok iyi çalıyor.
+piano|She has played the piano since she was six.|Altı yaşından beri piyano çalıyor.
+violin|The violin has a beautiful sound.|Kemanın güzel bir sesi var.
+drum|My son plays the drums.|Oğlum davul çalıyor.
+flute|She plays the flute in an orchestra.|Bir orkestrada flüt çalıyor.
+song|This is my favourite song.|Bu en sevdiğim şarkı.
+play the guitar|Can you play the guitar?|Gitar çalabiliyor musun?
+# u33
+twelve|There are twelve months in a year.|Bir yılda on iki ay vardır.
+thirteen|My daughter is thirteen.|Kızım on üç yaşında.
+fourteen|The shop is closed for fourteen days.|Dükkân on dört gün kapalı.
+fifteen|The bus comes every fifteen minutes.|Otobüs her on beş dakikada bir geliyor.
+sixteen|He started work at sixteen.|On altı yaşında çalışmaya başladı.
+seventeen|There are seventeen students in my class.|Sınıfımda on yedi öğrenci var.
+eighteen|You can drive at eighteen.|On sekiz yaşında araba kullanabilirsin.
+thirty|It's thirty degrees today.|Bugün otuz derece.
+forty|My mother is forty.|Annem kırk yaşında.
+sixty|There are sixty minutes in an hour.|Bir saatte altmış dakika vardır.
+seventy|My grandfather is seventy.|Dedem yetmiş yaşında.
+eighty|The ticket costs eighty pounds.|Bilet seksen pound.
+ninety|She lived to ninety.|Doksan yaşına kadar yaşadı.
+million|The city has three million people.|Şehrin nüfusu üç milyon.
+first|This is my first time in London.|Londra'ya ilk gelişim.
+second|Take the second street on the left.|Soldaki ikinci sokağa girin.
+third|We live on the third floor.|Üçüncü katta oturuyoruz.
+fourth|He finished fourth in the race.|Yarışta dördüncü oldu.
+fifth|Today is the fifth of May.|Bugün beş mayıs.
+tenth|It's our tenth anniversary.|Bu bizim onuncu yıl dönümümüz.
+last|This is the last bus.|Bu son otobüs.
+add|Add two and three.|İki ile üçü topla.
+subtract|Subtract five from ten.|Ondan beşi çıkar.
+multiply|Multiply four by three.|Dördü üçle çarp.
+divide|Divide the cake into eight pieces.|Pastayı sekiz parçaya böl.
+equals|Two plus two equals four.|İki artı iki eşittir dört.
+percent|Prices went up by ten percent.|Fiyatlar yüzde on arttı.
+number|What's your room number?|Oda numaran kaç?
+century|This church is from the twelfth century.|Bu kilise on ikinci yüzyıldan.
+decade|Prices have doubled in a decade.|Fiyatlar on yılda ikiye katlandı.
+a second|Wait a second!|Bir saniye bekle!
+moment|Just a moment, please.|Bir dakika lütfen.
+the past|Don't live in the past.|Geçmişte yaşama.
+the future|Nobody knows the future.|Geleceği kimse bilemez.
+era|It was the end of an era.|Bir devrin sonuydu.
+# u34
+fall|Be careful, don't fall!|Dikkat et, düşme!
+jump|The cat jumped onto the table.|Kedi masanın üstüne atladı.
+climb|The children love to climb trees.|Çocuklar ağaca tırmanmaya bayılıyor.
+turn|Turn left at the end of the street.|Sokağın sonunda sola dönün.
+enter|Please enter through the main door.|Lütfen ana kapıdan girin.
+go out|Let's go out tonight.|Bu akşam dışarı çıkalım.
+cross|Look both ways before you cross.|Karşıya geçmeden önce iki tarafa da bak.
+hold|Hold my hand.|Elimi tut.
+throw|Don't throw stones!|Taş atma!
+catch|Catch the ball!|Topu yakala!
+pull|Pull the door, don't push.|Kapıyı çek, itme.
+push|Push the button.|Düğmeye bas.
+carry|Can you carry this bag for me?|Bu çantayı benim için taşıyabilir misin?
+let go|Don't let go of the rope!|İpi bırakma!
+smell|Smell these flowers!|Şu çiçekleri kokla!
+touch|Don't touch the paintings.|Tablolara dokunmayın.
+notice|I didn't notice the time.|Saatin farkına varmadım.
+watch TV|We watch TV in the evening.|Akşamları televizyon izleriz.
+look at|Look at that bird!|Şu kuşa bak!
+feel|How do you feel today?|Bugün nasıl hissediyorsun?
+recognise|I didn't recognise you!|Seni tanıyamadım!
+remember|Do you remember me?|Beni hatırlıyor musun?
+forget|Don't forget your keys.|Anahtarlarını unutma.
+decide|I can't decide what to wear.|Ne giyeceğime karar veremiyorum.
+believe|I don't believe you.|Sana inanmıyorum.
+dream of|I dream of living by the sea.|Deniz kenarında yaşamayı hayal ediyorum.
+wonder|I wonder where she is.|Nerede olduğunu merak ediyorum.
+guess|Guess who I saw today!|Bil bakalım bugün kimi gördüm!
+ask|Can I ask you something?|Sana bir şey sorabilir miyim?
+reply|He didn't reply to my message.|Mesajıma cevap vermedi.
+say|What did you say?|Ne dedin?
+tell|Tell me a story.|Bana bir hikâye anlat.
+shout|Don't shout, I can hear you.|Bağırma, seni duyuyorum.
+whisper|She whispered something in his ear.|Kulağına bir şey fısıldadı.
+call|I'll call you tomorrow.|Seni yarın ararım.
+# u35
+begin|The film begins at eight.|Film sekizde başlıyor.
+finish|I finish work at five.|İşi beşte bitiririm.
+continue|Let's continue tomorrow.|Yarın devam edelim.
+stop|Stop! There's a car coming.|Dur! Bir araba geliyor.
+wait|Wait for me!|Beni bekle!
+try|Try this cake, it's delicious.|Bu pastayı dene, çok lezzetli.
+succeed|If you work hard, you'll succeed.|Çok çalışırsan başarırsın.
+give|Give me the key, please.|Anahtarı bana ver lütfen.
+take|Take an umbrella with you.|Yanına şemsiye al.
+bring|Bring your friends to the party!|Arkadaşlarını partiye getir!
+send|I'll send you the photos.|Sana fotoğrafları göndereceğim.
+find|I can't find my glasses.|Gözlüğümü bulamıyorum.
+keep|Keep the change.|Para üstü kalsın.
+borrow|Can I borrow your car?|Arabanı ödünç alabilir miyim?
+grow|Children grow so fast.|Çocuklar çok hızlı büyüyor.
+increase|Prices increase every year.|Fiyatlar her yıl artıyor.
+decrease|The number of tourists decreased.|Turist sayısı azaldı.
+break|Be careful, don't break the glass.|Dikkat et, bardağı kırma.
+repair|Can you repair my bike?|Bisikletimi tamir edebilir misin?
+open|Open the window, please.|Pencereyi aç lütfen.
+close|Close the door behind you.|Arkandan kapıyı kapat.
+wash|I need to wash the car.|Arabayı yıkamam lazım.
+clean|We clean the house on Saturdays.|Cumartesileri evi temizleriz.
+put|Put the milk in the fridge.|Sütü buzdolabına koy.
+pick up|Pick up your toys, please.|Oyuncaklarını yerden topla lütfen.
+hang|Hang your coat here.|Paltonu buraya as.
+hide|The cat is hiding under the bed.|Kedi yatağın altına saklanıyor.
+invite|I want to invite you to my wedding.|Seni düğünüme davet etmek istiyorum.
+take part|I'm going to take part in the race.|Yarışa katılacağım.
+thank|I want to thank you for everything.|Her şey için sana teşekkür etmek istiyorum.
+apologise|I apologise for the delay.|Gecikme için özür dilerim.
+promise|I promise I'll come.|Geleceğime söz veriyorum.
+allow|Dogs are not allowed here.|Buraya köpek girmesine izin verilmiyor.
+forbid|My parents forbid me to go out at night.|Annemle babam gece dışarı çıkmamı yasaklıyor.
+# u36
+wide|This street is very wide.|Bu cadde çok geniş.
+huge|They live in a huge house.|Kocaman bir evde yaşıyorlar.
+tiny|The kitten is tiny.|Yavru kedi küçücük.
+flat|The land here is very flat.|Buradaki arazi çok düz.
+round|We have a round table.|Yuvarlak bir masamız var.
+deep|Is the water deep here?|Burada su derin mi?
+orange colour|She painted the wall an orange colour.|Duvarı turuncuya boyadı.
+purple|She's wearing a purple dress.|Mor bir elbise giyiyor.
+pink|The baby's room is pink.|Bebeğin odası pembe.
+brown|He has brown eyes.|Kahverengi gözleri var.
+light|I want a light blue shirt.|Açık mavi bir gömlek istiyorum.
+dark|She has dark hair.|Koyu renk saçları var.
+colourful|The market is very colourful.|Pazar çok renkli.
+full|The bus is full.|Otobüs dolu.
+empty|The fridge is empty.|Buzdolabı boş.
+dirty|Your shoes are dirty.|Ayakkabıların kirli.
+wet|My hair is still wet.|Saçım hâlâ ıslak.
+dry|Are the clothes dry?|Çamaşırlar kurudu mu?
+quiet|This is a quiet street.|Bu sakin bir sokak.
+noisy|The restaurant was too noisy.|Restoran çok gürültülüydü.
+warm|It's warm today.|Bugün hava ılık.
+cool|It's cool in the evenings.|Akşamları hava serin.
+soft|This bed is very soft.|Bu yatak çok yumuşak.
+hard|The bread is hard.|Ekmek sert.
+smooth|The baby's skin is so smooth.|Bebeğin cildi çok pürüzsüz.
+rough|The road was rough and narrow.|Yol pürüzlü ve dardı.
+heavy|This box is very heavy.|Bu kutu çok ağır.
+excellent|The food was excellent.|Yemek mükemmeldi.
+terrible|The weather was terrible.|Hava berbattı.
+important|This is very important.|Bu çok önemli.
+necessary|Is it necessary to book?|Rezervasyon yapmak gerekli mi?
+possible|Is it possible to change my ticket?|Biletimi değiştirmek mümkün mü?
+impossible|Nothing is impossible.|Hiçbir şey imkânsız değildir.
+natural|This juice is completely natural.|Bu meyve suyu tamamen doğal.
+# u37
+ancient|We visited an ancient city.|Antik bir şehri ziyaret ettik.
+modern|They live in a modern flat.|Modern bir dairede yaşıyorlar.
+daily|I read the daily news.|Günlük haberleri okurum.
+weekly|We have a weekly meeting.|Haftalık toplantımız var.
+yearly|The yearly festival is in June.|Yıllık festival haziranda.
+temporary|It's only a temporary job.|Bu sadece geçici bir iş.
+permanent|She's looking for a permanent job.|Kalıcı bir iş arıyor.
+ready|Dinner is ready.|Akşam yemeği hazır.
+busy|I'm very busy today.|Bugün çok meşgulüm.
+free|Are you free tomorrow?|Yarın boş musun?
+safe|Is this area safe at night?|Bu bölge gece güvenli mi?
+comfortable|These shoes are very comfortable.|Bu ayakkabılar çok rahat.
+rich|He's very rich.|Çok zengin.
+poor|They were very poor.|Çok fakirdiler.
+famous|She's a famous singer.|Ünlü bir şarkıcı.
+strange|That's strange!|Bu garip!
+normal|It's normal to be nervous.|Gergin olmak normal.
+secret|It's a secret. Don't tell anyone.|Bu bir sır. Kimseye söyleme.
+simple|The recipe is very simple.|Tarif çok basit.
+complicated|The rules are too complicated.|Kurallar çok karmaşık.
+popular|This café is very popular.|Bu kafe çok popüler.
+talented|She's a talented musician.|Yetenekli bir müzisyen.
+respectful|Be respectful to your elders.|Büyüklerine saygılı ol.
+generous|My uncle is very generous.|Amcam çok cömert.
+mean|Don't be so mean!|Bu kadar cimri olma!
+determined|She's determined to win.|Kazanmaya kararlı.
+curious|Children are very curious.|Çocuklar çok meraklıdır.
+responsible|Who is responsible for this?|Bundan kim sorumlu?
+more|Can I have more bread?|Biraz daha ekmek alabilir miyim?
+the most|This is the most beautiful beach.|Bu en güzel plaj.
+as … as|He's as tall as his father.|Babası kadar uzun boylu.
+similar|Our ideas are very similar.|Fikirlerimiz çok benzer.
+different|We're very different.|Çok farklıyız.
+the same|We have the same car.|Aynı arabaya sahibiz.
+just like|You look just like your mother.|Tıpkı annen gibi görünüyorsun.
+# u38
+inside|Let's go inside, it's raining.|İçeri girelim, yağmur yağıyor.
+outside|The children are playing outside.|Çocuklar dışarıda oynuyor.
+upstairs|The bedrooms are upstairs.|Yatak odaları yukarıda.
+downstairs|The kitchen is downstairs.|Mutfak aşağıda.
+everywhere|I looked everywhere for my keys.|Anahtarlarımı her yerde aradım.
+nowhere|There's nowhere to park.|Park edecek hiçbir yer yok.
+somewhere|I left my phone somewhere.|Telefonumu bir yerde bıraktım.
+before|I've seen this film before.|Bu filmi daha önce gördüm.
+then|First we ate, then we went for a walk.|Önce yemek yedik, sonra yürüyüşe çıktık.
+finally|Finally, the bus arrived.|Sonunda otobüs geldi.
+suddenly|Suddenly the lights went out.|Aniden ışıklar söndü.
+still|Are you still at work?|Hâlâ işte misin?
+once|I've been to Paris once.|Paris'e bir kez gittim.
+again|Can you say that again?|Bunu tekrar söyler misin?
+together|Let's do it together.|Birlikte yapalım.
+alone|She lives alone.|Tek başına yaşıyor.
+carefully|Drive carefully!|Dikkatli sür!
+quietly|Close the door quietly.|Kapıyı sessizce kapat.
+loudly|He always speaks loudly.|Hep yüksek sesle konuşur.
+correctly|Did I say that correctly?|Bunu doğru söyledim mi?
+by accident|I broke it by accident.|Yanlışlıkla kırdım.
+however|It was expensive. However, it was worth it.|Pahalıydı. Ancak buna değdi.
+by the way|By the way, I saw Tom yesterday.|Bu arada, dün Tom'u gördüm.
+for example|I like fruit, for example apples.|Meyve severim, örneğin elma.
+besides|Besides English, she speaks French.|İngilizcenin yanı sıra Fransızca da konuşuyor.
+despite|We went out despite the rain.|Yağmura rağmen dışarı çıktık.
+thus|He trained hard and thus won the race.|Sıkı çalıştı ve böylece yarışı kazandı.
+otherwise|Hurry, otherwise we'll be late.|Acele et, yoksa geç kalacağız.
+which|Which colour do you prefer?|Hangi rengi tercih edersin?
+whose|Whose bag is this?|Bu kimin çantası?
+how long|How long does the trip take?|Yolculuk ne kadar sürüyor?
+how often|How often do you go to the gym?|Spor salonuna ne sıklıkla gidiyorsun?
+why not|"Shall we go to the beach?" – "Why not?"|"Plaja gidelim mi?" – "Neden olmasın?"
+what kind of|What kind of music do you like?|Ne tür müzik seversin?
+how many|How many brothers do you have?|Kaç erkek kardeşin var?
+# u39
+state|The state pays for schools.|Okulların masrafını devlet karşılıyor.
+government|The government announced new taxes.|Hükümet yeni vergiler açıkladı.
+president|The president gave a speech.|Cumhurbaşkanı bir konuşma yaptı.
+election|The election is next month.|Seçim gelecek ay.
+vote|Who did you vote for?|Kime oy verdin?
+law|It's against the law.|Bu yasaya aykırı.
+citizen|Every citizen has the right to vote.|Her vatandaşın oy hakkı vardır.
+court|The case went to court.|Dava mahkemeye gitti.
+judge|The judge listened to both sides.|Hâkim iki tarafı da dinledi.
+crime|Crime has gone down in the city.|Şehirde suç azaldı.
+thief|The police caught the thief.|Polis hırsızı yakaladı.
+fine|I got a parking fine.|Park cezası yedim.
+rule|Those are the rules.|Kurallar bunlar.
+right (legal)|Everyone has the right to education.|Herkesin eğitim hakkı vardır.
+news|Have you heard the news?|Haberleri duydun mu?
+newspaper|My father reads the newspaper every morning.|Babam her sabah gazete okur.
+radio|I listen to the radio in the car.|Arabada radyo dinlerim.
+advertisement|I saw an advertisement for the job.|İş için bir ilan gördüm.
+article|I read an interesting article.|İlginç bir makale okudum.
+interview|There's an interview with the actor in the paper.|Gazetede oyuncuyla bir röportaj var.
+programme|This programme is very popular.|Bu program çok popüler.
+society|We live in a modern society.|Modern bir toplumda yaşıyoruz.
+population|The population of the city is growing.|Şehrin nüfusu artıyor.
+culture|I'm interested in Japanese culture.|Japon kültürüyle ilgileniyorum.
+tradition|It's an old family tradition.|Bu eski bir aile geleneği.
+religion|Religion is important to him.|Din onun için önemli.
+war|My grandfather fought in the war.|Dedem savaşta savaştı.
+peace|We all want peace.|Hepimiz barış istiyoruz.
+event|The event starts at seven.|Etkinlik yedide başlıyor.
+problem|We have a problem.|Bir sorunumuz var.
+solution|There's a simple solution.|Basit bir çözüm var.
+crisis|The country is in an economic crisis.|Ülke ekonomik bir kriz içinde.
+development|The development of the city was fast.|Şehrin gelişimi hızlı oldu.
+success|The party was a big success.|Parti büyük bir başarıydı.
+debate|There was a debate on TV.|Televizyonda bir tartışma programı vardı.
+# u40
+bank branch|There's a bank branch on the main street.|Ana caddede bir banka şubesi var.
+cash machine|Is there a cash machine near here?|Buralarda ATM var mı?
+interest|The interest on the loan is high.|Kredinin faizi yüksek.
+loan|We took out a loan for the house.|Ev için kredi çektik.
+debt|He has a lot of debt.|Çok borcu var.
+transfer|I'll make a transfer tomorrow.|Yarın havale yapacağım.
+currency|What currency do they use in Japan?|Japonya'da hangi para birimini kullanıyorlar?
+banknote|This is an old banknote.|Bu eski bir banknot.
+euro|One coffee costs two euros.|Bir kahve iki euro.
+dollar|The dollar went up today.|Bugün dolar yükseldi.
+Turkish lira|Can I pay in Turkish lira?|Türk lirasıyla ödeyebilir miyim?
+budget|We're on a tight budget.|Bütçemiz kısıtlı.
+cost|The cost of living is high here.|Burada hayat pahalı.
+withdraw money|I need to withdraw money.|Para çekmem lazım.
+deposit|I'd like to deposit this cheque.|Bu çeki yatırmak istiyorum.
+change money|Where can I change money?|Nerede döviz bozdurabilirim?
+lend|Can you lend me ten pounds?|Bana on pound borç verebilir misin?
+invest|He invested in property.|Gayrimenkule yatırım yaptı.
+sell|We're selling our car.|Arabamızı satıyoruz.
+rent|We rented a car for a week.|Bir haftalığına araba kiraladık.
+the rent|The rent is due on the first.|Kira ayın birinde ödeniyor.
+landlord|Our landlord is very nice.|Ev sahibimiz çok iyi biri.
+tenant|The new tenants moved in yesterday.|Yeni kiracılar dün taşındı.
+security deposit|We paid a security deposit of two months.|İki aylık depozito ödedik.
+electricity|The electricity bill is very high.|Elektrik faturası çok yüksek.
+heating|The heating isn't working.|Kalorifer çalışmıyor.
+move house|We're going to move house next month.|Gelecek ay taşınacağız.
+economy|The economy is growing.|Ekonomi büyüyor.
+inflation|Inflation is very high this year.|Bu yıl enflasyon çok yüksek.
+tax|We pay a lot of tax.|Çok vergi ödüyoruz.
+unemployment|Unemployment has fallen.|İşsizlik azaldı.
+export|Tea is a major export of Sri Lanka.|Çay Sri Lanka'nın başlıca ihraç ürünlerinden.
+import|The country depends on food imports.|Ülke gıda ithalatına bağımlı.
+market|There's a market on Saturdays.|Cumartesileri pazar kuruluyor.
+# u41
+environment|We must protect the environment.|Çevreyi korumalıyız.
+pollution|Air pollution is a big problem.|Hava kirliliği büyük bir sorun.
+recycling|Recycling is important.|Geri dönüşüm önemlidir.
+climate|The climate here is mild.|Buranın iklimi ılıman.
+energy|We need to save energy.|Enerji tasarrufu yapmamız gerekiyor.
+solar power|Our house uses solar power.|Evimiz güneş enerjisi kullanıyor.
+protect|Sun cream protects your skin.|Güneş kremi cildini korur.
+continent|Africa is a huge continent.|Afrika kocaman bir kıta.
+ocean|The Pacific is the biggest ocean.|Pasifik en büyük okyanus.
+peninsula|Italy is a peninsula.|İtalya bir yarımadadır.
+volcano|Etna is an active volcano.|Etna aktif bir yanardağ.
+cave|We explored a cave.|Bir mağarayı keşfettik.
+glacier|The glacier is melting.|Buzul eriyor.
+sand|The children are playing in the sand.|Çocuklar kumda oynuyor.
+earthquake|There was an earthquake last night.|Dün gece deprem oldu.
+flood|The flood destroyed many houses.|Sel birçok evi yıktı.
+drought|The drought lasted all summer.|Kuraklık bütün yaz sürdü.
+hurricane|The hurricane hit the coast.|Kasırga kıyıyı vurdu.
+tsunami|The earthquake caused a tsunami.|Deprem bir tsunamiye yol açtı.
+landslide|A landslide blocked the road.|Heyelan yolu kapattı.
+avalanche|The skiers were caught in an avalanche.|Kayakçılar çığa yakalandı.
+field|The cows are in the field.|İnekler tarlada.
+barn|The horses are in the barn.|Atlar ahırda.
+tractor|The farmer is driving a tractor.|Çiftçi traktör sürüyor.
+harvest|The harvest was good this year.|Bu yıl hasat iyiydi.
+sow|Farmers sow wheat in autumn.|Çiftçiler buğdayı sonbaharda eker.
+soil|The soil here is very rich.|Buranın toprağı çok verimli.
+water well|There's an old water well in the village.|Köyde eski bir kuyu var.
+degree|It's twenty degrees outside.|Dışarıda yirmi derece.
+humidity|The humidity is very high today.|Bugün nem çok yüksek.
+weather forecast|What does the weather forecast say?|Hava tahmini ne diyor?
+sunny|It's sunny today.|Bugün hava güneşli.
+cloudy|It's cloudy, but it's not raining.|Hava bulutlu ama yağmur yağmıyor.
+rainy|It was a rainy day.|Yağmurlu bir gündü.
+windy|It's very windy by the sea.|Deniz kenarında çok rüzgâr var.
+# u42
+be born|I was born in Ankara.|Ankara'da doğdum.
+infancy|He was ill in his infancy.|Bebekliğinde hastaydı.
+childhood|I had a happy childhood.|Mutlu bir çocukluğum oldu.
+youth|In his youth he played football.|Gençliğinde futbol oynardı.
+adult|Tickets for adults are ten pounds.|Yetişkin biletleri on pound.
+old age|She was active until old age.|Yaşlılığına kadar aktifti.
+die|Her grandfather died last year.|Dedesi geçen yıl öldü.
+birth|Congratulations on the birth of your son!|Oğlunuzun doğumu kutlu olsun!
+engagement|They announced their engagement.|Nişanlarını duyurdular.
+graduation|My parents came to my graduation.|Annemle babam mezuniyetime geldi.
+funeral|Many people came to the funeral.|Cenazeye çok insan geldi.
+anniversary|Today is our wedding anniversary.|Bugün evlilik yıl dönümümüz.
+retirement|He enjoys his retirement.|Emekliliğinin tadını çıkarıyor.
+festival|The village has a festival every summer.|Köyde her yaz şenlik yapılıyor.
+pram|She's pushing the baby in a pram.|Bebeği bebek arabasında itiyor.
+nappy|The baby needs a clean nappy.|Bebeğin temiz bez lazım.
+playground|The kids are at the playground.|Çocuklar oyun parkında.
+kindergarten|My son goes to kindergarten.|Oğlum anaokuluna gidiyor.
+cradle|The baby is sleeping in the cradle.|Bebek beşikte uyuyor.
+dummy|The baby wants his dummy.|Bebek emziğini istiyor.
+fairy tale|Grandma told us a fairy tale.|Büyükanne bize bir masal anlattı.
+guest|We have guests tonight.|Bu akşam misafirimiz var.
+shopping list|Don't forget the shopping list.|Alışveriş listesini unutma.
+dishwasher|Put the plates in the dishwasher.|Tabakları bulaşık makinesine koy.
+clothes iron|The clothes iron is too hot.|Ütü çok sıcak.
+coat hanger|Can I have a coat hanger?|Bir askı alabilir miyim?
+doorbell|The doorbell is ringing.|Kapı zili çalıyor.
+letterbox|There's a letter in the letterbox.|Posta kutusunda bir mektup var.
+pet|Do you have a pet?|Evcil hayvanın var mı?
+pet food|We need to buy pet food.|Mama almamız lazım.
+lead|Keep your dog on a lead.|Köpeğini tasmalı tut.
+vet|We took the cat to the vet.|Kediyi veterinere götürdük.
+aquarium|We have fish in an aquarium.|Akvaryumda balıklarımız var.
+cage|The bird is in its cage.|Kuş kafesinde.
+puppy|We got a new puppy.|Yeni bir yavru köpek aldık.
+# u43
+idea|That's a great idea!|Bu harika bir fikir!
+thought|That's an interesting thought.|Bu ilginç bir düşünce.
+meaning|What's the meaning of this word?|Bu kelimenin anlamı ne?
+reason|There's no reason to worry.|Endişelenmek için bir sebep yok.
+aim|Our aim is to help people.|Amacımız insanlara yardım etmek.
+example|Can you give me an example?|Bana bir örnek verebilir misin?
+truth|Tell me the truth.|Bana gerçeği söyle.
+happiness|Money doesn't bring happiness.|Para mutluluk getirmez.
+sadness|I could see the sadness in her eyes.|Gözlerindeki üzüntüyü görebiliyordum.
+fear|He has a fear of flying.|Uçma korkusu var.
+hope|Never lose hope.|Umudunu asla kaybetme.
+anger|He couldn't control his anger.|Öfkesini kontrol edemedi.
+joy|She cried with joy.|Sevinçten ağladı.
+peace of mind|Insurance gives you peace of mind.|Sigorta size huzur verir.
+beauty|The beauty of the place took my breath away.|Yerin güzelliği nefesimi kesti.
+strength|You need strength for this job.|Bu iş için güç gerekir.
+health|Health is more important than money.|Sağlık paradan önemlidir.
+freedom|Freedom is very important to me.|Özgürlük benim için çok önemli.
+knowledge|Knowledge is power.|Bilgi güçtür.
+experience|Do you have any experience?|Hiç deneyimin var mı?
+ability|She has the ability to learn fast.|Hızlı öğrenme yeteneği var.
+conversation|We had a long conversation.|Uzun bir konuşma yaptık.
+chat|Let's have a chat over coffee.|Kahve eşliğinde sohbet edelim.
+advice|Can I give you some advice?|Sana bir tavsiye verebilir miyim?
+request|I have a small request.|Küçük bir ricam var.
+argument|They had an argument about money.|Para yüzünden kavga ettiler.
+a promise|A promise is a promise.|Söz sözdür.
+apology|I owe you an apology.|Sana bir özür borçluyum.
+plan|What's the plan for tomorrow?|Yarın için plan ne?
+routine|I have a morning routine.|Bir sabah rutinim var.
+a change|I need a change.|Bir değişikliğe ihtiyacım var.
+habit|Smoking is a bad habit.|Sigara içmek kötü bir alışkanlık.
+opportunity|This is a great opportunity.|Bu harika bir fırsat.
+luck|Good luck with your new job!|Yeni işinde bol şans!
+risk|It's a big risk.|Bu büyük bir risk.
+# u44
+cream|Put some cream on your hands.|Ellerine biraz krem sür.
+perfume|What perfume are you wearing?|Hangi parfümü sürdün?
+make-up|She doesn't wear make-up.|Makyaj yapmıyor.
+shave|He shaves every morning.|Her sabah tıraş olur.
+deodorant|Don't forget your deodorant.|Deodorantını unutma.
+toothpaste|We've run out of toothpaste.|Diş macunumuz bitti.
+hairdryer|Is there a hairdryer in the room?|Odada saç kurutma makinesi var mı?
+have a shower|I have a shower every morning.|Her sabah duş alırım.
+have a bath|The children have a bath before bed.|Çocuklar yatmadan önce banyo yapar.
+get a haircut|I need to get a haircut.|Saçımı kestirmem lazım.
+fingernail|She broke a fingernail.|Bir tırnağını kırdı.
+beard|My father has a grey beard.|Babamın gri bir sakalı var.
+toilet paper|We need toilet paper.|Tuvalet kâğıdı lazım.
+tissue|Do you have a tissue?|Mendilin var mı?
+diet|I'm on a diet.|Diyetteyim.
+lose weight|He wants to lose weight.|Kilo vermek istiyor.
+put on weight|I put on weight during the holidays.|Tatilde kilo aldım.
+vitamin|Oranges are full of vitamin C.|Portakal C vitamini doludur.
+healthy eating|Healthy eating is the key to a long life.|Sağlıklı beslenme uzun ömrün anahtarıdır.
+exercise|Exercise is good for you.|Egzersiz sana iyi gelir.
+jogging|I go jogging in the park.|Parkta hafif koşuya çıkarım.
+sleepy|I'm sleepy. I'm going to bed.|Uykum geldi. Yatmaya gidiyorum.
+snore|My husband snores very loudly.|Kocam çok yüksek sesle horluyor.
+nightmare|I had a nightmare last night.|Dün gece kâbus gördüm.
+alarm clock|My alarm clock didn't go off.|Çalar saatim çalmadı.
+nap|I usually have a nap after lunch.|Genelde öğle yemeğinden sonra şekerleme yaparım.
+insomnia|She suffers from insomnia.|Uykusuzluk çekiyor.
+have a dream|I had a dream about you.|Seni rüyamda gördüm.
+button|A button fell off my shirt.|Gömleğimden bir düğme düştü.
+pocket|The keys are in my pocket.|Anahtarlar cebimde.
+collar|Your collar is dirty.|Yakan kirli.
+sleeve|The sleeves are too long.|Kollar çok uzun.
+shoelaces|Tie your shoelaces!|Ayakkabı bağlarını bağla!
+slippers|Put on your slippers.|Terliklerini giy.
+boots|I need warm boots for the winter.|Kış için sıcak çizmelere ihtiyacım var.
+# u45
+I think so too|"It's a good film." – "I think so too."|"İyi bir film." – "Bence de."
+it doesn't matter|You're late? It doesn't matter.|Geç mi kaldın? Fark etmez.
+never mind|Never mind, we can do it tomorrow.|Boş ver, yarın yaparız.
+how nice!|You made a cake? How nice!|Pasta mı yaptın? Ne güzel!
+exactly|"So we meet at six?" – "Exactly."|"Yani altıda buluşuyoruz?" – "Aynen."
+I'm joking|Don't be angry, I'm joking!|Kızma, şaka yapıyorum!
+are you serious?|You quit your job? Are you serious?|İşinden mi ayrıldın? Ciddi misin?
+can I help you?|Good morning, can I help you?|Günaydın, yardım edebilir miyim?
+would you like …?|Would you like a cup of tea?|Bir fincan çay ister misin?
+could you …?|Could you open the window, please?|Pencereyi açabilir misiniz lütfen?
+have you got a minute?|Have you got a minute? I need to talk to you.|Bir dakikanız var mı? Sizinle konuşmam lazım.
+if you don't mind|I'll sit here, if you don't mind.|Sakıncası yoksa buraya oturacağım.
+sorry to bother you|Sorry to bother you, but where is the exit?|Rahatsız ettiğim için kusura bakmayın, çıkış nerede?
+thanks for your help|Thanks for your help with the move.|Taşınmadaki yardımınız için teşekkürler.
+I'm very happy|I'm very happy for you!|Senin adına çok mutluyum!
+I'm exhausted|I worked twelve hours. I'm exhausted.|On iki saat çalıştım. Çok yoruldum.
+I feel down|I feel down today, I don't know why.|Bugün canım sıkkın, nedenini bilmiyorum.
+I'm excited|I'm excited about tomorrow!|Yarın için heyecanlıyım!
+I'm worried|I'm worried about my exam.|Sınavım için endişeliyim.
+I'm surprised|I'm surprised you're here!|Burada olmana şaşırdım!
+I'm relieved|The test was negative. I'm relieved.|Test negatif çıktı. Rahatladım.
+where is the nearest …?|Excuse me, where is the nearest pharmacy?|Affedersiniz, en yakın eczane nerede?
+how far is it?|The museum? How far is it?|Müze mi? Ne kadar uzakta?
+how long on foot?|How long on foot to the station?|İstasyona yürüyerek ne kadar sürer?
+does this bus go to …?|Does this bus go to the airport?|Bu otobüs havalimanına gider mi?
+can you show me on the map?|I'm lost. Can you show me on the map?|Kayboldum. Haritada gösterir misiniz?
+am I on the right way?|Am I on the right way to the castle?|Kaleye giden doğru yolda mıyım?
+second turning on the right|Take the second turning on the right.|İkinci sokaktan sağa dönün.
+can I have the menu?|Excuse me, can I have the menu?|Affedersiniz, menüyü alabilir miyim?
+what do you recommend?|Everything looks good. What do you recommend?|Her şey güzel görünüyor. Ne önerirsiniz?
+let's split the bill|Let's split the bill, OK?|Hesabı bölelim, tamam mı?
+can I pay by card?|Can I pay by card, or only cash?|Kartla ödeyebilir miyim, yoksa sadece nakit mi?
+this isn't what I ordered|Excuse me, this isn't what I ordered.|Affedersiniz, bunu sipariş etmedim.
+can I have some water?|Can I have some water, please?|Biraz su alabilir miyim lütfen?
+it was delicious|Thank you, it was delicious!|Teşekkürler, çok lezzetliydi!
+# B2 — siyaset
+parliament|Parliament passed a new law.|Meclis yeni bir yasa kabul etti.
+ministry|The Ministry of Education announced a reform.|Eğitim Bakanlığı bir reform açıkladı.
+minister|The minister answered the journalists' questions.|Bakan gazetecilerin sorularını yanıtladı.
+mayor|The mayor opened a new park.|Belediye başkanı yeni bir park açtı.
+town hall|You can get this document at the town hall.|Bu belgeyi belediye binasından alabilirsiniz.
+the authorities|The authorities closed the road.|Yetkililer yolu kapattı.
+constitution|The constitution protects our freedoms.|Anayasa özgürlüklerimizi korur.
+political party|She joined a political party.|Bir siyasi partiye katıldı.
+opposition|The opposition criticised the government.|Muhalefet hükümeti eleştirdi.
+candidate|The candidate spoke in the square.|Aday meydanda konuştu.
+voter|Every voter has one vote.|Her seçmenin bir oyu vardır.
+ballot|Put your ballot in the box.|Oy pusulanızı sandığa atın.
+election campaign|The election campaign has started.|Seçim kampanyası başladı.
+majority|The majority voted in favour.|Çoğunluk lehte oy verdi.
+reform|The reform will take several years.|Reform birkaç yıl sürecek.
+politics|I'm not very interested in politics.|Siyasete pek ilgi duymuyorum.
+decree|The president signed the decree.|Cumhurbaşkanı kararnameyi imzaladı.
+administration|The administration is very slow.|Yönetim çok yavaş.
+corruption|The fight against corruption continues.|Yolsuzlukla mücadele sürüyor.
+transparency|Citizens are demanding more transparency.|Vatandaşlar daha fazla şeffaflık istiyor.
+responsibility|It's a big responsibility.|Bu büyük bir sorumluluk.
+diplomacy|The conflict was solved through diplomacy.|Çatışma diplomasiyle çözüldü.
+embassy|The embassy issues visas.|Büyükelçilik vize veriyor.
+ambassador|The ambassador met the minister.|Büyükelçi bakanla görüştü.
+treaty|The two countries signed a peace treaty.|İki ülke bir barış antlaşması imzaladı.
+negotiations|The negotiations lasted all night.|Müzakereler bütün gece sürdü.
+sanctions|The sanctions are hurting the economy.|Yaptırımlar ekonomiye zarar veriyor.
+international|It's an international conference.|Bu uluslararası bir konferans.
+elect|Americans elect their president every four years.|Amerikalılar dört yılda bir cumhurbaşkanı seçer.
+govern|It's not easy to govern a country.|Bir ülkeyi yönetmek kolay değildir.
+support|We support this project.|Bu projeyi destekliyoruz.
+oppose|Local people oppose the new airport.|Yerel halk yeni havalimanına karşı çıkıyor.
+pass a law|The government wants to pass a law on climate.|Hükümet iklimle ilgili bir yasa çıkarmak istiyor.
+criticise|It's easy to criticise others.|Başkalarını eleştirmek kolaydır.
+resign|The minister decided to resign.|Bakan istifa etmeye karar verdi.
+# B2 — hukuk
+trial|The trial lasted two years.|Dava iki yıl sürdü.
+the accused|The accused denied everything.|Sanık her şeyi inkâr etti.
+witness|The witness saw everything.|Tanık her şeyi gördü.
+prosecutor|The prosecutor asked for five years in prison.|Savcı beş yıl hapis istedi.
+jury|The jury reached a decision.|Jüri bir karara vardı.
+verdict|The verdict was announced this morning.|Karar bu sabah açıklandı.
+appeal|The lawyer lodged an appeal.|Avukat temyize başvurdu.
+evidence|The police have no evidence.|Polisin hiçbir kanıtı yok.
+investigation|The investigation is still going on.|Soruşturma hâlâ sürüyor.
+prison|The thief went to prison.|Hırsız hapse girdi.
+arrest|The police arrested the suspect.|Polis şüpheliyi tutukladı.
+fraud|He was accused of fraud.|Dolandırıcılıkla suçlandı.
+smuggling|They were caught smuggling cigarettes.|Sigara kaçakçılığı yaparken yakalandılar.
+violence|Violence is never the answer.|Şiddet asla çözüm değildir.
+justice|People want justice.|İnsanlar adalet istiyor.
+equality|Equality between men and women is important.|Kadın erkek eşitliği önemlidir.
+discrimination|Discrimination is against the law.|Ayrımcılık yasaya aykırıdır.
+human rights|We must defend human rights.|İnsan haklarını savunmalıyız.
+freedom of speech|Freedom of speech is essential.|İfade özgürlüğü vazgeçilmezdir.
+privacy|Please respect my privacy.|Lütfen özel hayatıma saygı gösterin.
+security|Passenger security is our priority.|Yolcu güvenliği önceliğimizdir.
+clause|Read this clause of the contract carefully.|Sözleşmenin bu maddesini dikkatle okuyun.
+notary|We have to sign it at the notary.|Noterde imzalamamız gerekiyor.
+power of attorney|I gave my brother power of attorney.|Kardeşime vekâlet verdim.
+application form|Please fill in the application form.|Lütfen başvuru formunu doldurun.
+permit|Do you have a work permit?|Çalışma izniniz var mı?
+notification|I got a notification from the bank.|Bankadan bir bildirim aldım.
+stamp|The document needs an official stamp.|Belgede resmî bir mühür olması gerekiyor.
+accuse|They accused him of stealing.|Onu hırsızlıkla suçladılar.
+prove|Can you prove it?|Bunu kanıtlayabilir misin?
+violate|The company violated the rules.|Şirket kuralları ihlal etti.
+defend in court|She will defend in court a man accused of fraud.|Dolandırıcılıkla suçlanan bir adamı mahkemede savunacak.
+sue|She decided to sue the company.|Şirkete dava açmaya karar verdi.
+punish|Children shouldn't be punished too harshly.|Çocuklar çok sert cezalandırılmamalı.
+acquit|The court acquitted him.|Mahkeme onu beraat ettirdi.
+# B2 — ekonomi
+shareholder|The shareholders met yesterday.|Hissedarlar dün toplandı.
+stock|The company's stock went up.|Şirketin hisseleri yükseldi.
+board of directors|The board of directors approved the plan.|Yönetim kurulu planı onayladı.
+branch office|The bank opened a new branch office.|Banka yeni bir şube açtı.
+entrepreneur|He's a young entrepreneur.|Genç bir girişimci.
+business|She runs a small business.|Küçük bir işletme işletiyor.
+bankruptcy|The company is close to bankruptcy.|Şirket iflasın eşiğinde.
+income|Her income has gone up.|Geliri arttı.
+expenses|We need to cut our expenses.|Giderlerimizi kısmamız gerekiyor.
+profit|This year the profit is higher.|Bu yıl kâr daha yüksek.
+loss|The shop made a loss.|Mağaza zarar etti.
+turnover|Our turnover doubled.|Ciromuz ikiye katlandı.
+funds|We don't have enough funds to start.|Başlamak için yeterli sermayemiz yok.
+investments|Investments in education pay off.|Eğitime yapılan yatırımlar karşılığını verir.
+demand|Demand for electric cars is growing.|Elektrikli arabalara talep artıyor.
+supply|Supply is greater than demand.|Arz talepten fazla.
+competition|There's strong competition in this market.|Bu piyasada sert bir rekabet var.
+competitor|Our competitor lowered its prices.|Rakibimiz fiyatlarını düşürdü.
+monopoly|The company has a monopoly.|Şirketin tekeli var.
+consumer|Consumers want quality.|Tüketiciler kalite istiyor.
+price rise|The price rise worries everyone.|Fiyat artışı herkesi endişelendiriyor.
+supplier|The supplier delivered late.|Tedarikçi geç teslim etti.
+delivery|Delivery is free.|Teslimat ücretsiz.
+tender|We won the tender.|İhaleyi kazandık.
+negotiate|The manager knows how to negotiate.|Müdür pazarlık etmeyi bilir.
+trade agreement|The two countries signed a trade agreement.|İki ülke bir ticaret anlaşması imzaladı.
+business partner|My business partner handles the finances.|İş ortağım finansla ilgileniyor.
+brand|It's a well-known brand.|Bu tanınmış bir marka.
+start a business|She wants to start a business.|Bir şirket kurmak istiyor.
+expand|Our company is expanding fast.|Şirketimiz hızla büyüyor.
+make a profit|The company has started to make a profit.|Şirket kâr etmeye başladı.
+attract investors|The city wants to attract investors.|Şehir yatırımcı çekmek istiyor.
+trade|Turkey trades with many countries.|Türkiye birçok ülkeyle ticaret yapıyor.
+bargain|At the bazaar you can bargain.|Çarşıda pazarlık yapabilirsin.
+go bankrupt|The restaurant went bankrupt in a year.|Restoran bir yılda iflas etti.
+# B2 — bilim
+research|She works in medical research.|Tıbbi araştırmada çalışıyor.
+experiment|The experiment was a success.|Deney başarılı oldu.
+hypothesis|The researchers are testing their hypothesis.|Araştırmacılar hipotezlerini test ediyor.
+theory|Einstein's theory changed physics.|Einstein'ın teorisi fiziği değiştirdi.
+discovery|It's an important discovery.|Bu önemli bir keşif.
+method|It's a new teaching method.|Bu yeni bir öğretim yöntemi.
+data|The data shows an increase.|Veriler bir artış gösteriyor.
+scientist|My father is a scientist.|Babam bir bilim insanı.
+researcher|Researchers are studying the climate.|Araştırmacılar iklimi inceliyor.
+expert|We need an expert's opinion.|Bir uzmanın görüşüne ihtiyacımız var.
+inventor|The inventor built a new machine.|Mucit yeni bir makine yaptı.
+academy|He's a member of the Academy of Sciences.|Bilimler Akademisi üyesi.
+laboratory|She does experiments in the laboratory.|Laboratuvarda deney yapıyor.
+scientific journal|The article appeared in a scientific journal.|Makale bilimsel bir dergide yayımlandı.
+cell|Every cell contains DNA.|Her hücre DNA içerir.
+gene|This gene decides eye colour.|Bu gen göz rengini belirler.
+molecule|A water molecule is very small.|Su molekülü çok küçüktür.
+evolution|Darwin wrote about evolution.|Darwin evrim hakkında yazdı.
+gravity|Gravity pulls things towards the ground.|Yer çekimi nesneleri yere doğru çeker.
+speed of light|Nothing is faster than the speed of light.|Hiçbir şey ışık hızından hızlı değildir.
+matter|Matter is made of atoms.|Madde atomlardan oluşur.
+measurement|The temperature measurement is accurate.|Sıcaklık ölçümü kesin.
+calculation|The calculation is wrong.|Hesap yanlış.
+model|Scientists built a model of the climate.|Bilim insanları bir iklim modeli oluşturdu.
+analysis|The analysis of the data took a week.|Verilerin analizi bir hafta sürdü.
+statistics|The statistics say the opposite.|İstatistikler aksini söylüyor.
+formula|Remember this formula.|Bu formülü aklında tut.
+equation|Solve this equation.|Bu denklemi çöz.
+do research|I'm doing research on the history of London.|Londra tarihi hakkında araştırma yapıyorum.
+discover|Researchers discovered a new species.|Araştırmacılar yeni bir tür keşfetti.
+invent|Who invented the telephone?|Telefonu kim icat etti?
+observe|Scientists observe the stars at night.|Bilim insanları geceleri yıldızları gözlemler.
+measure|Measure the length of the table.|Masanın uzunluğunu ölç.
+analyse|We are analysing the results.|Sonuçları analiz ediyoruz.
+publish|The journal publishes scientific articles.|Dergi bilimsel makaleler yayımlıyor.
+# B2 — teknoloji
+software|We need to update the software.|Yazılımı güncellememiz gerekiyor.
+computer program|This computer program is very useful.|Bu bilgisayar programı çok kullanışlı.
+code|He writes code in Python.|Python'da kod yazıyor.
+developer|My brother is a game developer.|Kardeşim oyun geliştiricisi.
+bug|There's a bug in the app.|Uygulamada bir hata var.
+version|The new version is out.|Yeni sürüm çıktı.
+algorithm|The algorithm chooses videos for you.|Algoritma videoları senin için seçiyor.
+artificial intelligence|Artificial intelligence is developing fast.|Yapay zekâ hızla gelişiyor.
+robot|A robot cleans the house.|Bir robot evi temizliyor.
+server|The server isn't responding.|Sunucu yanıt vermiyor.
+the cloud|My photos are stored in the cloud.|Fotoğraflarım bulutta saklanıyor.
+database|The customers are in the database.|Müşteriler veritabanında.
+network|The computer can't find the network.|Bilgisayar ağı bulamıyor.
+digital|We live in a digital age.|Dijital bir çağda yaşıyoruz.
+encryption|Encryption protects your messages.|Şifreleme mesajlarınızı korur.
+cyberattack|The bank suffered a cyberattack.|Banka bir siber saldırıya uğradı.
+hacker|A hacker broke into the website.|Bir hacker web sitesine sızdı.
+personal data|Protect your personal data.|Kişisel verilerinizi koruyun.
+firewall|The firewall blocks this site.|Güvenlik duvarı bu siteyi engelliyor.
+backup|Make a backup of your files.|Dosyalarının yedeğini al.
+authentication|Two-factor authentication is required.|İki aşamalı doğrulama gerekiyor.
+processor|This laptop has a fast processor.|Bu dizüstünün hızlı bir işlemcisi var.
+memory|The phone's memory is full.|Telefonun belleği dolu.
+sensor|The sensor measures the temperature.|Sensör sıcaklığı ölçüyor.
+smartwatch|My smartwatch counts my steps.|Akıllı saatim adımlarımı sayıyor.
+cable|I need a USB cable.|Bir USB kablosuna ihtiyacım var.
+battery life|This phone has great battery life.|Bu telefonun pil ömrü harika.
+screen resolution|The screen resolution is very high.|Ekran çözünürlüğü çok yüksek.
+develop software|Our team develops software for banks.|Ekibimiz bankalar için yazılım geliştiriyor.
+upgrade|I upgraded my laptop.|Dizüstü bilgisayarımı yükselttim.
+install|I'm installing a new app.|Yeni bir uygulama kuruyorum.
+back up|Back up your work regularly.|İşini düzenli olarak yedekle.
+encrypt|The app encrypts all messages.|Uygulama bütün mesajları şifreliyor.
+automate|We want to automate this task.|Bu görevi otomatikleştirmek istiyoruz.
+hack|Someone tried to hack my account.|Biri hesabımı hacklemeye çalıştı.
+# B2 — sağlık
+symptom|What are your symptoms?|Belirtileriniz neler?
+diagnosis|The doctor made a diagnosis.|Doktor teşhis koydu.
+check-up|I go for a check-up once a year.|Yılda bir kez kontrole giderim.
+blood test|I have a blood test tomorrow morning.|Yarın sabah kan tahlilim var.
+X-ray|They took an X-ray of my arm.|Kolumun röntgenini çektiler.
+blood pressure|My grandmother has high blood pressure.|Büyükannemin tansiyonu yüksek.
+chronic|He has a chronic cough.|Kronik bir öksürüğü var.
+treatment|The treatment lasts a month.|Tedavi bir ay sürüyor.
+therapy|Therapy helps her a lot.|Terapi ona çok yardımcı oluyor.
+recovery|I wish you a speedy recovery.|Acil şifalar dilerim.
+immunity|Vitamins boost your immunity.|Vitaminler bağışıklığını güçlendirir.
+side effect|This medicine has a side effect.|Bu ilacın bir yan etkisi var.
+dose|Don't take more than the stated dose.|Belirtilen dozdan fazlasını almayın.
+prevention|Prevention is better than cure.|Önlemek tedaviden iyidir.
+surgeon|The surgeon operated on the patient.|Cerrah hastayı ameliyat etti.
+cardiologist|I need to see a cardiologist.|Bir kardiyoloğa görünmem lazım.
+paediatrician|The paediatrician examined the child.|Çocuk doktoru çocuğu muayene etti.
+psychologist|The psychologist helped me deal with stress.|Psikolog stresle başa çıkmama yardım etti.
+eye specialist|The eye specialist checked my eyesight.|Göz doktoru görme yeteneğimi kontrol etti.
+clinic|It's a private clinic.|Bu özel bir klinik.
+medical staff|The medical staff work at night too.|Sağlık personeli geceleri de çalışıyor.
+infection|It's a viral infection.|Bu viral bir enfeksiyon.
+inflammation|He has an inflammation in his ear.|Kulağında iltihap var.
+diabetes|My grandfather has diabetes.|Dedemde diyabet var.
+cancer|Cancer is easier to treat if found early.|Kanser erken bulunursa daha kolay tedavi edilir.
+heart attack|Our neighbour had a heart attack.|Komşumuz kalp krizi geçirdi.
+epidemic|The flu epidemic is over.|Grip salgını sona erdi.
+depression|Depression is a real illness.|Depresyon gerçek bir hastalıktır.
+treat|This doctor treats her patients well.|Bu doktor hastalarını iyi tedavi eder.
+examine|The doctor examined my throat.|Doktor boğazımı muayene etti.
+diagnose|This disease is hard to diagnose.|Bu hastalığı teşhis etmek zor.
+prescribe|The doctor prescribed antibiotics.|Doktor antibiyotik yazdı.
+fall ill|I fell ill on holiday.|Tatilde hastalandım.
+catch a virus|I caught a virus at school.|Okulda bir virüs kaptım.
+recover|My grandmother is recovering quickly.|Büyükannem hızla toparlanıyor.
+# B2 — psikoloji
+character|She has a strong character.|Güçlü bir karakteri var.
+personality|He has a great personality.|Harika bir kişiliği var.
+self-confidence|He lacks self-confidence.|Özgüveni eksik.
+temperament|Children have different temperaments.|Çocukların mizaçları farklıdır.
+behaviour|His behaviour surprised me.|Davranışı beni şaşırttı.
+bad habit|Biting your nails is a bad habit.|Tırnak yemek kötü bir alışkanlık.
+arrogance|His arrogance is annoying.|Kibri sinir bozucu.
+modest|She's very modest about her success.|Başarısı konusunda çok alçakgönüllü.
+outspoken|She's very outspoken.|Çok açık sözlü.
+meticulous|He's meticulous about details.|Ayrıntılar konusunda çok titiz.
+optimistic|He's always optimistic.|Her zaman iyimser.
+loyal|A dog is a loyal friend.|Köpek sadık bir dosttur.
+helpful|My neighbour is very helpful.|Komşum çok yardımsever.
+persistent|Persistent people reach their goals.|Azimli insanlar hedeflerine ulaşır.
+pessimistic|Don't be so pessimistic.|Bu kadar kötümser olma.
+stubborn|My son is very stubborn.|Oğlum çok inatçı.
+moody|Teenagers are often moody.|Ergenler sık sık huysuz olur.
+reserved|She's a bit reserved at first.|İlk başta biraz çekingen.
+absent-minded|The professor is very absent-minded.|Profesör çok dalgın.
+cunning|The fox is a cunning animal.|Tilki kurnaz bir hayvandır.
+irritable|He gets irritable when he's tired.|Yorulunca çabuk sinirleniyor.
+consciousness|He lost consciousness.|Bilincini kaybetti.
+the subconscious|Dreams come from the subconscious.|Rüyalar bilinçaltından gelir.
+intuition|Trust your intuition.|Sezgine güven.
+imagination|Children have a lot of imagination.|Çocukların hayal gücü çok geniştir.
+attention|Thank you for your attention.|İlginiz için teşekkürler.
+motivation|I've lost my motivation.|Motivasyonumu kaybettim.
+stress|There's a lot of stress at work.|İşte çok stres var.
+regret|I regret what I said.|Söylediklerimden pişmanım.
+envy|I envy your patience.|Sabrını kıskanıyorum.
+be ashamed|I'm ashamed of my mistake.|Hatamdan utanıyorum.
+be proud of|Her parents are proud of her.|Ailesi onunla gurur duyuyor.
+suspect|The police suspect the neighbour.|Polis komşudan şüpheleniyor.
+be disappointed|I was disappointed with the film.|Filmden hayal kırıklığına uğradım.
+get used to|I'm getting used to my new life.|Yeni hayatıma alışıyorum.
+# B2 — medya
+headline|The headline is about the election.|Manşet seçimle ilgili.
+reporter|The reporter is at the scene.|Muhabir olay yerinde.
+editor|The editor corrected the article.|Editör makaleyi düzeltti.
+publishing house|A big publishing house is publishing her book.|Büyük bir yayınevi kitabını yayımlıyor.
+circulation|The newspaper has a circulation of one million.|Gazetenin tirajı bir milyon.
+censorship|Censorship is not allowed here.|Burada sansüre izin verilmez.
+press conference|The minister held a press conference.|Bakan bir basın toplantısı düzenledi.
+channel|Which channel is the match on?|Maç hangi kanalda?
+series|I'm watching a new series.|Yeni bir dizi izliyorum.
+live broadcast|The concert is a live broadcast.|Konser canlı yayınlanıyor.
+viewer|Viewers loved the show.|İzleyiciler programa bayıldı.
+listener|The radio thanked its listeners.|Radyo dinleyicilerine teşekkür etti.
+podcast|I listen to a podcast about history.|Tarih hakkında bir podcast dinliyorum.
+influencer|This influencer talks about travel.|Bu içerik üreticisi seyahat hakkında konuşuyor.
+source|Always check your sources.|Kaynaklarını her zaman kontrol et.
+fake news|That story is fake news.|O haber sahte.
+rumour|It's only a rumour.|Bu sadece bir söylenti.
+fact|It's a scientific fact.|Bu bilimsel bir gerçek.
+opinion|I have a different opinion.|Benim farklı bir görüşüm var.
+commentary|The expert gave a commentary on the match.|Uzman maç hakkında yorum yaptı.
+public opinion|Public opinion has changed.|Kamuoyu değişti.
+correspondence|We kept up a correspondence for years.|Yıllarca yazıştık.
+persuasion|He has great powers of persuasion.|Büyük bir ikna gücü var.
+disagreement|We had a small disagreement.|Aramızda küçük bir anlaşmazlık oldu.
+compromise|We reached a compromise.|Bir uzlaşmaya vardık.
+hint|Can you give me a hint?|Bana bir ipucu verebilir misin?
+dialogue|It's important to keep the dialogue open.|Diyaloğu açık tutmak önemli.
+speech|The president gave a speech.|Cumhurbaşkanı bir konuşma yaptı.
+inform|Please inform us of any changes.|Lütfen değişiklikleri bize bildirin.
+announce|The company announced new plans.|Şirket yeni planlar açıkladı.
+persuade|She persuaded me to come.|Gelmem için beni ikna etti.
+object|If nobody objects, let's start.|Kimse itiraz etmezse başlayalım.
+deny|The minister denied the rumours.|Bakan söylentileri yalanladı.
+exaggerate|You always exaggerate!|Hep abartıyorsun!
+emphasise|The teacher emphasised the main points.|Öğretmen ana noktaları vurguladı.
+# B2 — sanat
+stage|The actors are on stage.|Oyuncular sahnede.
+actor|He's a famous stage actor.|Ünlü bir tiyatro oyuncusu.
+director|The director is preparing a new film.|Yönetmen yeni bir film hazırlıyor.
+play (theatre)|The play starts at eight.|Oyun sekizde başlıyor.
+ballet|We went to see the ballet "Swan Lake".|"Kuğu Gölü" balesini izlemeye gittik.
+opera|I'm going to the opera for the first time.|İlk kez operaya gidiyorum.
+applause|The hall filled with applause.|Salon alkışlarla doldu.
+painter|Turner was a great English painter.|Turner büyük bir İngiliz ressamdı.
+canvas|The painter is working on a large canvas.|Ressam büyük bir tuval üzerinde çalışıyor.
+paintbrush|Take a thin paintbrush.|İnce bir fırça al.
+portrait|This is a portrait of my grandmother.|Bu büyükannemin portresi.
+landscape|I love winter landscapes.|Kış manzaralarına bayılırım.
+masterpiece|This painting is a masterpiece.|Bu tablo bir şaheser.
+gallery|The gallery shows young artists.|Galeri genç sanatçıların eserlerini sergiliyor.
+work of art|Every building here is a work of art.|Buradaki her bina bir sanat eseri.
+hero|The hero of the novel is a student.|Romanın kahramanı bir öğrenci.
+plot|The film has an exciting plot.|Filmin heyecanlı bir olay örgüsü var.
+poet|Keats was a famous poet.|Keats ünlü bir şairdi.
+short story|She writes short stories.|Öyküler yazıyor.
+reader|Readers are waiting for the new book.|Okurlar yeni kitabı bekliyor.
+translation|The Turkish translation came out in May.|Türkçe çevirisi mayısta çıktı.
+heritage|It's part of the country's cultural heritage.|Bu ülkenin kültürel mirasının bir parçası.
+folklore|Irish folklore is very rich.|İrlanda folkloru çok zengindir.
+craft|Local crafts attract tourists.|Yerel el sanatları turistleri çekiyor.
+carnival|The Notting Hill Carnival takes place in August.|Notting Hill Karnavalı ağustosta yapılır.
+collection|He has a large stamp collection.|Büyük bir pul koleksiyonu var.
+style|I like your style.|Tarzını seviyorum.
+creativity|Creativity is important in this job.|Bu işte yaratıcılık önemlidir.
+create|The artist creates new works.|Sanatçı yeni eserler yaratıyor.
+stage a play|The school is going to stage a play.|Okul bir oyun sahneleyecek.
+exhibit|The museum exhibits modern art.|Müze modern sanat eserleri sergiliyor.
+inspire|Nature inspires poets.|Doğa şairlere ilham verir.
+write a review|The journalist will write a review of the film.|Gazeteci film hakkında bir eleştiri yazacak.
+play a role|She plays the main role.|Başrolü oynuyor.
+compose|He composes film music.|Film müziği besteliyor.
+# B2 — eğitim ve kariyer
+bachelor's degree|I have a bachelor's degree in economics.|Ekonomi lisans diplomam var.
+master's degree|She's doing a master's degree in law.|Hukukta yüksek lisans yapıyor.
+PhD|He's doing a PhD in physics.|Fizikte doktora yapıyor.
+thesis|He's writing his thesis.|Tezini yazıyor.
+supervisor|My supervisor is very demanding.|Tez danışmanım çok titiz.
+enrolment|Enrolment at the university is in July.|Üniversite kaydı temmuzda.
+graduate|She's an Oxford graduate.|Oxford mezunu.
+internship|This summer I'm doing an internship at a bank.|Bu yaz bir bankada staj yapıyorum.
+promotion|She got a promotion.|Terfi aldı.
+CV|Please send us your CV.|Lütfen özgeçmişinizi bize gönderin.
+skill|It's a very useful skill.|Bu çok faydalı bir beceri.
+position|What position do you hold?|Hangi pozisyondasınız?
+work experience|I have five years' work experience.|Beş yıllık iş deneyimim var.
+career|He has had a successful career.|Başarılı bir kariyeri oldu.
+working day|My working day starts at nine.|İş günüm dokuzda başlıyor.
+overtime|Overtime is paid extra.|Fazla mesai ekstra ödenir.
+annual leave|I have twenty-five days of annual leave.|Yirmi beş gün yıllık iznim var.
+staff|The hotel staff were very friendly.|Otel personeli çok cana yakındı.
+workload|My workload is very heavy.|İş yüküm çok ağır.
+remote work|Remote work saves time.|Uzaktan çalışma zaman kazandırır.
+deadline|The deadline is on Friday.|Son tarih cuma.
+leadership|Leadership is an important quality.|Liderlik önemli bir özelliktir.
+efficiency|We need to improve efficiency.|Verimliliği artırmamız gerekiyor.
+flexibility|This job requires flexibility.|Bu iş esneklik gerektirir.
+initiative|The boss values initiative.|Patron girişkenliğe değer verir.
+time management|Good time management helps you do more.|İyi zaman yönetimi daha çok iş yapmanı sağlar.
+teamwork|This project is a result of teamwork.|Bu proje ekip çalışmasının sonucu.
+expertise|We need your expertise.|Uzmanlığına ihtiyacımız var.
+get promoted|I hope to get promoted this year.|Bu yıl terfi almayı umuyorum.
+quit your job|Don't quit your job before you find a new one.|Yenisini bulmadan işinden ayrılma.
+do an internship|Students must do an internship.|Öğrencilerin staj yapması gerekiyor.
+improve yourself|Reading is a good way to improve yourself.|Okumak kendini geliştirmenin iyi bir yolu.
+specialise|She specialises in international law.|Uluslararası hukukta uzmanlaşıyor.
+delegate|A good manager knows how to delegate.|İyi bir yönetici görev dağıtmayı bilir.
+supervise|The chef supervises the kitchen.|Şef mutfağı denetliyor.
+# B2 — çevre
+global warming|Global warming is a serious threat.|Küresel ısınma ciddi bir tehdit.
+climate change|Climate change affects everyone.|İklim değişikliği herkesi etkiliyor.
+emissions|Factories are reducing their emissions.|Fabrikalar emisyonlarını azaltıyor.
+greenhouse effect|The greenhouse effect is warming the planet.|Sera etkisi gezegeni ısıtıyor.
+carbon dioxide|Trees absorb carbon dioxide.|Ağaçlar karbondioksiti emer.
+ozone layer|The ozone layer protects the Earth.|Ozon tabakası Dünya'yı korur.
+melting glaciers|Melting glaciers make the sea level rise.|Eriyen buzullar deniz seviyesini yükseltiyor.
+renewable energy|The future belongs to renewable energy.|Gelecek yenilenebilir enerjinin.
+wind turbine|There's a wind turbine on the hill.|Tepede bir rüzgâr türbini var.
+solar panel|We have a solar panel on the roof.|Çatımızda bir güneş paneli var.
+nuclear power station|They are building a nuclear power station.|Bir nükleer santral inşa ediyorlar.
+oil|The price of oil has fallen.|Petrol fiyatı düştü.
+natural gas|The house is heated with natural gas.|Ev doğal gazla ısıtılıyor.
+coal|Coal pollutes the air.|Kömür havayı kirletir.
+natural resources|The country is rich in natural resources.|Ülke doğal kaynaklar açısından zengin.
+nature reserve|Rare birds live in the nature reserve.|Koruma alanında nadir kuşlar yaşıyor.
+endangered|The polar bear is an endangered animal.|Kutup ayısı nesli tükenmekte olan bir hayvan.
+deforestation|Deforestation is a serious problem.|Ormansızlaşma ciddi bir sorun.
+biodiversity|We must protect biodiversity.|Biyoçeşitliliği korumalıyız.
+ecosystem|The lake is a fragile ecosystem.|Göl hassas bir ekosistemdir.
+volunteer|Volunteers are cleaning the beach.|Gönüllüler plajı temizliyor.
+waste|We produce too much waste.|Çok fazla atık üretiyoruz.
+plastic|There's too much plastic in the sea.|Denizde çok fazla plastik var.
+waste sorting|Waste sorting starts at home.|Atık ayrıştırma evde başlar.
+packaging|This packaging is made of cardboard.|Bu ambalaj kartondan yapılmış.
+landfill|Most of our rubbish goes to landfill.|Çöplerimizin çoğu çöp sahasına gidiyor.
+sewage system|The city's sewage system is old.|Şehrin kanalizasyon sistemi eski.
+water treatment|Water treatment is expensive.|Su arıtma pahalıdır.
+pollute|Cars pollute the air.|Arabalar havayı kirletir.
+recycle|This factory recycles plastic.|Bu fabrika plastiği geri dönüştürüyor.
+destroy|Fires destroy forests.|Yangınlar ormanları yok eder.
+reduce|We are reducing our energy use.|Enerji kullanımımızı azaltıyoruz.
+reuse|You can reuse these bags.|Bu poşetleri yeniden kullanabilirsin.
+plant trees|In spring the students plant trees.|İlkbaharda öğrenciler ağaç diker.
+conserve resources|It's important to conserve resources.|Kaynakları korumak önemlidir.
+# B2 — toplum
+poverty|Poverty is a global problem.|Yoksulluk küresel bir sorundur.
+homeless person|She gave a homeless person a sandwich.|Bir evsize sandviç verdi.
+inequality|Income inequality is growing.|Gelir eşitsizliği artıyor.
+addiction|Phone addiction is common among teenagers.|Gençler arasında telefon bağımlılığı yaygın.
+crime rate|The crime rate has fallen.|Suç oranı düştü.
+loneliness|Many old people suffer from loneliness.|Pek çok yaşlı yalnızlık çekiyor.
+social welfare|The family receives social welfare.|Aile sosyal yardım alıyor.
+immigration|Immigration is changing the cities.|Göç şehirleri değiştiriyor.
+immigrant|Many immigrants work in construction.|Pek çok göçmen inşaatta çalışıyor.
+refugee|The refugees found a new home.|Mülteciler yeni bir yuva buldu.
+integration|Integration into a new country takes time.|Yeni bir ülkeye uyum zaman alır.
+citizenship|He got British citizenship.|İngiliz vatandaşlığı aldı.
+residence permit|I renewed my residence permit.|Oturma iznimi yeniledim.
+homesickness|Homesickness is normal in the first year.|İlk yıl memleket hasreti normaldir.
+generation|Our generation grew up with the internet.|Bizim neslimiz internetle büyüdü.
+young people|Young people love music festivals.|Gençler müzik festivallerine bayılır.
+the elderly|The elderly need our attention.|Yaşlıların ilgimize ihtiyacı var.
+upbringing|She had a strict upbringing.|Sıkı bir terbiyeyle büyüdü.
+birth rate|The birth rate is falling.|Doğum oranı düşüyor.
+life expectancy|Life expectancy has increased.|Ortalama ömür uzadı.
+pension|My grandmother gets a small pension.|Büyükannem küçük bir emekli maaşı alıyor.
+community|It's a friendly community.|Burası samimi bir topluluk.
+charity|She gives a lot to charity.|Hayır kurumlarına çok bağış yapıyor.
+volunteering|Volunteering gives you experience.|Gönüllülük deneyim kazandırır.
+tolerance|Tolerance is important in society.|Toplumda hoşgörü önemlidir.
+solidarity|People showed solidarity.|İnsanlar dayanışma gösterdi.
+protest|There was a protest in the square.|Meydanda bir protesto vardı.
+strike|The train drivers are on strike.|Tren makinistleri grevde.
+emigrate|His family emigrated to Canada.|Ailesi Kanada'ya göç etti.
+adapt|Children adapt quickly.|Çocuklar çabuk uyum sağlar.
+donate|I donated money to a charity.|Bir hayır kurumuna para bağışladım.
+demonstrate|Students are demonstrating against the reform.|Öğrenciler reforma karşı gösteri yapıyor.
+exclude|We can't exclude this possibility.|Bu ihtimali dışlayamayız.
+unite|Sport unites people.|Spor insanları birleştirir.
+solve a problem|We will solve this problem together.|Bu sorunu birlikte çözeceğiz.
+# B2 — ileri fiiller
+influence|The weather influences our mood.|Hava ruh hâlimizi etkiler.
+cause|Stress can cause headaches.|Stres baş ağrısına neden olabilir.
+depend on|It all depends on you.|Her şey sana bağlı.
+lead to|Laziness can lead to problems.|Tembellik sorunlara yol açabilir.
+prevent|The noise prevented me from sleeping.|Gürültü uyumamı engelledi.
+make easier|Technology makes life easier.|Teknoloji hayatı kolaylaştırır.
+complicate|Don't complicate things.|İşleri karmaşıklaştırma.
+assume|I assume he'll be late.|Geç kalacağını varsayıyorum.
+conclude|We can conclude that the project was a success.|Projenin başarılı olduğu sonucuna varabiliriz.
+evaluate|The teacher evaluates our work.|Öğretmen çalışmalarımızı değerlendirir.
+take into account|We must take all the risks into account.|Bütün riskleri hesaba katmalıyız.
+compare|Don't compare yourself to others.|Kendini başkalarıyla karşılaştırma.
+realise|He realised his mistake.|Hatasının farkına vardı.
+hesitate|Don't hesitate to contact me.|Benimle iletişime geçmekten çekinmeyin.
+provide|The company provides the tools.|Şirket aletleri sağlıyor.
+achieve|She achieved her goal.|Hedefine ulaştı.
+carry out|We carried out a survey.|Bir anket yaptık.
+take advantage of|Take advantage of the good weather!|Güzel havanın tadını çıkar!
+implement|The plan will be implemented next year.|Plan gelecek yıl uygulanacak.
+maintain|It's important to maintain contact.|İletişimi sürdürmek önemli.
+postpone|The meeting has been postponed until Monday.|Toplantı pazartesiye ertelendi.
+avoid|I try to avoid arguments.|Tartışmalardan kaçınmaya çalışırım.
+refuse|He refused our help.|Yardımımızı reddetti.
+abandon|They had to abandon the project.|Projeden vazgeçmek zorunda kaldılar.
+conceal|He concealed his feelings.|Duygularını gizledi.
+neglect|Don't neglect your health.|Sağlığını ihmal etme.
+resist|She resisted until the end.|Sonuna kadar direndi.
+keep going|It's hard, but you have to keep going.|Zor ama devam etmek zorundasın.
+transform|The old factory was transformed into a museum.|Eski fabrika müzeye dönüştürüldü.
+evolve|Languages evolve over time.|Diller zamanla gelişir.
+adjust|You can adjust the height of the chair.|Sandalyenin yüksekliğini ayarlayabilirsin.
+improve|We want to improve our service.|Hizmetimizi iyileştirmek istiyoruz.
+get worse|The situation is getting worse.|Durum kötüleşiyor.
+renovate|We are renovating the kitchen.|Mutfağı yeniliyoruz.
+preserve|The old town has been well preserved.|Eski şehir iyi korunmuş.
+# B2 — tartışma
+it seems to me that|It seems to me that you're right.|Bana öyle geliyor ki haklısın.
+in my view|In my view, it was a mistake.|Bence bu bir hataydı.
+undoubtedly|It's undoubtedly the best solution.|Bu kuşkusuz en iyi çözüm.
+probably|He'll probably come tomorrow.|Muhtemelen yarın gelecek.
+apparently|Apparently, the train is late.|Görünüşe göre tren gecikiyor.
+frankly|Frankly, I didn't like it.|Açıkçası beğenmedim.
+as far as I know|As far as I know, the museum is closed.|Bildiğim kadarıyla müze kapalı.
+therefore|He was ill; therefore, he didn't come.|Hastaydı; bu nedenle gelmedi.
+on the other hand|On the other hand, it's very expensive.|Öte yandan çok pahalı.
+moreover|Moreover, he knew everything.|Üstelik her şeyi biliyordu.
+that is to say|In a week, that is to say on Friday.|Bir hafta sonra, yani cuma günü.
+nevertheless|It was difficult; nevertheless, we succeeded.|Zordu; buna rağmen başardık.
+in short|In short, everything went well.|Özetle, her şey iyi geçti.
+firstly|Firstly, it's too expensive.|Birincisi, çok pahalı.
+approach|We need a new approach.|Yeni bir yaklaşıma ihtiyacımız var.
+point of view|I understand your point of view.|Bakış açını anlıyorum.
+claim|His claim is not supported by evidence.|İddiası kanıtlarla desteklenmiyor.
+conclusion|What is the conclusion of the study?|Çalışmanın sonucu ne?
+feature|This is a typical feature of English.|Bu İngilizcenin tipik bir özelliği.
+trend|It's the latest fashion trend.|Bu en son moda eğilimi.
+factor|The weather is an important factor.|Hava önemli bir etken.
+I completely agree|I completely agree with you.|Size tamamen katılıyorum.
+you're partly right|You're partly right, but not completely.|Kısmen haklısın ama tamamen değil.
+the thing is|The thing is, I don't have time.|Mesele şu ki vaktim yok.
+for instance|For instance, let's take London.|Örneğin Londra'yı ele alalım.
+on the one hand|On the one hand, it's practical.|Bir yandan pratik.
+in the end|In the end, we stayed at home.|Sonunda evde kaldık.
+in other words|In other words, you're not coming?|Başka bir deyişle gelmiyor musun?
+fundamental|It's a fundamental question.|Bu temel bir soru.
+realistic|It's a realistic plan.|Bu gerçekçi bir plan.
+controversial|It's a controversial topic.|Bu tartışmalı bir konu.
+uncertain|The future is uncertain.|Gelecek belirsiz.
+effective|It's an effective method.|Bu etkili bir yöntem.
+valid|This ticket is valid for a year.|Bu bilet bir yıl geçerli.
+insufficient|The results are insufficient.|Sonuçlar yetersiz.
+# B2 — ilişkiler
+tenderness|The mother looked at her child with tenderness.|Anne çocuğuna şefkatle baktı.
+admiration|I have great admiration for her.|Ona büyük hayranlık duyuyorum.
+hatred|Hatred solves nothing.|Nefret hiçbir şeyi çözmez.
+jealousy|Jealousy destroys relationships.|Kıskançlık ilişkileri yıkar.
+disappointment|The film was a big disappointment.|Film büyük bir hayal kırıklığıydı.
+gratitude|I'd like to express my gratitude.|Minnettarlığımı ifade etmek isterim.
+shame|He turned red with shame.|Utançtan kızardı.
+confidence|She has my complete confidence.|Ona tamamen güveniyorum.
+respect|He deserves our respect.|Saygımızı hak ediyor.
+betrayal|It was a real betrayal.|Bu gerçek bir ihanetti.
+loyalty|Loyalty is important in a relationship.|Bir ilişkide bağlılık önemlidir.
+encouragement|Thanks for your encouragement.|Desteğin için teşekkürler.
+understanding|Thank you for your understanding.|Anlayışınız için teşekkürler.
+conflict|The conflict was resolved.|Çatışma çözüldü.
+acquaintance|He's an old acquaintance.|Eski bir tanıdık.
+peer|Children learn a lot from their peers.|Çocuklar yaşıtlarından çok şey öğrenir.
+mentor|I had an excellent mentor.|Harika bir akıl hocam vardı.
+enemy|He has no enemies.|Hiç düşmanı yok.
+stranger|Don't talk to strangers.|Yabancılarla konuşma.
+flatmate|My flatmate is from Brazil.|Ev arkadaşım Brezilyalı.
+confidant|He has been my confidant since childhood.|Çocukluktan beri sırdaşım.
+make up|They argued, but then they made up.|Tartıştılar ama sonra barıştılar.
+take offence|Don't take offence, I was joking.|Gücenme, şaka yapıyordum.
+lose trust|It's easy to lose trust.|Güveni kaybetmek kolaydır.
+betray|A true friend never betrays you.|Gerçek bir dost sana asla ihanet etmez.
+cheer up|Your message cheered me up.|Mesajın moralimi düzeltti.
+get on well|I get on well with my colleagues.|İş arkadaşlarımla iyi geçinirim.
+part ways|After ten years, they decided to part ways.|On yıl sonra yollarını ayırmaya karar verdiler.
+I know exactly how you feel|Don't worry, I know exactly how you feel.|Endişelenme, seni çok iyi anlıyorum.
+you didn't deserve that|I'm sorry, you didn't deserve that.|Üzgünüm, bunu hak etmedin.
+everything will be fine|Don't be sad, everything will be fine.|Üzülme, her şey yoluna girecek.
+keep your chin up|Keep your chin up, tomorrow will be better!|Moralini bozma, yarın daha iyi olacak!
+tell me what you think|Read my essay and tell me what you think.|Kompozisyonumu oku ve ne düşündüğünü söyle.
+I'm proud of you|You did it! I'm proud of you.|Başardın! Seninle gurur duyuyorum.
+I'm here for you|If you need anything, I'm here for you.|Bir şeye ihtiyacın olursa yanındayım.

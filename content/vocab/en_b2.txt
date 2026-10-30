@@ -1,0 +1,615 @@
+## Siyaset ve yönetim | Meclis, parti, reform, diplomasi
+# Devlet kurumları | Meclis, bakanlık, belediye…
+meclis|🏛️|parliament|paarlımınt|
+bakanlık|🏢|ministry|ministri|
+bakan|👔|minister|ministır|
+belediye başkanı|🏙️|mayor|meyır|
+belediye binası|🏤|town hall|taun hool|
+yetkililer|🧑‍💼|the authorities|ði oθorıtiz|
+anayasa|📜|constitution|konstityuuşın|
+# Parti ve seçim | Muhalefet, aday, oy…
+parti|🎗️|political party|pılitikıl paarti|
+muhalefet|🗣️|opposition|opızişın|
+aday|🙋|candidate|kendidıt|
+seçmen|🗳️|voter|voutır|
+oy pusulası|✅|ballot|belıt|
+kampanya|📢|election campaign|ileksın kempeyn|
+çoğunluk|👥|majority|mıcorıti|
+# Yönetim ve reform | Reform, karar, politika…
+reform|🔧|reform|rifoorm|
+siyaset|🧭|politics|politiks|
+kararname|📝|decree|dikrii|
+yönetim|⚙️|administration|ıdministreyşın|
+yolsuzluk|💰|corruption|kırapşın|
+şeffaflık|🔍|transparency|trensperınsi|
+sorumluluk|⚖️|responsibility|risponsıbilıti|
+# Diplomasi | Elçilik, antlaşma, müzakere…
+diplomasi|🤝|diplomacy|diploumısi|
+büyükelçilik|🏳️|embassy|embısi|
+büyükelçi|🎩|ambassador|embesıdır|
+antlaşma|✍️|treaty|triiti|
+müzakereler|💬|negotiations|nigouşieyşınz|
+yaptırımlar|🚫|sanctions|senkşınz|
+uluslararası|🌐|international|intırneşınıl|
+# Siyasi fiiller | Seçmek, yönetmek, desteklemek…
+seçmek|☑️|elect|ilekt|
+yönetmek (ülke)|👑|govern|gavırn|
+desteklemek|👍|support|sıpoort|
+karşı çıkmak|✋|oppose|ıpouz|
+yasayı kabul etmek|📗|pass a law|paas ı loo|
+eleştirmek|🗯️|criticise|kritisayz|
+istifa etmek|🚪|resign|rizayn|
+## Hukuk ve adalet | Dava, avukat, delil, ceza
+# Mahkemede | Dava, sanık, tanık…
+dava|📂|trial|trayıl|
+sanık|🧍|the accused|ði ıkyuuzd|
+tanık|👁️|witness|witnıs|
+savcı|👨‍⚖️|prosecutor|prosikyuutır|
+jüri|👥|jury|cuıri|
+karar (mahkeme)|🔨|verdict|vördikt|
+temyiz|📨|appeal|ıpiil|
+# Suç ve ceza | Hapis, delil, soruşturma…
+delil, kanıt|🧾|evidence|evidıns|
+soruşturma|🕵️|investigation|investigeyşın|
+hapishane|⛓️|prison|prizın|
+tutuklamak|🚔|arrest|ırest|
+dolandırıcılık|🎭|fraud|frood|
+kaçakçılık|📦|smuggling|smagling|
+şiddet|👊|violence|vayılıns|
+# Haklar | Adalet, eşitlik, ayrımcılık…
+adalet|⚖️|justice|castis|
+eşitlik|🟰|equality|ikwolıti|
+ayrımcılık|🚷|discrimination|diskrimineyşın|
+insan hakları|🕊️|human rights|hyuumın rayts|
+ifade özgürlüğü|🗣️|freedom of speech|friidım ıv spiiç|
+özel hayat|🔒|privacy|privısi|
+güvenlik|🛡️|security|sikyuırıti|
+# Belgeler | Madde, noter, vekâlet…
+madde (sözleşme)|📄|clause|klooz|
+noter|🖋️|notary|noutıri|
+vekâletname|📃|power of attorney|pauır ıv ıtörni|
+dilekçe, başvuru|📥|application form|eplikeyşın foorm|
+izin belgesi|🪪|permit|pörmit|
+bildirim|✉️|notification|noutifikeyşın|
+mühür, kaşe|🔴|stamp|stemp|
+# Hukuk fiilleri | Suçlamak, kanıtlamak, ihlal etmek…
+suçlamak|👉|accuse|ıkyuuz|
+kanıtlamak|✔️|prove|pruuv|
+ihlal etmek|⚠️|violate|vayıleyt|
+mahkemede savunmak|🛡️|defend in court|difend in koort|
+dava açmak|📤|sue|suu|
+cezalandırmak|🚨|punish|paniş|
+beraat ettirmek|🙌|acquit|ıkwit|
+## Ekonomi ve iş dünyası | Şirket, yatırım, rekabet, kâr
+# Şirket | Hissedar, yönetim kurulu, şube…
+hissedar|📈|shareholder|şeırhouldır|
+hisse senedi|📊|stock|stok|
+yönetim kurulu|🪑|board of directors|boord ıv dayrektırz|
+şube|🏬|branch office|braanç ofis|
+girişimci|🚀|entrepreneur|ontrıprınör|
+işletme|🏭|business|biznıs|
+iflas|📉|bankruptcy|benkraptsi|
+# Para ve kâr | Gelir, gider, kâr, zarar…
+gelir|💵|income|inkam|
+giderler|💸|expenses|ikspensiz|
+kâr|💹|profit|profit|
+zarar|🔻|loss|los|
+ciro|🔄|turnover|törnouvır|
+sermaye, fon|🏦|funds|fandz|
+yatırımlar|🌱|investments|investmınts|
+# Piyasa | Talep, arz, rekabet, tekel…
+talep (piyasa)|🙋|demand|dimaand|
+arz|📦|supply|sıplay|
+rekabet|🏁|competition|kompıtişın|
+rakip|🥊|competitor|kımpetitır|
+tekel|👑|monopoly|mınopıli|
+tüketici|🛒|consumer|kınsyuumır|
+fiyat artışı|⬆️|price rise|prays rayz|
+# Ticaret | Tedarikçi, teslimat, ihale…
+tedarikçi|🚚|supplier|sıplayır|
+teslimat|📬|delivery|diliveri|
+ihale|📋|tender|tendır|
+müzakere etmek|🗣️|negotiate|nigouşieyt|
+ticari anlaşma|🤝|trade agreement|treyd ıgriimınt|
+iş ortağı|👬|business partner|biznıs paartnır|
+marka|™️|brand|brend|
+# İş fiilleri | Kurmak, genişlemek, kâr etmek…
+şirket kurmak|🏗️|start a business|staart ı biznıs|
+genişlemek|↔️|expand|ikspend|
+kâr etmek|💰|make a profit|meyk ı profit|
+yatırım çekmek|🧲|attract investors|ıtrekt investırz|
+ticaret yapmak|🚢|trade|treyd|
+pazarlık etmek|🤏|bargain|baargın|
+iflas etmek|🕳️|go bankrupt|gou benkrapt|
+## Bilim ve araştırma | Deney, keşif, teori, laboratuvar
+# Araştırma | Deney, hipotez, sonuç…
+araştırma|🔬|research|risörç|
+deney|🧪|experiment|iksperimınt|
+hipotez|💭|hypothesis|haypoθısis|
+teori|📐|theory|θiıri|
+keşif|🔭|discovery|diskavıri|
+yöntem|🧭|method|meθıd|
+veriler|📊|data|deytı|
+# Bilim insanları | Bilim insanı, araştırmacı, mucit…
+bilim insanı|👩‍🔬|scientist|sayıntist|
+araştırmacı|🔎|researcher|risörçır|
+uzman|🎓|expert|ekspört|
+mucit|💡|inventor|inventır|
+akademi|🏛️|academy|ıkedımi|
+laboratuvar|🧫|laboratory|lıborıtri|
+bilimsel dergi|📰|scientific journal|sayıntifik cörnıl|
+# Doğa bilimleri | Hücre, gen, molekül…
+hücre|🦠|cell|sel|
+gen|🧬|gene|ciin|
+molekül|⚛️|molecule|molikyuul|
+evrim|🐒|evolution|iivıluuşın|
+yer çekimi|🍎|gravity|grevıti|
+ışık hızı|💫|speed of light|spiid ıv layt|
+madde (fizik)|🧱|matter|metır|
+# Teknik kavramlar | Ölçüm, hesap, model…
+ölçüm|📏|measurement|mejımınt|
+hesaplama|🧮|calculation|kelkyuleyşın|
+model|🧩|model|modıl|
+analiz|📈|analysis|ınelısis|
+istatistik|📊|statistics|stıtistiks|
+formül|➗|formula|foormyulı|
+denklem|🟰|equation|ikweyjın|
+# Bilim fiilleri | Araştırmak, keşfetmek, icat etmek…
+araştırmak|🔍|do research|duu risörç|
+keşfetmek|🗝️|discover|diskavır|
+icat etmek|⚙️|invent|invent|
+gözlemlemek|👀|observe|ıbzörv|
+ölçmek|📐|measure|mejır|
+analiz etmek|🧠|analyse|enılayz|
+yayımlamak|📚|publish|pabliş|
+## Teknoloji ve dijital dünya | Yapay zekâ, veri, yazılım
+# Yazılım | Program, kod, geliştirici…
+yazılım|💾|software|softweır|
+program|🖥️|computer program|kımpyuutır prougrem|
+kod|👨‍💻|code|koud|
+geliştirici|🧑‍💻|developer|divelıpır|
+yazılım hatası|🐞|bug|bag|
+sürüm|🔢|version|vörjın|
+algoritma|🔁|algorithm|elgıriðım|
+# Yapay zekâ ve veri | Yapay zekâ, sunucu, bulut…
+yapay zekâ|🤖|artificial intelligence|aartifişıl intelicıns|
+robot|🦾|robot|roubot|
+sunucu|🗄️|server|sörvır|
+bulut (bilişim)|☁️|the cloud|ðı klaud|
+veritabanı|🗃️|database|deytıbeys|
+ağ|🕸️|network|netwörk|
+dijital|📱|digital|dicitıl|
+# Güvenlik | Şifreleme, saldırı, hacker…
+şifreleme|🔐|encryption|inkripşın|
+siber saldırı|💥|cyberattack|saybırıtek|
+hacker|🕶️|hacker|hekır|
+kişisel veriler|🧾|personal data|pörsınıl deytı|
+güvenlik duvarı|🧱|firewall|fayırwool|
+yedek kopya|📀|backup|bekap|
+kimlik doğrulama|🆔|authentication|ooθentikeyşın|
+# Cihazlar | İşlemci, bellek, sensör…
+işlemci|🔲|processor|prousesır|
+bellek|🧠|memory|memıri|
+sensör|📡|sensor|sensır|
+akıllı saat|⌚|smartwatch|smaartwoç|
+kablo|🔌|cable|keybıl|
+pil ömrü|🔋|battery life|betıri layf|
+ekran çözünürlüğü|🖼️|screen resolution|skriin rezıluuşın|
+# Dijital fiiller | Programlamak, güncellemek, kurmak…
+yazılım geliştirmek|⌨️|develop software|divelıp softweır|
+yükseltmek (sürüm)|🔄|upgrade|apgreyd|
+kurmak (program)|📥|install|instool|
+yedeklemek|💽|back up|bek ap|
+şifrelemek|🔏|encrypt|inkript|
+otomatikleştirmek|🤖|automate|ootımeyt|
+hacklemek|🧨|hack|hek|
+## Sağlık ve tıp | Teşhis, tedavi, uzman doktor
+# Teşhis | Belirti, muayene, tahlil…
+belirti|🤒|symptom|simptım|
+teşhis|🩺|diagnosis|dayıgnousis|
+muayene|🔍|check-up|çekap|
+kan tahlili|🧪|blood test|blad test|
+röntgen|🩻|X-ray|eksrey|
+tansiyon|💓|blood pressure|blad preşır|
+kronik|♾️|chronic|kronik|
+# Tedavi | Tedavi, terapi, iyileşme…
+tedavi|💊|treatment|triitmınt|
+terapi|🛋️|therapy|θerıpi|
+iyileşme|🌤️|recovery|rikavıri|
+bağışıklık|🛡️|immunity|imyuunıti|
+yan etki|⚠️|side effect|sayd ifekt|
+doz|💉|dose|dous|
+önleme|🚧|prevention|privenşın|
+# Uzmanlar | Cerrah, kardiyolog, çocuk doktoru…
+cerrah|🔪|surgeon|sörcın|
+kardiyolog|❤️|cardiologist|kaardiolıcist|
+çocuk doktoru|🧸|paediatrician|piidiıtrişın|
+psikolog|🧠|psychologist|saykolıcist|
+göz doktoru|👓|eye specialist|ay speşılist|
+klinik|🏥|clinic|klinik|
+sağlık personeli|🩺|medical staff|medikıl staaf|
+# Hastalıklar | Enfeksiyon, iltihap, diyabet…
+enfeksiyon|🦠|infection|infekşın|
+iltihap|🔥|inflammation|inflımeyşın|
+diyabet|🍬|diabetes|dayıbiitiiz|
+kanser|🎗️|cancer|kensır|
+kalp krizi|💔|heart attack|haart ıtek|
+salgın|🌍|epidemic|epidemik|
+depresyon|🌧️|depression|dipreşın|
+# Sağlık fiilleri | Tedavi etmek, muayene etmek…
+tedavi etmek|🩹|treat|triit|
+muayene etmek|🩺|examine|igzemin|
+teşhis koymak|📋|diagnose|dayıgnouz|
+ilaç yazmak|📝|prescribe|priskrayb|
+hastalanmak|🤧|fall ill|fool il|
+bulaşmak|😷|catch a virus|keç ı vayrıs|
+toparlanmak|💪|recover|rikavır|
+## Psikoloji ve karakter | Kişilik, davranış, motivasyon
+# Kişilik | Karakter, mizaç, öz güven…
+karakter|🎭|character|kerıktır|
+kişilik|🪞|personality|pörsınelıti|
+öz güven|💪|self-confidence|self konfidıns|
+mizaç|🌗|temperament|tempırımınt|
+davranış|🚶|behaviour|biheyvyır|
+kötü alışkanlık|🚬|bad habit|bed hebit|
+kibir|🦚|arrogance|erıgıns|
+# Olumlu özellikler | Alçakgönüllü, açık sözlü…
+alçakgönüllü|🙇|modest|modist|
+açık sözlü|🗨️|outspoken|autspoukın|
+özenli|🧐|meticulous|mıtikyulıs|
+iyimser|🌞|optimistic|optimistik|
+sadık|🐕|loyal|loyıl|
+yardımsever|💞|helpful|helpful|
+azimli|🏔️|persistent|pörsistınt|
+# Olumsuz özellikler | Kötümser, inatçı, kaprisli…
+kötümser|🌧️|pessimistic|pesimistik|
+inatçı|🐐|stubborn|stabırn|
+kaprisli, huysuz|😤|moody|muudi|
+çekingen|🫣|reserved|rizörvd|
+dalgın|🌀|absent-minded|ebsınt mayndid|
+kurnaz|🦊|cunning|kaning|
+çabuk sinirlenen|🌋|irritable|iritıbıl|
+# Zihin | Bilinç, sezgi, hayal gücü…
+bilinç|💡|consciousness|konşısnıs|
+bilinçaltı|🌊|the subconscious|ðı sabkonşıs|
+sezgi|🔮|intuition|intyuişın|
+hayal gücü|🌈|imagination|imecineyşın|
+dikkat|🎯|attention|ıtenşın|
+motivasyon|🔥|motivation|moutiveyşın|
+stres|😫|stress|stres|
+# Psikolojik fiiller | Pişman olmak, kıskanmak…
+pişman olmak|😔|regret|rigret|
+kıskanmak|😒|envy|envi|
+utanmak|😳|be ashamed|bii ışeymd|
+gurur duymak|😌|be proud of|bii praud ıv|
+şüphelenmek|🤨|suspect|sıspekt|
+hayal kırıklığına uğramak|😞|be disappointed|bii disıpoyntid|
+alışmak|🔁|get used to|get yuuzd tu|
+## Medya ve iletişim | Yayın, manşet, söyleşi, yorum
+# Basın | Manşet, muhabir, editör…
+manşet|🗞️|headline|hedlayn|
+muhabir|🎤|reporter|ripoortır|
+editör|✏️|editor|editır|
+yayınevi|🏢|publishing house|pablişing haus|
+tiraj|🖨️|circulation|sörkyuleyşın|
+sansür|🚫|censorship|sensırşip|
+basın toplantısı|📸|press conference|pres konfırıns|
+# Televizyon ve internet | Kanal, dizi, yayın…
+kanal|📺|channel|çenıl|
+dizi|🎬|series|siıriiz|
+canlı yayın|🔴|live broadcast|layv broodkaast|
+izleyici|🍿|viewer|vyuuır|
+dinleyici|🎧|listener|lisınır|
+podcast|🎙️|podcast|podkaast|
+içerik üreticisi|✍️|influencer|influınsır|
+# Bilgi | Kaynak, sahte haber, söylenti…
+kaynak (bilgi)|📚|source|soors|
+sahte haber|🤥|fake news|feyk nyuuz|
+söylenti|👂|rumour|ruumır|
+olgu|📌|fact|fekt|
+görüş|💭|opinion|ıpinyın|
+yorum (analiz)|🗒️|commentary|komıntri|
+kamuoyu|👥|public opinion|pablik ıpinyın|
+# İletişim | Yazışma, ikna, uzlaşma…
+yazışma|📨|correspondence|korıspondıns|
+ikna|🫱|persuasion|pırsweyjın|
+anlaşmazlık|💢|disagreement|disıgriimınt|
+uzlaşma|🤝|compromise|komprımayz|
+ima|😉|hint|hint|
+diyalog|💬|dialogue|dayılog|
+nutuk, konuşma|🎙️|speech|spiiç|
+# İletişim fiilleri | Bildirmek, açıklamak, ikna etmek…
+bildirmek|📣|inform|infoorm|
+açıklamak (resmen)|📢|announce|ınauns|
+ikna etmek|🫴|persuade|pırsweyd|
+itiraz etmek|🙅|object|ıbcekt|
+yalanlamak|❌|deny|dinay|
+abartmak|🎈|exaggerate|igzecıreyt|
+vurgulamak|🖍️|emphasise|emfısayz|
+## Sanat ve kültür | Eser, sahne, sergi, yönetmen
+# Sahne sanatları | Sahne, oyuncu, yönetmen…
+sahne|🎭|stage|steyc|
+aktör|🎬|actor|ektır|
+yönetmen|🎥|director|dırektır|
+gösteri, oyun|🎟️|play (theatre)|pley|
+bale|🩰|ballet|beley|
+opera|🎼|opera|opırı|
+alkış|👏|applause|ıplooz|
+# Görsel sanatlar | Ressam, tuval, fırça…
+ressam|🎨|painter|peyntır|
+tuval|🖼️|canvas|kenvıs|
+fırça|🖌️|paintbrush|peyntbraş|
+portre|👤|portrait|poortrit|
+manzara resmi|🏞️|landscape|lendskeyp|
+şaheser|🏆|masterpiece|maastırpiis|
+galeri|🏛️|gallery|gelıri|
+# Edebiyat | Eser, kahraman, olay örgüsü…
+eser|📖|work of art|wörk ıv aart|
+kahraman (roman)|🦸|hero|hiırou|
+olay örgüsü|🧵|plot|plot|
+şair|🪶|poet|pouit|
+öykü|📝|short story|şoort stoori|
+okur|👓|reader|riidır|
+çeviri (kitap)|🔁|translation|trenzleyşın|
+# Kültürel miras | Miras, folklor, zanaat…
+miras|🏺|heritage|herıtic|
+folklor|🪕|folklore|fouklor|
+zanaat|🧶|craft|kraaft|
+karnaval|🎉|carnival|kaarnivıl|
+koleksiyon|🗂️|collection|kılekşın|
+üslup|✨|style|stayl|
+yaratıcılık|🌟|creativity|kriieytivıti|
+# Sanat fiilleri | Yaratmak, sergilemek, ilham vermek…
+yaratmak|🛠️|create|krieyt|
+sahnelemek|🎭|stage a play|steyc ı pley|
+sergilemek|🖼️|exhibit|igzibit|
+ilham vermek|💫|inspire|inspayır|
+eleştiri yazmak|🖋️|write a review|rayt ı rivyuu|
+rol oynamak|🎬|play a role|pley ı roul|
+beste yapmak|🎹|compose|kımpouz|
+## Eğitim ve kariyer | Yüksek lisans, staj, terfi
+# Yükseköğretim | Lisans, yüksek lisans, tez…
+lisans|🎓|bachelor's degree|beçılırz digrii|
+yüksek lisans|📘|master's degree|maastırz digrii|
+doktora|🎓|PhD|pii eyç dii|
+tez|📚|thesis|θiisis|
+tez danışmanı|🧑‍🏫|supervisor|suupırvayzır|
+kayıt (üniversite)|📩|enrolment|inroulmınt|
+mezun|🎉|graduate|grecuıt|
+# Kariyer | Staj, terfi, özgeçmiş…
+staj|🧑‍🎓|internship|intörnşip|
+terfi|📈|promotion|prımouşın|
+özgeçmiş|📄|CV|sii vii|
+beceri|🛠️|skill|skil|
+pozisyon|🪑|position|pızişın|
+iş deneyimi|⏳|work experience|wörk ikspiıriıns|
+kariyer|🪜|career|kıriır|
+# İş ortamı | Mesai, izin, ekip…
+iş günü|🕘|working day|wörking dey|
+fazla mesai|🌙|overtime|ouvırtaym|
+yıllık izin|🏖️|annual leave|enyuıl liiv|
+personel, ekip|👥|staff|staaf|
+iş yükü|🏋️|workload|wörkloud|
+uzaktan çalışma|🏠|remote work|rimout wörk|
+son tarih|⏰|deadline|dedlayn|
+# Beceriler | Liderlik, verimlilik, esneklik…
+liderlik|🧭|leadership|liidırşip|
+verimlilik|⚡|efficiency|ifişınsi|
+esneklik|🤸|flexibility|fleksıbilıti|
+girişkenlik|🚀|initiative|inişıtiv|
+zaman yönetimi|⏱️|time management|taym menicmınt|
+ekip çalışması|🤝|teamwork|tiimwörk|
+yetkinlik|🏅|expertise|ekspörtiiz|
+# Kariyer fiilleri | Terfi almak, istifa etmek…
+terfi almak|⬆️|get promoted|get prımoutid|
+işten ayrılmak|📤|quit your job|kwit yoor cob|
+staj yapmak|🗂️|do an internship|duu ın intörnşip|
+kendini geliştirmek|🌱|improve yourself|impruuv yoorself|
+uzmanlaşmak|🎯|specialise|speşılayz|
+görevlendirmek|📌|delegate|deligeyt|
+denetlemek|🔎|supervise|suupırvayz|
+## Çevre ve enerji | Emisyon, iklim değişikliği, yenilenebilir
+# İklim | Küresel ısınma, emisyon, sera etkisi…
+küresel ısınma|🌡️|global warming|gloubıl woorming|
+iklim değişikliği|🌍|climate change|klaymıt çeync|
+emisyonlar|🏭|emissions|imişınz|
+sera etkisi|🏡|greenhouse effect|griinhaus ifekt|
+karbondioksit|💨|carbon dioxide|kaarbın dayoksayd|
+ozon tabakası|🛡️|ozone layer|ouzoun leyır|
+buzulların erimesi|🧊|melting glaciers|melting glesiırz|
+# Enerji | Yenilenebilir enerji, türbin, panel…
+yenilenebilir enerji|♻️|renewable energy|rinyuuıbıl enırci|
+rüzgâr türbini|🌬️|wind turbine|wind törbayn|
+güneş paneli|☀️|solar panel|soulır penıl|
+nükleer santral|⚛️|nuclear power station|nyuukliır pauır steyşın|
+petrol|🛢️|oil|oyl|
+doğal gaz|🔥|natural gas|neçırıl ges|
+kömür|⚫|coal|koul|
+# Doğa koruma | Kaynaklar, koruma alanı…
+doğal kaynaklar|🌲|natural resources|neçırıl rizoorsiz|
+koruma alanı|🏞️|nature reserve|neyçır rizörv|
+nesli tükenmekte olan|🐼|endangered|indeyncırd|
+ormansızlaşma|🪓|deforestation|diiforısteyşın|
+biyoçeşitlilik|🦋|biodiversity|bayoudayvörsıti|
+ekosistem|🌿|ecosystem|iikousistım|
+gönüllü|🙋|volunteer|volıntiır|
+# Atık | Plastik, çöp ayrıştırma, ambalaj…
+atıklar|🗑️|waste|weyst|
+plastik|🧴|plastic|plestik|
+çöp ayrıştırma|🚮|waste sorting|weyst soorting|
+ambalaj|📦|packaging|pekıcing|
+çöplük|🏔️|landfill|lendfil|
+kanalizasyon|🚰|sewage system|suuic sistım|
+su arıtma|💧|water treatment|wootır triitmınt|
+# Çevre fiilleri | Kirletmek, geri dönüştürmek…
+kirletmek|🏭|pollute|pıluut|
+geri dönüştürmek|♻️|recycle|riisaykıl|
+yok etmek|💥|destroy|distroy|
+azaltmak|📉|reduce|ridyuus|
+yeniden kullanmak|🔁|reuse|riiyuuz|
+ağaç dikmek|🌳|plant trees|plaant triiz|
+kaynakları korumak|🌿|conserve resources|kınsörv rizoorsiz|
+## Toplum ve sosyal sorunlar | Göç, yoksulluk, eşitsizlik
+# Sosyal sorunlar | Yoksulluk, evsizlik, eşitsizlik…
+yoksulluk|🪙|poverty|povırti|
+evsiz|🏚️|homeless person|houmlıs pörsın|
+eşitsizlik|⚖️|inequality|inikwolıti|
+bağımlılık|🍷|addiction|ıdikşın|
+suç oranı|📊|crime rate|kraym reyt|
+yalnızlık|🌑|loneliness|lounlinıs|
+sosyal yardım|🤲|social welfare|souşıl welfeır|
+# Göç | Göçmen, mülteci, uyum…
+göç|🧳|immigration|imigreyşın|
+göçmen|🚶|immigrant|imigrınt|
+mülteci|⛺|refugee|refyucii|
+uyum (sosyal)|🧩|integration|intigreyşın|
+vatandaşlık|🪪|citizenship|sitizınşip|
+oturma izni|📃|residence permit|rezidıns pörmit|
+memleket hasreti|💭|homesickness|houmsiknıs|
+# Nesiller | Kuşak, gençler, yaşlılar…
+kuşak, nesil|👨‍👩‍👧|generation|cenıreyşın|
+gençlik (toplum)|🧑‍🤝‍🧑|young people|yang piipıl|
+yaşlılar|👴|the elderly|ði eldırli|
+çocuk eğitimi|👶|upbringing|apbringing|
+doğum oranı|📈|birth rate|börθ reyt|
+ortalama ömür|⏳|life expectancy|layf ikspektınsi|
+emekli maaşı|💳|pension|penşın|
+# Toplumsal yaşam | Topluluk, hayır işi, dayanışma…
+topluluk|🏘️|community|kımyuunıti|
+hayır işleri|💝|charity|çerıti|
+gönüllülük|🙌|volunteering|volıntiıring|
+hoşgörü|🫶|tolerance|tolırıns|
+dayanışma|🤝|solidarity|solıderıti|
+gösteri (protesto)|✊|protest|proutest|
+grev|🪧|strike|strayk|
+# Toplum fiilleri | Göç etmek, uyum sağlamak…
+göç etmek|🛫|emigrate|emigreyt|
+uyum sağlamak|🧩|adapt|ıdept|
+bağış yapmak|🎁|donate|douneyt|
+gösteri yapmak|📣|demonstrate|demınstreyt|
+dışlamak|🚪|exclude|ikskluud|
+birleştirmek|🔗|unite|yuunayt|
+sorunu çözmek|🧠|solve a problem|solv ı problım|
+## İleri fiiller | Etkilemek, kaçınmak, sağlamak, varsaymak
+# Etki ve neden | Etkilemek, neden olmak, bağlı olmak…
+etkilemek|🌀|influence|influıns|
+neden olmak|➡️|cause|kooz|
+bağlı olmak|🔗|depend on|dipend on|
+yol açmak|🏁|lead to|liid tu|
+önlemek|🛑|prevent|privent|
+kolaylaştırmak|🪶|make easier|meyk iiziır|
+zorlaştırmak|🧱|complicate|komplikeyt|
+# Düşünce fiilleri | Varsaymak, değerlendirmek…
+varsaymak|💭|assume|ısyuum|
+sonuç çıkarmak|🧩|conclude|kınkluud|
+değerlendirmek|⚖️|evaluate|ivelyueyt|
+dikkate almak|📝|take into account|teyk intu ıkaunt|
+karşılaştırmak|🆚|compare|kımpeır|
+farkına varmak|💡|realise|riıılayz|
+tereddüt etmek|🤔|hesitate|heziteyt|
+# Sağlamak ve elde etmek | Sağlamak, ulaşmak, gerçekleştirmek…
+sağlamak|🎁|provide|prıvayd|
+ulaşmak (hedefe)|🏆|achieve|ıçiiv|
+gerçekleştirmek|✅|carry out|keri aut|
+yararlanmak|🧰|take advantage of|teyk ıdvaantic ıv|
+uygulamak|🛠️|implement|implıment|
+sürdürmek|♾️|maintain|meynteyn|
+ertelemek|⏸️|postpone|poustpoun|
+# Kaçınma ve vazgeçme | Kaçınmak, reddetmek…
+kaçınmak|🙈|avoid|ıvoyd|
+reddetmek|🙅|refuse|rifyuuz|
+vazgeçmek|🏳️|abandon|ıbendın|
+gizlemek|🫥|conceal|kınsiil|
+ihmal etmek|😶|neglect|niglekt|
+direnmek|🧱|resist|rizist|
+pes etmemek|💪|keep going|kiip gouing|
+# Değişim fiilleri | Dönüşmek, uyarlamak, iyileştirmek…
+dönüşmek|🦋|transform|trensfoorm|
+gelişmek|📈|evolve|ivolv|
+uyarlamak, ayarlamak|🔧|adjust|ıcast|
+iyileştirmek|⭐|improve|impruuv|
+kötüleşmek|📉|get worse|get wörs|
+yenilemek|🔄|renovate|renıveyt|
+korumak, muhafaza etmek|🌿|preserve|prizörv|
+## Tartışma ve ifade | Görüş bildirme, bağlaçlar, akademik dil
+# Görüş bildirme | Bana öyle geliyor ki, kuşkusuz…
+bana öyle geliyor ki|🤔|it seems to me that|it siimz tu mii ðet|
+bence (resmî)|🗨️|in my view|in may vyuu|
+kuşkusuz|✔️|undoubtedly|andautidli|
+muhtemelen|🎲|probably|probıbli|
+görünüşe göre|👀|apparently|ıperıntli|
+açıkçası|🙌|frankly|frenkli|
+bildiğim kadarıyla|📚|as far as I know|ez faar ız ay nou|
+# Bağlaçlar 2 | Bu nedenle, öte yandan…
+bu nedenle|➡️|therefore|ðeırfoor|
+öte yandan|🔄|on the other hand|on ði aðır hend|
+üstelik|➕|moreover|moorouvır|
+yani|🟰|that is to say|ðet iz tu sey|
+buna rağmen|🔀|nevertheless|nevırðıles|
+özetle|📝|in short|in şoort|
+birincisi|1️⃣|firstly|förstli|
+# Akademik dil | Yaklaşım, bakış açısı, argüman…
+yaklaşım|🧭|approach|ıprouç|
+bakış açısı|🔭|point of view|poynt ıv vyuu|
+iddia, argüman|🗣️|claim|kleym|
+sonuç (çıkarım)|🏁|conclusion|kınkluujın|
+özellik|🔖|feature|fiiçır|
+eğilim|📈|trend|trend|
+etken|⚙️|factor|fektır|
+# Tartışma ifadeleri | Tamamen katılıyorum…
+tamamen katılıyorum|💯|I completely agree|ay kımpliitli ıgrii|
+kısmen haklısın|🌗|you're partly right|yoor paartli rayt|
+mesele şu ki|❗|the thing is|ðı θing iz|
+örneğin (resmî)|📌|for instance|foor instıns|
+bir yandan|↔️|on the one hand|on ðı wan hend|
+sonuç olarak|🏁|in the end|in ði end|
+başka bir deyişle|🔁|in other words|in aðır wördz|
+# Sıfatlar 3 | Temel, gerçekçi, tartışmalı…
+temel|🧱|fundamental|fandımentıl|
+gerçekçi|🎯|realistic|riıılistik|
+tartışmalı|⚡|controversial|kontrıvörşıl|
+belirsiz|🌫️|uncertain|ansörtın|
+etkili|💥|effective|ifektiv|
+geçerli|✅|valid|velid|
+yetersiz|📉|insufficient|insıfişınt|
+## Duygular ve ilişkiler 3 | Saygı, güven, ihanet, şefkat
+# Duygular | Şefkat, hayranlık, nefret…
+şefkat|🤗|tenderness|tendırnıs|
+hayranlık|🤩|admiration|edmıreyşın|
+nefret|😠|hatred|heytrid|
+kıskançlık|💚|jealousy|celısi|
+hayal kırıklığı|😞|disappointment|disıpoyntmınt|
+minnettarlık|🙏|gratitude|gretityuud|
+utanç|😳|shame|şeym|
+# İlişkiler | Güven, saygı, ihanet…
+güven|🤝|confidence|konfidıns|
+saygı|🙇|respect|rispekt|
+ihanet|🗡️|betrayal|bitreyıl|
+bağlılık|💍|loyalty|loyılti|
+destek, cesaret verme|🫂|encouragement|inkarıcmınt|
+anlayış|💡|understanding|andırstending|
+çatışma|⚔️|conflict|konflikt|
+# İnsanlar | Tanıdık, akran, akıl hocası…
+tanıdık|👋|acquaintance|ıkweyntıns|
+yaşıt|🧑‍🤝‍🧑|peer|piır|
+akıl hocası|🧙|mentor|mentoor|
+düşman|👿|enemy|enımi|
+yabancı (tanımadık)|👤|stranger|streyncır|
+ev arkadaşı|🏠|flatmate|fletmeyt|
+sırdaş|🤫|confidant|konfident|
+# İlişki fiilleri | Barışmak, gücenmek, ihanet etmek…
+barışmak|🕊️|make up|meyk ap|
+gücenmek|😤|take offence|teyk ıfens|
+güveni kaybetmek|💔|lose trust|luuz trast|
+ihanet etmek|🗡️|betray|bitrey|
+moral vermek|🫂|cheer up|çiır ap|
+iyi geçinmek|🤝|get on well|get on wel|
+ayrılmak (yollar)|🚶|part ways|paart weyz|
+# Kalıplar | Seni anlıyorum, her şey yoluna girecek…
+seni çok iyi anlıyorum|🫶|I know exactly how you feel|ay nou igzektli hau yuu fiil|
+bunu hak etmedin|🥺|you didn't deserve that|yuu didnt dizörv ðet|
+her şey yoluna girecek|🌈|everything will be fine|evriθing wil bii fayn|
+moralini bozma|💪|keep your chin up|kiip yoor çin ap|
+ne düşündüğünü söyle|💬|tell me what you think|tel mii wot yuu θink|
+seninle gurur duyuyorum|🏅|I'm proud of you|aym praud ıv yuu|
+yanındayım|🤝|I'm here for you|aym hiır foor yuu|

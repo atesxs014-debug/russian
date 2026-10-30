@@ -1589,7 +1589,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u47",
    "unit": {
     "id": "y1",
     "level": "yuksek",
@@ -1928,7 +1928,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u49",
    "unit": {
     "id": "y2",
     "level": "yuksek",
@@ -2267,7 +2267,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u51",
    "unit": {
     "id": "y3",
     "level": "yuksek",
@@ -2489,7 +2489,7 @@
    }
   },
   {
-   "after": "end",
+   "after": "u54",
    "unit": {
     "id": "y4",
     "level": "yuksek",
@@ -2658,6 +2658,3846 @@
          "p": 1,
          "t": "In two weeks, once I've finished my current project.",
          "tr": "İki hafta sonra, mevcut projemi bitirince."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u35",
+   "unit": {
+    "id": "g5",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Sıfatlar ve karşılaştırma",
+    "subtitle": "bigger, the best, as … as, too / enough · 3 ders",
+    "lessons": [
+     {
+      "id": "g5l1",
+      "kind": "grammar",
+      "title": "Karşılaştırma: -er / more",
+      "subtitle": "Kısa sıfatlar: -er than · Uzun sıfatlar: more … than",
+      "intro": "İki şeyi karşılaştırmak için.",
+      "rules": [
+       {
+        "title": "Kısa sıfatlar: -er than",
+        "text": "big → bigger, cheap → cheaper, happy → happier. \"than\" = -den.",
+        "examples": [
+         {
+          "t": "London is bigger than Manchester.",
+          "tr": "Londra Manchester'dan büyük.",
+          "read": ""
+         },
+         {
+          "t": "My sister is younger than me.",
+          "tr": "Kız kardeşim benden küçük.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Uzun sıfatlar: more … than",
+        "text": "expensive → more expensive, interesting → more interesting.",
+        "examples": [
+         {
+          "t": "This book is more interesting than the film.",
+          "tr": "Bu kitap filmden daha ilginç.",
+          "read": ""
+         },
+         {
+          "t": "Taxis are more expensive than buses.",
+          "tr": "Taksiler otobüslerden pahalı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "The train is ___ than the bus.",
+        "a": "faster",
+        "o": [
+         "more fast",
+         "fastest",
+         "fast"
+        ],
+        "tr": "Tren otobüsten hızlı.",
+        "why": "kısa sıfat → -er"
+       },
+       {
+        "s": "This hotel is ___ expensive than that one.",
+        "a": "more",
+        "o": [
+         "most",
+         "much",
+         "very"
+        ],
+        "tr": "Bu otel ötekinden pahalı.",
+        "why": "uzun sıfat → more"
+       },
+       {
+        "s": "Today is ___ than yesterday.",
+        "a": "hotter",
+        "o": [
+         "hoter",
+         "more hot",
+         "hottest"
+        ],
+        "tr": "Bugün dünden sıcak.",
+        "why": "hot → hotter (çift t)"
+       },
+       {
+        "s": "My bag is ___ than yours.",
+        "a": "heavier",
+        "o": [
+         "heavyer",
+         "more heavy",
+         "heaviest"
+        ],
+        "tr": "Çantam seninkinden ağır.",
+        "why": "-y → -ier"
+       },
+       {
+        "s": "Russia is bigger ___ France.",
+        "a": "than",
+        "o": [
+         "that",
+         "then",
+         "as"
+        ],
+        "tr": "Rusya Fransa'dan büyük.",
+        "why": "-den = than"
+       },
+       {
+        "s": "English is ___ than Russian for me.",
+        "a": "easier",
+        "o": [
+         "more easy",
+         "easyer",
+         "easiest"
+        ],
+        "tr": "Benim için İngilizce Rusçadan kolay.",
+        "why": "easy → easier"
+       }
+      ]
+     },
+     {
+      "id": "g5l2",
+      "kind": "grammar",
+      "title": "En üstünlük: the -est / the most",
+      "subtitle": "the + -est / the most · Düzensizler",
+      "intro": "Bir gruptaki en … olanı söylemek için.",
+      "rules": [
+       {
+        "title": "the + -est / the most",
+        "text": "the biggest, the cheapest, the most beautiful.",
+        "examples": [
+         {
+          "t": "Everest is the highest mountain in the world.",
+          "tr": "Everest dünyanın en yüksek dağı.",
+          "read": ""
+         },
+         {
+          "t": "This is the most beautiful beach on the island.",
+          "tr": "Bu adadaki en güzel plaj.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Düzensizler",
+        "text": "good → better → the best, bad → worse → the worst, far → further → the furthest.",
+        "examples": [
+         {
+          "t": "This is the best pizza in town.",
+          "tr": "Bu şehrin en iyi pizzası.",
+          "read": ""
+         },
+         {
+          "t": "Yesterday was the worst day of my life.",
+          "tr": "Dün hayatımın en kötü günüydü.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "It's the ___ restaurant in the city.",
+        "a": "best",
+        "o": [
+         "goodest",
+         "better",
+         "most good"
+        ],
+        "tr": "Şehrin en iyi restoranı.",
+        "why": "good → the best"
+       },
+       {
+        "s": "This is the ___ film I've ever seen.",
+        "a": "worst",
+        "o": [
+         "baddest",
+         "worse",
+         "most bad"
+        ],
+        "tr": "İzlediğim en kötü film bu.",
+        "why": "bad → the worst"
+       },
+       {
+        "s": "He's the ___ person in our family.",
+        "a": "tallest",
+        "o": [
+         "most tall",
+         "taller",
+         "tall"
+        ],
+        "tr": "Ailemizin en uzun boylusu.",
+        "why": "tall → the tallest"
+       },
+       {
+        "s": "Her English is ___ than mine.",
+        "a": "better",
+        "o": [
+         "gooder",
+         "best",
+         "more good"
+        ],
+        "tr": "Onun İngilizcesi benimkinden iyi.",
+        "why": "good → better"
+       },
+       {
+        "s": "This is the ___ important question.",
+        "a": "most",
+        "o": [
+         "much",
+         "best",
+         "very"
+        ],
+        "tr": "En önemli soru bu.",
+        "why": "uzun sıfat → the most"
+       },
+       {
+        "s": "August is the ___ month of the year.",
+        "a": "hottest",
+        "o": [
+         "hotest",
+         "hotter",
+         "most hot"
+        ],
+        "tr": "Ağustos yılın en sıcak ayı.",
+        "why": "hot → the hottest"
+       }
+      ]
+     },
+     {
+      "id": "g5l3",
+      "kind": "grammar",
+      "title": "as … as, too ve enough",
+      "subtitle": "as … as / not as … as · too + sıfat / sıfat + enough",
+      "intro": "Eşitlik, fazlalık ve yeterlilik.",
+      "rules": [
+       {
+        "title": "as … as / not as … as",
+        "text": "He is as tall as his father. (… kadar) It's not as cold as yesterday.",
+        "examples": [
+         {
+          "t": "My car is as old as yours.",
+          "tr": "Arabam seninki kadar eski.",
+          "read": ""
+         },
+         {
+          "t": "The film wasn't as good as the book.",
+          "tr": "Film kitap kadar iyi değildi.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "too + sıfat / sıfat + enough",
+        "text": "too expensive = fazla pahalı; old enough = yeterince büyük.",
+        "examples": [
+         {
+          "t": "This coffee is too hot to drink.",
+          "tr": "Bu kahve içilemeyecek kadar sıcak.",
+          "read": ""
+         },
+         {
+          "t": "She isn't old enough to drive.",
+          "tr": "Araba kullanacak yaşta değil.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "My brother is ___ tall as me.",
+        "a": "as",
+        "o": [
+         "so",
+         "than",
+         "more"
+        ],
+        "tr": "Erkek kardeşim benim kadar uzun.",
+        "why": "as … as"
+       },
+       {
+        "s": "This shirt is ___ small for me.",
+        "a": "too",
+        "o": [
+         "enough",
+         "very much",
+         "so much"
+        ],
+        "tr": "Bu gömlek bana fazla küçük.",
+        "why": "too + sıfat"
+       },
+       {
+        "s": "He isn't strong ___ to lift it.",
+        "a": "enough",
+        "o": [
+         "too",
+         "as",
+         "very"
+        ],
+        "tr": "Onu kaldıracak kadar güçlü değil.",
+        "why": "sıfat + enough"
+       },
+       {
+        "s": "The test wasn't as difficult ___ I thought.",
+        "a": "as",
+        "o": [
+         "than",
+         "that",
+         "like"
+        ],
+        "tr": "Test sandığım kadar zor değildi.",
+        "why": "not as … as"
+       },
+       {
+        "s": "It's ___ late to call him now.",
+        "a": "too",
+        "o": [
+         "enough",
+         "so many",
+         "very much"
+        ],
+        "tr": "Onu şimdi aramak için çok geç.",
+        "why": "too late"
+       },
+       {
+        "s": "Is the water warm ___ to swim?",
+        "a": "enough",
+        "o": [
+         "too",
+         "as",
+         "so"
+        ],
+        "tr": "Su yüzmek için yeterince ılık mı?",
+        "why": "warm enough"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u39",
+   "unit": {
+    "id": "g6",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Modal fiiller",
+    "subtitle": "can, must, have to, should, might · 3 ders",
+    "lessons": [
+     {
+      "id": "g6l1",
+      "kind": "grammar",
+      "title": "can / could",
+      "subtitle": "can + yalın fiil · could: geçmiş yetenek ve kibar rica",
+      "intro": "Yetenek, izin ve rica.",
+      "rules": [
+       {
+        "title": "can + yalın fiil",
+        "text": "I can swim. Can I sit here? Olumsuz: can't. Geçmiş: could.",
+        "examples": [
+         {
+          "t": "I can speak three languages.",
+          "tr": "Üç dil konuşabiliyorum.",
+          "read": ""
+         },
+         {
+          "t": "Can I open the window?",
+          "tr": "Pencereyi açabilir miyim?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "could: geçmiş yetenek ve kibar rica",
+        "text": "When I was five, I could read. Could you help me, please?",
+        "examples": [
+         {
+          "t": "I couldn't sleep last night.",
+          "tr": "Dün gece uyuyamadım.",
+          "read": ""
+         },
+         {
+          "t": "Could you pass the salt, please?",
+          "tr": "Tuzu uzatabilir misiniz lütfen?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ you swim?",
+        "a": "Can",
+        "o": [
+         "Do",
+         "Are",
+         "Must"
+        ],
+        "tr": "Yüzebiliyor musun?",
+        "why": "yetenek sorusu → Can"
+       },
+       {
+        "s": "She can ___ the piano very well.",
+        "a": "play",
+        "o": [
+         "plays",
+         "to play",
+         "playing"
+        ],
+        "tr": "Piyanoyu çok iyi çalabiliyor.",
+        "why": "can + yalın fiil"
+       },
+       {
+        "s": "When I was a child, I ___ climb trees.",
+        "a": "could",
+        "o": [
+         "can",
+         "may",
+         "must"
+        ],
+        "tr": "Çocukken ağaca tırmanabiliyordum.",
+        "why": "geçmiş yetenek → could"
+       },
+       {
+        "s": "I ___ find my keys. Can you help me?",
+        "a": "can't",
+        "o": [
+         "mustn't",
+         "shouldn't",
+         "needn't"
+        ],
+        "tr": "Anahtarlarımı bulamıyorum. Yardım eder misin?",
+        "why": "yapamamak → can't"
+       },
+       {
+        "s": "___ you tell me the time, please?",
+        "a": "Could",
+        "o": [
+         "Must",
+         "Should",
+         "Might"
+        ],
+        "tr": "Saati söyleyebilir misiniz lütfen?",
+        "why": "kibar rica → Could"
+       },
+       {
+        "s": "He couldn't ___ because of the noise.",
+        "a": "sleep",
+        "o": [
+         "slept",
+         "sleeping",
+         "to sleep"
+        ],
+        "tr": "Gürültüden uyuyamadı.",
+        "why": "could + yalın fiil"
+       }
+      ]
+     },
+     {
+      "id": "g6l2",
+      "kind": "grammar",
+      "title": "must / have to / mustn't",
+      "subtitle": "must ve have to · mustn't ≠ don't have to",
+      "intro": "Zorunluluk ve yasak.",
+      "rules": [
+       {
+        "title": "must ve have to",
+        "text": "You must wear a seatbelt. I have to work on Saturdays. (zorunda olmak)",
+        "examples": [
+         {
+          "t": "I have to get up early tomorrow.",
+          "tr": "Yarın erken kalkmak zorundayım.",
+          "read": ""
+         },
+         {
+          "t": "You must be quiet in the library.",
+          "tr": "Kütüphanede sessiz olmalısın.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "mustn't ≠ don't have to",
+        "text": "mustn't = yasak; don't have to = gerek yok.",
+        "examples": [
+         {
+          "t": "You mustn't smoke here.",
+          "tr": "Burada sigara içmemelisin (yasak).",
+          "read": ""
+         },
+         {
+          "t": "It's Sunday. You don't have to go to work.",
+          "tr": "Pazar. İşe gitmek zorunda değilsin.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "She ___ to wear a uniform at work.",
+        "a": "has",
+        "o": [
+         "have",
+         "must",
+         "do"
+        ],
+        "tr": "İşte üniforma giymek zorunda.",
+        "why": "she → has to"
+       },
+       {
+        "s": "You ___ touch that. It's dangerous!",
+        "a": "mustn't",
+        "o": [
+         "don't have to",
+         "needn't",
+         "haven't"
+        ],
+        "tr": "Ona dokunmamalısın. Tehlikeli!",
+        "why": "yasak → mustn't"
+       },
+       {
+        "s": "We don't ___ to pay. It's free.",
+        "a": "have",
+        "o": [
+         "must",
+         "has",
+         "need to"
+        ],
+        "tr": "Ödemek zorunda değiliz. Ücretsiz.",
+        "why": "don't have to = gerek yok"
+       },
+       {
+        "s": "Did you ___ to wait long?",
+        "a": "have",
+        "o": [
+         "had",
+         "must",
+         "has"
+        ],
+        "tr": "Uzun beklemek zorunda kaldın mı?",
+        "why": "did + have to"
+       },
+       {
+        "s": "You ___ stop at a red light.",
+        "a": "must",
+        "o": [
+         "mustn't",
+         "don't have to",
+         "can't"
+        ],
+        "tr": "Kırmızı ışıkta durmalısın.",
+        "why": "zorunluluk → must"
+       },
+       {
+        "s": "Yesterday I ___ to stay late at work.",
+        "a": "had",
+        "o": [
+         "have",
+         "must",
+         "has"
+        ],
+        "tr": "Dün işte geç saate kadar kalmak zorunda kaldım.",
+        "why": "geçmiş → had to"
+       }
+      ]
+     },
+     {
+      "id": "g6l3",
+      "kind": "grammar",
+      "title": "should / might",
+      "subtitle": "should / shouldn't · might / may: belki",
+      "intro": "Tavsiye ve olasılık.",
+      "rules": [
+       {
+        "title": "should / shouldn't",
+        "text": "You should see a doctor. You shouldn't eat so much sugar.",
+        "examples": [
+         {
+          "t": "You should drink more water.",
+          "tr": "Daha çok su içmelisin.",
+          "read": ""
+         },
+         {
+          "t": "You shouldn't go to bed so late.",
+          "tr": "Bu kadar geç yatmamalısın.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "might / may: belki",
+        "text": "It might rain later. I may be late. (olasılık)",
+        "examples": [
+         {
+          "t": "Take an umbrella, it might rain.",
+          "tr": "Şemsiye al, yağmur yağabilir.",
+          "read": ""
+         },
+         {
+          "t": "I might go to the party, I'm not sure.",
+          "tr": "Partiye gidebilirim, emin değilim.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "You look tired. You ___ go to bed.",
+        "a": "should",
+        "o": [
+         "don't",
+         "mustn't",
+         "has"
+        ],
+        "tr": "Yorgun görünüyorsun. Yatmalısın.",
+        "why": "tavsiye → should"
+       },
+       {
+        "s": "You ___ eat so much fast food.",
+        "a": "shouldn't",
+        "o": [
+         "doesn't",
+         "don't have",
+         "hasn't"
+        ],
+        "tr": "Bu kadar çok fast food yememelisin.",
+        "why": "olumsuz tavsiye"
+       },
+       {
+        "s": "I'm not sure, but I ___ come tomorrow.",
+        "a": "might",
+        "o": [
+         "must",
+         "have",
+         "am"
+        ],
+        "tr": "Emin değilim ama yarın gelebilirim.",
+        "why": "belki → might"
+       },
+       {
+        "s": "What should I ___ ?",
+        "a": "do",
+        "o": [
+         "to do",
+         "doing",
+         "did"
+        ],
+        "tr": "Ne yapmalıyım?",
+        "why": "should + yalın fiil"
+       },
+       {
+        "s": "Don't wait for me. I ___ be late.",
+        "a": "may",
+        "o": [
+         "have",
+         "am",
+         "do"
+        ],
+        "tr": "Beni bekleme. Geç kalabilirim.",
+        "why": "olasılık → may"
+       },
+       {
+        "s": "___ I call him or send a message?",
+        "a": "Should",
+        "o": [
+         "Might",
+         "Have",
+         "Does"
+        ],
+        "tr": "Onu arayayım mı yoksa mesaj mı atayım?",
+        "why": "tavsiye sorusu → Should"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u41",
+   "unit": {
+    "id": "g7",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Artikeller ve miktar",
+    "subtitle": "a / an / the, some / any, much / many · 3 ders",
+    "lessons": [
+     {
+      "id": "g7l1",
+      "kind": "grammar",
+      "title": "a, an, the",
+      "subtitle": "a / an · the",
+      "intro": "Belirsiz ve belirli artikel.",
+      "rules": [
+       {
+        "title": "a / an",
+        "text": "a + ünsüz sesi (a car, a university), an + ünlü sesi (an apple, an hour).",
+        "examples": [
+         {
+          "t": "I have an idea.",
+          "tr": "Bir fikrim var.",
+          "read": ""
+         },
+         {
+          "t": "She's a teacher.",
+          "tr": "O bir öğretmen.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "the",
+        "text": "Bilinen, tekrar edilen ya da tek olan şey: the sun, the station, the book I bought.",
+        "examples": [
+         {
+          "t": "The sun is very hot today.",
+          "tr": "Güneş bugün çok sıcak.",
+          "read": ""
+         },
+         {
+          "t": "I bought a book. The book is about Rome.",
+          "tr": "Bir kitap aldım. Kitap Roma hakkında.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I eat ___ apple every day.",
+        "a": "an",
+        "o": [
+         "a",
+         "the",
+         "some"
+        ],
+        "tr": "Her gün bir elma yerim.",
+        "why": "ünlüden önce an"
+       },
+       {
+        "s": "She works at ___ university.",
+        "a": "a",
+        "o": [
+         "an",
+         "the",
+         "some"
+        ],
+        "tr": "Bir üniversitede çalışıyor.",
+        "why": "\"yu\" sesi → a"
+       },
+       {
+        "s": "We waited for ___ hour.",
+        "a": "an",
+        "o": [
+         "a",
+         "the",
+         "some"
+        ],
+        "tr": "Bir saat bekledik.",
+        "why": "h okunmaz → an"
+       },
+       {
+        "s": "___ moon is very bright tonight.",
+        "a": "The",
+        "o": [
+         "A",
+         "An",
+         "Some"
+        ],
+        "tr": "Ay bu gece çok parlak.",
+        "why": "tek olan → the"
+       },
+       {
+        "s": "I saw a dog. ___ dog was black.",
+        "a": "The",
+        "o": [
+         "A",
+         "An",
+         "Some"
+        ],
+        "tr": "Bir köpek gördüm. Köpek siyahtı.",
+        "why": "ikinci kez → the"
+       },
+       {
+        "s": "My father is ___ engineer.",
+        "a": "an",
+        "o": [
+         "a",
+         "the",
+         "some"
+        ],
+        "tr": "Babam mühendis.",
+        "why": "meslek, ünlü → an"
+       }
+      ]
+     },
+     {
+      "id": "g7l2",
+      "kind": "grammar",
+      "title": "some / any",
+      "subtitle": "some: olumlu cümle · any: olumsuz ve soru",
+      "intro": "Belirsiz miktar.",
+      "rules": [
+       {
+        "title": "some: olumlu cümle",
+        "text": "There is some milk. I bought some apples. Rica ve teklifte de: Would you like some tea?",
+        "examples": [
+         {
+          "t": "I need some help.",
+          "tr": "Biraz yardıma ihtiyacım var.",
+          "read": ""
+         },
+         {
+          "t": "Would you like some coffee?",
+          "tr": "Biraz kahve ister misin?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "any: olumsuz ve soru",
+        "text": "There isn't any bread. Have you got any brothers?",
+        "examples": [
+         {
+          "t": "We don't have any milk.",
+          "tr": "Hiç sütümüz yok.",
+          "read": ""
+         },
+         {
+          "t": "Are there any questions?",
+          "tr": "Hiç soru var mı?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "There's ___ cheese in the fridge.",
+        "a": "some",
+        "o": [
+         "any",
+         "many",
+         "few"
+        ],
+        "tr": "Buzdolabında biraz peynir var.",
+        "why": "olumlu → some"
+       },
+       {
+        "s": "I don't have ___ money.",
+        "a": "any",
+        "o": [
+         "some",
+         "a",
+         "many"
+        ],
+        "tr": "Hiç param yok.",
+        "why": "olumsuz → any"
+       },
+       {
+        "s": "Have you got ___ children?",
+        "a": "any",
+        "o": [
+         "much",
+         "a",
+         "little"
+        ],
+        "tr": "Hiç çocuğun var mı?",
+        "why": "soru → any"
+       },
+       {
+        "s": "Would you like ___ cake?",
+        "a": "some",
+        "o": [
+         "many",
+         "a few",
+         "few"
+        ],
+        "tr": "Biraz pasta ister misin?",
+        "why": "teklif → some"
+       },
+       {
+        "s": "There aren't ___ eggs left.",
+        "a": "any",
+        "o": [
+         "some",
+         "much",
+         "a"
+        ],
+        "tr": "Hiç yumurta kalmadı.",
+        "why": "olumsuz → any"
+       },
+       {
+        "s": "I'd like ___ water, please.",
+        "a": "some",
+        "o": [
+         "any",
+         "many",
+         "few"
+        ],
+        "tr": "Biraz su alabilir miyim lütfen?",
+        "why": "rica → some"
+       }
+      ]
+     },
+     {
+      "id": "g7l3",
+      "kind": "grammar",
+      "title": "much, many, a lot of",
+      "subtitle": "many + sayılabilen, much + sayılamayan · a lot of, a few, a little",
+      "intro": "Sayılabilen ve sayılamayan isimler.",
+      "rules": [
+       {
+        "title": "many + sayılabilen, much + sayılamayan",
+        "text": "many books, many people; much time, much money (çoğunlukla olumsuz ve soruda).",
+        "examples": [
+         {
+          "t": "How many people came?",
+          "tr": "Kaç kişi geldi?",
+          "read": ""
+         },
+         {
+          "t": "I don't have much time.",
+          "tr": "Çok vaktim yok.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "a lot of, a few, a little",
+        "text": "a lot of = çok (her ikisi); a few + sayılabilen; a little + sayılamayan.",
+        "examples": [
+         {
+          "t": "She has a lot of friends.",
+          "tr": "Çok arkadaşı var.",
+          "read": ""
+         },
+         {
+          "t": "I speak a little Spanish.",
+          "tr": "Biraz İspanyolca konuşuyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "How ___ brothers do you have?",
+        "a": "many",
+        "o": [
+         "much",
+         "a lot",
+         "few of"
+        ],
+        "tr": "Kaç erkek kardeşin var?",
+        "why": "sayılabilen → many"
+       },
+       {
+        "s": "How ___ is this jacket?",
+        "a": "much",
+        "o": [
+         "many",
+         "lot",
+         "few"
+        ],
+        "tr": "Bu ceket ne kadar?",
+        "why": "fiyat → how much"
+       },
+       {
+        "s": "There isn't ___ sugar in my tea.",
+        "a": "much",
+        "o": [
+         "many",
+         "a few",
+         "lots"
+        ],
+        "tr": "Çayımda çok şeker yok.",
+        "why": "sayılamayan → much"
+       },
+       {
+        "s": "I have a ___ friends in London.",
+        "a": "few",
+        "o": [
+         "little",
+         "much",
+         "lot"
+        ],
+        "tr": "Londra'da birkaç arkadaşım var.",
+        "why": "sayılabilen → a few"
+       },
+       {
+        "s": "Can I have a ___ milk in my coffee?",
+        "a": "little",
+        "o": [
+         "few",
+         "many",
+         "lots"
+        ],
+        "tr": "Kahveme biraz süt alabilir miyim?",
+        "why": "sayılamayan → a little"
+       },
+       {
+        "s": "There were a ___ of people at the concert.",
+        "a": "lot",
+        "o": [
+         "lots",
+         "many",
+         "much"
+        ],
+        "tr": "Konserde çok insan vardı.",
+        "why": "a lot of"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u43",
+   "unit": {
+    "id": "g8",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Past Continuous ve used to",
+    "subtitle": "was doing, when / while, used to · 3 ders",
+    "lessons": [
+     {
+      "id": "g8l1",
+      "kind": "grammar",
+      "title": "Past Continuous",
+      "subtitle": "was / were + -ing · Olumsuz ve soru",
+      "intro": "Geçmişte belli bir anda süren eylem.",
+      "rules": [
+       {
+        "title": "was / were + -ing",
+        "text": "At eight o'clock I was having dinner. They were watching TV.",
+        "examples": [
+         {
+          "t": "I was sleeping when you called.",
+          "tr": "Sen aradığında uyuyordum.",
+          "read": ""
+         },
+         {
+          "t": "What were you doing at ten?",
+          "tr": "Saat onda ne yapıyordun?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Olumsuz ve soru",
+        "text": "wasn't / weren't + -ing; Was he working? Were they playing?",
+        "examples": [
+         {
+          "t": "She wasn't listening to me.",
+          "tr": "Beni dinlemiyordu.",
+          "read": ""
+         },
+         {
+          "t": "Were you driving fast?",
+          "tr": "Hızlı mı sürüyordun?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "At nine o'clock I ___ reading a book.",
+        "a": "was",
+        "o": [
+         "were",
+         "am",
+         "did"
+        ],
+        "tr": "Saat dokuzda kitap okuyordum.",
+        "why": "I → was"
+       },
+       {
+        "s": "They ___ playing football in the park.",
+        "a": "were",
+        "o": [
+         "was",
+         "are",
+         "did"
+        ],
+        "tr": "Parkta futbol oynuyorlardı.",
+        "why": "they → were"
+       },
+       {
+        "s": "What ___ you doing last night at ten?",
+        "a": "were",
+        "o": [
+         "was",
+         "did",
+         "are"
+        ],
+        "tr": "Dün gece saat onda ne yapıyordun?",
+        "why": "you → were"
+       },
+       {
+        "s": "She was ___ a shower when the phone rang.",
+        "a": "having",
+        "o": [
+         "have",
+         "had",
+         "has"
+        ],
+        "tr": "Telefon çaldığında duş alıyordu.",
+        "why": "was + -ing"
+       },
+       {
+        "s": "We ___ watching TV, we were sleeping.",
+        "a": "weren't",
+        "o": [
+         "wasn't",
+         "didn't",
+         "aren't"
+        ],
+        "tr": "Televizyon izlemiyorduk, uyuyorduk.",
+        "why": "we → weren't"
+       },
+       {
+        "s": "It ___ raining when we left.",
+        "a": "was",
+        "o": [
+         "were",
+         "is",
+         "did"
+        ],
+        "tr": "Çıktığımızda yağmur yağıyordu.",
+        "why": "it → was"
+       }
+      ]
+     },
+     {
+      "id": "g8l2",
+      "kind": "grammar",
+      "title": "when ve while",
+      "subtitle": "while + Past Continuous · when + Past Simple",
+      "intro": "Kesilen eylem: uzun eylem + kısa eylem.",
+      "rules": [
+       {
+        "title": "while + Past Continuous",
+        "text": "While I was cooking, the phone rang. (sürerken)",
+        "examples": [
+         {
+          "t": "While she was walking home, it started to rain.",
+          "tr": "Eve yürürken yağmur başladı.",
+          "read": ""
+         },
+         {
+          "t": "I met Tom while I was living in Leeds.",
+          "tr": "Leeds'te yaşarken Tom'la tanıştım.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "when + Past Simple",
+        "text": "I was watching TV when the lights went out. (aniden olan kısa eylem)",
+        "examples": [
+         {
+          "t": "We were having dinner when he arrived.",
+          "tr": "O geldiğinde akşam yemeği yiyorduk.",
+          "read": ""
+         },
+         {
+          "t": "When I opened the door, the cat ran out.",
+          "tr": "Kapıyı açınca kedi dışarı kaçtı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I was reading ___ the lights went out.",
+        "a": "when",
+        "o": [
+         "while",
+         "during",
+         "since"
+        ],
+        "tr": "Işıklar söndüğünde kitap okuyordum.",
+        "why": "kısa eylem → when"
+       },
+       {
+        "s": "___ I was cooking, I cut my finger.",
+        "a": "While",
+        "o": [
+         "During",
+         "Since",
+         "For"
+        ],
+        "tr": "Yemek yaparken parmağımı kestim.",
+        "why": "süren eylem → while"
+       },
+       {
+        "s": "She was ___ when I saw her.",
+        "a": "crying",
+        "o": [
+         "cry",
+         "cried",
+         "cries"
+        ],
+        "tr": "Onu gördüğümde ağlıyordu.",
+        "why": "süren eylem → was + -ing"
+       },
+       {
+        "s": "He fell while he ___ skiing.",
+        "a": "was",
+        "o": [
+         "were",
+         "is",
+         "did"
+        ],
+        "tr": "Kayak yaparken düştü.",
+        "why": "he → was"
+       },
+       {
+        "s": "When the bus ___, we got on.",
+        "a": "came",
+        "o": [
+         "was coming",
+         "comes",
+         "come"
+        ],
+        "tr": "Otobüs gelince bindik.",
+        "why": "ardışık eylem → Past Simple"
+       },
+       {
+        "s": "They were sleeping when the alarm ___.",
+        "a": "rang",
+        "o": [
+         "was ringing",
+         "rings",
+         "ring"
+        ],
+        "tr": "Alarm çaldığında uyuyorlardı.",
+        "why": "kısa eylem → Past Simple"
+       }
+      ]
+     },
+     {
+      "id": "g8l3",
+      "kind": "grammar",
+      "title": "used to",
+      "subtitle": "used to + yalın fiil · Olumsuz ve soru",
+      "intro": "Eskiden yapılan ama artık yapılmayan şeyler.",
+      "rules": [
+       {
+        "title": "used to + yalın fiil",
+        "text": "I used to smoke. (Eskiden içerdim, artık içmiyorum.)",
+        "examples": [
+         {
+          "t": "I used to live in Izmir.",
+          "tr": "Eskiden İzmir'de yaşardım.",
+          "read": ""
+         },
+         {
+          "t": "He used to have long hair.",
+          "tr": "Eskiden uzun saçları vardı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Olumsuz ve soru",
+        "text": "didn't use to; Did you use to …?",
+        "examples": [
+         {
+          "t": "I didn't use to like coffee.",
+          "tr": "Eskiden kahve sevmezdim.",
+          "read": ""
+         },
+         {
+          "t": "Did you use to play an instrument?",
+          "tr": "Eskiden bir enstrüman çalar mıydın?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I ___ to play tennis, but now I don't.",
+        "a": "used",
+        "o": [
+         "use",
+         "using",
+         "was used"
+        ],
+        "tr": "Eskiden tenis oynardım ama artık oynamıyorum.",
+        "why": "used to"
+       },
+       {
+        "s": "She used to ___ in a bank.",
+        "a": "work",
+        "o": [
+         "working",
+         "worked",
+         "works"
+        ],
+        "tr": "Eskiden bir bankada çalışırdı.",
+        "why": "used to + yalın fiil"
+       },
+       {
+        "s": "I didn't ___ to like vegetables.",
+        "a": "use",
+        "o": [
+         "used",
+         "using",
+         "uses"
+        ],
+        "tr": "Eskiden sebze sevmezdim.",
+        "why": "didn't use to"
+       },
+       {
+        "s": "Did you ___ to walk to school?",
+        "a": "use",
+        "o": [
+         "used",
+         "using",
+         "uses"
+        ],
+        "tr": "Eskiden okula yürür müydün?",
+        "why": "Did … use to"
+       },
+       {
+        "s": "There ___ to be a cinema here.",
+        "a": "used",
+        "o": [
+         "use",
+         "was",
+         "were"
+        ],
+        "tr": "Eskiden burada bir sinema vardı.",
+        "why": "there used to be"
+       },
+       {
+        "s": "My grandfather used to ___ me stories.",
+        "a": "tell",
+        "o": [
+         "told",
+         "telling",
+         "tells"
+        ],
+        "tr": "Dedem bana hikâyeler anlatırdı.",
+        "why": "used to + yalın fiil"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u45",
+   "unit": {
+    "id": "g9",
+    "level": "orta",
+    "kind": "grammar",
+    "title": "Edatlar ve fiil kalıpları",
+    "subtitle": "in / on / at, for / since, -ing ve to · 3 ders",
+    "lessons": [
+     {
+      "id": "g9l1",
+      "kind": "grammar",
+      "title": "in, on, at: zaman",
+      "subtitle": "at saat, on gün, in ay/yıl/mevsim · in the morning, at the weekend",
+      "intro": "Saat, gün ve dönemler.",
+      "rules": [
+       {
+        "title": "at saat, on gün, in ay/yıl/mevsim",
+        "text": "at six o'clock, at night; on Monday, on 5 May; in July, in 2020, in summer.",
+        "examples": [
+         {
+          "t": "The film starts at eight.",
+          "tr": "Film sekizde başlıyor.",
+          "read": ""
+         },
+         {
+          "t": "My birthday is on Friday.",
+          "tr": "Doğum günüm cuma.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "in the morning, at the weekend",
+        "text": "in the morning / afternoon / evening, at the weekend, at Christmas.",
+        "examples": [
+         {
+          "t": "I go running in the morning.",
+          "tr": "Sabahları koşuya çıkarım.",
+          "read": ""
+         },
+         {
+          "t": "What are you doing at the weekend?",
+          "tr": "Hafta sonu ne yapıyorsun?",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "The meeting is ___ ten o'clock.",
+        "a": "at",
+        "o": [
+         "in",
+         "on",
+         "to"
+        ],
+        "tr": "Toplantı saat onda.",
+        "why": "saat → at"
+       },
+       {
+        "s": "I was born ___ 1995.",
+        "a": "in",
+        "o": [
+         "on",
+         "at",
+         "to"
+        ],
+        "tr": "1995'te doğdum.",
+        "why": "yıl → in"
+       },
+       {
+        "s": "See you ___ Monday!",
+        "a": "on",
+        "o": [
+         "in",
+         "at",
+         "to"
+        ],
+        "tr": "Pazartesi görüşürüz!",
+        "why": "gün → on"
+       },
+       {
+        "s": "It's cold here ___ winter.",
+        "a": "in",
+        "o": [
+         "on",
+         "at",
+         "to"
+        ],
+        "tr": "Burada kışın hava soğuk.",
+        "why": "mevsim → in"
+       },
+       {
+        "s": "I never work ___ night.",
+        "a": "at",
+        "o": [
+         "in",
+         "on",
+         "to"
+        ],
+        "tr": "Gece asla çalışmam.",
+        "why": "at night"
+       },
+       {
+        "s": "We have English ___ the afternoon.",
+        "a": "in",
+        "o": [
+         "at",
+         "on",
+         "to"
+        ],
+        "tr": "Öğleden sonra İngilizce dersimiz var.",
+        "why": "in the afternoon"
+       }
+      ]
+     },
+     {
+      "id": "g9l2",
+      "kind": "grammar",
+      "title": "for ve since",
+      "subtitle": "for + süre · since + başlangıç noktası",
+      "intro": "Present Perfect ile süre.",
+      "rules": [
+       {
+        "title": "for + süre",
+        "text": "for two years, for an hour, for a long time.",
+        "examples": [
+         {
+          "t": "I've lived here for ten years.",
+          "tr": "On yıldır burada yaşıyorum.",
+          "read": ""
+         },
+         {
+          "t": "We've been friends for a long time.",
+          "tr": "Uzun zamandır arkadaşız.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "since + başlangıç noktası",
+        "text": "since 2015, since Monday, since I was a child.",
+        "examples": [
+         {
+          "t": "She has worked here since March.",
+          "tr": "Marttan beri burada çalışıyor.",
+          "read": ""
+         },
+         {
+          "t": "I haven't seen him since Christmas.",
+          "tr": "Noel'den beri onu görmedim.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I've known her ___ five years.",
+        "a": "for",
+        "o": [
+         "since",
+         "from",
+         "during"
+        ],
+        "tr": "Onu beş yıldır tanıyorum.",
+        "why": "süre → for"
+       },
+       {
+        "s": "He's been ill ___ Friday.",
+        "a": "since",
+        "o": [
+         "for",
+         "from",
+         "during"
+        ],
+        "tr": "Cumadan beri hasta.",
+        "why": "başlangıç → since"
+       },
+       {
+        "s": "We've lived in this house ___ 2010.",
+        "a": "since",
+        "o": [
+         "for",
+         "from",
+         "at"
+        ],
+        "tr": "2010'dan beri bu evde yaşıyoruz.",
+        "why": "yıl, başlangıç → since"
+       },
+       {
+        "s": "They've been married ___ twenty years.",
+        "a": "for",
+        "o": [
+         "since",
+         "during",
+         "ago"
+        ],
+        "tr": "Yirmi yıldır evliler.",
+        "why": "süre → for"
+       },
+       {
+        "s": "I haven't eaten ___ this morning.",
+        "a": "since",
+        "o": [
+         "for",
+         "ago",
+         "from"
+        ],
+        "tr": "Bu sabahtan beri bir şey yemedim.",
+        "why": "başlangıç → since"
+       },
+       {
+        "s": "She's been waiting ___ an hour.",
+        "a": "for",
+        "o": [
+         "since",
+         "ago",
+         "during"
+        ],
+        "tr": "Bir saattir bekliyor.",
+        "why": "süre → for"
+       }
+      ]
+     },
+     {
+      "id": "g9l3",
+      "kind": "grammar",
+      "title": "Fiil + -ing / fiil + to",
+      "subtitle": "-ing alanlar · to alanlar",
+      "intro": "Bazı fiillerden sonra -ing, bazılarından sonra to gelir.",
+      "rules": [
+       {
+        "title": "-ing alanlar",
+        "text": "enjoy, like, love, hate, finish, stop, mind: I enjoy swimming.",
+        "examples": [
+         {
+          "t": "I enjoy reading in bed.",
+          "tr": "Yatakta okumaktan keyif alırım.",
+          "read": ""
+         },
+         {
+          "t": "Have you finished eating?",
+          "tr": "Yemeği bitirdin mi?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "to alanlar",
+        "text": "want, decide, hope, plan, need, learn, would like: I want to travel.",
+        "examples": [
+         {
+          "t": "She decided to study medicine.",
+          "tr": "Tıp okumaya karar verdi.",
+          "read": ""
+         },
+         {
+          "t": "I'd like to book a table.",
+          "tr": "Bir masa ayırtmak istiyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I enjoy ___ to music.",
+        "a": "listening",
+        "o": [
+         "to listen",
+         "listen",
+         "listened"
+        ],
+        "tr": "Müzik dinlemekten hoşlanırım.",
+        "why": "enjoy + -ing"
+       },
+       {
+        "s": "We decided ___ a car.",
+        "a": "to buy",
+        "o": [
+         "buying",
+         "buy",
+         "bought"
+        ],
+        "tr": "Araba almaya karar verdik.",
+        "why": "decide + to"
+       },
+       {
+        "s": "Do you mind ___ the window?",
+        "a": "opening",
+        "o": [
+         "to open",
+         "open",
+         "opened"
+        ],
+        "tr": "Pencereyi açar mısın?",
+        "why": "mind + -ing"
+       },
+       {
+        "s": "She wants ___ a doctor.",
+        "a": "to become",
+        "o": [
+         "becoming",
+         "become",
+         "became"
+        ],
+        "tr": "Doktor olmak istiyor.",
+        "why": "want + to"
+       },
+       {
+        "s": "Stop ___ ! I'm trying to sleep.",
+        "a": "talking",
+        "o": [
+         "to talk",
+         "talk",
+         "talked"
+        ],
+        "tr": "Konuşmayı kes! Uyumaya çalışıyorum.",
+        "why": "stop + -ing"
+       },
+       {
+        "s": "I hope ___ you again soon.",
+        "a": "to see",
+        "o": [
+         "seeing",
+         "see",
+         "saw"
+        ],
+        "tr": "Seni yakında tekrar görmeyi umuyorum.",
+        "why": "hope + to"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u52",
+   "unit": {
+    "id": "y5",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "Past Perfect ve ileri zamanlar",
+    "subtitle": "had done, will have done, have been doing · 3 ders",
+    "lessons": [
+     {
+      "id": "y5l1",
+      "kind": "grammar",
+      "title": "Past Perfect",
+      "subtitle": "had + V3 · Past Simple ile birlikte",
+      "intro": "Geçmişteki bir olaydan daha önce olanlar (-mişti).",
+      "rules": [
+       {
+        "title": "had + V3",
+        "text": "When I arrived, the film had already started. (Ben vardığımda film başlamıştı.)",
+        "examples": [
+         {
+          "t": "She had left before I called.",
+          "tr": "Ben aramadan önce çıkmıştı.",
+          "read": ""
+         },
+         {
+          "t": "I had never seen the sea before that trip.",
+          "tr": "O geziden önce denizi hiç görmemiştim.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Past Simple ile birlikte",
+        "text": "Önce olan → Past Perfect, sonra olan → Past Simple. Bağlaçlar: before, after, by the time, already.",
+        "examples": [
+         {
+          "t": "By the time we got there, everyone had gone home.",
+          "tr": "Biz oraya vardığımızda herkes eve gitmişti.",
+          "read": ""
+         },
+         {
+          "t": "After he had finished his work, he went out.",
+          "tr": "İşini bitirdikten sonra dışarı çıktı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "When we arrived, the train had already ___.",
+        "a": "left",
+        "o": [
+         "leave",
+         "leaving",
+         "leaves"
+        ],
+        "tr": "Vardığımızda tren çoktan kalkmıştı.",
+        "why": "had + V3"
+       },
+       {
+        "s": "I ___ never eaten sushi before that day.",
+        "a": "had",
+        "o": [
+         "have",
+         "was",
+         "did"
+        ],
+        "tr": "O günden önce hiç suşi yememiştim.",
+        "why": "Past Perfect → had"
+       },
+       {
+        "s": "She was tired because she had ___ all day.",
+        "a": "worked",
+        "o": [
+         "work",
+         "working",
+         "works"
+        ],
+        "tr": "Bütün gün çalıştığı için yorgundu.",
+        "why": "had + V3"
+       },
+       {
+        "s": "By the time the police came, the thief had ___.",
+        "a": "escaped",
+        "o": [
+         "escape",
+         "escaping",
+         "escapes"
+        ],
+        "tr": "Polis geldiğinde hırsız kaçmıştı.",
+        "why": "had + V3"
+       },
+       {
+        "s": "He ___ the book before he saw the film.",
+        "a": "had read",
+        "o": [
+         "has read",
+         "reads",
+         "have read"
+        ],
+        "tr": "Filmi görmeden önce kitabı okumuştu.",
+        "why": "önce olan → had + V3"
+       },
+       {
+        "s": "They had ___ each other for years before they married.",
+        "a": "known",
+        "o": [
+         "knew",
+         "know",
+         "knowing"
+        ],
+        "tr": "Evlenmeden önce yıllardır tanışıyorlardı.",
+        "why": "know → known"
+       }
+      ]
+     },
+     {
+      "id": "y5l2",
+      "kind": "grammar",
+      "title": "Present Perfect Continuous",
+      "subtitle": "have / has been + -ing · Sonucu görünen eylem",
+      "intro": "Geçmişte başlayıp hâlâ süren eylem.",
+      "rules": [
+       {
+        "title": "have / has been + -ing",
+        "text": "I've been waiting for an hour. (Bir saattir bekliyorum.)",
+        "examples": [
+         {
+          "t": "It has been raining all morning.",
+          "tr": "Bütün sabah yağmur yağıyor.",
+          "read": ""
+         },
+         {
+          "t": "How long have you been learning English?",
+          "tr": "Ne zamandır İngilizce öğreniyorsun?",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Sonucu görünen eylem",
+        "text": "You look tired. Have you been running? (Koşuyor muydun?)",
+        "examples": [
+         {
+          "t": "Your eyes are red. Have you been crying?",
+          "tr": "Gözlerin kızarmış. Ağlıyor muydun?",
+          "read": ""
+         },
+         {
+          "t": "I've been working on this project since May.",
+          "tr": "Mayıstan beri bu proje üzerinde çalışıyorum.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I've been ___ for you for two hours!",
+        "a": "waiting",
+        "o": [
+         "wait",
+         "waited",
+         "waits"
+        ],
+        "tr": "İki saattir seni bekliyorum!",
+        "why": "have been + -ing"
+       },
+       {
+        "s": "How long ___ you been living here?",
+        "a": "have",
+        "o": [
+         "has",
+         "are",
+         "did"
+        ],
+        "tr": "Ne zamandır burada yaşıyorsun?",
+        "why": "you → have"
+       },
+       {
+        "s": "She ___ been studying since this morning.",
+        "a": "has",
+        "o": [
+         "have",
+         "is",
+         "was"
+        ],
+        "tr": "Bu sabahtan beri ders çalışıyor.",
+        "why": "she → has"
+       },
+       {
+        "s": "It has been ___ all day.",
+        "a": "snowing",
+        "o": [
+         "snow",
+         "snowed",
+         "snows"
+        ],
+        "tr": "Bütün gün kar yağıyor.",
+        "why": "been + -ing"
+       },
+       {
+        "s": "We've been ___ about this problem for weeks.",
+        "a": "talking",
+        "o": [
+         "talk",
+         "talked",
+         "talks"
+        ],
+        "tr": "Haftalardır bu sorun hakkında konuşuyoruz.",
+        "why": "been + -ing"
+       },
+       {
+        "s": "You're out of breath. Have you been ___ ?",
+        "a": "running",
+        "o": [
+         "run",
+         "ran",
+         "runs"
+        ],
+        "tr": "Nefes nefesesin. Koşuyor muydun?",
+        "why": "been + -ing"
+       }
+      ]
+     },
+     {
+      "id": "y5l3",
+      "kind": "grammar",
+      "title": "Future Continuous ve Future Perfect",
+      "subtitle": "will be + -ing · will have + V3",
+      "intro": "Gelecekte bir anda sürecek ya da bitmiş olacak eylemler.",
+      "rules": [
+       {
+        "title": "will be + -ing",
+        "text": "This time tomorrow I'll be flying to New York. (Yarın bu saatte uçuyor olacağım.)",
+        "examples": [
+         {
+          "t": "Don't call at eight, I'll be having dinner.",
+          "tr": "Sekizde arama, yemek yiyor olacağım.",
+          "read": ""
+         },
+         {
+          "t": "At ten I'll be sitting in a meeting.",
+          "tr": "Onda bir toplantıda oturuyor olacağım.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "will have + V3",
+        "text": "By next year I'll have finished university. (Gelecek yıla kadar bitirmiş olacağım.)",
+        "examples": [
+         {
+          "t": "By six o'clock, I'll have written the report.",
+          "tr": "Saat altıya kadar raporu yazmış olacağım.",
+          "read": ""
+         },
+         {
+          "t": "They will have arrived by the time we leave.",
+          "tr": "Biz çıkana kadar onlar varmış olacak.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "This time next week I'll be ___ on the beach.",
+        "a": "lying",
+        "o": [
+         "lie",
+         "lay",
+         "lain"
+        ],
+        "tr": "Gelecek hafta bu saatte plajda uzanıyor olacağım.",
+        "why": "will be + -ing"
+       },
+       {
+        "s": "By 2030 they will have ___ the new bridge.",
+        "a": "built",
+        "o": [
+         "build",
+         "building",
+         "builds"
+        ],
+        "tr": "2030'a kadar yeni köprüyü inşa etmiş olacaklar.",
+        "why": "will have + V3"
+       },
+       {
+        "s": "At nine I ___ be working, so call me later.",
+        "a": "will",
+        "o": [
+         "have",
+         "am",
+         "did"
+        ],
+        "tr": "Dokuzda çalışıyor olacağım, sonra ara.",
+        "why": "will be + -ing"
+       },
+       {
+        "s": "By the end of the day, I'll have ___ fifty emails.",
+        "a": "answered",
+        "o": [
+         "answer",
+         "answering",
+         "answers"
+        ],
+        "tr": "Gün sonuna kadar elli e-postayı yanıtlamış olacağım.",
+        "why": "will have + V3"
+       },
+       {
+        "s": "Don't come at seven. We'll be ___ dinner.",
+        "a": "having",
+        "o": [
+         "have",
+         "had",
+         "has"
+        ],
+        "tr": "Yedide gelme. Yemek yiyor olacağız.",
+        "why": "will be + -ing"
+       },
+       {
+        "s": "By the time you get here, I will ___ cooked dinner.",
+        "a": "have",
+        "o": [
+         "be",
+         "had",
+         "has"
+        ],
+        "tr": "Sen buraya gelene kadar yemeği pişirmiş olacağım.",
+        "why": "will have + V3"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u55",
+   "unit": {
+    "id": "y6",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "İlgi cümleleri ve bağlaçlar",
+    "subtitle": "who, which, whose; although, despite, whereas · 3 ders",
+    "lessons": [
+     {
+      "id": "y6l1",
+      "kind": "grammar",
+      "title": "İlgi zamirleri",
+      "subtitle": "who / which / that · whose / where",
+      "intro": "who, which, that, whose, where.",
+      "rules": [
+       {
+        "title": "who / which / that",
+        "text": "who → insanlar, which → şeyler, that → ikisi de. The man who lives next door. The car which I bought.",
+        "examples": [
+         {
+          "t": "The woman who called you is my boss.",
+          "tr": "Seni arayan kadın patronum.",
+          "read": ""
+         },
+         {
+          "t": "This is the book that changed my life.",
+          "tr": "Bu hayatımı değiştiren kitap.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "whose / where",
+        "text": "whose = kimin (sahiplik), where = yer. The girl whose father is a pilot. The town where I was born.",
+        "examples": [
+         {
+          "t": "That's the man whose car was stolen.",
+          "tr": "Arabası çalınan adam bu.",
+          "read": ""
+         },
+         {
+          "t": "This is the café where we first met.",
+          "tr": "İlk tanıştığımız kafe burası.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "The man ___ lives next door is a doctor.",
+        "a": "who",
+        "o": [
+         "which",
+         "whose",
+         "where"
+        ],
+        "tr": "Yan evde oturan adam doktor.",
+        "why": "insan → who"
+       },
+       {
+        "s": "I lost the watch ___ my father gave me.",
+        "a": "which",
+        "o": [
+         "who",
+         "whose",
+         "where"
+        ],
+        "tr": "Babamın bana verdiği saati kaybettim.",
+        "why": "şey → which"
+       },
+       {
+        "s": "That's the hotel ___ we stayed last year.",
+        "a": "where",
+        "o": [
+         "which",
+         "who",
+         "whose"
+        ],
+        "tr": "Geçen yıl kaldığımız otel bu.",
+        "why": "yer → where"
+       },
+       {
+        "s": "She's the girl ___ brother is in my class.",
+        "a": "whose",
+        "o": [
+         "who",
+         "which",
+         "where"
+        ],
+        "tr": "Kardeşi benim sınıfımda olan kız o.",
+        "why": "sahiplik → whose"
+       },
+       {
+        "s": "The film ___ we saw yesterday was boring.",
+        "a": "that",
+        "o": [
+         "who",
+         "whose",
+         "where"
+        ],
+        "tr": "Dün izlediğimiz film sıkıcıydı.",
+        "why": "şey → that"
+       },
+       {
+        "s": "Do you know anyone ___ speaks Japanese?",
+        "a": "who",
+        "o": [
+         "which",
+         "whose",
+         "where"
+        ],
+        "tr": "Japonca konuşan birini tanıyor musun?",
+        "why": "insan → who"
+       }
+      ]
+     },
+     {
+      "id": "y6l2",
+      "kind": "grammar",
+      "title": "Karşıtlık: although, despite, however",
+      "subtitle": "although / even though + cümle · despite / in spite of + isim / -ing",
+      "intro": "Beklenmedik bir sonucu bağlamak.",
+      "rules": [
+       {
+        "title": "although / even though + cümle",
+        "text": "Although it was raining, we went out.",
+        "examples": [
+         {
+          "t": "Although he was tired, he kept working.",
+          "tr": "Yorgun olmasına rağmen çalışmaya devam etti.",
+          "read": ""
+         },
+         {
+          "t": "Even though she's rich, she lives simply.",
+          "tr": "Zengin olmasına rağmen sade yaşıyor.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "despite / in spite of + isim / -ing",
+        "text": "Despite the rain, we went out. In spite of being ill, she came.",
+        "examples": [
+         {
+          "t": "Despite the traffic, we arrived on time.",
+          "tr": "Trafiğe rağmen zamanında vardık.",
+          "read": ""
+         },
+         {
+          "t": "In spite of feeling sick, he went to work.",
+          "tr": "Kendini kötü hissetmesine rağmen işe gitti.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "___ it was cold, we went swimming.",
+        "a": "Although",
+        "o": [
+         "Despite",
+         "In spite of",
+         "However"
+        ],
+        "tr": "Hava soğuk olmasına rağmen yüzmeye gittik.",
+        "why": "+ cümle → although"
+       },
+       {
+        "s": "___ the rain, the match continued.",
+        "a": "Despite",
+        "o": [
+         "Although",
+         "Even though",
+         "However"
+        ],
+        "tr": "Yağmura rağmen maç devam etti.",
+        "why": "+ isim → despite"
+       },
+       {
+        "s": "In spite ___ his age, he runs every day.",
+        "a": "of",
+        "o": [
+         "to",
+         "from",
+         "for"
+        ],
+        "tr": "Yaşına rağmen her gün koşuyor.",
+        "why": "in spite of"
+       },
+       {
+        "s": "The hotel was expensive. ___, it was worth it.",
+        "a": "However",
+        "o": [
+         "Although",
+         "Despite",
+         "Even though"
+        ],
+        "tr": "Otel pahalıydı. Ancak buna değdi.",
+        "why": "yeni cümle → However"
+       },
+       {
+        "s": "She passed the exam ___ she didn't study much.",
+        "a": "even though",
+        "o": [
+         "despite",
+         "in spite of",
+         "however"
+        ],
+        "tr": "Pek çalışmamasına rağmen sınavı geçti.",
+        "why": "+ cümle → even though"
+       },
+       {
+        "s": "Despite ___ tired, he finished the race.",
+        "a": "being",
+        "o": [
+         "be",
+         "was",
+         "to be"
+        ],
+        "tr": "Yorgun olmasına rağmen yarışı bitirdi.",
+        "why": "despite + -ing"
+       }
+      ]
+     },
+     {
+      "id": "y6l3",
+      "kind": "grammar",
+      "title": "Sebep, sonuç ve amaç",
+      "subtitle": "Sebep ve sonuç · Amaç ve zıtlık",
+      "intro": "because, since, so that, therefore, whereas.",
+      "rules": [
+       {
+        "title": "Sebep ve sonuç",
+        "text": "because / since / as + cümle; because of + isim; therefore, as a result = bu nedenle.",
+        "examples": [
+         {
+          "t": "We stayed at home because of the storm.",
+          "tr": "Fırtına yüzünden evde kaldık.",
+          "read": ""
+         },
+         {
+          "t": "He missed the bus; therefore, he was late.",
+          "tr": "Otobüsü kaçırdı; bu nedenle geç kaldı.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Amaç ve zıtlık",
+        "text": "so that = -sın diye; in order to + fiil; whereas / while = oysa.",
+        "examples": [
+         {
+          "t": "I left early so that I wouldn't miss the train.",
+          "tr": "Treni kaçırmayayım diye erken çıktım.",
+          "read": ""
+         },
+         {
+          "t": "I love the sea, whereas my wife prefers mountains.",
+          "tr": "Ben denizi severim, oysa karım dağları tercih eder.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "The flight was cancelled ___ of the fog.",
+        "a": "because",
+        "o": [
+         "since",
+         "as",
+         "so"
+        ],
+        "tr": "Uçuş sis yüzünden iptal edildi.",
+        "why": "+ of + isim → because of"
+       },
+       {
+        "s": "Speak slowly ___ everyone can understand.",
+        "a": "so that",
+        "o": [
+         "despite",
+         "whereas",
+         "therefore"
+        ],
+        "tr": "Herkes anlayabilsin diye yavaş konuş.",
+        "why": "amaç → so that"
+       },
+       {
+        "s": "He studied hard; ___, he passed.",
+        "a": "therefore",
+        "o": [
+         "whereas",
+         "although",
+         "because"
+        ],
+        "tr": "Çok çalıştı; bu nedenle geçti.",
+        "why": "sonuç → therefore"
+       },
+       {
+        "s": "My brother is tall, ___ I'm short.",
+        "a": "whereas",
+        "o": [
+         "therefore",
+         "so that",
+         "because of"
+        ],
+        "tr": "Erkek kardeşim uzun, oysa ben kısayım.",
+        "why": "zıtlık → whereas"
+       },
+       {
+        "s": "I went to the shop in order ___ buy milk.",
+        "a": "to",
+        "o": [
+         "for",
+         "that",
+         "of"
+        ],
+        "tr": "Süt almak için markete gittim.",
+        "why": "in order to"
+       },
+       {
+        "s": "___ it was late, we took a taxi.",
+        "a": "As",
+        "o": [
+         "So",
+         "Therefore",
+         "Whereas"
+        ],
+        "tr": "Geç olduğu için taksiye bindik.",
+        "why": "sebep → As"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u58",
+   "unit": {
+    "id": "y7",
+    "level": "yuksek",
+    "kind": "grammar",
+    "title": "İleri yapılar",
+    "subtitle": "I wish, if only, devrik yapı, vurgu cümleleri · 3 ders",
+    "lessons": [
+     {
+      "id": "y7l1",
+      "kind": "grammar",
+      "title": "I wish / If only",
+      "subtitle": "Şimdiki dilek: wish + Past Simple · Geçmiş pişmanlık: wish + Past Perfect",
+      "intro": "Dilek ve pişmanlık.",
+      "rules": [
+       {
+        "title": "Şimdiki dilek: wish + Past Simple",
+        "text": "I wish I had more time. (Keşke daha çok vaktim olsa.) I wish I were taller.",
+        "examples": [
+         {
+          "t": "I wish I could speak Chinese.",
+          "tr": "Keşke Çince konuşabilsem.",
+          "read": ""
+         },
+         {
+          "t": "If only it were summer!",
+          "tr": "Keşke yaz olsa!",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Geçmiş pişmanlık: wish + Past Perfect",
+        "text": "I wish I had studied harder. (Keşke daha çok çalışsaydım.)",
+        "examples": [
+         {
+          "t": "I wish I hadn't said that.",
+          "tr": "Keşke bunu söylemeseydim.",
+          "read": ""
+         },
+         {
+          "t": "If only we had left earlier!",
+          "tr": "Keşke daha erken çıksaydık!",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "I wish I ___ a car.",
+        "a": "had",
+        "o": [
+         "have",
+         "has",
+         "having"
+        ],
+        "tr": "Keşke bir arabam olsa.",
+        "why": "şimdiki dilek → Past Simple"
+       },
+       {
+        "s": "I wish I ___ gone to the party.",
+        "a": "had",
+        "o": [
+         "have",
+         "did",
+         "was"
+        ],
+        "tr": "Keşke partiye gitseydim.",
+        "why": "geçmiş pişmanlık → had + V3"
+       },
+       {
+        "s": "If only I ___ the answer!",
+        "a": "knew",
+        "o": [
+         "know",
+         "knows",
+         "known"
+        ],
+        "tr": "Keşke cevabı bilsem!",
+        "why": "şimdiki dilek → Past Simple"
+       },
+       {
+        "s": "I wish you ___ here with me.",
+        "a": "were",
+        "o": [
+         "are",
+         "be",
+         "been"
+        ],
+        "tr": "Keşke burada benimle olsan.",
+        "why": "wish + were"
+       },
+       {
+        "s": "She wishes she hadn't ___ so much money.",
+        "a": "spent",
+        "o": [
+         "spend",
+         "spending",
+         "spends"
+        ],
+        "tr": "Keşke o kadar para harcamasaydı diye düşünüyor.",
+        "why": "hadn't + V3"
+       },
+       {
+        "s": "I wish I ___ swim.",
+        "a": "could",
+        "o": [
+         "can",
+         "will",
+         "may"
+        ],
+        "tr": "Keşke yüzebilsem.",
+        "why": "wish + could"
+       }
+      ]
+     },
+     {
+      "id": "y7l2",
+      "kind": "grammar",
+      "title": "Devrik yapı",
+      "subtitle": "Olumsuz zarflardan sonra · Not only … but also / No sooner … than",
+      "intro": "Vurgu için yardımcı fiil özneden önce gelir.",
+      "rules": [
+       {
+        "title": "Olumsuz zarflardan sonra",
+        "text": "Never have I seen such a beautiful place. Rarely does he complain.",
+        "examples": [
+         {
+          "t": "Never have I eaten such good food.",
+          "tr": "Hiç bu kadar güzel yemek yemedim.",
+          "read": ""
+         },
+         {
+          "t": "Rarely do we see such talent.",
+          "tr": "Böyle bir yeteneği nadiren görürüz.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "Not only … but also / No sooner … than",
+        "text": "Not only is she clever, but she is also kind. No sooner had I arrived than it started to rain.",
+        "examples": [
+         {
+          "t": "Not only did he win, but he also broke the record.",
+          "tr": "Sadece kazanmakla kalmadı, rekoru da kırdı.",
+          "read": ""
+         },
+         {
+          "t": "No sooner had we sat down than the phone rang.",
+          "tr": "Oturur oturmaz telefon çaldı.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "Never ___ I seen such a big dog.",
+        "a": "have",
+        "o": [
+         "I have",
+         "has",
+         "did"
+        ],
+        "tr": "Hiç bu kadar büyük köpek görmedim.",
+        "why": "devrik: Never have I"
+       },
+       {
+        "s": "Rarely ___ she go out at night.",
+        "a": "does",
+        "o": [
+         "she does",
+         "do",
+         "is"
+        ],
+        "tr": "Geceleri nadiren dışarı çıkar.",
+        "why": "devrik: Rarely does she"
+       },
+       {
+        "s": "Not only ___ he sing, but he also dances.",
+        "a": "does",
+        "o": [
+         "he does",
+         "is",
+         "do"
+        ],
+        "tr": "Sadece şarkı söylemekle kalmıyor, dans da ediyor.",
+        "why": "Not only does he"
+       },
+       {
+        "s": "No sooner had I left ___ it started to rain.",
+        "a": "than",
+        "o": [
+         "then",
+         "that",
+         "when"
+        ],
+        "tr": "Çıkar çıkmaz yağmur başladı.",
+        "why": "No sooner … than"
+       },
+       {
+        "s": "Seldom ___ we been so happy.",
+        "a": "have",
+        "o": [
+         "we have",
+         "has",
+         "did"
+        ],
+        "tr": "Nadiren bu kadar mutlu olduk.",
+        "why": "devrik: Seldom have we"
+       },
+       {
+        "s": "Not only was it cold, ___ it was also windy.",
+        "a": "but",
+        "o": [
+         "and",
+         "so",
+         "or"
+        ],
+        "tr": "Sadece soğuk değildi, rüzgârlıydı da.",
+        "why": "Not only … but also"
+       }
+      ]
+     },
+     {
+      "id": "y7l3",
+      "kind": "grammar",
+      "title": "Vurgu cümleleri",
+      "subtitle": "It is / was … that · What … is / was",
+      "intro": "It is … that / What … is.",
+      "rules": [
+       {
+        "title": "It is / was … that",
+        "text": "It was John that broke the window. (Camı kıran John'du.)",
+        "examples": [
+         {
+          "t": "It was in Paris that they first met.",
+          "tr": "İlk kez tanıştıkları yer Paris'ti.",
+          "read": ""
+         },
+         {
+          "t": "It's the price that worries me.",
+          "tr": "Beni endişelendiren fiyat.",
+          "read": ""
+         }
+        ]
+       },
+       {
+        "title": "What … is / was",
+        "text": "What I need is a holiday. (İhtiyacım olan şey bir tatil.)",
+        "examples": [
+         {
+          "t": "What I like about him is his honesty.",
+          "tr": "Onda sevdiğim şey dürüstlüğü.",
+          "read": ""
+         },
+         {
+          "t": "What surprised me was the silence.",
+          "tr": "Beni şaşırtan şey sessizlikti.",
+          "read": ""
+         }
+        ]
+       }
+      ],
+      "drills": [
+       {
+        "s": "It was my sister ___ told me the news.",
+        "a": "who",
+        "o": [
+         "which",
+         "what",
+         "whose"
+        ],
+        "tr": "Bana haberi veren kız kardeşimdi.",
+        "why": "It was … who"
+       },
+       {
+        "s": "___ I need is a good night's sleep.",
+        "a": "What",
+        "o": [
+         "That",
+         "Which",
+         "It"
+        ],
+        "tr": "İhtiyacım olan şey iyi bir gece uykusu.",
+        "why": "What … is"
+       },
+       {
+        "s": "It ___ in 2010 that I moved to London.",
+        "a": "was",
+        "o": [
+         "is",
+         "were",
+         "has"
+        ],
+        "tr": "Londra'ya taşındığım yıl 2010'du.",
+        "why": "geçmiş → It was"
+       },
+       {
+        "s": "What she wants ___ a new job.",
+        "a": "is",
+        "o": [
+         "are",
+         "be",
+         "being"
+        ],
+        "tr": "İstediği şey yeni bir iş.",
+        "why": "What … is"
+       },
+       {
+        "s": "It's not the money ___ matters.",
+        "a": "that",
+        "o": [
+         "what",
+         "whose",
+         "where"
+        ],
+        "tr": "Önemli olan para değil.",
+        "why": "It's … that"
+       },
+       {
+        "s": "What ___ me was his rudeness.",
+        "a": "annoyed",
+        "o": [
+         "annoy",
+         "annoying",
+         "annoyance"
+        ],
+        "tr": "Beni sinirlendiren şey kabalığıydı.",
+        "why": "What + fiil (geçmiş)"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "after": "u39",
+   "unit": {
+    "id": "t1",
+    "level": "orta",
+    "kind": "text",
+    "title": "Kısa okumalar",
+    "subtitle": "Gündelik hayattan kolay metinler · 3 ders",
+    "lessons": [
+     {
+      "id": "t1l1",
+      "kind": "text",
+      "title": "My Day",
+      "subtitle": "My name is Tom. I get …",
+      "intro": "Tom sıradan bir gününü anlatıyor.",
+      "text": {
+       "t": "My name is Tom. I get up at seven, have a shower and drink a cup of coffee. At eight I take the bus to work. I work in a bank in the city centre. I have lunch at one with my colleagues. In the evening I walk my dog in the park and then I cook dinner. Before I go to sleep, I read a book. I go to bed at eleven.",
+       "tr": "Benim adım Tom. Yedide kalkar, duş alır ve bir fincan kahve içerim. Sekizde işe gitmek için otobüse binerim. Şehir merkezindeki bir bankada çalışıyorum. Saat birde iş arkadaşlarımla öğle yemeği yerim. Akşamları köpeğimi parkta gezdiririm, sonra akşam yemeği pişiririm. Uyumadan önce kitap okurum. On birde yatarım.",
+       "gloss": [
+        [
+         "get up",
+         "kalkmak"
+        ],
+        [
+         "have a shower",
+         "duş almak"
+        ],
+        [
+         "colleagues",
+         "iş arkadaşları"
+        ],
+        [
+         "walk my dog",
+         "köpeğimi gezdirmek"
+        ],
+        [
+         "then",
+         "sonra"
+        ],
+        [
+         "before",
+         "-meden önce"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Where does Tom work?",
+         "a": "In a bank",
+         "o": [
+          "In a school",
+          "In a shop",
+          "In a hospital"
+         ]
+        },
+        {
+         "q": "How does he go to work?",
+         "a": "By bus",
+         "o": [
+          "By car",
+          "By train",
+          "On foot"
+         ]
+        },
+        {
+         "q": "What does he do before he goes to sleep?",
+         "a": "He reads a book",
+         "o": [
+          "He watches TV",
+          "He walks his dog",
+          "He drinks coffee"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "t1l2",
+      "kind": "text",
+      "title": "My Family",
+      "subtitle": "Hi, I'm Lucy and I'm twenty-five. …",
+      "intro": "Lucy ailesini tanıtıyor.",
+      "text": {
+       "t": "Hi, I'm Lucy and I'm twenty-five. I have a big family. My father is a doctor and my mother is a teacher. I have an older brother and a younger sister. My brother lives in Bristol; he's an engineer. My sister is still at school. We also have a cat called Smudge. On Sundays we all have lunch together at my grandmother's house.",
+       "tr": "Selam, ben Lucy, yirmi beş yaşındayım. Kalabalık bir ailem var. Babam doktor, annem öğretmen. Bir ağabeyim ve bir küçük kız kardeşim var. Ağabeyim Bristol'da yaşıyor, mühendis. Kız kardeşim hâlâ okula gidiyor. Bir de Smudge adında bir kedimiz var. Pazar günleri hep birlikte büyükannemin evinde öğle yemeği yeriz.",
+       "gloss": [
+        [
+         "older brother",
+         "ağabey"
+        ],
+        [
+         "younger sister",
+         "küçük kız kardeş"
+        ],
+        [
+         "still",
+         "hâlâ"
+        ],
+        [
+         "called",
+         "adında"
+        ],
+        [
+         "together",
+         "birlikte"
+        ],
+        [
+         "grandmother's house",
+         "büyükannenin evi"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "What does Lucy's mother do?",
+         "a": "She's a teacher",
+         "o": [
+          "She's a doctor",
+          "She's an engineer",
+          "She's a nurse"
+         ]
+        },
+        {
+         "q": "Where does Lucy's brother live?",
+         "a": "In Bristol",
+         "o": [
+          "In London",
+          "In Leeds",
+          "At his grandmother's house"
+         ]
+        },
+        {
+         "q": "What does the family do on Sundays?",
+         "a": "They have lunch together",
+         "o": [
+          "They go to the cinema",
+          "They work",
+          "They play football"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "t1l3",
+      "kind": "text",
+      "title": "A Weekend in the Country",
+      "subtitle": "On Friday evening we drove to …",
+      "intro": "Bir ailenin kırsaldaki hafta sonu.",
+      "text": {
+       "t": "On Friday evening we drove to the country. My grandparents' house is in a small village near a river. On Saturday morning my father worked in the garden and I picked strawberries with my mother. In the afternoon it was hot, so we swam in the river. In the evening my grandfather had a barbecue and we stayed outside until late. On Sunday we went back to the city, tired but happy.",
+       "tr": "Cuma akşamı arabayla kırsala gittik. Büyükannemle büyükbabamın evi bir nehrin yakınındaki küçük bir köyde. Cumartesi sabahı babam bahçede çalıştı, ben de annemle çilek topladım. Öğleden sonra hava sıcaktı, bu yüzden nehirde yüzdük. Akşam dedem mangal yaptı ve geç saate kadar dışarıda kaldık. Pazar günü şehre yorgun ama mutlu döndük.",
+       "gloss": [
+        [
+         "the country",
+         "kırsal"
+        ],
+        [
+         "drove",
+         "arabayla gittik (drive)"
+        ],
+        [
+         "picked",
+         "topladım (pick)"
+        ],
+        [
+         "swam",
+         "yüzdük (swim)"
+        ],
+        [
+         "until late",
+         "geç saate kadar"
+        ],
+        [
+         "went back",
+         "döndük"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Where is the grandparents' house?",
+         "a": "In a village near a river",
+         "o": [
+          "In the city",
+          "By the sea",
+          "In the mountains"
+         ]
+        },
+        {
+         "q": "What did the narrator and her mother do on Saturday morning?",
+         "a": "They picked strawberries",
+         "o": [
+          "They swam",
+          "They had a barbecue",
+          "They slept"
+         ]
+        },
+        {
+         "q": "How did they feel when they went back?",
+         "a": "Tired but happy",
+         "o": [
+          "Sad",
+          "Ill",
+          "Angry"
+         ]
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u41",
+   "unit": {
+    "id": "d2",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük durumlar",
+    "subtitle": "Eczane, otel, randevu, pazar · 4 ders",
+    "lessons": [
+     {
+      "id": "d2l1",
+      "kind": "dialog",
+      "title": "At the Pharmacy",
+      "subtitle": "Hello. Have you got anything for a headache?",
+      "intro": "Jack eczaneden ilaç alıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Hello. Have you got anything for a headache?",
+         "tr": "Merhaba. Baş ağrısına bir şeyiniz var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Yes, these tablets. Take one after a meal.",
+         "tr": "Evet, bu tabletler. Yemekten sonra bir tane alın."
+        },
+        {
+         "p": 1,
+         "t": "And do you have something for a cough?",
+         "tr": "Öksürük için de bir şeyiniz var mı?"
+        },
+        {
+         "p": 0,
+         "t": "There's this syrup. You don't need a prescription.",
+         "tr": "Bu şurup var. Reçeteye gerek yok."
+        },
+        {
+         "p": 1,
+         "t": "Great, I'll take both.",
+         "tr": "Harika, ikisini de alıyorum."
+        },
+        {
+         "p": 0,
+         "t": "That's twelve pounds fifty, please.",
+         "tr": "On iki pound elli lütfen."
+        },
+        {
+         "p": 1,
+         "t": "Here you are. Thank you.",
+         "tr": "Buyurun. Teşekkürler."
+        },
+        {
+         "p": 0,
+         "t": "You're welcome. Get well soon!",
+         "tr": "Rica ederim. Geçmiş olsun!"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l2",
+      "kind": "dialog",
+      "title": "At the Hotel",
+      "subtitle": "Good evening. How can I help you?",
+      "intro": "Jack otele giriş yapıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Good evening. How can I help you?",
+         "tr": "İyi akşamlar. Size nasıl yardımcı olabilirim?"
+        },
+        {
+         "p": 1,
+         "t": "Good evening. I have a reservation in the name of Jack Taylor.",
+         "tr": "İyi akşamlar. Jack Taylor adına rezervasyonum var."
+        },
+        {
+         "p": 0,
+         "t": "Yes, a double room for three nights. Could I see your passport?",
+         "tr": "Evet, üç gecelik çift kişilik oda. Pasaportunuzu görebilir miyim?"
+        },
+        {
+         "p": 1,
+         "t": "Here you are. Is breakfast included?",
+         "tr": "Buyurun. Kahvaltı dahil mi?"
+        },
+        {
+         "p": 0,
+         "t": "Yes, it's served from seven to ten in the restaurant.",
+         "tr": "Evet, yediden ona kadar restoranda servis ediliyor."
+        },
+        {
+         "p": 1,
+         "t": "What's the wi-fi password?",
+         "tr": "Kablosuz ağ şifresi ne?"
+        },
+        {
+         "p": 0,
+         "t": "It's on your key card. Your room is on the fourth floor.",
+         "tr": "Anahtar kartınızın üstünde. Odanız dördüncü katta."
+        },
+        {
+         "p": 1,
+         "t": "Thank you very much.",
+         "tr": "Çok teşekkür ederim."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l3",
+      "kind": "dialog",
+      "title": "Making an Appointment",
+      "subtitle": "Good morning, Riverside Surgery.",
+      "intro": "Jack doktordan randevu alıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Good morning, Riverside Surgery.",
+         "tr": "Günaydın, Riverside Sağlık Merkezi."
+        },
+        {
+         "p": 1,
+         "t": "Hello, I'd like to make an appointment with Dr Patel.",
+         "tr": "Merhaba, Dr. Patel'den randevu almak istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Of course. Is Thursday at ten OK?",
+         "tr": "Tabii. Perşembe saat on uygun mu?"
+        },
+        {
+         "p": 1,
+         "t": "Sorry, I work on Thursday morning. Is there anything in the afternoon?",
+         "tr": "Kusura bakmayın, perşembe sabahı çalışıyorum. Öğleden sonra bir şey var mı?"
+        },
+        {
+         "p": 0,
+         "t": "We have Thursday at four thirty.",
+         "tr": "Perşembe dört buçuk var."
+        },
+        {
+         "p": 1,
+         "t": "Perfect, that suits me.",
+         "tr": "Mükemmel, bana uyar."
+        },
+        {
+         "p": 0,
+         "t": "Can I have your name and date of birth?",
+         "tr": "Adınızı ve doğum tarihinizi alabilir miyim?"
+        },
+        {
+         "p": 1,
+         "t": "Jack Taylor, the twelfth of March, nineteen ninety.",
+         "tr": "Jack Taylor, on iki mart bin dokuz yüz doksan."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d2l4",
+      "kind": "dialog",
+      "title": "At the Market",
+      "subtitle": "Hello! These strawberries are very fresh today.",
+      "intro": "Jack pazarda meyve alıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Hello! These strawberries are very fresh today.",
+         "tr": "Merhaba! Bu çilekler bugün çok taze."
+        },
+        {
+         "p": 1,
+         "t": "How much are they?",
+         "tr": "Ne kadar?"
+        },
+        {
+         "p": 0,
+         "t": "Three pounds a box.",
+         "tr": "Kutusu üç pound."
+        },
+        {
+         "p": 1,
+         "t": "I'll take two boxes. And a kilo of apples, please.",
+         "tr": "İki kutu alıyorum. Bir de bir kilo elma lütfen."
+        },
+        {
+         "p": 0,
+         "t": "Red or green?",
+         "tr": "Kırmızı mı yeşil mi?"
+        },
+        {
+         "p": 1,
+         "t": "Green, please. Are these tomatoes local?",
+         "tr": "Yeşil lütfen. Bu domatesler yerli mi?"
+        },
+        {
+         "p": 0,
+         "t": "Yes, they're from a farm near here.",
+         "tr": "Evet, buraya yakın bir çiftlikten."
+        },
+        {
+         "p": 1,
+         "t": "Then I'll take half a kilo too.",
+         "tr": "O zaman yarım kilo da alayım."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u43",
+   "unit": {
+    "id": "d3",
+    "level": "orta",
+    "kind": "dialog",
+    "title": "Günlük durumlar 2",
+    "subtitle": "Taksi, postane, komşu, banka · 4 ders",
+    "lessons": [
+     {
+      "id": "d3l1",
+      "kind": "dialog",
+      "title": "In a Taxi",
+      "subtitle": "Where to?",
+      "intro": "Jack taksiyle havalimanına gidiyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Where to?",
+         "tr": "Nereye?"
+        },
+        {
+         "p": 1,
+         "t": "To the airport, please. Terminal two.",
+         "tr": "Havalimanına lütfen. İkinci terminal."
+        },
+        {
+         "p": 0,
+         "t": "No problem. Are you in a hurry?",
+         "tr": "Sorun değil. Aceleniz var mı?"
+        },
+        {
+         "p": 1,
+         "t": "A little. My flight is at six.",
+         "tr": "Biraz. Uçuşum altıda."
+        },
+        {
+         "p": 0,
+         "t": "Don't worry, the traffic isn't too bad today.",
+         "tr": "Merak etmeyin, bugün trafik çok kötü değil."
+        },
+        {
+         "p": 1,
+         "t": "How long will it take?",
+         "tr": "Ne kadar sürer?"
+        },
+        {
+         "p": 0,
+         "t": "About thirty minutes.",
+         "tr": "Yaklaşık otuz dakika."
+        },
+        {
+         "p": 1,
+         "t": "Great. Can I pay by card?",
+         "tr": "Harika. Kartla ödeyebilir miyim?"
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l2",
+      "kind": "dialog",
+      "title": "At the Post Office",
+      "subtitle": "Hello, I'd like to send this parcel to Turkey.",
+      "intro": "Jack Türkiye'ye paket gönderiyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Hello, I'd like to send this parcel to Turkey.",
+         "tr": "Merhaba, bu paketi Türkiye'ye göndermek istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Put it on the scale, please. It's two kilos.",
+         "tr": "Lütfen teraziye koyun. İki kilo."
+        },
+        {
+         "p": 1,
+         "t": "How long does it take?",
+         "tr": "Ne kadar sürer?"
+        },
+        {
+         "p": 0,
+         "t": "About a week by standard post, or three days by express.",
+         "tr": "Normal postayla yaklaşık bir hafta, ekspresle üç gün."
+        },
+        {
+         "p": 1,
+         "t": "How much is express?",
+         "tr": "Ekspres ne kadar?"
+        },
+        {
+         "p": 0,
+         "t": "Twenty-four pounds.",
+         "tr": "Yirmi dört pound."
+        },
+        {
+         "p": 1,
+         "t": "That's fine, express please. And a stamp for this postcard.",
+         "tr": "Tamam, ekspres lütfen. Bir de bu kartpostal için bir pul."
+        },
+        {
+         "p": 0,
+         "t": "Here you are. Please fill in this form.",
+         "tr": "Buyurun. Lütfen bu formu doldurun."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l3",
+      "kind": "dialog",
+      "title": "A New Neighbour",
+      "subtitle": "Hi! I've just moved in next door. I'm Emma.",
+      "intro": "Jack yeni komşusu Emma ile tanışıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Hi! I've just moved in next door. I'm Emma.",
+         "tr": "Selam! Yan eve yeni taşındım. Ben Emma."
+        },
+        {
+         "p": 1,
+         "t": "Oh, hello! I'm Jack. Welcome to the building!",
+         "tr": "Ah, merhaba! Ben Jack. Binaya hoş geldin!"
+        },
+        {
+         "p": 0,
+         "t": "Thanks! Do you know where the nearest supermarket is?",
+         "tr": "Teşekkürler! En yakın süpermarketin nerede olduğunu biliyor musun?"
+        },
+        {
+         "p": 1,
+         "t": "Yes, it's just round the corner, next to the bakery.",
+         "tr": "Evet, hemen köşede, fırının yanında."
+        },
+        {
+         "p": 0,
+         "t": "Great. And what day do they collect the rubbish?",
+         "tr": "Harika. Çöpleri hangi gün topluyorlar?"
+        },
+        {
+         "p": 1,
+         "t": "On Tuesday mornings. Put the bins out on Monday night.",
+         "tr": "Salı sabahları. Çöp kutularını pazartesi gecesi dışarı çıkar."
+        },
+        {
+         "p": 0,
+         "t": "Thanks for your help!",
+         "tr": "Yardımın için teşekkürler!"
+        },
+        {
+         "p": 1,
+         "t": "No problem. If you need anything, just knock.",
+         "tr": "Sorun değil. Bir şeye ihtiyacın olursa kapıyı çal yeter."
+        }
+       ]
+      }
+     },
+     {
+      "id": "d3l4",
+      "kind": "dialog",
+      "title": "At the Bank",
+      "subtitle": "Good morning. I'd like to open a bank account.",
+      "intro": "Jack banka hesabı açıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Good morning. I'd like to open a bank account.",
+         "tr": "Günaydın. Banka hesabı açmak istiyorum."
+        },
+        {
+         "p": 0,
+         "t": "Certainly. Do you have your passport and proof of address?",
+         "tr": "Tabii. Pasaportunuz ve adres belgeniz yanınızda mı?"
+        },
+        {
+         "p": 1,
+         "t": "Yes, here's my passport and a letter from my landlord.",
+         "tr": "Evet, işte pasaportum ve ev sahibimden bir mektup."
+        },
+        {
+         "p": 0,
+         "t": "Thank you. Would you like a debit card?",
+         "tr": "Teşekkürler. Banka kartı ister misiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Yes, please. Can I use it abroad?",
+         "tr": "Evet, lütfen. Yurt dışında kullanabilir miyim?"
+        },
+        {
+         "p": 0,
+         "t": "Yes, but there's a small fee for each payment.",
+         "tr": "Evet ama her ödeme için küçük bir ücret var."
+        },
+        {
+         "p": 1,
+         "t": "OK. When will I get the card?",
+         "tr": "Tamam. Kartı ne zaman alacağım?"
+        },
+        {
+         "p": 0,
+         "t": "In about five working days, by post.",
+         "tr": "Yaklaşık beş iş günü içinde, postayla."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u57",
+   "unit": {
+    "id": "y8",
+    "level": "yuksek",
+    "kind": "dialog",
+    "title": "Konuşma pratiği",
+    "subtitle": "Şikâyet, kira, tartışma, plan · 4 ders",
+    "lessons": [
+     {
+      "id": "y8l1",
+      "kind": "dialog",
+      "title": "Making a Complaint",
+      "subtitle": "Excuse me, I'm afraid there's a problem with my room.",
+      "intro": "Jack otelde şikâyette bulunuyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 1,
+         "t": "Excuse me, I'm afraid there's a problem with my room.",
+         "tr": "Affedersiniz, korkarım odamla ilgili bir sorun var."
+        },
+        {
+         "p": 0,
+         "t": "I'm sorry to hear that. What seems to be the matter?",
+         "tr": "Bunu duyduğuma üzüldüm. Sorun nedir?"
+        },
+        {
+         "p": 1,
+         "t": "The air conditioning doesn't work and the room is boiling.",
+         "tr": "Klima çalışmıyor ve oda cehennem gibi sıcak."
+        },
+        {
+         "p": 0,
+         "t": "I do apologise. I'll send someone up straight away.",
+         "tr": "Çok özür dilerim. Hemen birini yukarı gönderiyorum."
+        },
+        {
+         "p": 1,
+         "t": "I'd appreciate that. It's also quite noisy because of the building work.",
+         "tr": "Sevinirim. Ayrıca inşaat yüzünden oldukça gürültülü."
+        },
+        {
+         "p": 0,
+         "t": "In that case, would you like to move to a quieter room?",
+         "tr": "O zaman daha sessiz bir odaya geçmek ister misiniz?"
+        },
+        {
+         "p": 1,
+         "t": "Yes, that would be much better, thank you.",
+         "tr": "Evet, bu çok daha iyi olur, teşekkürler."
+        },
+        {
+         "p": 0,
+         "t": "Of course. And breakfast tomorrow is on us, as an apology.",
+         "tr": "Tabii. Özür olarak yarınki kahvaltı da bizden."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l2",
+      "kind": "dialog",
+      "title": "Renting a Flat",
+      "subtitle": "So, this is the living room. As you can see, it gets a lot of light.",
+      "intro": "Jack bir daireyi kiralamak için ev sahibiyle konuşuyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "So, this is the living room. As you can see, it gets a lot of light.",
+         "tr": "Evet, burası oturma odası. Gördüğünüz gibi çok ışık alıyor."
+        },
+        {
+         "p": 1,
+         "t": "It's lovely. How much is the rent per month?",
+         "tr": "Çok güzel. Aylık kira ne kadar?"
+        },
+        {
+         "p": 0,
+         "t": "Nine hundred pounds, plus bills.",
+         "tr": "Dokuz yüz pound, faturalar hariç."
+        },
+        {
+         "p": 1,
+         "t": "Is there a deposit?",
+         "tr": "Depozito var mı?"
+        },
+        {
+         "p": 0,
+         "t": "Yes, one month's rent. And the minimum contract is a year.",
+         "tr": "Evet, bir aylık kira. En kısa sözleşme bir yıl."
+        },
+        {
+         "p": 1,
+         "t": "Are pets allowed? I have a small cat.",
+         "tr": "Evcil hayvana izin var mı? Küçük bir kedim var."
+        },
+        {
+         "p": 0,
+         "t": "A cat should be fine, as long as it doesn't damage anything.",
+         "tr": "Bir şeye zarar vermediği sürece kedi sorun olmaz."
+        },
+        {
+         "p": 1,
+         "t": "Great. I'd like to think about it and call you tomorrow, if that's OK.",
+         "tr": "Harika. Sakıncası yoksa biraz düşünüp yarın sizi aramak istiyorum."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l3",
+      "kind": "dialog",
+      "title": "A Discussion",
+      "subtitle": "Do you think working from home is better than working in an office?",
+      "intro": "Emma ve Jack uzaktan çalışmayı tartışıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "Do you think working from home is better than working in an office?",
+         "tr": "Sence evden çalışmak ofiste çalışmaktan daha mı iyi?"
+        },
+        {
+         "p": 1,
+         "t": "On the whole, yes. You save time and money on travel.",
+         "tr": "Genel olarak evet. Yolda zamandan ve paradan tasarruf edersin."
+        },
+        {
+         "p": 0,
+         "t": "That's true, but don't you feel lonely?",
+         "tr": "Doğru ama yalnız hissetmiyor musun?"
+        },
+        {
+         "p": 1,
+         "t": "Sometimes. Having said that, I can concentrate much better at home.",
+         "tr": "Bazen. Yine de evde çok daha iyi odaklanabiliyorum."
+        },
+        {
+         "p": 0,
+         "t": "I see your point, but I think meeting colleagues in person is important.",
+         "tr": "Ne demek istediğini anlıyorum ama bence iş arkadaşlarıyla yüz yüze görüşmek önemli."
+        },
+        {
+         "p": 1,
+         "t": "I agree to some extent. Maybe two days in the office is the best solution.",
+         "tr": "Bir yere kadar katılıyorum. Belki ofiste iki gün en iyi çözüm."
+        },
+        {
+         "p": 0,
+         "t": "That sounds like a reasonable compromise.",
+         "tr": "Kulağa makul bir uzlaşma gibi geliyor."
+        },
+        {
+         "p": 1,
+         "t": "Exactly. It depends on the person and the job, really.",
+         "tr": "Aynen. Aslında kişiye ve işe bağlı."
+        }
+       ]
+      }
+     },
+     {
+      "id": "y8l4",
+      "kind": "dialog",
+      "title": "Planning a Trip",
+      "subtitle": "How about going to Edinburgh for the long weekend?",
+      "intro": "Emma ve Jack bir hafta sonu gezisi planlıyor.",
+      "dialog": {
+       "who": [
+        "Emma",
+        "Jack"
+       ],
+       "lines": [
+        {
+         "p": 0,
+         "t": "How about going to Edinburgh for the long weekend?",
+         "tr": "Uzun hafta sonu Edinburgh'a gitmeye ne dersin?"
+        },
+        {
+         "p": 1,
+         "t": "Sounds great! Shall we go by train or fly?",
+         "tr": "Harika! Trenle mi gidelim, uçakla mı?"
+        },
+        {
+         "p": 0,
+         "t": "The train takes longer, but it's more relaxing and the views are amazing.",
+         "tr": "Tren daha uzun sürüyor ama daha rahat ve manzara muhteşem."
+        },
+        {
+         "p": 1,
+         "t": "Fair enough. Let's book the tickets tonight before they get more expensive.",
+         "tr": "Haklısın. Daha pahalı olmadan biletleri bu akşam alalım."
+        },
+        {
+         "p": 0,
+         "t": "Where shall we stay? A hotel or a flat?",
+         "tr": "Nerede kalalım? Otel mi daire mi?"
+        },
+        {
+         "p": 1,
+         "t": "A flat in the old town would be nice. We could cook breakfast.",
+         "tr": "Eski şehirde bir daire güzel olurdu. Kahvaltıyı kendimiz hazırlayabiliriz."
+        },
+        {
+         "p": 0,
+         "t": "Good idea. I'd love to visit the castle and climb Arthur's Seat.",
+         "tr": "İyi fikir. Kaleyi gezip Arthur's Seat'e tırmanmayı çok isterim."
+        },
+        {
+         "p": 1,
+         "t": "Me too. I'll check the weather forecast and pack my walking boots.",
+         "tr": "Ben de. Hava tahminine bakıp yürüyüş botlarımı hazırlarım."
+        }
+       ]
+      }
+     }
+    ]
+   }
+  },
+  {
+   "after": "u60",
+   "unit": {
+    "id": "y9",
+    "level": "yuksek",
+    "kind": "text",
+    "title": "Okuma: Britanya'yı tanı",
+    "subtitle": "Shakespeare, Stonehenge, Wimbledon · 3 ders",
+    "lessons": [
+     {
+      "id": "y9l1",
+      "kind": "text",
+      "title": "William Shakespeare",
+      "subtitle": "William Shakespeare was born in Stratford-upon-Avon …",
+      "intro": "Dünyanın en ünlü oyun yazarı.",
+      "text": {
+       "t": "William Shakespeare was born in Stratford-upon-Avon in 1564. As a young man he moved to London, where he worked as an actor and began writing plays. Over the next twenty years he wrote around thirty-seven plays, including Romeo and Juliet, Hamlet and Macbeth, as well as more than a hundred and fifty poems. Many expressions that we use today, such as \"break the ice\", come from his works. His plays have been translated into almost every language and are still performed all over the world.",
+       "tr": "William Shakespeare 1564'te Stratford-upon-Avon'da doğdu. Genç yaşta Londra'ya taşındı; orada oyuncu olarak çalıştı ve oyun yazmaya başladı. Sonraki yirmi yıl içinde Romeo ve Juliet, Hamlet ve Macbeth dahil yaklaşık otuz yedi oyun ve yüz elliden fazla şiir yazdı. Bugün kullandığımız \"buzları kırmak\" gibi pek çok ifade onun eserlerinden gelir. Oyunları neredeyse her dile çevrildi ve hâlâ dünyanın her yerinde sahneleniyor.",
+       "gloss": [
+        [
+         "plays",
+         "oyunlar (tiyatro)"
+        ],
+        [
+         "including",
+         "dahil olmak üzere"
+        ],
+        [
+         "as well as",
+         "-in yanı sıra"
+        ],
+        [
+         "expressions",
+         "ifadeler"
+        ],
+        [
+         "works",
+         "eserler"
+        ],
+        [
+         "translated",
+         "çevrilmiş"
+        ],
+        [
+         "performed",
+         "sahnelenmiş"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Where was Shakespeare born?",
+         "a": "In Stratford-upon-Avon",
+         "o": [
+          "In London",
+          "In Oxford",
+          "In Edinburgh"
+         ]
+        },
+        {
+         "q": "What did he do in London?",
+         "a": "He worked as an actor and wrote plays",
+         "o": [
+          "He was a teacher",
+          "He studied law",
+          "He was a soldier"
+         ]
+        },
+        {
+         "q": "Where does \"break the ice\" come from?",
+         "a": "From Shakespeare's works",
+         "o": [
+          "From a newspaper",
+          "From a song",
+          "From a film"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y9l2",
+      "kind": "text",
+      "title": "Stonehenge",
+      "subtitle": "Stonehenge is a circle of huge …",
+      "intro": "Gizemli taş anıt.",
+      "text": {
+       "t": "Stonehenge is a circle of huge stones on Salisbury Plain in the south of England. It was built in several stages, beginning about five thousand years ago. Some of the stones weigh more than twenty tonnes, and the smaller ones were brought from Wales, almost two hundred and fifty kilometres away. Nobody knows for sure why it was built. Some experts believe it was a temple, while others think it was used as a calendar, because the stones line up with the sun on the longest and shortest days of the year. Today it attracts more than a million visitors every year.",
+       "tr": "Stonehenge, İngiltere'nin güneyindeki Salisbury Ovası'nda devasa taşlardan oluşan bir çemberdir. Yaklaşık beş bin yıl önce başlayarak birkaç aşamada inşa edildi. Taşların bazıları yirmi tondan ağırdır; küçükleri ise neredeyse iki yüz elli kilometre uzaklıktaki Galler'den getirildi. Neden yapıldığını kimse kesin olarak bilmiyor. Bazı uzmanlar bir tapınak olduğuna inanırken, bazıları taşlar yılın en uzun ve en kısa günlerinde güneşle hizalandığı için takvim olarak kullanıldığını düşünüyor. Bugün her yıl bir milyondan fazla ziyaretçi çekiyor.",
+       "gloss": [
+        [
+         "huge",
+         "devasa"
+        ],
+        [
+         "stages",
+         "aşamalar"
+        ],
+        [
+         "weigh",
+         "ağırlığında olmak"
+        ],
+        [
+         "for sure",
+         "kesin olarak"
+        ],
+        [
+         "temple",
+         "tapınak"
+        ],
+        [
+         "line up with",
+         "hizalanmak"
+        ],
+        [
+         "attracts",
+         "çekiyor"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "Where are the smaller stones from?",
+         "a": "From Wales",
+         "o": [
+          "From Scotland",
+          "From France",
+          "From London"
+         ]
+        },
+        {
+         "q": "Why do some people think it was a calendar?",
+         "a": "The stones line up with the sun",
+         "o": [
+          "It has twelve stones",
+          "It was built in a year",
+          "It has numbers on it"
+         ]
+        },
+        {
+         "q": "How many people visit it every year?",
+         "a": "More than a million",
+         "o": [
+          "About a thousand",
+          "Five thousand",
+          "Twenty thousand"
+         ]
+        }
+       ]
+      }
+     },
+     {
+      "id": "y9l3",
+      "kind": "text",
+      "title": "Wimbledon",
+      "subtitle": "Wimbledon is the oldest tennis tournament …",
+      "intro": "Dünyanın en eski tenis turnuvası.",
+      "text": {
+       "t": "Wimbledon is the oldest tennis tournament in the world. It was first held in 1877 in a district of south-west London and takes place every summer for two weeks. Unlike most other big tournaments, it is played on grass. The tournament is famous for its traditions: players must wear almost completely white clothes, and visitors traditionally eat strawberries and cream. Every year, around two hundred thousand portions are sold. Many people queue all night to buy tickets on the day of the match.",
+       "tr": "Wimbledon dünyanın en eski tenis turnuvasıdır. İlk kez 1877'de Londra'nın güneybatısındaki bir semtte düzenlendi ve her yaz iki hafta sürer. Diğer büyük turnuvaların çoğunun aksine çim üzerinde oynanır. Turnuva gelenekleriyle ünlüdür: oyuncular neredeyse tamamen beyaz giyinmek zorundadır ve izleyiciler geleneksel olarak kremalı çilek yer. Her yıl yaklaşık iki yüz bin porsiyon satılır. Pek çok kişi maç günü bilet almak için bütün gece kuyrukta bekler.",
+       "gloss": [
+        [
+         "tournament",
+         "turnuva"
+        ],
+        [
+         "held",
+         "düzenlendi"
+        ],
+        [
+         "district",
+         "semt"
+        ],
+        [
+         "takes place",
+         "gerçekleşir"
+        ],
+        [
+         "unlike",
+         "-in aksine"
+        ],
+        [
+         "grass",
+         "çim"
+        ],
+        [
+         "queue",
+         "kuyrukta beklemek"
+        ]
+       ],
+       "qs": [
+        {
+         "q": "When was Wimbledon first held?",
+         "a": "In 1877",
+         "o": [
+          "In 1977",
+          "In 1900",
+          "In 1066"
+         ]
+        },
+        {
+         "q": "What surface is it played on?",
+         "a": "Grass",
+         "o": [
+          "Clay",
+          "Sand",
+          "Concrete"
+         ]
+        },
+        {
+         "q": "What do visitors traditionally eat?",
+         "a": "Strawberries and cream",
+         "o": [
+          "Fish and chips",
+          "Ice cream",
+          "Sandwiches"
+         ]
         }
        ]
       }
